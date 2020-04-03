@@ -1,0 +1,31 @@
+---
+name: Get data
+
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '00 05 * * *'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+      - name: Set up Python 3.7
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.7
+      - name: install python requirements
+        run: make venv
+      - name: get data
+        run: make up
+        env:
+          TOKEN: ${{ secrets.GOOGLE_ANALYTICS_TOKEN }}
+      - name: deploy to github pages
+        if: success()
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          publish_branch: gh-pages
+          publish_dir: data
