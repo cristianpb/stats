@@ -127,15 +127,12 @@ def main():
     df = get_df(dimensions_1, metrics)
     df['date'] = df['dateHour'].str[0:8]
     df['hour'] = pd.to_numeric(df['dateHour'].str[8:10], downcast='integer')
-    df.drop(['dateHour'], axis=1, inplace=True)
     df_country = pd.read_csv('country.csv', names=['name', 'countryIsoCode'],
             skiprows=1)
-    df_m = df.merge(df_country, left_on='country', right_on='name')
+    df = df.merge(df_country, left_on='country', right_on='name')
+    df.drop(['dateHour', 'name'], axis=1, inplace=True)
     for col in map(lambda x: x[3:], metrics):
         df[col] = pd.to_numeric(df[col], downcast='integer')
-    df = df[['date','hour','userType','source','pagePath',
-        'deviceCategory','country','city','users','sessions',
-        'sessionDuration','timeOnPage','pageLoadTime','bounces']]
     df.to_json('data/google-analytics.json', orient='records')
     df.to_csv('data/google-analytics.csv', index=False, header=True)
     print("Success, total size {} rows and {} columns".format(
