@@ -5,10 +5,6 @@ on:
   release:
     types: # This configuration does not affect the page_build event above
       - published
-  push:
-    branches:
-      - master
-      - new
 
 jobs:
   publish:
