@@ -12,12 +12,13 @@ jobs:
       - name: archive master branch
         run: |
           mkdir code
-          git archive master | gzip > code/archive.tar.gz
+          git archive HEAD -o code/archive.tar
+          tar -f code/archive.tar --delete .github
       - name: deploy to github pages
         if: success()
         uses: peaceiris/actions-gh-pages@v3
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY_ARCHIVE }}
           external_repository: cristianpb/test-archive
-          publish_branch: master
+          publish_branch: archive
           publish_dir: code
