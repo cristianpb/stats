@@ -1,26 +1,28 @@
 ---
-name: Publish code archive
+name: Restablish code archive
 
-on: [push]
+on:
+  push:
+    branches:
+      - archive
 
 jobs:
-  publish:
+  restore:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v1
       - name: archive master branch
         run: |
-          git archive HEAD -o archive.tar
-          tar -f archive.tar --delete .github
           mkdir code
-          tar -xvf archive.tar -C code
-      - run: ls *
+          cd code
+          tar -xvf archive.tar
+          rm archive.tar
+          cd ..
       - name: deploy to github pages
         if: success()
         uses: peaceiris/actions-gh-pages@v3
         with:
-          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY_ARCHIVE }}
-          external_repository: cristianpb/test-archive
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_branch: code
           publish_dir: code
