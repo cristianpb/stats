@@ -5,6 +5,10 @@ on:
   release:
     types: # This configuration does not affect the page_build event above
       - published
+  push:
+    branches:
+      - master
+      - new
 
 jobs:
   publish:
@@ -27,3 +31,5 @@ jobs:
           external_repository: cristianpb/test-archive
           publish_branch: code
           publish_dir: code
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
