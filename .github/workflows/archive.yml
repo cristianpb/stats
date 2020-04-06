@@ -1,0 +1,23 @@
+---
+name: Publish code archive
+
+on: [push]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+      - name: archive master branch
+        run: |
+          mkdir code
+          git archive master | gzip > code/archive.tar.gz
+      - name: deploy to github pages
+        if: success()
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY_ARCHIVE }}
+          external_repository: cristianpb/test-archive
+          publish_branch: master
+          publish_dir: code
