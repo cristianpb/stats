@@ -22,6 +22,9 @@ jobs:
           tar -f archive.tar --delete .github
           mkdir code
           tar -xvf archive.tar -C code
+      - run: echo $BRANCH
+        env:
+          BRANCH: ${{ steps.extract_branch.outputs.branch }}
       - name: deploy to github pages
         if: success() && steps.extract_branch.outputs.branch == 'master'
         uses: peaceiris/actions-gh-pages@v3
