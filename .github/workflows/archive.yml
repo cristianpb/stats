@@ -12,15 +12,18 @@ jobs:
 
     steps:
       - uses: actions/checkout@v1
+      - name: Extract branch name
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
       - name: archive master branch
         run: |
           git archive HEAD -o archive.tar
           tar -f archive.tar --delete .github
           mkdir code
           tar -xvf archive.tar -C code
-      - run: ls *
       - name: deploy to github pages
-        if: success()
+        if: success() && steps.extract_branch.outputs.branch == 'master'
         uses: peaceiris/actions-gh-pages@v3
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY_ARCHIVE }}
