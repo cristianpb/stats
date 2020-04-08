@@ -1,7 +1,10 @@
 ---
 name: Get data from github traffic api
 
-on: [push]
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '00 5 * * *'
 
 jobs:
   publish:
