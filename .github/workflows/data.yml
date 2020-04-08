@@ -1,0 +1,33 @@
+---
+name: Get data from github traffic api
+
+on: [push]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '10.x'
+      - name: Extract branch name
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
+      - name: install node requirements
+        run: npm ci
+      - name: get data
+        run: |
+          mkdir -p data
+          node .
+        env:
+          TRAFFIC_API_GITHUB_TOKEN: ${{ secrets.TRAFFIC_API_GITHUB_TOKEN }}
+      - name: deploy to github pages
+        if: success() && steps.extract_branch.outputs.branch == 'master'
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          publish_branch: gh-pages
+          publish_dir: data
