@@ -1,7 +1,6 @@
 date,repository,clones,views
 2020-04-01,alchemy-machine,1,0
 2020-04-11,alchemy-machine,1,0
-2020-03-29,analytics-google,4,2
 2020-03-30,analytics-google,10,3
 2020-03-31,analytics-google,3,12
 2020-04-01,analytics-google,28,87
@@ -15,6 +14,7 @@ date,repository,clones,views
 2020-04-09,analytics-google,5,10
 2020-04-10,analytics-google,3,5
 2020-04-11,analytics-google,3,2
+2020-04-12,analytics-google,2,0
 2020-04-11,AngularGoogleAnalytics,1,0
 2020-04-11,awesome-actions,1,0
 2020-04-11,aws-lambda-cv,1,0
@@ -26,6 +26,7 @@ date,repository,clones,views
 2020-04-08,cristianpb.github.io,4,5
 2020-04-10,cristianpb.github.io,20,21
 2020-04-11,cristianpb.github.io,34,33
+2020-04-12,cristianpb.github.io,1,2
 2020-04-09,cristianpb.github.io,0,6
 2020-04-11,dataiku-dss-docker,1,0
 2020-04-11,datalab.mi,1,2
@@ -35,7 +36,6 @@ date,repository,clones,views
 2020-04-07,dotfiles,2,15
 2020-04-09,dotfiles,1,1
 2020-04-11,dotfiles,1,1
-2020-03-29,dotfiles,0,2
 2020-03-30,dotfiles,0,6
 2020-04-01,dotfiles,0,11
 2020-04-05,dotfiles,0,9
@@ -44,6 +44,7 @@ date,repository,clones,views
 2020-04-10,dotfiles,0,22
 2020-04-11,eig-link,1,0
 2020-04-11,gswsr,1,0
+2020-04-12,gswsr,0,1
 2020-04-11,hackathon_associations,1,0
 2020-04-11,hubot-ratp,1,0
 2020-04-11,hubot-velib,1,0
@@ -53,11 +54,9 @@ date,repository,clones,views
 2020-04-11,mybottender,1,0
 2020-04-07,myhubot,1,0
 2020-04-11,myhubot,1,0
-2020-03-29,newsapp,1,0
 2020-04-11,newsapp,1,0
 2020-03-31,ngTwitterApp,1,0
 2020-04-11,ngTwitterApp,1,0
-2020-03-29,object-detection,1,22
 2020-04-02,object-detection,1,4
 2020-04-03,object-detection,1,16
 2020-04-06,object-detection,1,3
@@ -65,6 +64,7 @@ date,repository,clones,views
 2020-04-08,object-detection,1,17
 2020-04-10,object-detection,1,49
 2020-04-11,object-detection,1,13
+2020-04-12,object-detection,3,25
 2020-03-30,object-detection,0,14
 2020-03-31,object-detection,0,27
 2020-04-01,object-detection,0,1
@@ -79,13 +79,12 @@ date,repository,clones,views
 2020-04-09,object-detection-frontend,1,1
 2020-04-10,object-detection-frontend,1,0
 2020-04-11,object-detection-frontend,1,0
-2020-03-29,object-detection-frontend,0,2
+2020-04-12,object-detection-frontend,4,0
 2020-03-31,object-detection-frontend,0,1
 2020-04-01,object-detection-frontend,0,1
 2020-04-11,personnes-decedees_search-ui,1,0
 2020-04-11,PresentationTechnique,1,0
 2020-04-11,priceminister,1,0
-2020-03-29,priceminister,0,8
 2020-03-30,priceminister,0,6
 2020-03-31,priceminister,0,2
 2020-04-07,priceminister,0,2
@@ -94,12 +93,12 @@ date,repository,clones,views
 2020-04-11,react-tweets,1,0
 2020-04-10,recettes,1,0
 2020-04-11,recettes,1,0
+2020-04-11,rhasspy-handler,3,6
+2020-04-12,rhasspy-handler,7,35
+2020-04-01,rhasspy-handler,0,1
+2020-04-06,rhasspy-handler,0,1
+2020-04-08,rhasspy-handler,0,1
 2020-04-11,site-eig,1,0
-2020-04-11,snipshandler,3,6
-2020-03-29,snipshandler,0,2
-2020-04-01,snipshandler,0,1
-2020-04-06,snipshandler,0,1
-2020-04-08,snipshandler,0,1
 2020-04-04,stats,2,5
 2020-04-05,stats,6,16
 2020-04-06,stats,40,173
@@ -108,10 +107,10 @@ date,repository,clones,views
 2020-04-09,stats,5,7
 2020-04-10,stats,8,1
 2020-04-11,stats,5,0
+2020-04-12,stats,7,0
 2020-04-03,stats,0,7
 2020-03-30,telegraf-influxdb-grafana-docker,2,38
 2020-04-11,telegraf-influxdb-grafana-docker,1,0
-2020-03-29,telegraf-influxdb-grafana-docker,0,3
 2020-04-01,telegraf-influxdb-grafana-docker,0,8
 2020-04-03,telegraf-influxdb-grafana-docker,0,9
 2020-04-06,telegraf-influxdb-grafana-docker,0,21
