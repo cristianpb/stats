@@ -1,6 +1,5 @@
 date,repository,clones,views
 2020-04-11,alchemy-machine,1,0
-2020-04-02,analytics-google,31,126
 2020-04-03,analytics-google,14,49
 2020-04-04,analytics-google,3,0
 2020-04-05,analytics-google,37,31
@@ -14,6 +13,7 @@ date,repository,clones,views
 2020-04-13,analytics-google,2,2
 2020-04-14,analytics-google,2,2
 2020-04-15,analytics-google,3,0
+2020-04-16,analytics-google,3,2
 2020-04-11,AngularGoogleAnalytics,1,0
 2020-04-11,awesome-actions,1,0
 2020-04-11,aws-lambda-cv,1,0
@@ -31,7 +31,6 @@ date,repository,clones,views
 2020-04-11,dataiku-dss-docker,1,0
 2020-04-11,datalab.mi,1,2
 2020-04-11,deces-ui,1,0
-2020-04-02,dotfiles,1,2
 2020-04-04,dotfiles,2,4
 2020-04-07,dotfiles,2,15
 2020-04-09,dotfiles,1,1
@@ -57,7 +56,6 @@ date,repository,clones,views
 2020-04-11,myhubot,1,0
 2020-04-11,newsapp,1,0
 2020-04-11,ngTwitterApp,1,0
-2020-04-02,object-detection,1,4
 2020-04-03,object-detection,1,16
 2020-04-06,object-detection,1,3
 2020-04-07,object-detection,1,33
@@ -71,6 +69,7 @@ date,repository,clones,views
 2020-04-09,object-detection,0,16
 2020-04-14,object-detection,0,12
 2020-04-15,object-detection,0,11
+2020-04-16,object-detection,0,8
 2020-04-04,object-detection-frontend,2,2
 2020-04-06,object-detection-frontend,1,0
 2020-04-07,object-detection-frontend,1,0
@@ -80,6 +79,7 @@ date,repository,clones,views
 2020-04-11,object-detection-frontend,1,0
 2020-04-12,object-detection-frontend,4,0
 2020-04-13,object-detection-frontend,1,0
+2020-04-16,object-detection-frontend,1,2
 2020-04-14,object-detection-frontend,0,5
 2020-04-11,personnes-decedees_search-ui,1,0
 2020-04-11,PresentationTechnique,1,0
@@ -93,6 +93,7 @@ date,repository,clones,views
 2020-04-11,rhasspy-handler,3,6
 2020-04-12,rhasspy-handler,7,35
 2020-04-13,rhasspy-handler,3,0
+2020-04-16,rhasspy-handler,1,0
 2020-04-06,rhasspy-handler,0,1
 2020-04-08,rhasspy-handler,0,1
 2020-04-14,rhasspy-handler,0,1
@@ -109,6 +110,7 @@ date,repository,clones,views
 2020-04-13,stats,4,0
 2020-04-14,stats,4,0
 2020-04-15,stats,4,0
+2020-04-16,stats,5,0
 2020-04-03,stats,0,7
 2020-04-11,telegraf-influxdb-grafana-docker,1,0
 2020-04-03,telegraf-influxdb-grafana-docker,0,9
