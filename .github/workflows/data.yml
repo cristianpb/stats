@@ -24,7 +24,7 @@ jobs:
       - name: get data
         run: |
           mkdir -p data
-          node .
+          npm start
         env:
           TRAFFIC_API_GITHUB_TOKEN: ${{ secrets.TRAFFIC_API_GITHUB_TOKEN }}
       - name: deploy to github pages

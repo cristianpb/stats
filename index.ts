@@ -1,10 +1,11 @@
-const axios = require("axios");
-const createCsvWriter = require('csv-writer').createObjectCsvWriter;
+import axios from 'axios';
+import { createObjectCsvWriter as createCsvWriter } from 'csv-writer';
 
-config = {
+const config = {
   token: process.env['TRAFFIC_API_GITHUB_TOKEN'],
   username: 'cristianpb',
-  showRateLimit: true
+  showRateLimit: true,
+  pageSize: 100
 }
 
 axios.defaults.baseURL = "https://api.github.com";
@@ -14,25 +15,25 @@ if (config.token) {
   axios.defaults.headers.common["Authorization"] = `token ${config.token}`;
 }
 
-const parseLinkHeader = response => {
+const parseLinkHeader = (response: any) => {
   const linkHeader = response.headers["link"];
   if (!linkHeader) {
     return [];
   }
   return linkHeader
     .split(",")
-    .map(link => link.split(";").map(s => s.trim()))
-    .map(([hrefPart, relPart]) => {
+    .map((link: string) => link.split(";").map(s => s.trim()))
+    .map(([hrefPart, relPart]: string[]) => {
       const href = /^<([^>]+)>$/.exec(hrefPart)[1];
       const rel = /^rel="([^"]+)"$/.exec(relPart)[1];
       return { href, rel };
     });
 };
 
-const getPages = async (url, config) => {
+const getPages = async (url: string, config: any): Promise<any> => {
   const response = await axios.get(url, config);
   const rels = parseLinkHeader(response);
-  const next = rels.find(rel => rel.rel === "next");
+  const next = rels.find((rel: any) => rel.rel === "next");
   if (next) {
     return [response.data, ...await getPages(next.href, config)];
   }
@@ -49,7 +50,7 @@ const displayRateLimitData = async () => {
   console.log(`rate reset: ${new Date(rateLimitData.resources.core.reset * 1000)}`);
 };
 
-const handleError = err => {
+const handleError = (err: any) => {
   if (err.response) {
     const response = err.response;
     const request = response.request;
@@ -72,7 +73,7 @@ const handleError = err => {
   }
 };
 
-const flatten = arrs =>
+const flatten = (arrs: any) =>
   [].concat(...arrs);
 
 const asyncWrapper = async () => {
@@ -116,12 +117,12 @@ const asyncWrapper = async () => {
           clonesUniques: clones.uniques,
         }
         
-        const visits = {}
-        clones.clones.forEach(item => {
+        const visits: any = {}
+        clones.clones.forEach((item: any) => {
           if (!(visits[item.timestamp.substring(0,10)])) visits[item.timestamp.substring(0,10)] = {}
           visits[item.timestamp.substring(0,10)].clones = item.count
         })
-        views.views.forEach(item => {
+        views.views.forEach((item: any) => {
             if (!(visits[item.timestamp.substring(0,10)])) visits[item.timestamp.substring(0,10)] = {}
             visits[item.timestamp.substring(0,10)].views = item.count
         })
@@ -137,7 +138,7 @@ const asyncWrapper = async () => {
 
         if (Object.values(dataWrite).length > 0) {
           repositories.push(dataRepo);
-          let joinArray = results.concat(dataWrite);
+          let joinArray: any = results.concat(dataWrite);
           results = joinArray
         }
         indent++;
