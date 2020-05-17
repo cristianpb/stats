@@ -117,12 +117,12 @@ const asyncWrapper = async () => {
           viewsUniques: views.uniques,
           clones: clones.count,
           clonesUniques: clones.uniques,
-          referers: JSON.stringify(referrers),
-          referersCount: referrers.reduce((a, b) => a + b.count, 0),
-          referersUniques: referrers.reduce((a, b) => a + b.uniques, 0),
-          pathsVisits: JSON.stringify(pathsVisits),
-          pathsVisitsCount: pathsVisits.reduce((a, b) => a + b.count, 0),
-          pathsVisitsUniques: pathsVisits.reduce((a, b) => a + b.uniques, 0)
+          // referers: JSON.stringify(referrers),
+          // referersCount: referrers.reduce((a, b) => a + b.count, 0),
+          // referersUniques: referrers.reduce((a, b) => a + b.uniques, 0),
+          // pathsVisits: JSON.stringify(pathsVisits),
+          // pathsVisitsCount: pathsVisits.reduce((a, b) => a + b.count, 0),
+          // pathsVisitsUniques: pathsVisits.reduce((a, b) => a + b.uniques, 0)
         }
 
         
@@ -145,7 +145,11 @@ const asyncWrapper = async () => {
           })
         })
 
-        if (views.count > 0 || clones.count > 0) repositories.push(dataRepo);
+        if (views.count > 0 || clones.count > 0) {
+          repositories.push(dataRepo);
+          console.log("Visits", pathsVisits);
+          console.log("Referers", referrers);
+        }
 
         indent++;
       }
@@ -172,12 +176,6 @@ const asyncWrapper = async () => {
         {id: 'viewsUniques', title: 'viewsUniques'},
         {id: 'clones', title: 'clones'},
         {id: 'clonesUniques', title: 'clonesUniques'},
-        {id: 'referers', title: 'referers'},
-        {id: 'referrersCount', title: 'referersCount'},
-        {id: 'referersUniques', title: 'referersUniques'},
-        {id: 'pathsVisits', title: 'pathsVisits'},
-        {id: 'pathsVisitsCount', title: 'pathsVisitsCount'},
-        {id: 'pathsVisitsUniques', title: 'pathsVisitsUniques'}
       ]
     });
 
