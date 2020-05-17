@@ -91,7 +91,7 @@ const asyncWrapper = async () => {
 
     process.stdout.write(`${"-".repeat(repos.length)}\n`);
 
-    let results = [];
+    let results: Visit[] = [];
     const repositories = [];
     let indent = 0;
     for (let index = 0; index < repos.length; index++) {
@@ -133,20 +133,17 @@ const asyncWrapper = async () => {
             visits[item.timestamp.substring(0,10)].views = item.count
         })
 
-        const dataWrite = Object.keys(visits).map(key => {
-          return {
+        Object.keys(visits).forEach(key => {
+          results.push({
             date: key,
             repository: repo.name,
             views: visits[key].views ?  visits[key].views : 0,
             clones: visits[key].clones ?  visits[key].clones : 0
-          }
+          })
         })
 
-        if (Object.values(dataWrite).length > 0) {
-          repositories.push(dataRepo);
-          let joinArray: any = results.concat(dataWrite);
-          results = joinArray
-        }
+        if (views.count > 0 || clones.count > 0) repositories.push(dataRepo);
+
         indent++;
       }
       catch (err) {
@@ -255,4 +252,11 @@ interface ReferrerAxios {
 
 interface PathsVisitsAxios {
   data: Path[]
+}
+
+interface Visit {
+  date: string;
+  repository: string;
+  views: number;
+  clones: number;
 }
