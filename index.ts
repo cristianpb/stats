@@ -97,9 +97,11 @@ const asyncWrapper = async () => {
     for (let index = 0; index < repos.length; index++) {
       try {
         const repo = repos[index];
-        const viewsPromise = axios.get(`/repos/${repo.owner.login}/${repo.name}/traffic/views`);
-        const clonesPromise = axios.get(`/repos/${repo.owner.login}/${repo.name}/traffic/clones`);
-        const [{ data: views }, { data: clones }] = await Promise.all([viewsPromise, clonesPromise]);
+        const viewsPromise: Promise<ViewsAxios> = axios.get(`/repos/${repo.owner.login}/${repo.name}/traffic/views`);
+        const clonesPromise: Promise<ClonesAxios> = axios.get(`/repos/${repo.owner.login}/${repo.name}/traffic/clones`);
+        const referrersPromise: Promise<ReferrerAxios> = axios.get(`/repos/${repo.owner.login}/${repo.name}/traffic/popular/referrers`);
+        const pathsVisitsPromise: Promise<PathsVisitsAxios> = axios.get(`/repos/${repo.owner.login}/${repo.name}/traffic/popular/paths`);
+        const [{ data: views }, { data: clones }, { data: referrers }, { data: pathsVisits }] = await Promise.all([viewsPromise, clonesPromise, referrersPromise, pathsVisitsPromise]);
 
         process.stdout.write(`${repo.name}\n`);
 
@@ -115,6 +117,10 @@ const asyncWrapper = async () => {
           viewsUniques: views.uniques,
           clones: clones.count,
           clonesUniques: clones.uniques,
+          referers: referrers.reduce((a, b) => a + b.count, 0),
+          referersUniques: referrers.reduce((a, b) => a + b.uniques, 0),
+          pathsVisits: pathsVisits.reduce((a, b) => a + b.count, 0),
+          pathsVisitsUniques: pathsVisits.reduce((a, b) => a + b.uniques, 0)
         }
         
         const visits: any = {}
@@ -165,7 +171,11 @@ const asyncWrapper = async () => {
         {id: 'views', title: 'views'},
         {id: 'viewsUniques', title: 'viewsUniques'},
         {id: 'clones', title: 'clones'},
-        {id: 'clonesUniques', title: 'clonesUniques'}
+        {id: 'clonesUniques', title: 'clonesUniques'},
+        {id: 'referrers', title: 'referers'},
+        {id: 'referersUniques', title: 'referersUniques'},
+        {id: 'pathsVisits', title: 'pathsVisits'},
+        {id: 'pathsVisitsUniques', title: 'pathsVisitsUniques'}
       ]
     });
 
@@ -199,3 +209,50 @@ const asyncWrapper = async () => {
 };
 
 asyncWrapper();
+
+interface Referrer {
+  "referrer": string; //"Google";
+  "count": number; //4;
+  "uniques": number; //3;
+}
+
+interface Path {
+  "path": string; //"/github/hubot",
+  "title": string; //"github/hubot: A customizable life embetterment robot.",
+  "count": number; //3542,
+  "uniques": number; //2225
+}
+
+interface View {
+  "timestamp": string; //"2016-10-10T00:00:00Z",
+  "count": number; //440,
+  "uniques": number; //143
+}
+
+interface Views {
+  "count": number; // 14850,
+  "uniques": number; // 3782,
+  "views": View[];
+}
+
+interface Clones {
+  "count": number; // 173,
+  "uniques": number; //128,
+  "clones": View[]
+}
+
+interface ViewsAxios {
+  data: Views;
+}
+
+interface ClonesAxios {
+  data: Clones;
+}
+
+interface ReferrerAxios {
+  data: Referrer[]
+}
+
+interface PathsVisitsAxios {
+  data: Path[]
+}
