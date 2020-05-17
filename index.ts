@@ -117,11 +117,14 @@ const asyncWrapper = async () => {
           viewsUniques: views.uniques,
           clones: clones.count,
           clonesUniques: clones.uniques,
-          referers: referrers.reduce((a, b) => a + b.count, 0),
+          referers: JSON.stringify(referrers),
+          referersCount: referrers.reduce((a, b) => a + b.count, 0),
           referersUniques: referrers.reduce((a, b) => a + b.uniques, 0),
-          pathsVisits: pathsVisits.reduce((a, b) => a + b.count, 0),
+          pathsVisits: JSON.stringify(pathsVisits),
+          pathsVisitsCount: pathsVisits.reduce((a, b) => a + b.count, 0),
           pathsVisitsUniques: pathsVisits.reduce((a, b) => a + b.uniques, 0)
         }
+
         
         const visits: any = {}
         clones.clones.forEach((item: any) => {
@@ -169,9 +172,11 @@ const asyncWrapper = async () => {
         {id: 'viewsUniques', title: 'viewsUniques'},
         {id: 'clones', title: 'clones'},
         {id: 'clonesUniques', title: 'clonesUniques'},
-        {id: 'referrers', title: 'referers'},
+        {id: 'referers', title: 'referers'},
+        {id: 'referrersCount', title: 'referersCount'},
         {id: 'referersUniques', title: 'referersUniques'},
         {id: 'pathsVisits', title: 'pathsVisits'},
+        {id: 'pathsVisitsCount', title: 'pathsVisitsCount'},
         {id: 'pathsVisitsUniques', title: 'pathsVisitsUniques'}
       ]
     });
