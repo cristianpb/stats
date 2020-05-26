@@ -1,5 +1,4 @@
 date,repository,clones,views
-2020-05-11,analytics-google,5,1
 2020-05-12,analytics-google,3,1
 2020-05-13,analytics-google,9,1
 2020-05-14,analytics-google,3,1
@@ -13,6 +12,7 @@ date,repository,clones,views
 2020-05-22,analytics-google,7,3
 2020-05-23,analytics-google,5,0
 2020-05-24,analytics-google,2,0
+2020-05-25,analytics-google,3,0
 2020-05-14,cristianpb.github.io,1,6
 2020-05-13,cristianpb.github.io,0,4
 2020-05-15,cristianpb.github.io,0,2
@@ -23,6 +23,7 @@ date,repository,clones,views
 2020-05-21,cristianpb.github.io,0,39
 2020-05-22,cristianpb.github.io,0,3
 2020-05-24,cristianpb.github.io,0,4
+2020-05-25,cristianpb.github.io,0,1
 2020-05-12,dotfiles,0,1
 2020-05-13,dotfiles,0,1
 2020-05-15,dotfiles,0,1
@@ -37,7 +38,6 @@ date,repository,clones,views
 2020-05-21,mask-detection,1,0
 2020-05-12,mask-detection,0,2
 2020-05-23,mask-detection,0,2
-2020-05-11,muse,6,68
 2020-05-12,muse,7,25
 2020-05-13,muse,11,30
 2020-05-14,muse,5,3
@@ -50,6 +50,7 @@ date,repository,clones,views
 2020-05-22,muse,4,82
 2020-05-23,muse,23,46
 2020-05-24,muse,10,22
+2020-05-25,muse,0,8
 2020-05-22,myhubot,1,0
 2020-05-16,object-detection,2,10
 2020-05-18,object-detection,2,30
@@ -58,7 +59,7 @@ date,repository,clones,views
 2020-05-21,object-detection,2,64
 2020-05-22,object-detection,4,97
 2020-05-23,object-detection,2,8
-2020-05-11,object-detection,0,19
+2020-05-25,object-detection,2,47
 2020-05-12,object-detection,0,34
 2020-05-13,object-detection,0,42
 2020-05-14,object-detection,0,16
@@ -74,11 +75,12 @@ date,repository,clones,views
 2020-05-22,object-detection-frontend,6,31
 2020-05-23,object-detection-frontend,1,1
 2020-05-24,object-detection-frontend,1,5
+2020-05-25,object-detection-frontend,10,2
 2020-05-13,object-detection-frontend,0,5
-2020-05-11,piac-bot,5,49
 2020-05-16,piac-bot,1,0
 2020-05-20,piac-bot,1,0
 2020-05-21,piac-bot,1,0
+2020-05-25,piac-bot,8,0
 2020-05-19,priceminister,0,2
 2020-05-21,qrcode-reader,1,0
 2020-05-17,qrcode-reader,0,5
@@ -87,13 +89,12 @@ date,repository,clones,views
 2020-05-16,rhasspy-handler,3,1
 2020-05-19,rhasspy-handler,1,0
 2020-05-21,rhasspy-handler,1,2
-2020-05-11,rhasspy-handler,0,8
 2020-05-12,rhasspy-handler,0,17
 2020-05-15,rhasspy-handler,0,1
 2020-05-17,rhasspy-handler,0,1
 2020-05-18,rhasspy-handler,0,1
 2020-05-23,rhasspy-handler,0,2
-2020-05-12,stats,4,0
+2020-05-25,rhasspy-handler,0,1
 2020-05-13,stats,7,21
 2020-05-14,stats,4,6
 2020-05-15,stats,4,0
@@ -106,9 +107,11 @@ date,repository,clones,views
 2020-05-22,stats,4,0
 2020-05-23,stats,5,0
 2020-05-24,stats,3,0
+2020-05-25,stats,4,0
 2020-05-15,telegraf-influxdb-grafana-docker,1,14
 2020-05-19,telegraf-influxdb-grafana-docker,1,0
 2020-05-21,telegraf-influxdb-grafana-docker,2,0
+2020-05-25,telegraf-influxdb-grafana-docker,1,0
 2020-05-14,telegraf-influxdb-grafana-docker,0,1
 2020-05-17,telegraf-influxdb-grafana-docker,0,24
 2020-05-20,telegraf-influxdb-grafana-docker,0,4
@@ -116,8 +119,8 @@ date,repository,clones,views
 2020-05-23,telegraf-influxdb-grafana-docker,0,1
 2020-05-21,temp-sigfox,1,0
 2020-05-15,temp-sigfox,0,7
+2020-05-25,tkasme,1,0
 2020-05-24,tkasme,0,5
-2020-05-11,vimwiki,0,1
 2020-05-16,vimwiki,0,3
 2020-05-21,vimwiki,0,7
 2020-05-23,vimwiki,0,4
