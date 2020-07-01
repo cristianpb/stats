@@ -1,6 +1,5 @@
 date,repository,clones,views
 2020-06-23,alchemy-machine,1,0
-2020-06-16,analytics-google,3,6
 2020-06-17,analytics-google,4,0
 2020-06-18,analytics-google,4,1
 2020-06-19,analytics-google,9,1
@@ -14,7 +13,7 @@ date,repository,clones,views
 2020-06-27,analytics-google,3,1
 2020-06-28,analytics-google,2,0
 2020-06-29,analytics-google,3,0
-2020-06-16,cristianpb.github.io,1,0
+2020-06-30,analytics-google,4,0
 2020-06-17,cristianpb.github.io,1,0
 2020-06-19,cristianpb.github.io,1,0
 2020-06-20,cristianpb.github.io,1,0
@@ -22,9 +21,11 @@ date,repository,clones,views
 2020-06-23,cristianpb.github.io,21,31
 2020-06-24,cristianpb.github.io,6,4
 2020-06-25,cristianpb.github.io,12,24
+2020-06-30,cristianpb.github.io,1,1
 2020-06-20,dotfiles,1,0
 2020-06-24,dotfiles,1,6
 2020-06-25,dotfiles,1,0
+2020-06-30,dotfiles,7,0
 2020-06-22,dotfiles,0,1
 2020-06-23,dotfiles,0,18
 2020-06-26,dotfiles,0,5
@@ -35,7 +36,7 @@ date,repository,clones,views
 2020-06-20,muse,7,0
 2020-06-23,muse,1,1
 2020-06-24,muse,1,0
-2020-06-16,muse,0,12
+2020-06-30,muse,7,21
 2020-06-17,muse,0,10
 2020-06-22,muse,0,4
 2020-06-25,muse,0,1
@@ -48,8 +49,7 @@ date,repository,clones,views
 2020-06-23,object-detection,1,20
 2020-06-24,object-detection,2,34
 2020-06-27,object-detection,1,10
-2020-06-29,object-detection,1,10
-2020-06-16,object-detection,0,23
+2020-06-29,object-detection,1,15
 2020-06-17,object-detection,0,6
 2020-06-18,object-detection,0,47
 2020-06-19,object-detection,0,6
@@ -58,7 +58,7 @@ date,repository,clones,views
 2020-06-25,object-detection,0,16
 2020-06-26,object-detection,0,3
 2020-06-28,object-detection,0,10
-2020-06-16,object-detection-frontend,2,2
+2020-06-30,object-detection,0,20
 2020-06-18,object-detection-frontend,1,0
 2020-06-19,object-detection-frontend,1,0
 2020-06-20,object-detection-frontend,1,0
@@ -71,9 +71,9 @@ date,repository,clones,views
 2020-06-27,object-detection-frontend,1,1
 2020-06-28,object-detection-frontend,2,1
 2020-06-29,object-detection-frontend,1,1
+2020-06-30,object-detection-frontend,1,5
 2020-06-24,PresentationTechnique,1,0
 2020-06-23,priceminister,1,0
-2020-06-16,rhasspy-handler,0,1
 2020-06-18,rhasspy-handler,0,1
 2020-06-19,rhasspy-handler,0,2
 2020-06-21,rhasspy-handler,0,1
@@ -82,8 +82,8 @@ date,repository,clones,views
 2020-06-25,rhasspy-handler,0,2
 2020-06-26,rhasspy-handler,0,2
 2020-06-27,rhasspy-handler,0,3
-2020-06-16,stats,1,0
-2020-06-17,stats,7,0
+2020-06-30,rhasspy-handler,0,1
+2020-06-17,stats,2,0
 2020-06-18,stats,5,0
 2020-06-19,stats,8,0
 2020-06-20,stats,5,0
@@ -96,12 +96,12 @@ date,repository,clones,views
 2020-06-27,stats,4,0
 2020-06-28,stats,3,0
 2020-06-29,stats,3,0
+2020-06-30,stats,4,0
 2020-06-17,telegraf-influxdb-grafana-docker,2,0
 2020-06-27,telegraf-influxdb-grafana-docker,2,0
-2020-06-16,telegraf-influxdb-grafana-docker,0,23
 2020-06-19,telegraf-influxdb-grafana-docker,0,2
 2020-06-23,telegraf-influxdb-grafana-docker,0,3
 2020-06-24,telegraf-influxdb-grafana-docker,0,6
 2020-06-28,telegraf-influxdb-grafana-docker,0,2
-2020-06-16,vimwiki,1,0
+2020-06-30,vimwiki,16,31
 2020-06-17,vimwiki,0,4
