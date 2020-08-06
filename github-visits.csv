@@ -1,5 +1,4 @@
 date,repository,clones,views
-2020-07-22,analytics-google,5,4
 2020-07-23,analytics-google,4,3
 2020-07-24,analytics-google,4,0
 2020-07-25,analytics-google,6,0
@@ -13,11 +12,11 @@ date,repository,clones,views
 2020-08-02,analytics-google,4,0
 2020-08-03,analytics-google,4,0
 2020-08-04,analytics-google,4,1
+2020-08-05,analytics-google,3,2
 2020-07-30,aws-lambda-cv,1,0
 2020-07-23,cristianpb.github.io,1,0
 2020-07-29,cristianpb.github.io,1,100
 2020-07-31,cristianpb.github.io,1,72
-2020-07-22,cristianpb.github.io,0,67
 2020-07-28,cristianpb.github.io,0,20
 2020-07-30,cristianpb.github.io,0,41
 2020-08-01,cristianpb.github.io,0,25
@@ -34,11 +33,11 @@ date,repository,clones,views
 2020-07-31,dotfiles,0,2
 2020-08-02,dotfiles,0,13
 2020-08-04,dotfiles,0,4
+2020-08-05,dotfiles,0,1
 2020-07-23,enkontext,1,0
 2020-08-01,enkontext,1,0
 2020-07-23,gswsr,1,0
 2020-07-30,gswsr,1,0
-2020-07-22,muse,1,2
 2020-07-29,muse,1,4
 2020-07-30,muse,1,0
 2020-08-01,muse,2,3
@@ -58,7 +57,6 @@ date,repository,clones,views
 2020-07-29,object-detection,1,10
 2020-07-31,object-detection,1,9
 2020-08-02,object-detection,1,13
-2020-07-22,object-detection,0,14
 2020-07-23,object-detection,0,12
 2020-07-27,object-detection,0,5
 2020-07-28,object-detection,0,5
@@ -66,6 +64,7 @@ date,repository,clones,views
 2020-08-01,object-detection,0,15
 2020-08-03,object-detection,0,8
 2020-08-04,object-detection,0,24
+2020-08-05,object-detection,0,9
 2020-07-23,object-detection-frontend,1,0
 2020-07-25,object-detection-frontend,1,0
 2020-07-27,object-detection-frontend,1,15
@@ -87,8 +86,8 @@ date,repository,clones,views
 2020-07-31,rhasspy-handler,0,1
 2020-08-01,rhasspy-handler,0,1
 2020-08-04,rhasspy-handler,0,3
-2020-07-22,stats,1,0
-2020-07-23,stats,4,0
+2020-08-05,rhasspy-handler,0,1
+2020-07-23,stats,1,0
 2020-07-24,stats,6,0
 2020-07-25,stats,5,0
 2020-07-26,stats,8,0
@@ -101,15 +100,16 @@ date,repository,clones,views
 2020-08-02,stats,6,0
 2020-08-03,stats,6,0
 2020-08-04,stats,4,0
+2020-08-05,stats,6,0
 2020-07-23,telegraf-influxdb-grafana-docker,1,0
 2020-07-28,telegraf-influxdb-grafana-docker,1,0
 2020-07-29,telegraf-influxdb-grafana-docker,1,10
 2020-08-03,telegraf-influxdb-grafana-docker,2,17
-2020-07-22,telegraf-influxdb-grafana-docker,0,1
 2020-07-25,telegraf-influxdb-grafana-docker,0,2
 2020-07-30,telegraf-influxdb-grafana-docker,0,2
 2020-08-01,telegraf-influxdb-grafana-docker,0,1
 2020-08-04,telegraf-influxdb-grafana-docker,0,3
+2020-08-05,telegraf-influxdb-grafana-docker,0,6
 2020-07-29,temp-sigfox,1,0
 2020-07-27,temp-sigfox,0,2
 2020-07-30,temp-sigfox,0,5
