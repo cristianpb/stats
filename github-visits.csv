@@ -1,5 +1,4 @@
 date,repository,clones,views
-2020-10-02,analytics-google,3,0
 2020-10-03,analytics-google,3,0
 2020-10-04,analytics-google,3,1
 2020-10-05,analytics-google,3,0
@@ -13,10 +12,9 @@ date,repository,clones,views
 2020-10-13,analytics-google,4,2
 2020-10-14,analytics-google,3,0
 2020-10-15,analytics-google,2,0
-2020-10-02,aws-lambda-cv,1,0
+2020-10-16,analytics-google,3,1
 2020-10-03,cristianpb.github.io,2,4
 2020-10-04,cristianpb.github.io,13,5
-2020-10-02,cristianpb.github.io,0,3
 2020-10-05,cristianpb.github.io,0,2
 2020-10-06,cristianpb.github.io,0,2
 2020-10-07,cristianpb.github.io,0,5
@@ -28,11 +26,11 @@ date,repository,clones,views
 2020-10-13,cristianpb.github.io,0,1
 2020-10-14,cristianpb.github.io,0,1
 2020-10-15,cristianpb.github.io,0,4
+2020-10-16,cristianpb.github.io,0,4
 2020-10-14,deces-dataprep,10,37
 2020-10-03,dotfiles,1,0
 2020-10-06,dotfiles,1,2
 2020-10-13,dotfiles,1,6
-2020-10-02,dotfiles,0,4
 2020-10-04,dotfiles,0,2
 2020-10-05,dotfiles,0,16
 2020-10-07,dotfiles,0,2
@@ -40,7 +38,6 @@ date,repository,clones,views
 2020-10-11,dotfiles,0,3
 2020-10-12,dotfiles,0,1
 2020-10-14,gswsr,0,2
-2020-10-02,mask-detection,0,1
 2020-10-07,mopidy.js,6,10
 2020-10-04,muse,2,7
 2020-10-05,muse,28,26
@@ -50,14 +47,12 @@ date,repository,clones,views
 2020-10-12,muse,7,8
 2020-10-13,muse,3,7
 2020-10-14,muse,1,23
-2020-10-02,muse,0,1
 2020-10-03,muse,0,2
 2020-10-09,muse,0,15
 2020-10-10,muse,0,2
 2020-10-11,muse,0,3
 2020-10-15,muse,0,2
-2020-10-02,newsapp,0,1
-2020-10-02,object-detection,1,15
+2020-10-16,muse,0,13
 2020-10-03,object-detection,1,3
 2020-10-05,object-detection,1,46
 2020-10-06,object-detection,2,61
@@ -71,7 +66,7 @@ date,repository,clones,views
 2020-10-15,object-detection,2,51
 2020-10-04,object-detection,0,4
 2020-10-11,object-detection,0,10
-2020-10-02,object-detection-frontend,2,1
+2020-10-16,object-detection,0,38
 2020-10-03,object-detection-frontend,2,1
 2020-10-06,object-detection-frontend,1,2
 2020-10-07,object-detection-frontend,2,0
@@ -84,11 +79,10 @@ date,repository,clones,views
 2020-10-11,object-detection-frontend,0,1
 2020-10-14,object-detection-frontend,0,1
 2020-10-13,PresentationTechnique,0,1
-2020-10-02,rhasspy-handler,0,2
 2020-10-06,rhasspy-handler,0,1
 2020-10-11,rhasspy-handler,0,2
 2020-10-12,rhasspy-handler,0,1
-2020-10-03,stats,6,0
+2020-10-16,rhasspy-handler,0,1
 2020-10-04,stats,5,0
 2020-10-05,stats,6,0
 2020-10-06,stats,5,0
@@ -101,11 +95,11 @@ date,repository,clones,views
 2020-10-13,stats,4,0
 2020-10-14,stats,3,0
 2020-10-15,stats,3,0
-2020-10-02,telegraf-influxdb-grafana-docker,1,0
+2020-10-16,stats,5,3
 2020-10-06,telegraf-influxdb-grafana-docker,1,2
 2020-10-15,telegraf-influxdb-grafana-docker,1,0
+2020-10-16,telegraf-influxdb-grafana-docker,1,5
 2020-10-13,telegraf-influxdb-grafana-docker,0,1
-2020-10-02,temp-sigfox,0,1
 2020-10-05,temp-sigfox,0,6
 2020-10-06,temp-sigfox,0,1
 2020-10-06,tkasme,1,0
@@ -113,6 +107,5 @@ date,repository,clones,views
 2020-10-09,vimwiki,1,0
 2020-10-10,vimwiki,4,0
 2020-10-15,vimwiki,1,0
-2020-10-02,vimwiki,0,3
 2020-10-03,vimwiki,0,4
 2020-10-05,vimwiki,0,2
