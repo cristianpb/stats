@@ -1,6 +1,5 @@
 date,repository,clones,views
 2020-12-12,alchemy-machine,1,0
-2020-11-29,analytics-google,3,0
 2020-11-30,analytics-google,5,0
 2020-12-01,analytics-google,4,4
 2020-12-02,analytics-google,3,1
@@ -14,8 +13,8 @@ date,repository,clones,views
 2020-12-10,analytics-google,4,1
 2020-12-11,analytics-google,3,0
 2020-12-12,analytics-google,4,2
+2020-12-13,analytics-google,6,0
 2020-12-09,backend,1,0
-2020-11-29,cristianpb.github.io,2,0
 2020-12-07,cristianpb.github.io,1,0
 2020-12-08,cristianpb.github.io,15,14
 2020-12-10,cristianpb.github.io,3,27
@@ -27,7 +26,7 @@ date,repository,clones,views
 2020-12-07,dotfiles,2,7
 2020-12-10,dotfiles,1,0
 2020-12-12,dotfiles,1,23
-2020-11-30,dotfiles,0,6
+2020-11-30,dotfiles,0,5
 2020-12-03,dotfiles,0,2
 2020-12-04,dotfiles,0,1
 2020-12-05,dotfiles,0,2
@@ -37,7 +36,6 @@ date,repository,clones,views
 2020-12-11,dotfiles,0,3
 2020-12-07,gswsr,1,0
 2020-12-07,hubot-velib,1,0
-2020-11-29,muse,2,7
 2020-12-02,muse,1,0
 2020-12-11,muse,1,0
 2020-11-30,muse,0,1
@@ -51,9 +49,9 @@ date,repository,clones,views
 2020-12-09,muse,0,5
 2020-12-10,muse,0,7
 2020-12-12,muse,0,1
+2020-12-13,muse,0,32
 2020-12-09,newsapp,1,0
 2020-12-04,ngTwitterApp,0,17
-2020-11-29,object-detection,6,3
 2020-11-30,object-detection,1,10
 2020-12-01,object-detection,4,11
 2020-12-02,object-detection,2,2
@@ -63,11 +61,11 @@ date,repository,clones,views
 2020-12-10,object-detection,10,10
 2020-12-11,object-detection,1,7
 2020-12-12,object-detection,8,16
+2020-12-13,object-detection,6,42
 2020-12-04,object-detection,0,6
 2020-12-05,object-detection,0,12
 2020-12-06,object-detection,0,21
 2020-12-08,object-detection,0,5
-2020-11-29,object-detection-frontend,1,0
 2020-11-30,object-detection-frontend,1,2
 2020-12-01,object-detection-frontend,2,0
 2020-12-03,object-detection-frontend,1,6
@@ -76,10 +74,10 @@ date,repository,clones,views
 2020-12-10,object-detection-frontend,12,1
 2020-12-11,object-detection-frontend,1,0
 2020-12-12,object-detection-frontend,12,8
+2020-12-13,object-detection-frontend,10,10
 2020-12-02,object-detection-frontend,0,3
 2020-12-05,object-detection-frontend,0,1
 2020-12-06,object-detection-frontend,0,39
-2020-11-29,PresentationTechnique,2,0
 2020-11-30,priceminister,0,1
 2020-12-01,priceminister,0,1
 2020-12-04,priceminister,0,2
@@ -97,7 +95,6 @@ date,repository,clones,views
 2020-12-08,rhasspy-handler,0,1
 2020-12-10,rhasspy-handler,0,3
 2020-12-11,rhasspy-handler,0,1
-2020-11-30,stats,5,0
 2020-12-01,stats,6,0
 2020-12-02,stats,6,0
 2020-12-03,stats,3,0
@@ -110,6 +107,7 @@ date,repository,clones,views
 2020-12-10,stats,3,0
 2020-12-11,stats,3,0
 2020-12-12,stats,7,0
+2020-12-13,stats,5,0
 2020-12-02,telegraf-influxdb-grafana-docker,1,13
 2020-12-09,telegraf-influxdb-grafana-docker,1,0
 2020-11-30,telegraf-influxdb-grafana-docker,0,2
