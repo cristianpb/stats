@@ -1,5 +1,4 @@
 date,repository,clones,views
-2020-12-13,analytics-google,6,0
 2020-12-14,analytics-google,3,0
 2020-12-15,analytics-google,5,0
 2020-12-16,analytics-google,4,1
@@ -13,6 +12,7 @@ date,repository,clones,views
 2020-12-24,analytics-google,4,0
 2020-12-25,analytics-google,4,0
 2020-12-26,analytics-google,4,0
+2020-12-27,analytics-google,3,1
 2020-12-21,cristianpb.github.io,7,2
 2020-12-22,cristianpb.github.io,3,0
 2020-12-18,cristianpb.github.io,0,3
@@ -34,7 +34,6 @@ date,repository,clones,views
 2020-12-22,muse,6,48
 2020-12-23,muse,6,20
 2020-12-24,muse,1,0
-2020-12-13,muse,0,32
 2020-12-16,muse,0,3
 2020-12-17,muse,0,3
 2020-12-18,muse,0,11
@@ -42,11 +41,11 @@ date,repository,clones,views
 2020-12-20,muse,0,1
 2020-12-21,muse,0,24
 2020-12-25,muse,0,4
+2020-12-27,muse,0,29
 2020-12-19,mybottender,1,0
 2020-12-20,mybottender,1,0
 2020-12-19,newsapp,1,0
 2020-12-17,ngTwitterApp,1,0
-2020-12-13,object-detection,6,28
 2020-12-15,object-detection,11,68
 2020-12-16,object-detection,12,32
 2020-12-17,object-detection,6,23
@@ -60,7 +59,7 @@ date,repository,clones,views
 2020-12-24,object-detection,0,4
 2020-12-25,object-detection,0,15
 2020-12-26,object-detection,0,8
-2020-12-13,object-detection-frontend,10,10
+2020-12-27,object-detection,0,10
 2020-12-14,object-detection-frontend,2,5
 2020-12-15,object-detection-frontend,29,28
 2020-12-16,object-detection-frontend,19,7
@@ -89,7 +88,6 @@ date,repository,clones,views
 2020-12-22,rhasspy-handler,0,4
 2020-12-24,rhasspy-handler,0,1
 2020-12-25,rhasspy-handler,0,2
-2020-12-14,stats,5,0
 2020-12-15,stats,3,0
 2020-12-16,stats,3,0
 2020-12-17,stats,4,0
@@ -102,6 +100,7 @@ date,repository,clones,views
 2020-12-24,stats,4,0
 2020-12-25,stats,6,0
 2020-12-26,stats,8,0
+2020-12-27,stats,5,0
 2020-12-15,telegraf-influxdb-grafana-docker,1,6
 2020-12-16,telegraf-influxdb-grafana-docker,0,1
 2020-12-17,telegraf-influxdb-grafana-docker,0,7
@@ -121,3 +120,4 @@ date,repository,clones,views
 2020-12-21,vimwiki,0,3
 2020-12-22,vimwiki,0,1
 2020-12-24,vimwiki,0,16
+2020-12-27,vimwiki,0,3
