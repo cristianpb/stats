@@ -1,4 +1,6 @@
+import fs from 'fs';
 import axios from 'axios';
+import { parseString } from '@fast-csv/parse';
 import { createObjectCsvWriter as createCsvWriter } from 'csv-writer';
 
 const config = {
@@ -208,7 +210,30 @@ const asyncWrapper = async () => {
   }
 };
 
+const mergeAnalytics = async () => {
+  const analytics: any = await axios.get('https://raw.githubusercontent.com/cristianpb/analytics-google/data/data.csv');
+  const jekyll_pages: any = await axios.get('https://cristianpb.github.io/api/github-pages.json');
+  console.log(jekyll_pages.data);
+  const readable = parseString(analytics.data, { headers: true })  
+  const agg: any = jekyll_pages.data.map((x: any) => {
+    return {...x, users: 0, sessions: 0}
+  })
+  for await (const chunk of readable) {
+    const pagePath = chunk.pagePath.replace(/\?(.+)/g, '')
+    const itemIdx = agg.findIndex((x: any) => x.url === pagePath)
+    console.log(pagePath, itemIdx);
+    if (itemIdx > -1) {
+      const item = agg[itemIdx]
+      item.users += +chunk.users
+      item.sessions += +chunk.sessions
+      agg.splice(itemIdx, 1, item);
+    }
+  }
+  fs.writeFileSync("data/analytics-pages.json", JSON.stringify(agg));
+};
+
 asyncWrapper();
+mergeAnalytics()
 
 interface Referrer {
   "referrer": string; //"Google";
