@@ -95,6 +95,8 @@ const asyncWrapper = async () => {
 
     let results: Visit[] = [];
     const repositories = [];
+    let detailedVisits: any = [];
+    let detailedReferrers: any = [];
     let indent = 0;
     for (let index = 0; index < repos.length; index++) {
       try {
@@ -149,8 +151,20 @@ const asyncWrapper = async () => {
 
         if (views.count > 0 || clones.count > 0) {
           repositories.push(dataRepo);
-          console.log("Visits", pathsVisits);
-          console.log("Referers", referrers);
+        }
+
+        if (pathsVisits && pathsVisits.length > 0) {
+          pathsVisits.forEach(visit => {
+            visit.repository = repo.name
+          })
+          detailedVisits = [...detailedVisits, ...pathsVisits]
+        }
+
+        if (referrers && referrers.length > 0) {
+          referrers.forEach(referrer => {
+            referrer.repository = repo.name
+          })
+          detailedReferrers = [...detailedReferrers, ...referrers]
         }
 
         indent++;
@@ -183,7 +197,7 @@ const asyncWrapper = async () => {
 
     csvWriterData.writeRecords(repositories)
       .then(() => {
-        console.log('...Done');
+        console.log('...Done writing repositories');
       });
 
 
@@ -199,9 +213,40 @@ const asyncWrapper = async () => {
 
     csvWriter.writeRecords(results)
       .then(() => {
-        console.log('...Done');
+        console.log('...Done writing visits');
       });
 
+    const csvWriterVisits = createCsvWriter({
+      path: `data/github-detailled-visits.csv`,
+      header: [
+        {id: 'path', title: 'path'},
+        {id: 'title', title: 'title'},
+        {id: 'count', title: 'count'},
+        {id: 'uniques', title: 'uniques'},
+        {id: 'repository', title: 'repository'}
+      ]
+    });
+
+    csvWriterVisits.writeRecords(detailedVisits)
+      .then(() => {
+        console.log('...Done writing detailled visits');
+      });
+
+
+    const csvWriterReferrers = createCsvWriter({
+      path: `data/github-referrers.csv`,
+      header: [
+        {id: 'referrer', title: 'referrer'},
+        {id: 'count', title: 'count'},
+        {id: 'uniques', title: 'uniques'},
+        {id: 'repository', title: 'repository'}
+      ]
+    });
+
+    csvWriterReferrers.writeRecords(detailedReferrers)
+      .then(() => {
+        console.log('...Done writing referrers');
+      });
 
 
   }
@@ -213,7 +258,6 @@ const asyncWrapper = async () => {
 const mergeAnalytics = async () => {
   const analytics: any = await axios.get('https://raw.githubusercontent.com/cristianpb/analytics-google/data/data.csv');
   const jekyll_pages: any = await axios.get('https://cristianpb.github.io/api/github-pages.json');
-  console.log(jekyll_pages.data);
   const readable = parseString(analytics.data, { headers: true })  
   const agg: any = jekyll_pages.data.map((x: any) => {
     return {...x, users: 0, sessions: 0}
@@ -221,7 +265,6 @@ const mergeAnalytics = async () => {
   for await (const chunk of readable) {
     const pagePath = chunk.pagePath.replace(/\?(.+)/g, '')
     const itemIdx = agg.findIndex((x: any) => x.url === pagePath)
-    console.log(pagePath, itemIdx);
     if (itemIdx > -1) {
       const item = agg[itemIdx]
       item.users += +chunk.users
@@ -236,16 +279,18 @@ asyncWrapper();
 mergeAnalytics()
 
 interface Referrer {
-  "referrer": string; //"Google";
-  "count": number; //4;
-  "uniques": number; //3;
+  referrer: string; //"Google";
+  count: number; //4;
+  uniques: number; //3;
+  repository?: string;
 }
 
 interface Path {
-  "path": string; //"/github/hubot",
-  "title": string; //"github/hubot: A customizable life embetterment robot.",
-  "count": number; //3542,
-  "uniques": number; //2225
+  path: string; //"/github/hubot",
+  title: string; //"github/hubot: A customizable life embetterment robot.",
+  count: number; //3542,
+  uniques: number; //2225
+  repository?: string; 
 }
 
 interface View {
