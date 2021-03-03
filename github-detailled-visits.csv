@@ -1,6 +1,6 @@
 path,title,count,uniques,repository
 /cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,6,5,analytics-google
-/cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,7,5,cristianpb.github.io
+/cristianpb/cristianpb.github.io,cristianpb/cristianpb.github.io: My website,6,4,cristianpb.github.io
 /cristianpb/cristianpb.github.io/tree/master/_data,cristianpb.github.io/_data at master · cristianpb/cristianpb.github.io,3,2,cristianpb.github.io
 /cristianpb/cristianpb.github.io/blob/master/_layouts/default.html,cristianpb.github.io/default.html at master · cristianpb/cristianpb.github.io,2,2,cristianpb.github.io
 /cristianpb/cristianpb.github.io/tree/master/jekyll_collections,cristianpb.github.io/jekyll_collections at master · cristianpb/cristianpb.git...,2,2,cristianpb.github.io
@@ -11,30 +11,30 @@ path,title,count,uniques,repository
 /cristianpb/cristianpb.github.io/blob/master/_data/about/articles.yml,cristianpb.github.io/articles.yml at master · cristianpb/cristianpb.github.io,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/blob/master/gulpfile.js,cristianpb.github.io/gulpfile.js at master · cristianpb/cristianpb.github.io,1,1,cristianpb.github.io
 /cristianpb/datalab.mi,GitHub - cristianpb/datalab.mi,1,1,datalab.mi
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,16,11,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,13,9,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,6,5,dotfiles
 /cristianpb/dotfiles/branches,Branches · cristianpb/dotfiles,6,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/rc.conf at master · cristianpb/dotfiles · GitHub,5,3,dotfiles
 /cristianpb/dotfiles/tree/master/ranger,dotfiles/ranger at master · cristianpb/dotfiles,3,3,dotfiles
-/cristianpb/dotfiles/tree/master/nvim/.config/nvim,dotfiles/nvim/.config/nvim at master · cristianpb/dotfiles,3,1,dotfiles
 /cristianpb/dotfiles/tree/osx,cristianpb/dotfiles at osx,3,1,dotfiles
 /cristianpb/dotfiles/blob/master/checkmail.sh,dotfiles/checkmail.sh at master · cristianpb/dotfiles,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/.vimrc at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
-/cristianpb/dotfiles/tree/master/i3/.config/i3,dotfiles/i3/.config/i3 at master · cristianpb/dotfiles,2,2,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,32,26,muse
-/cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,8,3,muse
-/cristianpb/muse/actions,Actions · cristianpb/muse · GitHub,2,1,muse
-/cristianpb/muse/issues/20,Add options to play entire folders · Issue #20 · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/dotfiles/tree/master/ranger/.config,dotfiles/ranger/.config at master · cristianpb/dotfiles,2,2,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/scope.sh at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,34,27,muse
+/cristianpb/muse/issues,Issues · cristianpb/muse,6,1,muse
+/cristianpb/muse/blob/master/setup.cfg,muse/setup.cfg at master · cristianpb/muse · GitHub,2,1,muse
+/cristianpb/muse/blob/master/Makefile,muse/Makefile at master · cristianpb/muse,1,1,muse
+/cristianpb/muse/blob/master/README.md,muse/README.md at master · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/commit/0b4fbeb48b0286799c14fa57e65f3e6eaf6314b8,🚚 Change name to Muse · cristianpb/muse@0b4fbeb · GitHub,1,1,muse
+/cristianpb/muse/commits/master,Commits · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/issues/23,"Tunein ""Now Playing"" song info does not update · Issue #23 · cristianpb/muse",1,1,muse
-/cristianpb/muse/issues/7,"Suggestion: Add to readme documentation a list of mopidy ""dependencies"" · Iss...",1,1,muse
-/cristianpb/muse/pulls,Pull requests · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse,1,1,muse
 /cristianpb/muse/tree/master/mopidy_muse/static,muse/mopidy_muse/static at master · cristianpb/muse,1,1,muse
-/cristianpb/muse/tree/master/static,muse/static at master · cristianpb/muse,1,1,muse
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",86,48,object-detection
-/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,28,15,object-detection
+/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,29,15,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,25,14,object-detection
-/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,15,12,object-detection
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,13,10,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,10,6,object-detection
 /cristianpb/object-detection/blob/master/backend/camera.py,object-detection/camera.py at master · cristianpb/object-detection,7,5,object-detection
 /cristianpb/object-detection/tree/master/models/ssd_mobilenet,object-detection/models/ssd_mobilenet at master · cristianpb/object-detection...,7,5,object-detection
@@ -55,17 +55,15 @@ path,title,count,uniques,repository
 /cristianpb/rhasspy-handler/blob/master/src/rhasspymopidy.ts,rhasspy-handler/rhasspymopidy.ts at master · cristianpb/rhasspy-handler,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/commits,Commits · cristianpb/rhasspy-handler,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/pulls,Pull requests · cristianpb/rhasspy-handler,1,1,rhasspy-handler
-/cristianpb/stats/tree/gh-pages,GitHub - cristianpb/stats at gh-pages,12,2,stats
-/cristianpb/stats,GitHub - cristianpb/stats,8,2,stats
-/cristianpb/stats/blob/gh-pages/github-referrers.csv,stats/github-referrers.csv at gh-pages · cristianpb/stats · GitHub,4,2,stats
-/cristianpb/stats/blob/gh-pages/github-detailled-visits.csv,stats/github-detailled-visits.csv at gh-pages · cristianpb/stats · GitHub,3,2,stats
-/cristianpb/stats/branches,Branches · cristianpb/stats,3,1,stats
-/cristianpb/stats/blob/gh-pages/analytics-pages.json,stats/analytics-pages.json at gh-pages · cristianpb/stats,2,1,stats
+/cristianpb/stats/tree/gh-pages,GitHub - cristianpb/stats at gh-pages,7,2,stats
+/cristianpb/stats,GitHub - cristianpb/stats,5,2,stats
+/cristianpb/stats/blob/gh-pages/github-referrers.csv,stats/github-referrers.csv at gh-pages · cristianpb/stats · GitHub,3,2,stats
+/cristianpb/stats/blob/gh-pages/github-detailled-visits.csv,stats/github-detailled-visits.csv at gh-pages · cristianpb/stats · GitHub,2,2,stats
+/cristianpb/stats/branches,Branches · cristianpb/stats,2,1,stats
 /cristianpb/stats/actions,Actions · cristianpb/stats · GitHub,1,1,stats
-/cristianpb/stats/blob/gh-pages/github-repositories.csv,stats/github-repositories.csv at gh-pages · cristianpb/stats,1,1,stats
-/cristianpb/stats/tree/master/.github/workflows,stats/.github/workflows at master · cristianpb/stats,1,1,stats
+/cristianpb/stats/blob/gh-pages/analytics-pages.json,stats/analytics-pages.json at gh-pages · cristianpb/stats,1,1,stats
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",18,11,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,11,3,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,10,3,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,6,5,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,3,3,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/influxdb,telegraf-influxdb-grafana-docker/docker/influxdb at master · cristianpb/teleg...,3,3,telegraf-influxdb-grafana-docker
@@ -82,7 +80,7 @@ path,title,count,uniques,repository
 /cristianpb/temp-sigfox/network/members,Forks · cristianpb/temp-sigfox · GitHub,1,1,temp-sigfox
 /cristianpb/temp-sigfox/tree/master/micropython,temp-sigfox/micropython at master · cristianpb/temp-sigfox · GitHub,1,1,temp-sigfox
 /cristianpb/temp-sigfox/watchers,Watchers · cristianpb/temp-sigfox · GitHub,1,1,temp-sigfox
-/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,13,5,vimwiki
+/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,12,4,vimwiki
 /cristianpb/vimwiki/branches,Branches · cristianpb/vimwiki,7,1,vimwiki
 /cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki,7,1,vimwiki
 /cristianpb/vimwiki/tree/gh-pages,cristianpb/vimwiki at gh-pages,4,1,vimwiki
