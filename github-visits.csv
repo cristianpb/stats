@@ -1,6 +1,5 @@
 date,repository,clones,views
 2021-03-16,alchemy-machine,1,0
-2021-03-07,analytics-google,6,0
 2021-03-08,analytics-google,3,0
 2021-03-09,analytics-google,3,0
 2021-03-10,analytics-google,4,1
@@ -14,9 +13,9 @@ date,repository,clones,views
 2021-03-18,analytics-google,2,0
 2021-03-19,analytics-google,4,0
 2021-03-20,analytics-google,3,0
+2021-03-21,analytics-google,5,1
 2021-03-16,backend,1,0
-2021-03-07,cristianpb,7,0
-2021-03-08,cristianpb,8,6
+2021-03-08,cristianpb,7,6
 2021-03-09,cristianpb,8,0
 2021-03-10,cristianpb,17,19
 2021-03-11,cristianpb,8,0
@@ -29,6 +28,7 @@ date,repository,clones,views
 2021-03-18,cristianpb,8,0
 2021-03-19,cristianpb,8,0
 2021-03-20,cristianpb,8,0
+2021-03-21,cristianpb,8,0
 2021-03-09,cristianpb.github.io,1,0
 2021-03-11,cristianpb.github.io,1,0
 2021-03-10,cristianpb.github.io,0,1
@@ -38,7 +38,6 @@ date,repository,clones,views
 2021-03-15,deces-backend,11,60
 2021-03-16,deces-backend,0,5
 2021-03-13,deces-dataprep,1,0
-2021-03-07,dotfiles,1,23
 2021-03-10,dotfiles,1,6
 2021-03-15,dotfiles,1,11
 2021-03-16,dotfiles,2,1
@@ -50,6 +49,7 @@ date,repository,clones,views
 2021-03-17,dotfiles,0,3
 2021-03-18,dotfiles,0,3
 2021-03-20,dotfiles,0,2
+2021-03-21,dotfiles,0,15
 2021-03-09,gswsr,1,0
 2021-03-10,hubot-ratp,1,0
 2021-03-11,hubot-ratp,0,3
@@ -57,7 +57,7 @@ date,repository,clones,views
 2021-03-10,muse,2,1
 2021-03-18,muse,1,1
 2021-03-20,muse,1,0
-2021-03-07,muse,0,10
+2021-03-21,muse,1,11
 2021-03-09,muse,0,1
 2021-03-11,muse,0,3
 2021-03-12,muse,0,3
@@ -66,12 +66,11 @@ date,repository,clones,views
 2021-03-16,muse,0,6
 2021-03-17,muse,0,1
 2021-03-19,muse,0,25
-2021-03-07,object-detection,1,7
 2021-03-14,object-detection,1,4
 2021-03-17,object-detection,1,41
 2021-03-19,object-detection,4,11
-2021-03-20,object-detection,1,24
-2021-03-08,object-detection,0,13
+2021-03-20,object-detection,1,25
+2021-03-08,object-detection,0,12
 2021-03-09,object-detection,0,14
 2021-03-10,object-detection,0,2
 2021-03-11,object-detection,0,27
@@ -80,6 +79,7 @@ date,repository,clones,views
 2021-03-15,object-detection,0,22
 2021-03-16,object-detection,0,15
 2021-03-18,object-detection,0,27
+2021-03-21,object-detection,0,2
 2021-03-15,object-detection-frontend,1,0
 2021-03-17,object-detection-frontend,1,7
 2021-03-19,object-detection-frontend,3,1
@@ -87,7 +87,7 @@ date,repository,clones,views
 2021-03-14,object-detection-frontend,0,1
 2021-03-16,object-detection-frontend,0,6
 2021-03-18,object-detection-frontend,0,2
-2021-03-20,object-detection-frontend,0,5
+2021-03-20,object-detection-frontend,0,6
 2021-03-14,piac-bot,1,0
 2021-03-09,PresentationTechnique,1,0
 2021-03-17,PresentationTechnique,1,0
@@ -95,14 +95,13 @@ date,repository,clones,views
 2021-03-19,priceminister,1,0
 2021-03-20,priceminister,1,0
 2021-03-13,qrcode-reader,1,0
-2021-03-07,rhasspy-handler,1,1
 2021-03-13,rhasspy-handler,1,2
 2021-03-08,rhasspy-handler,0,1
 2021-03-09,rhasspy-handler,0,4
 2021-03-16,rhasspy-handler,0,1
 2021-03-19,rhasspy-handler,0,3
+2021-03-21,rhasspy-handler,0,5
 2021-03-18,simple-streaming-gateway,1,0
-2021-03-08,stats,3,0
 2021-03-09,stats,5,0
 2021-03-10,stats,6,4
 2021-03-11,stats,4,0
@@ -115,10 +114,12 @@ date,repository,clones,views
 2021-03-18,stats,4,0
 2021-03-19,stats,3,0
 2021-03-20,stats,6,0
+2021-03-21,stats,6,0
 2021-03-11,telegraf-influxdb-grafana-docker,2,20
 2021-03-15,telegraf-influxdb-grafana-docker,2,24
 2021-03-17,telegraf-influxdb-grafana-docker,1,3
 2021-03-20,telegraf-influxdb-grafana-docker,1,38
+2021-03-21,telegraf-influxdb-grafana-docker,2,1
 2021-03-08,telegraf-influxdb-grafana-docker,0,16
 2021-03-09,telegraf-influxdb-grafana-docker,0,6
 2021-03-12,telegraf-influxdb-grafana-docker,0,11
@@ -131,8 +132,8 @@ date,repository,clones,views
 2021-03-14,vimwiki,1,2
 2021-03-16,vimwiki,2,0
 2021-03-17,vimwiki,1,1
-2021-03-07,vimwiki,0,42
 2021-03-09,vimwiki,0,1
 2021-03-18,vimwiki,0,1
 2021-03-19,vimwiki,0,1
 2021-03-20,vimwiki,0,12
+2021-03-21,vimwiki,0,3
