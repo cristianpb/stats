@@ -1,5 +1,4 @@
 date,repository,clones,views
-2021-04-12,analytics-google,2,5
 2021-04-13,analytics-google,4,0
 2021-04-14,analytics-google,7,1
 2021-04-15,analytics-google,4,0
@@ -13,8 +12,8 @@ date,repository,clones,views
 2021-04-23,analytics-google,3,1
 2021-04-24,analytics-google,3,0
 2021-04-25,analytics-google,2,0
-2021-04-12,cristianpb,7,0
-2021-04-13,cristianpb,8,0
+2021-04-26,analytics-google,2,0
+2021-04-13,cristianpb,7,0
 2021-04-14,cristianpb,8,0
 2021-04-15,cristianpb,8,0
 2021-04-16,cristianpb,8,0
@@ -27,10 +26,12 @@ date,repository,clones,views
 2021-04-23,cristianpb,8,0
 2021-04-24,cristianpb,8,0
 2021-04-25,cristianpb,8,0
+2021-04-26,cristianpb,8,0
 2021-04-17,cristianpb.github.io,0,1
+2021-04-26,cristianpb.github.io,0,1
 2021-04-14,deces-dataprep,0,7
 2021-04-22,dotfiles,1,1
-2021-04-12,dotfiles,0,7
+2021-04-26,dotfiles,1,17
 2021-04-13,dotfiles,0,2
 2021-04-14,dotfiles,0,5
 2021-04-15,dotfiles,0,1
@@ -43,8 +44,8 @@ date,repository,clones,views
 2021-04-25,dotfiles,0,10
 2021-04-14,hubot-ratp,1,0
 2021-04-14,hubot-velib,1,0
-2021-04-12,muse,1,5
 2021-04-24,muse,1,3
+2021-04-26,muse,1,30
 2021-04-13,muse,0,41
 2021-04-14,muse,0,45
 2021-04-15,muse,0,2
@@ -60,7 +61,6 @@ date,repository,clones,views
 2021-04-20,object-detection,1,37
 2021-04-22,object-detection,2,34
 2021-04-23,object-detection,5,36
-2021-04-12,object-detection,0,5
 2021-04-13,object-detection,0,65
 2021-04-14,object-detection,0,7
 2021-04-15,object-detection,0,37
@@ -70,6 +70,7 @@ date,repository,clones,views
 2021-04-21,object-detection,0,6
 2021-04-24,object-detection,0,6
 2021-04-25,object-detection,0,7
+2021-04-26,object-detection,0,6
 2021-04-14,object-detection-frontend,1,2
 2021-04-17,object-detection-frontend,1,6
 2021-04-22,object-detection-frontend,1,0
@@ -89,11 +90,9 @@ date,repository,clones,views
 2021-04-20,rhasspy-handler,0,2
 2021-04-21,rhasspy-handler,0,1
 2021-04-25,rhasspy-handler,0,1
-2021-04-12,simple-streaming-gateway,1,0
 2021-04-16,simple-streaming-gateway,1,2
 2021-04-22,simple-streaming-gateway,1,0
 2021-04-23,simple-streaming-gateway,1,0
-2021-04-13,stats,3,0
 2021-04-14,stats,4,0
 2021-04-15,stats,7,0
 2021-04-16,stats,5,0
@@ -106,7 +105,8 @@ date,repository,clones,views
 2021-04-23,stats,3,0
 2021-04-24,stats,5,0
 2021-04-25,stats,5,0
-2021-04-13,telegraf-influxdb-grafana-docker,1,31
+2021-04-26,stats,3,0
+2021-04-13,telegraf-influxdb-grafana-docker,1,30
 2021-04-18,telegraf-influxdb-grafana-docker,2,0
 2021-04-15,telegraf-influxdb-grafana-docker,0,1
 2021-04-16,telegraf-influxdb-grafana-docker,0,35
@@ -123,3 +123,4 @@ date,repository,clones,views
 2021-04-16,vimwiki,0,5
 2021-04-24,vimwiki,0,7
 2021-04-25,vimwiki,0,18
+2021-04-26,vimwiki,0,6
