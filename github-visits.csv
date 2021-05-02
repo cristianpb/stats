@@ -1,5 +1,4 @@
 date,repository,clones,views
-2021-04-17,analytics-google,4,0
 2021-04-18,analytics-google,3,0
 2021-04-19,analytics-google,3,0
 2021-04-20,analytics-google,5,0
@@ -13,10 +12,10 @@ date,repository,clones,views
 2021-04-28,analytics-google,6,2
 2021-04-29,analytics-google,3,0
 2021-04-30,analytics-google,6,1
+2021-05-01,analytics-google,5,0
 2021-04-30,aws-lambda-cv,1,1
 2021-04-30,backend,0,1
-2021-04-17,cristianpb,7,0
-2021-04-18,cristianpb,8,0
+2021-04-18,cristianpb,7,0
 2021-04-19,cristianpb,8,0
 2021-04-20,cristianpb,8,0
 2021-04-21,cristianpb,8,0
@@ -29,8 +28,8 @@ date,repository,clones,views
 2021-04-28,cristianpb,8,0
 2021-04-29,cristianpb,8,0
 2021-04-30,cristianpb,8,0
+2021-05-01,cristianpb,8,0
 2021-04-30,cristianpb.github.io,3,1
-2021-04-17,cristianpb.github.io,0,1
 2021-04-26,cristianpb.github.io,0,1
 2021-04-22,dotfiles,1,1
 2021-04-26,dotfiles,1,17
@@ -44,9 +43,10 @@ date,repository,clones,views
 2021-04-27,dotfiles,0,19
 2021-04-28,dotfiles,0,1
 2021-04-29,dotfiles,0,8
+2021-05-01,dotfiles,0,3
+2021-05-01,gswsr,1,0
 2021-04-24,muse,1,3
 2021-04-26,muse,1,30
-2021-04-17,muse,0,13
 2021-04-18,muse,0,1
 2021-04-19,muse,0,4
 2021-04-20,muse,0,5
@@ -56,7 +56,7 @@ date,repository,clones,views
 2021-04-27,muse,0,2
 2021-04-28,muse,0,3
 2021-04-30,muse,0,1
-2021-04-17,object-detection,2,18
+2021-05-01,newsapp,1,0
 2021-04-20,object-detection,1,37
 2021-04-22,object-detection,2,34
 2021-04-23,object-detection,5,36
@@ -70,16 +70,18 @@ date,repository,clones,views
 2021-04-26,object-detection,0,6
 2021-04-27,object-detection,0,12
 2021-04-30,object-detection,0,19
-2021-04-17,object-detection-frontend,1,6
+2021-05-01,object-detection,0,18
 2021-04-22,object-detection-frontend,1,0
 2021-04-23,object-detection-frontend,4,1
 2021-04-29,object-detection-frontend,1,3
+2021-05-01,object-detection-frontend,1,1
 2021-04-19,object-detection-frontend,0,4
 2021-04-20,object-detection-frontend,0,1
 2021-04-24,object-detection-frontend,0,1
 2021-04-27,object-detection-frontend,0,1
 2021-04-28,object-detection-frontend,0,2
 2021-04-30,qrcode-reader,0,1
+2021-05-01,rhasspy-handler,1,3
 2021-04-18,rhasspy-handler,0,2
 2021-04-19,rhasspy-handler,0,3
 2021-04-20,rhasspy-handler,0,2
@@ -91,7 +93,6 @@ date,repository,clones,views
 2021-04-22,simple-streaming-gateway,1,0
 2021-04-23,simple-streaming-gateway,1,0
 2021-04-30,simple-streaming-gateway,0,1
-2021-04-18,stats,4,0
 2021-04-19,stats,3,0
 2021-04-20,stats,5,0
 2021-04-21,stats,4,0
@@ -104,6 +105,7 @@ date,repository,clones,views
 2021-04-28,stats,4,0
 2021-04-29,stats,3,0
 2021-04-30,stats,4,1
+2021-05-01,stats,8,0
 2021-04-18,telegraf-influxdb-grafana-docker,2,0
 2021-04-19,telegraf-influxdb-grafana-docker,0,1
 2021-04-20,telegraf-influxdb-grafana-docker,0,1
@@ -113,9 +115,11 @@ date,repository,clones,views
 2021-04-28,telegraf-influxdb-grafana-docker,0,7
 2021-04-29,telegraf-influxdb-grafana-docker,0,1
 2021-04-23,tkasme,1,0
+2021-05-01,tkasme,1,0
 2021-04-18,vimwiki,8,1
 2021-04-20,vimwiki,1,0
 2021-04-24,vimwiki,0,7
 2021-04-25,vimwiki,0,18
 2021-04-26,vimwiki,0,6
 2021-04-30,vimwiki,0,3
+2021-05-01,vimwiki,0,3
