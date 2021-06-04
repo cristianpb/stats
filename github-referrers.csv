@@ -5,14 +5,15 @@ cristianpb.github.io,1,1,cristianpb.github.io
 dotfiles.github.io,3,3,dotfiles
 discourse.gohugo.io,2,2,dotfiles
 github.com,1,1,dotfiles
+cristianpb.github.io,1,1,dotfiles
 Google,1,1,dotfiles
 mopidy.com,12,10,muse
 cristianpb.github.io,3,2,muse
 StartPage,1,1,muse
 hub.docker.com,1,1,muse
-cristianpb.github.io,29,22,object-detection
-github.com,10,9,object-detection
-hackster.io,7,5,object-detection
+cristianpb.github.io,34,24,object-detection
+github.com,12,10,object-detection
+hackster.io,6,4,object-detection
 Google,2,2,object-detection
 vimsky.com,1,1,object-detection
 DuckDuckGo,1,1,object-detection
@@ -27,3 +28,4 @@ medium.com,2,2,telegraf-influxdb-grafana-docker
 cristianpb-github-io.cdn.ampproject.org,1,1,telegraf-influxdb-grafana-docker
 forum.micropython.org,2,1,temp-sigfox
 github.com,1,1,vimwiki
+cristianpb.github.io,1,1,vimwiki
