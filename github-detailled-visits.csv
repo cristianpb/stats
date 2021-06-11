@@ -1,51 +1,57 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,cristianpb/analytics-google: Google analytics from cristianpb.github.io,4,4,analytics-google
+/cristianpb/analytics-google,cristianpb/analytics-google: Google analytics from cristianpb.github.io,5,5,analytics-google
 /cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google,3,1,analytics-google
+/cristianpb/analytics-google/tree/master/cypress,analytics-google/cypress at master · cristianpb/analytics-google,2,2,analytics-google
 /cristianpb/analytics-google/tree/master/static,analytics-google/static at master · cristianpb/analytics-google,2,1,analytics-google
 /cristianpb/analytics-google/blob/master/src/template.html,analytics-google/template.html at master · cristianpb/analytics-google,1,1,analytics-google
-/cristianpb/analytics-google/tree/master/cypress,analytics-google/cypress at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/analytics-google/tree/master/src/components,analytics-google/src/components at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/cristianpb,GitHub - cristianpb/cristianpb,4,2,cristianpb
 /cristianpb/cristianpb/actions,Actions · cristianpb/cristianpb · GitHub,3,1,cristianpb
 /cristianpb/cristianpb/tree/main/.github/workflows,cristianpb/.github/workflows at main · cristianpb/cristianpb · GitHub,2,2,cristianpb
 /cristianpb/cristianpb/actions/runs/909545139,👷 Add CI to update README · cristianpb/cristianpb@b618526 · GitHub,1,1,cristianpb
 /cristianpb/cristianpb/blob/main/.github/workflows/main.yml,cristianpb/main.yml at main · cristianpb/cristianpb · GitHub,1,1,cristianpb
-/cristianpb/cristianpb.github.io,cristianpb/cristianpb.github.io: My website,2,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io,cristianpb/cristianpb.github.io: My website,3,2,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions,Actions · cristianpb/cristianpb.github.io,2,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/909717672,➕ Add hydroponic agriculture learning article · cristianpb/cristianpb.github....,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/blob/master/gulpfile.js,cristianpb.github.io/gulpfile.js at master · cristianpb/cristianpb.github.io ...,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/pulls,Pull requests · cristianpb/cristianpb.github.io,1,1,cristianpb.github.io
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,11,9,dotfiles
+/cristianpb/cristianpb.github.io/tree/dependabot/bundler%2Fkramdown-2.3.1,cristianpb/cristianpb.github.io at dependabot/bundler/kramdown-2.3.1,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/tree/dependabot/bundler/kramdown-2.3.1/jekyll_collections,cristianpb.github.io/jekyll_collections at dependabot/bundler/kramdown-2.3.1 ...,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/tree/dependabot/bundler/kramdown-2.3.1/jekyll_collections/_blog,cristianpb.github.io/jekyll_collections/_blog at dependabot/bundler/kramdown-...,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/tree/dependabot/bundler/kramdown-2.3.1/jekyll_collections/_posts,cristianpb.github.io/jekyll_collections/_posts at dependabot/bundler/kramdown...,1,1,cristianpb.github.io
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,13,10,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,8,6,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/rc.conf at master · cristianpb/dotfiles,5,4,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands.py,dotfiles/commands.py at master · cristianpb/dotfiles,3,3,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/scope.sh at master · cristianpb/dotfiles,3,3,dotfiles
+/cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/.vimrc at master · cristianpb/dotfiles · GitHub,3,3,dotfiles
 /cristianpb/dotfiles/blob/master/R/.Rprofile,dotfiles/.Rprofile at master · cristianpb/dotfiles · GitHub,3,2,dotfiles
 /cristianpb/dotfiles/tree/master/R,dotfiles/R at master · cristianpb/dotfiles · GitHub,3,2,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands_full.py,dotfiles/commands_full.py at master · cristianpb/dotfiles,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/rifle.conf at master · cristianpb/dotfiles,2,2,dotfiles
-/cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/.vimrc at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,28,21,muse
+/cristianpb/mask-detection,cristianpb/mask-detection,1,1,mask-detection
+/cristianpb/mask-detection/tree/master/src,mask-detection/src at master · cristianpb/mask-detection,1,1,mask-detection
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,35,23,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse,3,2,muse
 /cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse · GitHub,2,2,muse
 /cristianpb/muse/pulls,Pull requests · cristianpb/muse,2,1,muse
+/cristianpb/muse/releases/tag/v0.0.25,Release Release v0.0.25 · cristianpb/muse,2,1,muse
 /cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse,2,1,muse
 /cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse,1,1,muse
 /cristianpb/muse/blob/master/Dockerfile-base,muse/Dockerfile-base at master · cristianpb/muse,1,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/mopidy.conf,muse/mopidy.conf at master · cristianpb/muse,1,1,muse
 /cristianpb/muse/blob/master/src/client.js,muse/client.js at master · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/muse/blob/master/src/server.js,muse/server.js at master · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",43,31,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",47,33,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,18,13,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,14,12,object-detection
-/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,7,5,object-detection
+/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,9,6,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,7,3,object-detection
 /cristianpb/object-detection/tree/master/models/ssd_mobilenet,object-detection/models/ssd_mobilenet at master · cristianpb/object-detection,3,2,object-detection
 /cristianpb/object-detection/tree/master/models/yolo,object-detection/models/yolo at master · cristianpb/object-detection,3,1,object-detection
 /cristianpb/object-detection/blob/master/backend/camera.py,object-detection/camera.py at master · cristianpb/object-detection · GitHub,2,2,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_trt_detection.py,object-detection/ssd_trt_detection.py at master · cristianpb/object-detection,2,1,object-detection
 /cristianpb/object-detection/blob/master/README.md,object-detection/README.md at master · cristianpb/object-detection · GitHub,2,1,object-detection
-/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,2,2,object-detection-frontend
+/cristianpb/object-detection-frontend,cristianpb/object-detection-frontend: Frontend Angular application for object...,1,1,object-detection-frontend
 /cristianpb/piac-bot,cristianpb/piac-bot,1,1,piac-bot
 /cristianpb/piac-bot/blob/master/src/App.svelte,piac-bot/App.svelte at master · cristianpb/piac-bot,1,1,piac-bot
 /cristianpb/piac-bot/blob/master/src/main.js,piac-bot/main.js at master · cristianpb/piac-bot,1,1,piac-bot
@@ -65,13 +71,13 @@ path,title,count,uniques,repository
 /cristianpb/temp-sigfox/blob/master/micropython/boot.py,temp-sigfox/boot.py at master · cristianpb/temp-sigfox,2,1,temp-sigfox
 /cristianpb/temp-sigfox,cristianpb/temp-sigfox: Micropython code to send data from the ESP8266 using ...,1,1,temp-sigfox
 /cristianpb/temp-sigfox/tree/master/micropython,temp-sigfox/micropython at master · cristianpb/temp-sigfox,1,1,temp-sigfox
-/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,9,6,vimwiki
+/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,11,7,vimwiki
+/cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki · GitHub,5,3,vimwiki
 /cristianpb/vimwiki/blob/master/config.toml,vimwiki/config.toml at master · cristianpb/vimwiki · GitHub,3,3,vimwiki
-/cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki · GitHub,3,2,vimwiki
 /cristianpb/vimwiki/blob/master/config-gh.toml,vimwiki/config-gh.toml at master · cristianpb/vimwiki · GitHub,2,2,vimwiki
+/cristianpb/vimwiki/tree/master/layouts,vimwiki/layouts at master · cristianpb/vimwiki · GitHub,2,2,vimwiki
 /cristianpb/vimwiki/blob/gh-pages/index.html,vimwiki/index.html at gh-pages · cristianpb/vimwiki · GitHub,1,1,vimwiki
 /cristianpb/vimwiki/blob/master/assets/css/dark.css,vimwiki/dark.css at master · cristianpb/vimwiki,1,1,vimwiki
+/cristianpb/vimwiki/blob/master/content/remote.it,vimwiki/remote.it at master · cristianpb/vimwiki,1,1,vimwiki
 /cristianpb/vimwiki/blob/master/.github/workflows/publish.yml,vimwiki/publish.yml at master · cristianpb/vimwiki,1,1,vimwiki
 /cristianpb/vimwiki/blob/master/layouts/index.html,vimwiki/index.html at master · cristianpb/vimwiki · GitHub,1,1,vimwiki
-/cristianpb/vimwiki/issues,Issues · cristianpb/vimwiki · GitHub,1,1,vimwiki
-/cristianpb/vimwiki/network/members,Forks · cristianpb/vimwiki · GitHub,1,1,vimwiki
