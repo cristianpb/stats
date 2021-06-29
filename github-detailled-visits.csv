@@ -1,40 +1,32 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,6,3,analytics-google
+/cristianpb/analytics-google,cristianpb/analytics-google: Google analytics from cristianpb.github.io,4,2,analytics-google
 /cristianpb/aws-lambda-cv,"cristianpb/aws-lambda-cv: Computer Vision, with AWS Lambda",1,1,aws-lambda-cv
 /cristianpb/cristianpb,GitHub - cristianpb/cristianpb,1,1,cristianpb
-/cristianpb/cristianpb.github.io/actions,Actions · cristianpb/cristianpb.github.io,2,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io,cristianpb/cristianpb.github.io: My website,1,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io/actions/runs/938641559,🎨 Add config file for local build in order to avoid redirect · cristianpb/cr...,1,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io/actions/runs/938669188,🎨 Add config file for local build in order to avoid redirect · cristianpb/cr...,1,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io/blob/ff8de5fa2702bf23a27631d54e8378d771303f68/.github/workflows/jekyll-algolia.yml,cristianpb.github.io/jekyll-algolia.yml at ff8de5fa2702bf23a27631d54e8378d771...,1,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io/blob/ff8de5fa2702bf23a27631d54e8378d771303f68/package.json,cristianpb.github.io/package.json at ff8de5fa2702bf23a27631d54e8378d771303f68...,1,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io/tree/ff8de5fa2702bf23a27631d54e8378d771303f68,cristianpb/cristianpb.github.io at ff8de5fa2702bf23a27631d54e8378d771303f68,1,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io/tree/ff8de5fa2702bf23a27631d54e8378d771303f68/.github/workflows,cristianpb.github.io/.github/workflows at ff8de5fa2702bf23a27631d54e8378d7713...,1,1,cristianpb.github.io
-/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,12,4,dotfiles
+/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,11,3,dotfiles
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,9,7,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/rc.conf at master · cristianpb/dotfiles · GitHub,6,4,dotfiles
 /cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/.vimrc at master · cristianpb/dotfiles · GitHub,5,5,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/rifle.conf at master · cristianpb/dotfiles,5,3,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/rc.conf at master · cristianpb/dotfiles · GitHub,5,3,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands.py,dotfiles/commands.py at master · cristianpb/dotfiles · GitHub,4,3,dotfiles
 /cristianpb/dotfiles/tree/master/vim,dotfiles/vim at master · cristianpb/dotfiles · GitHub,3,3,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/rifle.conf at master · cristianpb/dotfiles,3,2,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands_full.py,dotfiles/commands_full.py at master · cristianpb/dotfiles,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/scope.sh at master · cristianpb/dotfiles,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/wiki2html.sh,dotfiles/wiki2html.sh at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,17,14,muse
-/cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,5,2,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,16,13,muse
 /cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse · GitHub,2,2,muse
 /cristianpb/muse/blob/master/MANIFEST.in,muse/MANIFEST.in at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/ext.conf,muse/ext.conf at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/mopidy.conf,muse/mopidy.conf at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/blob/master/src/client.js,muse/client.js at master · cristianpb/muse,1,1,muse
 /cristianpb/muse/blob/master/src/components/AddToPlaylist.svelte,muse/AddToPlaylist.svelte at master · cristianpb/muse,1,1,muse
-/cristianpb/muse/issues/22,Search returns nothing if nothing found in the first search provider · Issue ...,1,1,muse
+/cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/issues/26,Browsing files does not update web browser history · Issue #26 · cristianpb/m...,1,1,muse
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",41,31,object-detection
-/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,12,7,object-detection
-/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,11,10,object-detection
-/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,10,7,object-detection
-/cristianpb/object-detection/blob/master/backend/motion.py,object-detection/motion.py at master · cristianpb/object-detection · GitHub,6,4,object-detection
+/cristianpb/muse/issues/34,"Desktop browsers - navbar covers ""Play now"" for first track in a playlist · I...",1,1,muse
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",40,30,object-detection
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,14,8,object-detection
+/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,13,12,object-detection
+/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,9,6,object-detection
+/cristianpb/object-detection/blob/master/backend/motion.py,object-detection/motion.py at master · cristianpb/object-detection · GitHub,5,3,object-detection
 /cristianpb/object-detection/blob/df1fac5a4be2e3c228efae32d9b9db92fbf8ab11/backend/utils.py,object-detection/utils.py at df1fac5a4be2e3c228efae32d9b9db92fbf8ab11 · crist...,5,1,object-detection
 /cristianpb/object-detection/blob/master/tests/test_detection.py,object-detection/test_detection.py at master · cristianpb/object-detection · ...,4,2,object-detection
 /cristianpb/object-detection/blob/master/backend/base_camera.py,object-detection/base_camera.py at master · cristianpb/object-detection,3,3,object-detection
@@ -42,7 +34,7 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/blob/master/requirements.txt,object-detection/requirements.txt at master · cristianpb/object-detection · G...,3,2,object-detection
 /cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,6,5,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/src,object-detection-frontend/src at master · cristianpb/object-detection-frontend,1,1,object-detection-frontend
-/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",9,8,rhasspy-handler
+/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",8,7,rhasspy-handler
 /cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/blob/master/src/rhasspymopidy.ts,rhasspy-handler/rhasspymopidy.ts at master · cristianpb/rhasspy-handler · Git...,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/tree/master/src,rhasspy-handler/src at master · cristianpb/rhasspy-handler · GitHub,1,1,rhasspy-handler
