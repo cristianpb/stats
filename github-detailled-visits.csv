@@ -10,7 +10,7 @@ path,title,count,uniques,repository
 /cristianpb/cristianpb.github.io/blob/master/jekyll_collections/_blog/index.html,cristianpb.github.io/index.html at master · cristianpb/cristianpb.github.io ·...,2,2,cristianpb.github.io
 /cristianpb/cristianpb.github.io/tree/master/jekyll_collections,cristianpb.github.io/jekyll_collections at master · cristianpb/cristianpb.git...,2,2,cristianpb.github.io
 /cristianpb/cristianpb.github.io/tree/master/jekyll_collections/_blog,cristianpb.github.io/jekyll_collections/_blog at master · cristianpb/cristian...,2,2,cristianpb.github.io
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,15,11,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,13,10,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,8,4,dotfiles
 /cristianpb/dotfiles/blob/master/i3/.config/i3/config,dotfiles/config at master · cristianpb/dotfiles · GitHub,7,4,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config,dotfiles/ranger/.config at master · cristianpb/dotfiles · GitHub,5,1,dotfiles
@@ -28,30 +28,29 @@ path,title,count,uniques,repository
 /cristianpb/matchid-backend/blob/feat/referential_data/.github/workflows/referential_data.yml,matchid-backend/referential_data.yml at feat/referential_data · cristianpb/ma...,1,1,matchid-backend
 /cristianpb/matchid-backend/tree/dev/.github/workflows,matchid-backend/.github/workflows at dev · cristianpb/matchid-backend,1,1,matchid-backend
 /cristianpb/matchid-backend/tree/feat/referential_data/.github/workflows,matchid-backend/.github/workflows at feat/referential_data · cristianpb/match...,1,1,matchid-backend
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,13,12,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,15,14,muse
+/cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse · GitHub,4,2,muse
+/cristianpb/muse/issues,Issues · cristianpb/muse,3,3,muse
 /cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse · GitHub,2,2,muse
-/cristianpb/muse/issues,Issues · cristianpb/muse,2,2,muse
+/cristianpb/muse/tree/master/src/components,muse/src/components at master · cristianpb/muse · GitHub,2,2,muse
+/cristianpb/muse/tree/master/src/tools,muse/src/tools at master · cristianpb/muse · GitHub,2,2,muse
 /cristianpb/muse/actions/runs/121509959/workflow,💚 Bump version automatically in package-lock.json · cristianpb/muse@80c3cb5,2,1,muse
-/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/muse/blob/master/Dockerfile-base,muse/Dockerfile-base at master · cristianpb/muse,1,1,muse
-/cristianpb/muse/blob/master/src/components/SnapClients.svelte,muse/SnapClients.svelte at master · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/muse/issues/4,How to get snapcast control working? · Issue #4 · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/muse/tree/master/src/components,muse/src/components at master · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",46,23,object-detection
-/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,24,21,object-detection
-/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,10,9,object-detection
-/cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection,8,4,object-detection
-/cristianpb/object-detection/commit/711f674fdc6649c4f3d55e6dba0089c66e148037,🎨 Launch app using flask executable script · cristianpb/object-detection@711...,7,1,object-detection
-/cristianpb/object-detection/blob/master/tests/test_detection.py,object-detection/test_detection.py at master · cristianpb/object-detection · ...,4,2,object-detection
+/cristianpb/muse/blob/b709e95519d76d15cc76dd7fbe01e92b558a016d/cypress/integration/spec.js,muse/spec.js at b709e95519d76d15cc76dd7fbe01e92b558a016d · cristianpb/muse,1,1,muse
+/cristianpb/muse/blob/b709e95519d76d15cc76dd7fbe01e92b558a016d/src/routes/search.svelte,muse/search.svelte at b709e95519d76d15cc76dd7fbe01e92b558a016d · cristianpb/m...,1,1,muse
+/cristianpb/muse/blob/b709e95519d76d15cc76dd7fbe01e92b558a016d/src/server.js,muse/server.js at b709e95519d76d15cc76dd7fbe01e92b558a016d · cristianpb/muse,1,1,muse
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",41,27,object-detection
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,27,25,object-detection
+/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,14,12,object-detection
+/cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection,6,2,object-detection
+/cristianpb/object-detection/commit/711f674fdc6649c4f3d55e6dba0089c66e148037,🎨 Launch app using flask executable script · cristianpb/object-detection@711...,5,1,object-detection
 /cristianpb/object-detection/tree/master/models/ssd_mobilenet,object-detection/models/ssd_mobilenet at master · cristianpb/object-detection,4,2,object-detection
-/cristianpb/object-detection/tree/master/tests,object-detection/tests at master · cristianpb/object-detection · GitHub,3,2,object-detection
 /cristianpb/object-detection/blob/master/models/ssd_mobilenet/labels.json,object-detection/labels.json at master · cristianpb/object-detection,2,2,object-detection
 /cristianpb/object-detection/blob/master/models/ssd_mobilenet/ssd_mobilenet_v2_coco_2018_03_29.pbtxt,object-detection/ssd_mobilenet_v2_coco_2018_03_29.pbtxt at master · cristianp...,2,2,object-detection
+/cristianpb/object-detection/blob/master/requirements.txt,object-detection/requirements.txt at master · cristianpb/object-detection · G...,2,2,object-detection
+/cristianpb/object-detection/search,Search · tensorrt,2,2,object-detection
 /cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,7,7,object-detection-frontend
 /cristianpb/object-detection-frontend/commit/cbf4ebc088350b78c8fdc50df0cadd50078be279,Update readme · cristianpb/object-detection-frontend@cbf4ebc · GitHub,2,2,object-detection-frontend
-/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",6,4,rhasspy-handler
-/cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My snips intent handler,1,1,rhasspy-handler
+/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",7,5,rhasspy-handler
 /cristianpb/simple-streaming-gateway,cristianpb/simple-streaming-gateway: Flask App to stream generated sensor dat...,1,1,simple-streaming-gateway
 /cristianpb/simple-streaming-gateway/blob/main/img/configure.png,simple-streaming-gateway/configure.png at main · cristianpb/simple-streaming-...,1,1,simple-streaming-gateway
 /cristianpb/simple-streaming-gateway/blob/main/img/results.png,simple-streaming-gateway/results.png at main · cristianpb/simple-streaming-ga...,1,1,simple-streaming-gateway
@@ -76,13 +75,8 @@ path,title,count,uniques,repository
 /cristianpb/temp-sigfox/tree/master/micropython,temp-sigfox/micropython at master · cristianpb/temp-sigfox · GitHub,1,1,temp-sigfox
 /cristianpb/temp-sigfox/tree/master/mkr-fox-1200,temp-sigfox/mkr-fox-1200 at master · cristianpb/temp-sigfox · GitHub,1,1,temp-sigfox
 /cristianpb/temp-sigfox/tree/master/templates,temp-sigfox/templates at master · cristianpb/temp-sigfox · GitHub,1,1,temp-sigfox
-/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,7,2,vimwiki
-/cristianpb/vimwiki/tree/master/layouts,vimwiki/layouts at master · cristianpb/vimwiki · GitHub,3,2,vimwiki
-/cristianpb/vimwiki/tree/master/layouts/_default,vimwiki/layouts/_default at master · cristianpb/vimwiki · GitHub,2,1,vimwiki
-/cristianpb/vimwiki/blob/master/config.toml,vimwiki/config.toml at master · cristianpb/vimwiki · GitHub,1,1,vimwiki
-/cristianpb/vimwiki/blob/master/layouts/_default/single.html,vimwiki/single.html at master · cristianpb/vimwiki · GitHub,1,1,vimwiki
-/cristianpb/vimwiki/blob/master/README.md,vimwiki/README.md at master · cristianpb/vimwiki · GitHub,1,1,vimwiki
-/cristianpb/vimwiki/search,Search · hugo · GitHub,1,1,vimwiki
+/cristianpb/vimwiki,cristianpb/vimwiki: My vimwiki,3,1,vimwiki
 /cristianpb/vimwiki/tree/master/assets,vimwiki/assets at master · cristianpb/vimwiki,1,1,vimwiki
 /cristianpb/vimwiki/tree/master/assets/css,vimwiki/assets/css at master · cristianpb/vimwiki,1,1,vimwiki
 /cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki,1,1,vimwiki
+/cristianpb/vimwiki/tree/master/layouts,vimwiki/layouts at master · cristianpb/vimwiki,1,1,vimwiki
