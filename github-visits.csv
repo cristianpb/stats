@@ -1,5 +1,4 @@
 date,repository,clones,views
-2021-07-10,analytics-google,3,0
 2021-07-11,analytics-google,3,2
 2021-07-12,analytics-google,3,2
 2021-07-13,analytics-google,5,0
@@ -13,8 +12,8 @@ date,repository,clones,views
 2021-07-21,analytics-google,5,1
 2021-07-22,analytics-google,4,0
 2021-07-23,analytics-google,3,0
-2021-07-10,cristianpb,7,0
-2021-07-11,cristianpb,8,0
+2021-07-24,analytics-google,4,0
+2021-07-11,cristianpb,7,0
 2021-07-12,cristianpb,8,0
 2021-07-13,cristianpb,8,0
 2021-07-14,cristianpb,8,0
@@ -27,16 +26,17 @@ date,repository,clones,views
 2021-07-21,cristianpb,8,0
 2021-07-22,cristianpb,8,0
 2021-07-23,cristianpb,8,0
+2021-07-24,cristianpb,8,0
 2021-07-12,cristianpb.github.io,3,0
 2021-07-16,cristianpb.github.io,2,3
 2021-07-23,cristianpb.github.io,1,4
+2021-07-24,cristianpb.github.io,1,0
 2021-07-11,cristianpb.github.io,0,40
 2021-07-14,cristianpb.github.io,0,13
 2021-07-21,cristianpb.github.io,0,17
 2021-07-22,cristianpb.github.io,0,2
 2021-07-19,datalab.mi,1,0
 2021-07-18,deces-ui,1,0
-2021-07-10,dotfiles,8,6
 2021-07-11,dotfiles,2,0
 2021-07-13,dotfiles,1,16
 2021-07-15,dotfiles,1,2
@@ -47,6 +47,7 @@ date,repository,clones,views
 2021-07-22,dotfiles,1,12
 2021-07-12,dotfiles,0,5
 2021-07-18,dotfiles,0,6
+2021-07-24,dotfiles,0,1
 2021-07-13,enkontext,1,0
 2021-07-23,gswsr,1,0
 2021-07-16,hubot-ratp,1,0
@@ -58,13 +59,13 @@ date,repository,clones,views
 2021-07-20,muse,1,21
 2021-07-21,muse,1,1
 2021-07-23,muse,2,5
-2021-07-10,muse,0,4
 2021-07-11,muse,0,3
 2021-07-12,muse,0,6
 2021-07-13,muse,0,3
 2021-07-14,muse,0,2
 2021-07-19,muse,0,1
 2021-07-22,muse,0,10
+2021-07-24,muse,0,6
 2021-07-13,mybottender,1,0
 2021-07-14,mybottender,1,0
 2021-07-15,mybottender,1,0
@@ -76,7 +77,7 @@ date,repository,clones,views
 2021-07-14,object-detection,2,2
 2021-07-20,object-detection,1,18
 2021-07-22,object-detection,1,17
-2021-07-10,object-detection,0,7
+2021-07-24,object-detection,1,0
 2021-07-11,object-detection,0,22
 2021-07-12,object-detection,0,14
 2021-07-15,object-detection,0,7
@@ -105,8 +106,8 @@ date,repository,clones,views
 2021-07-14,rhasspy-handler,0,1
 2021-07-20,rhasspy-handler,0,1
 2021-07-23,rhasspy-handler,0,1
+2021-07-24,rhasspy-handler,0,1
 2021-07-18,simple-streaming-gateway,0,4
-2021-07-11,stats,4,0
 2021-07-12,stats,4,0
 2021-07-13,stats,4,0
 2021-07-14,stats,8,0
@@ -119,6 +120,7 @@ date,repository,clones,views
 2021-07-21,stats,4,0
 2021-07-22,stats,3,0
 2021-07-23,stats,4,0
+2021-07-24,stats,6,0
 2021-07-21,telegraf-influxdb-grafana-docker,1,0
 2021-07-12,telegraf-influxdb-grafana-docker,0,2
 2021-07-13,telegraf-influxdb-grafana-docker,0,2
@@ -130,5 +132,4 @@ date,repository,clones,views
 2021-07-19,temp-sigfox,0,1
 2021-07-21,tkasme,1,0
 2021-07-21,velo.club,1,0
-2021-07-10,vimwiki,1,0
 2021-07-19,vimwiki,0,7
