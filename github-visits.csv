@@ -1,5 +1,4 @@
 date,repository,clones,views
-2021-07-20,analytics-google,3,0
 2021-07-21,analytics-google,5,1
 2021-07-22,analytics-google,4,0
 2021-07-23,analytics-google,3,0
@@ -13,8 +12,8 @@ date,repository,clones,views
 2021-07-31,analytics-google,2,0
 2021-08-01,analytics-google,4,0
 2021-08-02,analytics-google,2,1
-2021-07-20,cristianpb,7,0
-2021-07-21,cristianpb,8,0
+2021-08-03,analytics-google,3,4
+2021-07-21,cristianpb,7,0
 2021-07-22,cristianpb,8,0
 2021-07-23,cristianpb,8,0
 2021-07-24,cristianpb,8,0
@@ -27,6 +26,7 @@ date,repository,clones,views
 2021-07-31,cristianpb,8,0
 2021-08-01,cristianpb,8,0
 2021-08-02,cristianpb,8,0
+2021-08-03,cristianpb,8,0
 2021-07-23,cristianpb.github.io,1,4
 2021-07-24,cristianpb.github.io,1,0
 2021-07-21,cristianpb.github.io,0,17
@@ -43,7 +43,6 @@ date,repository,clones,views
 2021-07-23,gswsr,1,0
 2021-07-29,hubot-ratp,1,0
 2021-07-21,mopidy.js,1,0
-2021-07-20,muse,1,21
 2021-07-21,muse,1,1
 2021-07-23,muse,2,5
 2021-07-22,muse,0,10
@@ -56,7 +55,6 @@ date,repository,clones,views
 2021-07-31,muse,0,1
 2021-08-01,muse,0,2
 2021-07-21,newsapp,1,0
-2021-07-20,object-detection,1,18
 2021-07-22,object-detection,1,17
 2021-07-24,object-detection,1,0
 2021-07-25,object-detection,2,8
@@ -70,22 +68,20 @@ date,repository,clones,views
 2021-07-30,object-detection,0,8
 2021-08-01,object-detection,0,4
 2021-08-02,object-detection,0,6
+2021-08-03,object-detection,0,35
 2021-07-25,object-detection-frontend,3,4
 2021-07-26,object-detection-frontend,3,2
 2021-07-27,object-detection-frontend,4,7
 2021-07-31,object-detection-frontend,1,0
-2021-07-20,object-detection-frontend,0,1
 2021-07-22,object-detection-frontend,0,1
 2021-07-28,object-detection-frontend,0,1
 2021-07-23,priceminister,1,0
 2021-07-21,rhasspy-handler,1,0
-2021-07-20,rhasspy-handler,0,1
 2021-07-23,rhasspy-handler,0,1
 2021-07-24,rhasspy-handler,0,1
 2021-07-26,rhasspy-handler,0,1
 2021-07-29,rhasspy-handler,0,2
 2021-08-01,rhasspy-handler,0,2
-2021-07-21,stats,4,0
 2021-07-22,stats,3,0
 2021-07-23,stats,4,0
 2021-07-24,stats,6,0
@@ -98,6 +94,7 @@ date,repository,clones,views
 2021-07-31,stats,7,0
 2021-08-01,stats,4,0
 2021-08-02,stats,4,0
+2021-08-03,stats,7,7
 2021-07-21,telegraf-influxdb-grafana-docker,1,0
 2021-07-31,telegraf-influxdb-grafana-docker,1,0
 2021-07-22,telegraf-influxdb-grafana-docker,0,1
@@ -107,5 +104,6 @@ date,repository,clones,views
 2021-07-29,telegraf-influxdb-grafana-docker,0,3
 2021-07-30,telegraf-influxdb-grafana-docker,0,6
 2021-08-02,telegraf-influxdb-grafana-docker,0,1
+2021-08-03,telegraf-influxdb-grafana-docker,0,2
 2021-07-21,tkasme,1,0
 2021-07-21,velo.club,1,0
