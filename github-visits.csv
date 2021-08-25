@@ -1,6 +1,5 @@
 date,repository,clones,views
 2021-08-16,alchemy-machine,1,0
-2021-08-10,analytics-google,4,1
 2021-08-11,analytics-google,3,1
 2021-08-12,analytics-google,4,0
 2021-08-13,analytics-google,2,6
@@ -14,8 +13,8 @@ date,repository,clones,views
 2021-08-21,analytics-google,2,0
 2021-08-22,analytics-google,3,1
 2021-08-23,analytics-google,3,0
-2021-08-10,cristianpb,7,0
-2021-08-11,cristianpb,8,1
+2021-08-24,analytics-google,4,0
+2021-08-11,cristianpb,7,1
 2021-08-12,cristianpb,8,0
 2021-08-13,cristianpb,8,0
 2021-08-14,cristianpb,8,0
@@ -28,7 +27,7 @@ date,repository,clones,views
 2021-08-21,cristianpb,8,0
 2021-08-22,cristianpb,9,0
 2021-08-23,cristianpb,8,1
-2021-08-10,cristianpb.github.io,4,0
+2021-08-24,cristianpb,8,0
 2021-08-11,cristianpb.github.io,0,5
 2021-08-13,cristianpb.github.io,0,1
 2021-08-18,cristianpb.github.io,0,1
@@ -45,6 +44,7 @@ date,repository,clones,views
 2021-08-18,dotfiles,0,1
 2021-08-19,dotfiles,0,5
 2021-08-23,dotfiles,0,3
+2021-08-24,dotfiles,0,1
 2021-08-16,enkontext,1,0
 2021-08-16,gswsr,1,0
 2021-08-18,gswsr,1,0
@@ -63,11 +63,12 @@ date,repository,clones,views
 2021-08-21,muse,21,29
 2021-08-22,muse,10,14
 2021-08-23,muse,2,1
-2021-08-10,muse,0,1
 2021-08-11,muse,0,10
 2021-08-13,muse,0,2
+2021-08-24,muse,0,15
 2021-08-16,mybottender,1,0
 2021-08-16,myhubot,1,0
+2021-08-24,myhubot,1,0
 2021-08-16,newsapp,1,0
 2021-08-16,ngTwitterApp,1,0
 2021-08-11,object-detection,1,7
@@ -78,7 +79,7 @@ date,repository,clones,views
 2021-08-18,object-detection,1,11
 2021-08-20,object-detection,1,18
 2021-08-21,object-detection,1,1
-2021-08-10,object-detection,0,2
+2021-08-24,object-detection,3,23
 2021-08-12,object-detection,0,23
 2021-08-13,object-detection,0,52
 2021-08-19,object-detection,0,2
@@ -99,6 +100,7 @@ date,repository,clones,views
 2021-08-17,PresentationTechnique,1,0
 2021-08-13,PresentationTechnique,0,10
 2021-08-16,priceminister,1,0
+2021-08-24,priceminister,1,0
 2021-08-12,qrcode-reader,1,0
 2021-08-16,qrcode-reader,1,0
 2021-08-22,qrcode-reader,1,0
@@ -111,7 +113,6 @@ date,repository,clones,views
 2021-08-21,rhasspy-handler,0,1
 2021-08-22,rhasspy-handler,0,1
 2021-08-14,simple-streaming-gateway,0,2
-2021-08-11,stats,4,0
 2021-08-12,stats,6,0
 2021-08-13,stats,4,0
 2021-08-14,stats,6,0
@@ -124,6 +125,7 @@ date,repository,clones,views
 2021-08-21,stats,5,0
 2021-08-22,stats,6,0
 2021-08-23,stats,6,0
+2021-08-24,stats,7,0
 2021-08-14,telegraf-influxdb-grafana-docker,1,14
 2021-08-17,telegraf-influxdb-grafana-docker,1,18
 2021-08-18,telegraf-influxdb-grafana-docker,1,12
@@ -134,10 +136,9 @@ date,repository,clones,views
 2021-08-15,telegraf-influxdb-grafana-docker,0,66
 2021-08-20,telegraf-influxdb-grafana-docker,0,1
 2021-08-22,telegraf-influxdb-grafana-docker,0,8
-2021-08-23,telegraf-influxdb-grafana-docker,0,21
-2021-08-10,temp-sigfox,0,1
+2021-08-23,telegraf-influxdb-grafana-docker,0,24
+2021-08-24,telegraf-influxdb-grafana-docker,0,1
 2021-08-15,vimwiki,8,0
-2021-08-10,vimwiki,0,1
 2021-08-13,vimwiki,0,8
 2021-08-16,vimwiki,0,1
 2021-08-18,vimwiki,0,1
