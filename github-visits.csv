@@ -1,5 +1,4 @@
 date,repository,clones,views
-2021-08-28,analytics-google,3,0
 2021-08-29,analytics-google,7,1
 2021-08-30,analytics-google,2,0
 2021-08-31,analytics-google,5,0
@@ -13,8 +12,8 @@ date,repository,clones,views
 2021-09-08,analytics-google,2,0
 2021-09-09,analytics-google,3,0
 2021-09-10,analytics-google,2,3
-2021-08-28,cristianpb,7,0
-2021-08-29,cristianpb,8,0
+2021-09-11,analytics-google,5,4
+2021-08-29,cristianpb,7,0
 2021-08-30,cristianpb,8,0
 2021-08-31,cristianpb,8,0
 2021-09-01,cristianpb,8,0
@@ -27,9 +26,9 @@ date,repository,clones,views
 2021-09-08,cristianpb,8,1
 2021-09-09,cristianpb,8,0
 2021-09-10,cristianpb,8,0
+2021-09-11,cristianpb,8,0
 2021-09-10,cristianpb.github.io,1,6
 2021-09-07,cristianpb.github.io,0,1
-2021-08-28,deces-backend,1,0
 2021-08-29,dotfiles,1,13
 2021-09-04,dotfiles,1,17
 2021-09-05,dotfiles,1,4
@@ -44,9 +43,9 @@ date,repository,clones,views
 2021-09-10,dotfiles,0,5
 2021-09-09,enkontext,1,0
 2021-08-31,gswsr,1,0
+2021-09-11,hubot-ratp,1,0
 2021-09-07,hubot-velib,1,0
 2021-09-09,mask-detection,1,0
-2021-08-28,muse,1,4
 2021-09-01,muse,1,8
 2021-09-07,muse,1,1
 2021-09-08,muse,1,8
@@ -60,6 +59,7 @@ date,repository,clones,views
 2021-09-06,muse,0,1
 2021-09-09,muse,0,4
 2021-09-10,muse,0,11
+2021-09-11,muse,0,4
 2021-08-29,object-detection,4,26
 2021-08-30,object-detection,2,10
 2021-08-31,object-detection,7,5
@@ -69,11 +69,11 @@ date,repository,clones,views
 2021-09-07,object-detection,2,1
 2021-09-08,object-detection,6,42
 2021-09-09,object-detection,1,8
-2021-08-28,object-detection,0,7
 2021-09-04,object-detection,0,4
 2021-09-05,object-detection,0,10
 2021-09-06,object-detection,0,11
 2021-09-10,object-detection,0,21
+2021-09-11,object-detection,0,4
 2021-08-29,object-detection-frontend,3,1
 2021-08-30,object-detection-frontend,1,4
 2021-08-31,object-detection-frontend,7,2
@@ -89,14 +89,15 @@ date,repository,clones,views
 2021-09-10,object-detection-frontend,1,0
 2021-09-09,piac-bot,1,0
 2021-09-07,priceminister,2,0
+2021-09-11,priceminister,1,0
 2021-08-31,qrcode-reader,1,0
+2021-09-10,qrcode-reader,1,0
 2021-09-01,recettes,1,0
 2021-08-30,rhasspy-handler,0,3
 2021-09-02,rhasspy-handler,0,5
 2021-09-03,rhasspy-handler,0,1
 2021-09-04,rhasspy-handler,0,1
 2021-09-08,rhasspy-handler,0,1
-2021-08-29,stats,4,0
 2021-08-30,stats,3,0
 2021-08-31,stats,3,0
 2021-09-01,stats,5,0
@@ -109,7 +110,7 @@ date,repository,clones,views
 2021-09-08,stats,5,0
 2021-09-09,stats,5,0
 2021-09-10,stats,5,0
-2021-08-28,telegraf-influxdb-grafana-docker,2,0
+2021-09-11,stats,4,0
 2021-09-01,telegraf-influxdb-grafana-docker,1,1
 2021-09-06,telegraf-influxdb-grafana-docker,2,2
 2021-09-08,telegraf-influxdb-grafana-docker,2,2
@@ -122,10 +123,10 @@ date,repository,clones,views
 2021-09-07,telegraf-influxdb-grafana-docker,0,2
 2021-09-09,telegraf-influxdb-grafana-docker,0,36
 2021-09-10,telegraf-influxdb-grafana-docker,0,43
+2021-09-11,telegraf-influxdb-grafana-docker,0,9
 2021-09-03,temp-sigfox,0,1
 2021-09-04,velo.club,1,0
 2021-09-08,vimwiki,1,40
-2021-08-28,vimwiki,0,1
 2021-08-29,vimwiki,0,1
 2021-08-31,vimwiki,0,9
 2021-09-01,vimwiki,0,1
