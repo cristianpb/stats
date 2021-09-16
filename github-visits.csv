@@ -1,5 +1,4 @@
 date,repository,clones,views
-2021-09-01,analytics-google,2,0
 2021-09-02,analytics-google,2,0
 2021-09-03,analytics-google,2,1
 2021-09-04,analytics-google,2,0
@@ -13,8 +12,8 @@ date,repository,clones,views
 2021-09-12,analytics-google,4,3
 2021-09-13,analytics-google,2,1
 2021-09-14,analytics-google,3,1
-2021-09-01,cristianpb,7,0
-2021-09-02,cristianpb,8,0
+2021-09-15,analytics-google,2,1
+2021-09-02,cristianpb,7,0
 2021-09-03,cristianpb,8,0
 2021-09-04,cristianpb,8,0
 2021-09-05,cristianpb,8,0
@@ -27,6 +26,7 @@ date,repository,clones,views
 2021-09-12,cristianpb,8,0
 2021-09-13,cristianpb,8,0
 2021-09-14,cristianpb,8,0
+2021-09-15,cristianpb,8,0
 2021-09-10,cristianpb.github.io,1,6
 2021-09-07,cristianpb.github.io,0,1
 2021-09-13,cristianpb.github.io,0,1
@@ -35,7 +35,6 @@ date,repository,clones,views
 2021-09-06,dotfiles,1,0
 2021-09-07,dotfiles,1,0
 2021-09-13,dotfiles,1,3
-2021-09-01,dotfiles,0,1
 2021-09-02,dotfiles,0,3
 2021-09-03,dotfiles,0,3
 2021-09-08,dotfiles,0,9
@@ -43,11 +42,11 @@ date,repository,clones,views
 2021-09-10,dotfiles,0,5
 2021-09-12,dotfiles,0,1
 2021-09-14,dotfiles,0,4
+2021-09-15,dotfiles,0,6
 2021-09-09,enkontext,1,0
 2021-09-11,hubot-ratp,1,0
 2021-09-07,hubot-velib,1,0
 2021-09-09,mask-detection,1,0
-2021-09-01,muse,1,8
 2021-09-07,muse,1,1
 2021-09-08,muse,1,8
 2021-09-14,muse,1,0
@@ -61,7 +60,7 @@ date,repository,clones,views
 2021-09-11,muse,0,4
 2021-09-12,muse,0,2
 2021-09-13,muse,0,1
-2021-09-01,object-detection,5,70
+2021-09-15,muse,0,1
 2021-09-02,object-detection,20,37
 2021-09-03,object-detection,1,4
 2021-09-07,object-detection,2,1
@@ -75,7 +74,7 @@ date,repository,clones,views
 2021-09-06,object-detection,0,11
 2021-09-10,object-detection,0,21
 2021-09-11,object-detection,0,4
-2021-09-01,object-detection-frontend,11,11
+2021-09-15,object-detection,0,3
 2021-09-02,object-detection-frontend,7,10
 2021-09-03,object-detection-frontend,5,0
 2021-09-04,object-detection-frontend,4,0
@@ -92,14 +91,12 @@ date,repository,clones,views
 2021-09-07,priceminister,2,0
 2021-09-11,priceminister,1,0
 2021-09-10,qrcode-reader,1,0
-2021-09-01,recettes,1,0
 2021-09-14,rhasspy-handler,1,0
 2021-09-02,rhasspy-handler,0,5
 2021-09-03,rhasspy-handler,0,1
 2021-09-04,rhasspy-handler,0,1
 2021-09-08,rhasspy-handler,0,1
 2021-09-13,rhasspy-handler,0,1
-2021-09-02,stats,3,1
 2021-09-03,stats,3,0
 2021-09-04,stats,4,0
 2021-09-05,stats,4,0
@@ -112,9 +109,11 @@ date,repository,clones,views
 2021-09-12,stats,6,0
 2021-09-13,stats,4,0
 2021-09-14,stats,4,0
+2021-09-15,stats,4,0
+2021-09-02,stats,0,1
 2021-09-06,telegraf-influxdb-grafana-docker,2,2
 2021-09-08,telegraf-influxdb-grafana-docker,2,2
-2021-09-01,telegraf-influxdb-grafana-docker,0,1
+2021-09-15,telegraf-influxdb-grafana-docker,1,12
 2021-09-02,telegraf-influxdb-grafana-docker,0,1
 2021-09-03,telegraf-influxdb-grafana-docker,0,7
 2021-09-04,telegraf-influxdb-grafana-docker,0,1
@@ -128,5 +127,4 @@ date,repository,clones,views
 2021-09-03,temp-sigfox,0,1
 2021-09-04,velo.club,1,0
 2021-09-08,vimwiki,1,40
-2021-09-01,vimwiki,0,1
 2021-09-10,vimwiki,0,6
