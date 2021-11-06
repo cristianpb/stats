@@ -1,5 +1,4 @@
 date,repository,clones,views
-2021-10-22,analytics-google,13,0
 2021-10-23,analytics-google,5,0
 2021-10-24,analytics-google,7,1
 2021-10-25,analytics-google,10,0
@@ -13,8 +12,8 @@ date,repository,clones,views
 2021-11-02,analytics-google,3,1
 2021-11-03,analytics-google,3,1
 2021-11-04,analytics-google,2,0
-2021-10-22,cristianpb,23,0
-2021-10-23,cristianpb,25,0
+2021-11-05,analytics-google,3,0
+2021-10-23,cristianpb,23,0
 2021-10-24,cristianpb,17,0
 2021-10-25,cristianpb,17,0
 2021-10-26,cristianpb,14,0
@@ -27,6 +26,7 @@ date,repository,clones,views
 2021-11-02,cristianpb,9,0
 2021-11-03,cristianpb,9,0
 2021-11-04,cristianpb,8,0
+2021-11-05,cristianpb,8,0
 2021-10-23,cristianpb.github.io,70,0
 2021-10-26,cristianpb.github.io,90,0
 2021-10-28,cristianpb.github.io,2,0
@@ -35,9 +35,7 @@ date,repository,clones,views
 2021-10-23,datalab.mi,16,0
 2021-10-26,datalab.mi,12,0
 2021-11-03,deces-backend,1,0
-2021-10-22,deces-dataprep,3,0
 2021-11-03,dotfiles,3,9
-2021-10-22,dotfiles,0,26
 2021-10-23,dotfiles,0,11
 2021-10-24,dotfiles,0,84
 2021-10-25,dotfiles,0,10
@@ -48,7 +46,7 @@ date,repository,clones,views
 2021-10-30,dotfiles,0,1
 2021-11-02,dotfiles,0,1
 2021-11-04,dotfiles,0,3
-2021-10-22,enkontext,14,0
+2021-11-05,dotfiles,0,3
 2021-10-23,enkontext,14,0
 2021-10-25,enkontext,14,0
 2021-10-26,enkontext,6,0
@@ -63,11 +61,9 @@ date,repository,clones,views
 2021-11-01,hubot-velib,3,0
 2021-11-04,hubot-velib,3,0
 2021-11-03,judilibre-stats,1,0
-2021-10-22,judilibre-stats,0,3
 2021-10-23,mask-detection,2,0
 2021-10-26,mask-detection,2,0
 2021-11-03,mask-detection,1,0
-2021-10-22,matchid-backend,66,0
 2021-10-23,matchid-backend,18,0
 2021-10-24,matchid-backend,30,0
 2021-10-25,matchid-backend,61,0
@@ -75,7 +71,6 @@ date,repository,clones,views
 2021-11-03,matchid-backend,1,0
 2021-10-25,mopidy.js,0,3
 2021-11-03,muse,1,6
-2021-10-22,muse,0,3
 2021-10-24,muse,0,2
 2021-10-25,muse,0,4
 2021-10-26,muse,0,7
@@ -85,11 +80,12 @@ date,repository,clones,views
 2021-10-30,muse,0,1
 2021-11-01,muse,0,8
 2021-11-04,muse,0,1
+2021-11-05,muse,0,3
 2021-11-04,mybottender,1,0
 2021-11-02,myhubot,1,0
 2021-11-04,newsapp,1,0
+2021-11-05,ngTwitterApp,1,0
 2021-11-02,ngTwitterApp,0,6
-2021-10-22,object-detection,8,7
 2021-10-25,object-detection,2,22
 2021-10-27,object-detection,1,47
 2021-10-28,object-detection,1,14
@@ -101,11 +97,12 @@ date,repository,clones,views
 2021-10-31,object-detection,0,4
 2021-11-02,object-detection,0,9
 2021-11-04,object-detection,0,8
-2021-10-22,object-detection-frontend,5,0
+2021-11-05,object-detection,0,6
 2021-11-03,object-detection-frontend,3,1
 2021-10-23,object-detection-frontend,0,9
 2021-10-25,object-detection-frontend,0,3
 2021-11-04,object-detection-frontend,0,1
+2021-11-05,object-detection-frontend,0,2
 2021-11-03,piac-bot,1,0
 2021-10-23,PresentationTechnique,2,0
 2021-10-25,PresentationTechnique,4,0
@@ -113,9 +110,11 @@ date,repository,clones,views
 2021-11-02,PresentationTechnique,1,0
 2021-10-31,priceminister,1,0
 2021-11-03,priceminister,1,0
+2021-11-05,priceminister,1,0
 2021-10-27,priceminister,0,1
 2021-11-02,qrcode-reader,1,0
 2021-11-03,qrcode-reader,1,0
+2021-11-05,recettes,1,1
 2021-10-27,rhasspy-handler,2,25
 2021-11-03,rhasspy-handler,1,0
 2021-10-23,rhasspy-handler,0,2
@@ -130,7 +129,6 @@ date,repository,clones,views
 2021-10-25,simple-streaming-gateway,14,0
 2021-10-26,simple-streaming-gateway,4,0
 2021-11-03,simple-streaming-gateway,1,0
-2021-10-23,stats,14,0
 2021-10-24,stats,13,0
 2021-10-25,stats,14,0
 2021-10-26,stats,8,0
@@ -143,9 +141,9 @@ date,repository,clones,views
 2021-11-02,stats,4,0
 2021-11-03,stats,7,0
 2021-11-04,stats,6,0
+2021-11-05,stats,6,0
 2021-10-27,telegraf-influxdb-grafana-docker,1,27
 2021-11-01,telegraf-influxdb-grafana-docker,1,13
-2021-10-22,telegraf-influxdb-grafana-docker,0,25
 2021-10-24,telegraf-influxdb-grafana-docker,0,2
 2021-10-25,telegraf-influxdb-grafana-docker,0,42
 2021-10-26,telegraf-influxdb-grafana-docker,0,20
@@ -155,6 +153,7 @@ date,repository,clones,views
 2021-11-02,telegraf-influxdb-grafana-docker,0,6
 2021-11-03,telegraf-influxdb-grafana-docker,0,1
 2021-11-04,telegraf-influxdb-grafana-docker,0,1
+2021-11-05,telegraf-influxdb-grafana-docker,0,3
 2021-10-27,temp-sigfox,2,0
 2021-10-23,tkasme,7,0
 2021-10-25,tkasme,9,0
