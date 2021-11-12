@@ -1,6 +1,5 @@
 date,repository,clones,views
-2021-10-28,analytics-google,3,2
-2021-10-29,analytics-google,4,2
+2021-10-29,analytics-google,3,2
 2021-10-30,analytics-google,2,0
 2021-10-31,analytics-google,2,0
 2021-11-01,analytics-google,3,0
@@ -13,8 +12,8 @@ date,repository,clones,views
 2021-11-08,analytics-google,5,1
 2021-11-09,analytics-google,5,1
 2021-11-10,analytics-google,3,6
-2021-10-28,cristianpb,9,0
-2021-10-29,cristianpb,8,0
+2021-11-11,analytics-google,3,12
+2021-10-29,cristianpb,7,0
 2021-10-30,cristianpb,8,0
 2021-10-31,cristianpb,8,0
 2021-11-01,cristianpb,8,0
@@ -27,12 +26,11 @@ date,repository,clones,views
 2021-11-08,cristianpb,8,0
 2021-11-09,cristianpb,8,0
 2021-11-10,cristianpb,8,0
-2021-10-28,cristianpb.github.io,2,0
+2021-11-11,cristianpb,8,0
 2021-11-03,cristianpb.github.io,1,0
 2021-10-30,cristianpb.github.io,0,1
 2021-11-03,deces-backend,1,0
 2021-11-03,dotfiles,3,9
-2021-10-28,dotfiles,0,8
 2021-10-29,dotfiles,0,2
 2021-10-30,dotfiles,0,1
 2021-11-02,dotfiles,0,1
@@ -42,6 +40,7 @@ date,repository,clones,views
 2021-11-07,dotfiles,0,3
 2021-11-09,dotfiles,0,2
 2021-11-10,dotfiles,0,11
+2021-11-11,dotfiles,0,5
 2021-11-03,gswsr,1,0
 2021-11-06,gswsr,1,0
 2021-11-10,gswsr,0,1
@@ -56,7 +55,6 @@ date,repository,clones,views
 2021-11-03,matchid-backend,1,0
 2021-11-03,muse,1,6
 2021-11-09,muse,2,2
-2021-10-28,muse,0,2
 2021-10-29,muse,0,24
 2021-10-30,muse,0,1
 2021-11-01,muse,0,8
@@ -66,12 +64,12 @@ date,repository,clones,views
 2021-11-07,muse,0,3
 2021-11-08,muse,0,16
 2021-11-10,muse,0,4
+2021-11-11,muse,0,1
 2021-11-04,mybottender,1,0
 2021-11-02,myhubot,1,0
 2021-11-04,newsapp,1,0
 2021-11-05,ngTwitterApp,1,0
 2021-11-02,ngTwitterApp,0,6
-2021-10-28,object-detection,1,14
 2021-11-01,object-detection,1,3
 2021-11-03,object-detection,2,9
 2021-11-06,object-detection,1,3
@@ -85,6 +83,7 @@ date,repository,clones,views
 2021-11-05,object-detection,0,6
 2021-11-07,object-detection,0,2
 2021-11-08,object-detection,0,10
+2021-11-11,object-detection,0,5
 2021-11-03,object-detection-frontend,3,1
 2021-11-06,object-detection-frontend,2,0
 2021-11-10,object-detection-frontend,5,6
@@ -110,7 +109,6 @@ date,repository,clones,views
 2021-11-07,rhasspy-handler,0,8
 2021-11-10,rhasspy-handler,0,1
 2021-11-03,simple-streaming-gateway,1,0
-2021-10-29,stats,7,0
 2021-10-30,stats,6,0
 2021-10-31,stats,5,0
 2021-11-01,stats,5,0
@@ -123,8 +121,9 @@ date,repository,clones,views
 2021-11-08,stats,6,0
 2021-11-09,stats,6,0
 2021-11-10,stats,4,0
+2021-11-11,stats,5,0
 2021-11-01,telegraf-influxdb-grafana-docker,1,13
-2021-10-28,telegraf-influxdb-grafana-docker,0,2
+2021-11-11,telegraf-influxdb-grafana-docker,3,7
 2021-10-29,telegraf-influxdb-grafana-docker,0,25
 2021-10-30,telegraf-influxdb-grafana-docker,0,1
 2021-11-02,telegraf-influxdb-grafana-docker,0,6
