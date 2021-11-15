@@ -9,69 +9,73 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/blob/master/package.json,analytics-google/package.json at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/src/client.js,analytics-google/client.js at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/src/routes/github.svelte,analytics-google/github.svelte at master · cristianpb/analytics-google,1,1,analytics-google
+/cristianpb/aws-lambda-cv,"cristianpb/aws-lambda-cv: Computer Vision, with AWS Lambda",1,1,aws-lambda-cv
+/cristianpb/cristianpb.github.io,cristianpb/cristianpb.github.io: My website,1,1,cristianpb.github.io
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,9,6,dotfiles
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,6,6,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,8,6,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/rc.conf at master · cristianpb/dotfiles · GitHub,6,5,dotfiles
 /cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/.vimrc at master · cristianpb/dotfiles · GitHub,4,3,dotfiles
 /cristianpb/dotfiles/tree/master/vim,dotfiles/vim at master · cristianpb/dotfiles · GitHub,3,3,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/rifle.conf at master · cristianpb/dotfiles · GitHub,3,1,dotfiles
 /cristianpb/dotfiles/tree/master/nvim/.config/nvim,dotfiles/nvim/.config/nvim at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
+/cristianpb/dotfiles/blob/master/polybar/.config/polybar/config,dotfiles/config at master · cristianpb/dotfiles,2,1,dotfiles
+/cristianpb/dotfiles/tree/master/polybar/.config/polybar,dotfiles/polybar/.config/polybar at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/checkmail.sh,dotfiles/checkmail.sh at master · cristianpb/dotfiles,1,1,dotfiles
-/cristianpb/dotfiles/blob/master/git/.gitconfig,dotfiles/.gitconfig at master · cristianpb/dotfiles,1,1,dotfiles
-/cristianpb/dotfiles/blob/master/new_mail.sh,dotfiles/new_mail.sh at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/gswsr,GitHub - cristianpb/gswsr,1,1,gswsr
 /cristianpb/infolettre-lab-ia,cristianpb/infolettre-lab-ia: Infolettre du Lab IA,6,2,infolettre-lab-ia
 /cristianpb/infolettre-lab-ia/commit/d2e5739457df426348fece4d03e779b46b0612b3,➕ Add Data Scientist position at Viginum · cristianpb/infolettre-lab-ia@d2e5739,1,1,infolettre-lab-ia
 /cristianpb/infolettre-lab-ia/pulls,Pull requests · cristianpb/infolettre-lab-ia,1,1,infolettre-lab-ia
 /cristianpb/infolettre-lab-ia/pulse,Pulse · cristianpb/infolettre-lab-ia,1,1,infolettre-lab-ia
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,28,21,muse
-/cristianpb/muse/actions/runs/121509959/workflow,💚 Bump version automatically in package-lock.json · cristianpb/muse@80c3cb5,2,2,muse
-/cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse,2,2,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,29,21,muse
 /cristianpb/muse/search,Search ·,2,1,muse
 /cristianpb/muse/actions,Actions · cristianpb/muse,1,1,muse
+/cristianpb/muse/actions/runs/121509959/workflow,💚 Bump version automatically in package-lock.json · cristianpb/muse@80c3cb5,1,1,muse
 /cristianpb/muse/blob/master/.github/workflows/publish.yml,muse/publish.yml at master · cristianpb/muse,1,1,muse
-/cristianpb/muse/blob/master/src/template.html,muse/template.html at master · cristianpb/muse,1,1,muse
-/cristianpb/muse/commit/857ef1c843c21b58051187f3331bb848b602bc0b,🐋 Add production docker image that is pushed to registry · cristianpb/muse@8...,1,1,muse
 /cristianpb/muse/commits/master,Commits · cristianpb/muse,1,1,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/pulse,Pulse · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/releases/tag/v0.0.27,Release Release v0.0.27 · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/tree/master/.github/workflows,muse/.github/workflows at master · cristianpb/muse,1,1,muse
 /cristianpb/ngTwitterApp,GitHub - cristianpb/ngTwitterApp: Angular twitter App,1,1,ngTwitterApp
 /cristianpb/ngTwitterApp/blob/8502be9ccfa45640ab30bfd78600c028ad32f015/server/src/lib/processTweet.ts,ngTwitterApp/processTweet.ts at 8502be9ccfa45640ab30bfd78600c028ad32f015 · cr...,1,1,ngTwitterApp
 /cristianpb/ngTwitterApp/blob/master/server/src/tasks/getTweets.ts,ngTwitterApp/getTweets.ts at master · cristianpb/ngTwitterApp · GitHub,1,1,ngTwitterApp
 /cristianpb/ngTwitterApp/tree/master/server,ngTwitterApp/server at master · cristianpb/ngTwitterApp · GitHub,1,1,ngTwitterApp
 /cristianpb/ngTwitterApp/tree/master/server/src,ngTwitterApp/server/src at master · cristianpb/ngTwitterApp · GitHub,1,1,ngTwitterApp
 /cristianpb/ngTwitterApp/tree/master/server/src/tasks,ngTwitterApp/server/src/tasks at master · cristianpb/ngTwitterApp · GitHub,1,1,ngTwitterApp
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",48,30,object-detection
-/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,13,9,object-detection
-/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,8,6,object-detection
-/cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,6,2,object-detection
-/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,2,2,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",48,29,object-detection
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,14,10,object-detection
+/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,9,6,object-detection
+/cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,9,3,object-detection
+/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,3,3,object-detection
+/cristianpb/object-detection/tree/master/models/ssd_mobilenet,object-detection/models/ssd_mobilenet at master · cristianpb/object-detection,2,2,object-detection
+/cristianpb/object-detection/tree/master/models/yolo,object-detection/models/yolo at master · cristianpb/object-detection,2,2,object-detection
 /cristianpb/object-detection/commit/7096e1946c25d4e2546a8b461449fdf4d4adebda,Separate predictor from camera to instanciate model only in predictor · crist...,2,1,object-detection
 /cristianpb/object-detection/blob/master/Aptfile,object-detection/Aptfile at master · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/object-detection/blob/master/backend/motion.py,object-detection/motion.py at master · cristianpb/object-detection · GitHub,1,1,object-detection
-/cristianpb/object-detection/blob/master/backend/utils.py,object-detection/utils.py at master · cristianpb/object-detection · GitHub,1,1,object-detection
-/cristianpb/object-detection/blob/master/Makefile,object-detection/Makefile at master · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,8,5,object-detection-frontend
 /cristianpb/object-detection-frontend/issues,Issues · cristianpb/object-detection-frontend · GitHub,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/pulls,Pull requests · cristianpb/object-detection-frontend · GitHub,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/e2e,object-detection-frontend/e2e at master · cristianpb/object-detection-fronten...,1,1,object-detection-frontend
 /cristianpb/recettes,cristianpb/recettes,1,1,recettes
-/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",8,8,rhasspy-handler
-/cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,2,2,rhasspy-handler
+/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",6,6,rhasspy-handler
+/cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,3,3,rhasspy-handler
 /cristianpb/rhasspy-handler/blob/master/README.md,rhasspy-handler/README.md at master · cristianpb/rhasspy-handler · GitHub,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/blob/master/rhasspy/.config/rhasspy/profiles/es/slots/artist,rhasspy-handler/artist at master · cristianpb/rhasspy-handler · GitHub,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/blob/master/rhasspy/.config/rhasspy/profiles/es/slots/playlist,rhasspy-handler/playlist at master · cristianpb/rhasspy-handler · GitHub,1,1,rhasspy-handler
+/cristianpb/rhasspy-handler/blob/master/src/rhasspymopidy.ts,rhasspy-handler/rhasspymopidy.ts at master · cristianpb/rhasspy-handler · Git...,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/tree/master/rhasspy/.config/rhasspy/profiles/es,rhasspy-handler/rhasspy/.config/rhasspy/profiles/es at master · cristianpb/rh...,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/tree/master/rhasspy/.config/rhasspy/profiles/es/slots,rhasspy-handler/rhasspy/.config/rhasspy/profiles/es/slots at master · cristia...,1,1,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",22,9,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,14,10,telegraf-influxdb-grafana-docker
+/cristianpb/rhasspy-handler/tree/master/src,rhasspy-handler/src at master · cristianpb/rhasspy-handler · GitHub,1,1,rhasspy-handler
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",20,7,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,11,8,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/README.md,telegraf-influxdb-grafana-docker/README.md at master · cristianpb/telegraf-in...,5,2,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,3,3,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf.conf,telegraf-influxdb-grafana-docker/telegraf.conf at master · cristianpb/telegra...,2,2,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/telegraf,telegraf-influxdb-grafana-docker/docker/telegraf at master · cristianpb/teleg...,2,2,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,2,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/pulse,Pulse · cristianpb/telegraf-influxdb-grafana-docker · GitHub,2,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/dashboard.yaml,telegraf-influxdb-grafana-docker/dashboard.yaml at master · cristianpb/telegr...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/influxdb/influxdb.conf,telegraf-influxdb-grafana-docker/influxdb.conf at master · cristianpb/telegra...,1,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf-gpu.conf,telegraf-influxdb-grafana-docker/telegraf-gpu.conf at master · cristianpb/tel...,1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf.conf,telegraf-influxdb-grafana-docker/telegraf.conf at master · cristianpb/telegra...,1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/.env_dist,telegraf-influxdb-grafana-docker/.env_dist at master · cristianpb/telegraf-in...,1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/schema.png,telegraf-influxdb-grafana-docker/schema.png at master · cristianpb/telegraf-i...,1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/find/master,File Finder · GitHub,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/temp-sigfox,cristianpb/temp-sigfox: Micropython code to send data from the ESP8266 using ...,1,1,temp-sigfox
-/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,4,4,vimwiki
+/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,5,5,vimwiki
 /cristianpb/vimwiki/search,Search · vimwiki,1,1,vimwiki
