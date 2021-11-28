@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,4,4,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,5,5,analytics-google
 /cristianpb/analytics-google/blob/master/src/routes/index.svelte,analytics-google/index.svelte at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/analytics-google/tree/master/src/routes,analytics-google/src/routes at master · cristianpb/analytics-google,1,1,analytics-google
@@ -16,7 +16,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/pulls,Pull requests · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config,dotfiles/ranger/.config at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/enkontext,GitHub - cristianpb/enkontext,1,1,enkontext
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,21,16,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,24,19,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,12,3,muse
 /cristianpb/muse/actions/runs/121509959/workflow,💚 Bump version automatically in package-lock.json · cristianpb/muse@80c3cb5,1,1,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,1,1,muse
@@ -26,8 +26,8 @@ path,title,count,uniques,repository
 /cristianpb/muse/issues/25,Support for older browsers (Mobile safari & chrome) · Issue #25 · cristianpb/...,1,1,muse
 /cristianpb/muse/issues/37,Option to search for artists · Issue #37 · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/issues/4,How to get snapcast control working? · Issue #4 · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",59,38,object-detection
-/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,17,8,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",62,41,object-detection
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,18,9,object-detection
 /cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,8,6,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,6,6,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection,6,3,object-detection
@@ -39,16 +39,16 @@ path,title,count,uniques,repository
 /cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,5,3,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/README.md,object-detection-frontend/README.md at master · cristianpb/object-detection-f...,2,2,object-detection-frontend
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",13,9,rhasspy-handler
-/cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,9,2,rhasspy-handler
+/cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,8,2,rhasspy-handler
 /cristianpb/rhasspy-handler/tree/master/rhasspy/.config/rhasspy/profiles/es,rhasspy-handler/rhasspy/.config/rhasspy/profiles/es at master · cristianpb/rh...,5,1,rhasspy-handler
-/cristianpb/rhasspy-handler/blob/master/src/rhasspymopidy.ts,rhasspy-handler/rhasspymopidy.ts at master · cristianpb/rhasspy-handler · Git...,3,2,rhasspy-handler
-/cristianpb/rhasspy-handler/tree/master/src,rhasspy-handler/src at master · cristianpb/rhasspy-handler · GitHub,3,2,rhasspy-handler
 /cristianpb/rhasspy-handler/tree/master/systemd,rhasspy-handler/systemd at master · cristianpb/rhasspy-handler,3,1,rhasspy-handler
+/cristianpb/rhasspy-handler/blob/master/src/rhasspymopidy.ts,rhasspy-handler/rhasspymopidy.ts at master · cristianpb/rhasspy-handler · Git...,2,2,rhasspy-handler
+/cristianpb/rhasspy-handler/tree/master/src,rhasspy-handler/src at master · cristianpb/rhasspy-handler · GitHub,2,2,rhasspy-handler
 /cristianpb/rhasspy-handler/blob/master/rhasspy/.config/rhasspy/profiles/es/sentences.ini,rhasspy-handler/sentences.ini at master · cristianpb/rhasspy-handler,2,1,rhasspy-handler
 /cristianpb/rhasspy-handler/tree/master/rhasspy/.config/rhasspy/profiles/es/slots,rhasspy-handler/rhasspy/.config/rhasspy/profiles/es/slots at master · cristia...,2,1,rhasspy-handler
 /cristianpb/rhasspy-handler/blob/master/Makefile,rhasspy-handler/Makefile at master · cristianpb/rhasspy-handler,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/blob/master/rhasspy/.config/rhasspy/profiles/es/kaldi_custom_words.txt,rhasspy-handler/kaldi_custom_words.txt at master · cristianpb/rhasspy-handler,1,1,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",25,11,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",23,10,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,16,9,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/.env_dist,telegraf-influxdb-grafana-docker/.env_dist at master · cristianpb/telegraf-in...,10,3,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,8,5,telegraf-influxdb-grafana-docker
