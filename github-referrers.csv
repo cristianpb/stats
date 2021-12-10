@@ -10,13 +10,12 @@ github.com,3,3,dotfiles
 toucan.belcy.com,2,1,dotfiles
 dotfiles.github.io,1,1,dotfiles
 awesomeopensource.com,21,1,muse
-mopidy.com,9,7,muse
-github.com,7,6,muse
+mopidy.com,8,6,muse
+github.com,6,5,muse
 cristianpb.github.io,5,3,muse
 Google,2,2,muse
-pypi.org,1,1,muse
-github.com,40,17,object-detection
-cristianpb.github.io,38,15,object-detection
+cristianpb.github.io,50,15,object-detection
+github.com,38,15,object-detection
 hackster.io,18,3,object-detection
 Google,8,5,object-detection
 programcreek.com,5,2,object-detection
@@ -26,7 +25,7 @@ hackster.io,4,2,object-detection-frontend
 cristianpb-github-io.cdn.ampproject.org,34,1,rhasspy-handler
 Google,5,4,rhasspy-handler
 com.google.android.gm,2,1,stats
-Google,59,7,telegraf-influxdb-grafana-docker
+Google,60,8,telegraf-influxdb-grafana-docker
 medium.com,2,1,telegraf-influxdb-grafana-docker
 github.com,1,1,telegraf-influxdb-grafana-docker
 github.com,1,1,temp-sigfox
