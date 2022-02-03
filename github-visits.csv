@@ -1,6 +1,5 @@
 date,repository,clones,views
 2022-01-26,alchemy-machine,1,0
-2022-01-19,analytics-google,5,2
 2022-01-20,analytics-google,4,0
 2022-01-21,analytics-google,2,1
 2022-01-22,analytics-google,4,1
@@ -14,8 +13,8 @@ date,repository,clones,views
 2022-01-30,analytics-google,5,0
 2022-01-31,analytics-google,3,1
 2022-02-01,analytics-google,6,0
+2022-02-02,analytics-google,5,0
 2022-01-26,aws-lambda-cv,1,0
-2022-01-19,cristianpb,7,0
 2022-01-20,cristianpb,8,0
 2022-01-21,cristianpb,8,0
 2022-01-22,cristianpb,8,0
@@ -29,8 +28,8 @@ date,repository,clones,views
 2022-01-30,cristianpb,8,0
 2022-01-31,cristianpb,8,0
 2022-02-01,cristianpb,8,0
+2022-02-02,cristianpb,8,0
 2022-01-26,cristianpb.github.io,3,0
-2022-01-19,cristianpb.github.io,0,15
 2022-01-27,cristianpb.github.io,0,70
 2022-01-26,dataiku-dss-docker,1,0
 2022-01-25,datalab.mi,1,0
@@ -38,11 +37,11 @@ date,repository,clones,views
 2022-01-26,deces-backend,1,0
 2022-01-26,deces-dataprep,1,0
 2022-01-26,deces-ui,1,0
-2022-01-19,dotfiles,1,44
 2022-01-22,dotfiles,4,5
 2022-01-26,dotfiles,1,0
 2022-01-29,dotfiles,1,0
-2022-01-20,dotfiles,0,22
+2022-02-02,dotfiles,2,8
+2022-01-20,dotfiles,0,17
 2022-01-23,dotfiles,0,1
 2022-01-24,dotfiles,0,1
 2022-01-25,dotfiles,0,9
@@ -61,19 +60,18 @@ date,repository,clones,views
 2022-01-23,muse,1,4
 2022-01-25,muse,1,5
 2022-01-26,muse,3,2
-2022-01-19,muse,0,7
 2022-01-20,muse,0,7
 2022-01-21,muse,0,16
 2022-01-27,muse,0,1
 2022-01-28,muse,0,3
 2022-01-29,muse,0,1
 2022-01-31,muse,0,10
+2022-02-02,muse,0,11
 2022-01-26,mybottender,1,0
 2022-01-26,myhubot,1,0
 2022-01-26,newsapp,1,0
 2022-01-20,newsapp,0,1
 2022-01-26,ngTwitterApp,1,0
-2022-01-19,object-detection,1,56
 2022-01-23,object-detection,1,17
 2022-01-26,object-detection,2,46
 2022-01-27,object-detection,2,6
@@ -87,7 +85,7 @@ date,repository,clones,views
 2022-01-30,object-detection,0,2
 2022-01-31,object-detection,0,19
 2022-02-01,object-detection,0,6
-2022-01-19,object-detection-frontend,3,0
+2022-02-02,object-detection,0,3
 2022-01-26,object-detection-frontend,1,0
 2022-01-28,object-detection-frontend,2,1
 2022-01-20,object-detection-frontend,0,1
@@ -106,6 +104,7 @@ date,repository,clones,views
 2022-01-24,rhasspy-handler,0,1
 2022-01-25,rhasspy-handler,0,1
 2022-01-27,rhasspy-handler,0,3
+2022-02-02,rhasspy-handler,0,2
 2022-01-26,simple-streaming-gateway,1,0
 2022-01-20,stats,3,0
 2022-01-21,stats,5,0
@@ -120,7 +119,7 @@ date,repository,clones,views
 2022-01-30,stats,5,5
 2022-01-31,stats,3,0
 2022-02-01,stats,4,0
-2022-01-19,telegraf-influxdb-grafana-docker,1,29
+2022-02-02,stats,5,0
 2022-01-20,telegraf-influxdb-grafana-docker,2,39
 2022-01-23,telegraf-influxdb-grafana-docker,1,34
 2022-01-26,telegraf-influxdb-grafana-docker,2,5
@@ -133,6 +132,7 @@ date,repository,clones,views
 2022-01-28,telegraf-influxdb-grafana-docker,0,2
 2022-01-31,telegraf-influxdb-grafana-docker,0,4
 2022-02-01,telegraf-influxdb-grafana-docker,0,7
+2022-02-02,telegraf-influxdb-grafana-docker,0,15
 2022-01-22,temp-sigfox,4,0
 2022-01-26,temp-sigfox,1,0
 2022-01-26,tkasme,2,0
@@ -148,3 +148,4 @@ date,repository,clones,views
 2022-01-29,vimwiki,0,1
 2022-01-30,vimwiki,0,2
 2022-01-31,vimwiki,0,7
+2022-02-02,vimwiki,0,3
