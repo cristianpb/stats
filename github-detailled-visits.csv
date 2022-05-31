@@ -16,7 +16,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/polybar/.config/polybar/config.ini,dotfiles/config.ini at master · cristianpb/dotfiles · GitHub,4,2,dotfiles
 /cristianpb/dotfiles/tree/master/mpd/.mpd,dotfiles/mpd/.mpd at master · cristianpb/dotfiles,4,2,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/rc.conf at master · cristianpb/dotfiles · GitHub,3,3,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,28,24,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,25,21,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse,4,2,muse
 /cristianpb/muse/issues/23,"Tunein ""Now Playing"" song info does not update · Issue #23 · cristianpb/muse ...",2,2,muse
 /cristianpb/muse/blob/master/mopidy_muse/ext.conf,muse/ext.conf at master · cristianpb/muse,1,1,muse
@@ -25,23 +25,22 @@ path,title,count,uniques,repository
 /cristianpb/muse/blob/master/mopidy_muse/static/.gitignore,muse/.gitignore at master · cristianpb/muse,1,1,muse
 /cristianpb/muse/blob/master/README.md,muse/README.md at master · cristianpb/muse,1,1,muse
 /cristianpb/muse/commit/857ef1c843c21b58051187f3331bb848b602bc0b,🐋 Add production docker image that is pushed to registry · cristianpb/muse@8...,1,1,muse
-/cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",76,41,object-detection
-/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,37,19,object-detection
-/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,37,19,object-detection
-/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,28,19,object-detection
+/cristianpb/muse/issues/24,Add to queue doesn't work · Issue #24 · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",72,37,object-detection
+/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,35,17,object-detection
+/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,26,14,object-detection
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,25,16,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,11,6,object-detection
 /cristianpb/object-detection/tree/master/tests,object-detection/tests at master · cristianpb/object-detection · GitHub,11,5,object-detection
 /cristianpb/object-detection/tree/master/models/ssd_mobilenet,object-detection/models/ssd_mobilenet at master · cristianpb/object-detection...,9,5,object-detection
 /cristianpb/object-detection/blob/master/tests/test_detection.py,object-detection/test_detection.py at master · cristianpb/object-detection · ...,8,4,object-detection
 /cristianpb/object-detection/tree/master/imgs,object-detection/imgs at master · cristianpb/object-detection · GitHub,7,2,object-detection
 /cristianpb/object-detection/blob/master/.env.sample,object-detection/.env.sample at master · cristianpb/object-detection,7,1,object-detection
-/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,15,9,object-detection-frontend
-/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",8,6,rhasspy-handler
+/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,14,8,object-detection-frontend
+/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",7,6,rhasspy-handler
 /cristianpb/rhasspy-handler/blob/9a9a9ce05f1345a024a9a8d1568181d60c626ca2/src/index.ts,rhasspy-handler/index.ts at 9a9a9ce05f1345a024a9a8d1568181d60c626ca2 · cristi...,1,1,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",9,9,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,9,7,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/.gitignore,telegraf-influxdb-grafana-docker/.gitignore at master · cristianpb/telegraf-i...,2,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",8,8,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,8,6,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf.conf,telegraf-influxdb-grafana-docker/telegraf.conf at master · cristianpb/telegra...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf-gpu.conf,telegraf-influxdb-grafana-docker/telegraf-gpu.conf at master · cristianpb/tel...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,1,1,telegraf-influxdb-grafana-docker
