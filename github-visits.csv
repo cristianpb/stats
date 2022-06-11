@@ -1,6 +1,5 @@
 date,repository,clones,views
 2022-06-08,alchemy-machine,1,0
-2022-05-27,analytics-google,3,1
 2022-05-28,analytics-google,4,0
 2022-05-29,analytics-google,3,0
 2022-05-30,analytics-google,2,1
@@ -14,8 +13,10 @@ date,repository,clones,views
 2022-06-07,analytics-google,2,15
 2022-06-08,analytics-google,4,0
 2022-06-09,analytics-google,3,0
+2022-06-10,analytics-google,2,0
 2022-06-05,aws-lambda-cv,2,0
 2022-06-09,aws-lambda-cv,0,9
+2022-06-10,aws-lambda-cv,0,9
 2022-06-07,cristianpb,0,2
 2022-06-09,cristianpb,0,1
 2022-05-28,cristianpb.github.io,1,0
@@ -27,7 +28,7 @@ date,repository,clones,views
 2022-06-04,dotfiles,1,25
 2022-06-07,dotfiles,1,1
 2022-06-09,dotfiles,1,14
-2022-05-27,dotfiles,0,1
+2022-06-10,dotfiles,1,0
 2022-05-28,dotfiles,0,8
 2022-05-29,dotfiles,0,5
 2022-05-30,dotfiles,0,2
@@ -40,6 +41,7 @@ date,repository,clones,views
 2022-06-03,matchid-backend,2,0
 2022-05-30,muse,2,21
 2022-06-03,muse,2,3
+2022-06-10,muse,1,14
 2022-05-28,muse,0,4
 2022-05-29,muse,0,1
 2022-05-31,muse,0,10
@@ -50,7 +52,6 @@ date,repository,clones,views
 2022-06-08,muse,0,1
 2022-06-09,muse,0,1
 2022-06-03,mybottender,2,0
-2022-05-27,object-detection,1,27
 2022-05-28,object-detection,1,1
 2022-06-01,object-detection,1,4
 2022-05-29,object-detection,0,20
@@ -64,10 +65,10 @@ date,repository,clones,views
 2022-06-07,object-detection,0,16
 2022-06-08,object-detection,0,8
 2022-06-09,object-detection,0,19
+2022-06-10,object-detection,0,12
 2022-05-28,object-detection-frontend,2,1
 2022-06-01,object-detection-frontend,1,1
 2022-06-02,object-detection-frontend,3,0
-2022-05-27,object-detection-frontend,0,1
 2022-05-30,object-detection-frontend,0,1
 2022-06-03,object-detection-frontend,0,21
 2022-06-04,object-detection-frontend,0,5
@@ -76,14 +77,13 @@ date,repository,clones,views
 2022-06-05,priceminister,1,0
 2022-06-07,rhasspy-handler,1,13
 2022-06-09,rhasspy-handler,1,0
-2022-05-27,rhasspy-handler,0,2
 2022-05-28,rhasspy-handler,0,1
 2022-05-30,rhasspy-handler,0,1
 2022-06-01,rhasspy-handler,0,1
 2022-06-02,rhasspy-handler,0,1
 2022-06-05,rhasspy-handler,0,22
 2022-06-06,rhasspy-handler,0,3
-2022-05-28,stats,4,0
+2022-06-10,rhasspy-handler,0,1
 2022-05-29,stats,7,0
 2022-05-30,stats,5,0
 2022-05-31,stats,6,0
@@ -96,6 +96,8 @@ date,repository,clones,views
 2022-06-07,stats,5,0
 2022-06-08,stats,4,0
 2022-06-09,stats,5,0
+2022-06-10,stats,4,0
+2022-06-10,telegraf-influxdb-grafana-docker,2,3
 2022-05-28,telegraf-influxdb-grafana-docker,0,1
 2022-05-29,telegraf-influxdb-grafana-docker,0,1
 2022-05-30,telegraf-influxdb-grafana-docker,0,1
