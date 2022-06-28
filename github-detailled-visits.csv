@@ -9,7 +9,7 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/blob/328f9fe42d7d1635f74023a5cc55b70a93c36065/rollup.config.js,analytics-google/rollup.config.js at 328f9fe42d7d1635f74023a5cc55b70a93c36065...,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/country.csv,analytics-google/country.csv at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/cypress.json,analytics-google/cypress.json at master · cristianpb/analytics-google,1,1,analytics-google
-/cristianpb/aws-lambda-cv,"cristianpb/aws-lambda-cv: Computer Vision, with AWS Lambda",15,1,aws-lambda-cv
+/cristianpb/aws-lambda-cv,"cristianpb/aws-lambda-cv: Computer Vision, with AWS Lambda",12,1,aws-lambda-cv
 /cristianpb/aws-lambda-cv/blob/master/template.yaml,aws-lambda-cv/template.yaml at master · cristianpb/aws-lambda-cv,3,1,aws-lambda-cv
 /cristianpb/aws-lambda-cv/tree/master/test,aws-lambda-cv/test at master · cristianpb/aws-lambda-cv,3,1,aws-lambda-cv
 /cristianpb/aws-lambda-cv/blob/master/lambda_function.py,aws-lambda-cv/lambda_function.py at master · cristianpb/aws-lambda-cv,2,1,aws-lambda-cv
@@ -25,28 +25,28 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/polybar/.config/polybar/launch.sh,dotfiles/launch.sh at master · cristianpb/dotfiles · GitHub,3,1,dotfiles
 /cristianpb/dotfiles/tree/master/polybar/.config/polybar/scripts,dotfiles/polybar/.config/polybar/scripts at master · cristianpb/dotfiles · Gi...,3,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands_full.py,dotfiles/commands_full.py at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,28,14,muse
-/cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,6,4,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,24,13,muse
+/cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,5,3,muse
 /cristianpb/muse/blob/master/src/client.js,muse/client.js at master · cristianpb/muse · GitHub,2,2,muse
-/cristianpb/muse/issues/20,Add options to play entire folders · Issue #20 · cristianpb/muse · GitHub,2,2,muse
 /cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse · GitHub,2,2,muse
 /cristianpb/muse/blob/master/src/template.html,muse/template.html at master · cristianpb/muse · GitHub,2,1,muse
 /cristianpb/muse/tree/master/src/scss,muse/src/scss at master · cristianpb/muse · GitHub,2,1,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/static/.gitignore,muse/.gitignore at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/blob/master/README.md,muse/README.md at master · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/blob/master/src/scss/global.scss,muse/global.scss at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/myhubot,cristianpb/myhubot: Open source bot written in CoffeeScript on Node.js,2,1,myhubot
 /cristianpb/newsapp,cristianpb/newsapp,1,1,newsapp
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",64,42,object-detection
-/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,9,8,object-detection
-/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,9,6,object-detection
-/cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,9,6,object-detection
-/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,9,5,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",58,38,object-detection
+/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,8,7,object-detection
+/cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,7,5,object-detection
+/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,7,4,object-detection
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,6,4,object-detection
 /cristianpb/object-detection/tree/master/imgs,object-detection/imgs at master · cristianpb/object-detection · GitHub,5,4,object-detection
 /cristianpb/object-detection/tree/master/tests,object-detection/tests at master · cristianpb/object-detection · GitHub,5,3,object-detection
 /cristianpb/object-detection/tree/master/nginx,object-detection/nginx at master · cristianpb/object-detection · GitHub,4,4,object-detection
-/cristianpb/object-detection/tree/master/models/cascade,object-detection/models/cascade at master · cristianpb/object-detection · Git...,4,2,object-detection
 /cristianpb/object-detection/tree/master/systemd,object-detection/systemd at master · cristianpb/object-detection · GitHub,3,3,object-detection
+/cristianpb/object-detection/blob/master/tests/test_detection.py,object-detection/test_detection.py at master · cristianpb/object-detection · ...,3,2,object-detection
 /cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,10,8,object-detection-frontend
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",3,3,rhasspy-handler
 /cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,2,2,rhasspy-handler
