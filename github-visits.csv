@@ -1,5 +1,4 @@
 date,repository,clones,views
-2022-06-16,analytics-google,2,11
 2022-06-17,analytics-google,2,0
 2022-06-18,analytics-google,2,1
 2022-06-19,analytics-google,2,0
@@ -13,6 +12,7 @@ date,repository,clones,views
 2022-06-27,analytics-google,2,0
 2022-06-28,analytics-google,3,0
 2022-06-29,analytics-google,3,0
+2022-06-30,analytics-google,2,0
 2022-06-17,aws-lambda-cv,0,7
 2022-06-20,aws-lambda-cv,0,5
 2022-06-21,aws-lambda-cv,0,5
@@ -28,6 +28,7 @@ date,repository,clones,views
 2022-06-23,dotfiles,0,1
 2022-06-25,dotfiles,0,6
 2022-06-26,dotfiles,0,2
+2022-06-30,dotfiles,0,1
 2022-06-25,enkontext,1,0
 2022-06-19,hubot-ratp,2,0
 2022-06-24,hubot-ratp,1,0
@@ -39,7 +40,6 @@ date,repository,clones,views
 2022-06-21,muse,1,0
 2022-06-24,muse,2,4
 2022-06-26,muse,1,16
-2022-06-16,muse,0,3
 2022-06-17,muse,0,1
 2022-06-18,muse,0,1
 2022-06-19,muse,0,7
@@ -52,6 +52,7 @@ date,repository,clones,views
 2022-06-29,muse,0,2
 2022-06-17,mybottender,2,0
 2022-06-19,myhubot,0,2
+2022-06-30,newsapp,1,0
 2022-06-19,newsapp,0,1
 2022-06-17,object-detection,3,13
 2022-06-21,object-detection,1,24
@@ -60,7 +61,7 @@ date,repository,clones,views
 2022-06-26,object-detection,1,1
 2022-06-27,object-detection,1,11
 2022-06-29,object-detection,2,20
-2022-06-16,object-detection,0,1
+2022-06-30,object-detection,2,1
 2022-06-19,object-detection,0,3
 2022-06-20,object-detection,0,12
 2022-06-22,object-detection,0,26
@@ -69,16 +70,14 @@ date,repository,clones,views
 2022-06-23,object-detection-frontend,4,2
 2022-06-25,object-detection-frontend,3,0
 2022-06-27,object-detection-frontend,2,0
-2022-06-16,object-detection-frontend,0,1
 2022-06-17,object-detection-frontend,0,3
 2022-06-21,object-detection-frontend,0,1
 2022-06-22,object-detection-frontend,0,2
+2022-06-30,object-detection-frontend,0,1
 2022-06-27,PresentationTechnique,2,0
-2022-06-16,rhasspy-handler,0,1
 2022-06-17,rhasspy-handler,0,1
 2022-06-20,rhasspy-handler,0,1
 2022-06-26,rhasspy-handler,0,1
-2022-06-17,stats,4,0
 2022-06-18,stats,4,0
 2022-06-19,stats,8,0
 2022-06-20,stats,3,0
@@ -91,7 +90,7 @@ date,repository,clones,views
 2022-06-27,stats,4,0
 2022-06-28,stats,5,0
 2022-06-29,stats,5,0
-2022-06-16,telegraf-influxdb-grafana-docker,1,12
+2022-06-30,stats,4,0
 2022-06-25,telegraf-influxdb-grafana-docker,1,14
 2022-06-19,telegraf-influxdb-grafana-docker,0,1
 2022-06-20,telegraf-influxdb-grafana-docker,0,3
@@ -99,11 +98,12 @@ date,repository,clones,views
 2022-06-23,telegraf-influxdb-grafana-docker,0,2
 2022-06-27,telegraf-influxdb-grafana-docker,0,4
 2022-06-28,telegraf-influxdb-grafana-docker,0,5
+2022-06-30,telegraf-influxdb-grafana-docker,0,1
+2022-06-30,temp-sigfox,1,0
 2022-06-27,velo.club,1,0
 2022-06-19,vimwiki,1,60
 2022-06-26,vimwiki,1,1
 2022-06-27,vimwiki,1,1
-2022-06-16,vimwiki,0,6
 2022-06-17,vimwiki,0,1
 2022-06-20,vimwiki,0,2
 2022-06-21,vimwiki,0,14
