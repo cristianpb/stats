@@ -9,9 +9,9 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/rifle.conf at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/scope.sh at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/wiki2html.sh,dotfiles/wiki2html.sh at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
-/cristianpb/dotfiles/pulls,Pull requests · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/tree/master/bash,dotfiles/bash at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/hubot-ratp,cristianpb/hubot-ratp: A hubot script to obtain Paris transport times of RATP...,2,1,hubot-ratp
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,13,6,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,11,7,muse
 /cristianpb/muse/issues/4,How to get snapcast control working? · Issue #4 · cristianpb/muse,8,1,muse
 /cristianpb/muse/blob/master/src/client.js,muse/client.js at master · cristianpb/muse · GitHub,2,2,muse
 /cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse · GitHub,2,2,muse
@@ -21,21 +21,22 @@ path,title,count,uniques,repository
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/static/.gitignore,muse/.gitignore at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/blob/master/README.md,muse/README.md at master · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",42,32,object-detection
+/cristianpb/ngTwitterApp,GitHub - cristianpb/ngTwitterApp: Angular twitter App,1,1,ngTwitterApp
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",35,28,object-detection
+/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,10,8,object-detection
 /cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,10,7,object-detection
-/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,9,7,object-detection
-/cristianpb/object-detection/tree/master/imgs,object-detection/imgs at master · cristianpb/object-detection · GitHub,7,6,object-detection
-/cristianpb/object-detection/tree/master/tests,object-detection/tests at master · cristianpb/object-detection · GitHub,5,3,object-detection
-/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,4,3,object-detection
-/cristianpb/object-detection/blob/master/tests/test_detection.py,object-detection/tests at master · cristianpb/object-detection,4,3,object-detection
-/cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,4,2,object-detection
+/cristianpb/object-detection/tree/master/imgs,object-detection/imgs at master · cristianpb/object-detection · GitHub,4,4,object-detection
 /cristianpb/object-detection/blob/master/backend/camera.py,object-detection/camera.py at master · cristianpb/object-detection · GitHub,3,3,object-detection
-/cristianpb/object-detection/blob/master/imgs/image.jpeg,object-detection/image.jpeg at master · cristianpb/object-detection · GitHub,3,3,object-detection
-/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,5,4,object-detection-frontend
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,3,2,object-detection
+/cristianpb/object-detection/blob/master/tests/test_detection.py,object-detection/tests at master · cristianpb/object-detection,3,2,object-detection
+/cristianpb/object-detection/search,Search · realtime rasberry pi,3,2,object-detection
+/cristianpb/object-detection/tree/master/tests,object-detection/tests at master · cristianpb/object-detection · GitHub,3,2,object-detection
+/cristianpb/object-detection/blob/master/imgs/image.jpeg,object-detection/image.jpeg at master · cristianpb/object-detection · GitHub,2,2,object-detection
+/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,3,2,object-detection-frontend
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",2,2,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",17,10,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,7,5,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,5,4,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",20,12,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,8,6,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,7,6,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,4,3,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,telegraf-influxdb-grafana-docker/docker-compose-gpu.yml at master · cristianp...,2,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/dashboard.yaml,telegraf-influxdb-grafana-docker/dashboard.yaml at master · cristianpb/telegr...,2,2,telegraf-influxdb-grafana-docker
