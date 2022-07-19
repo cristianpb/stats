@@ -15,7 +15,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/rc.conf at master · cristianpb/dotfiles · GitHub,3,3,dotfiles
 /cristianpb/dotfiles/blob/master/wiki2html.sh,dotfiles/wiki2html.sh at master · cristianpb/dotfiles,3,1,dotfiles
 /cristianpb/dotfiles/tree/master/R,cristianpb/dotfiles: My dotfiles,3,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,34,19,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,33,18,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,3,3,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse,2,2,muse
 /cristianpb/muse/tree/master/mopidy_muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,2,1,muse
@@ -24,9 +24,9 @@ path,title,count,uniques,repository
 /cristianpb/muse/pulls,Pull requests · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/tree/master/cypress,Pull requests · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/tree/master/mopidy_muse/static,muse/mopidy_muse at master · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/object-detection,object-detection/yolo_detection.py at master · cristianpb/object-detection,49,26,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",46,23,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,22,8,object-detection
-/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,20,16,object-detection
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,18,15,object-detection
 /cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,17,8,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection,4,3,object-detection
 /cristianpb/object-detection/tree/master/systemd,object-detection/systemd at master · cristianpb/object-detection · GitHub,4,3,object-detection
@@ -44,9 +44,9 @@ path,title,count,uniques,repository
 /cristianpb/object-detection-frontend/blob/master/src/app/camera/camera.component.ts,object-detection-frontend/src/app/camera at master · cristianpb/object-detect...,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/src/app/cameras/cameras.component.html,object-detection-frontend/src/app/cameras at master · cristianpb/object-detec...,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/src/app/workers/workers.component.ts,object-detection-frontend/src/app/workers at master · cristianpb/object-detec...,1,1,object-detection-frontend
-/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",5,5,rhasspy-handler
+/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",4,4,rhasspy-handler
 /cristianpb/simple-streaming-gateway,cristianpb/simple-streaming-gateway: Flask App to stream generated sensor dat...,2,1,simple-streaming-gateway
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",23,10,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",22,9,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,10,3,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,6,5,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,4,2,telegraf-influxdb-grafana-docker
