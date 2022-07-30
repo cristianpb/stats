@@ -1,14 +1,15 @@
 path,title,count,uniques,repository
 /cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,2,2,analytics-google
+/cristianpb/analytics-google/blob/master/README.md,analytics-google/README.md at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/cristianpb.github.io/blob/0344ef3738b8d134ca7902b080a36c76fbe38ea9/_data/about/articles.yml,cristianpb.github.io/articles.yml at 0344ef3738b8d134ca7902b080a36c76fbe38ea9...,2,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/search,Search · Cellular automata,1,1,cristianpb.github.io
-/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/rc.conf at master · cristianpb/dotfiles · GitHub,14,7,dotfiles
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,10,6,dotfiles
+/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/rc.conf at master · cristianpb/dotfiles · GitHub,10,6,dotfiles
 /cristianpb/dotfiles/blob/master/polybar/.config/polybar/config.ini,dotfiles/polybar/.config/polybar at master · cristianpb/dotfiles · GitHub,6,4,dotfiles
 /cristianpb/dotfiles/tree/master/polybar/.config/polybar,GitHub - cristianpb/dotfiles: My dotfiles,4,3,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands.py,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,3,3,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/rc.conf at master · cristianpb/dotfiles,3,3,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/rc.conf at master · cristianpb/dotfiles,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/msmtp/.msmtprc,dotfiles/.msmtprc at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands.py,dotfiles/commands.py at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/commit/1dda1f406250ba99fbb603e387b16594044236d8,🍱 Update config files for ranger 1.9.3 · cristianpb/dotfiles@1dda1f4 · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/find/master,File Finder · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/search,Search · config.toml,1,1,dotfiles
@@ -17,27 +18,27 @@ path,title,count,uniques,repository
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,2,2,muse
 /cristianpb/muse/issues/15,Snapcast server settings are not stored · Issue #15 · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/tree/master/static,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,1,1,muse
-/cristianpb/object-detection,object-detection/backend at master · cristianpb/object-detection · GitHub,58,22,object-detection
-/cristianpb/object-detection/tree/master/backend,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,26,12,object-detection
-/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,23,15,object-detection
-/cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection,11,4,object-detection
-/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,9,7,object-detection
+/cristianpb/object-detection,object-detection/backend at master · cristianpb/object-detection · GitHub,60,24,object-detection
+/cristianpb/object-detection/tree/master/backend,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,33,10,object-detection
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,22,13,object-detection
+/cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,11,4,object-detection
 /cristianpb/object-detection/deployments/activity_log,Deployments · cristianpb/object-detection,9,1,object-detection
+/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,8,6,object-detection
+/cristianpb/object-detection/blob/master/backend/app.py,object-detection/backend at master · cristianpb/object-detection,8,2,object-detection
 /cristianpb/object-detection/tree/master/models/yolo,object-detection/models/yolo at master · cristianpb/object-detection,8,2,object-detection
-/cristianpb/object-detection/tree/master/models/ssd_mobilenet,object-detection/models/ssd_mobilenet at master · cristianpb/object-detection...,6,2,object-detection
-/cristianpb/object-detection/tree/master/imgs,object-detection/imgs/webcam at master · cristianpb/object-detection · GitHub,5,3,object-detection
-/cristianpb/object-detection/blob/master/backend/motion.py,object-detection/motion.py at master · cristianpb/object-detection · GitHub,4,3,object-detection
-/cristianpb/object-detection-frontend,object-detection-frontend/angular.json at master · cristianpb/object-detectio...,10,7,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/src/app,object-detection-frontend/src/app at master · cristianpb/object-detection-fro...,6,2,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/src,object-detection-frontend/src at master · cristianpb/object-detection-frontend,4,2,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/src/app/camera,object-detection-frontend/src/app/camera at master · cristianpb/object-detect...,3,2,object-detection-frontend
+/cristianpb/object-detection/tree/master/imgs,object-detection/imgs/webcam at master · cristianpb/object-detection · GitHub,7,5,object-detection
+/cristianpb/object-detection/tree/master/nginx,object-detection/nginx at master · cristianpb/object-detection · GitHub,7,3,object-detection
+/cristianpb/object-detection-frontend,object-detection-frontend/angular.json at master · cristianpb/object-detectio...,10,6,object-detection-frontend
+/cristianpb/object-detection-frontend/blob/master/src/app/preview/preview.component.ts,object-detection-frontend/preview.component.ts at master · cristianpb/object-...,6,2,object-detection-frontend
+/cristianpb/object-detection-frontend/tree/master/src/app,object-detection-frontend/src/app at master · cristianpb/object-detection-fro...,5,2,object-detection-frontend
+/cristianpb/object-detection-frontend/tree/master/src,object-detection-frontend/src at master · cristianpb/object-detection-fronten...,3,2,object-detection-frontend
+/cristianpb/object-detection-frontend/tree/master/src/app/preview,object-detection-frontend/src/app/preview at master · cristianpb/object-detec...,3,1,object-detection-frontend
+/cristianpb/object-detection-frontend/tree/master/src/app/camera,object-detection-frontend/src/app/camera at master · cristianpb/object-detect...,2,2,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/angular.json,object-detection-frontend/angular.json at master · cristianpb/object-detectio...,2,1,object-detection-frontend
-/cristianpb/object-detection-frontend/pull/7,Bump karma from 5.0.9 to 6.3.16 by dependabot[bot] · Pull Request #7 · cristi...,2,1,object-detection-frontend
-/cristianpb/object-detection-frontend/pull/8,Pull requests · cristianpb/object-detection-frontend · GitHub,2,1,object-detection-frontend
-/cristianpb/object-detection-frontend/pull/8/commits,Bump @angular/core from 10.2.5 to 11.0.5 by dependabot[bot] · Pull Request #8...,2,1,object-detection-frontend
-/cristianpb/object-detection-frontend/pulls,Bump @angular/core from 10.2.5 to 11.0.5 by dependabot[bot] · Pull Request #8...,2,1,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/src/app/cameras,object-detection-frontend/src/app/cameras at master · cristianpb/object-detec...,2,1,object-detection-frontend
-/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",3,3,rhasspy-handler
+/cristianpb/object-detection-frontend/blob/master/src/app/app-routing.module.ts,object-detection-frontend/app-routing.module.ts at master · cristianpb/object...,2,1,object-detection-frontend
+/cristianpb/object-detection-frontend/blob/master/src/app/photos/photos.component.ts,object-detection-frontend/photos.component.ts at master · cristianpb/object-d...,2,1,object-detection-frontend
+/cristianpb/object-detection-frontend/blob/master/src/app/preview/preview.component.html,object-detection-frontend/preview.component.html at master · cristianpb/objec...,2,1,object-detection-frontend
+/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",2,2,rhasspy-handler
 /cristianpb/rhasspy-handler/tree/master/src,rhasspy-handler/src at master · cristianpb/rhasspy-handler · GitHub,2,1,rhasspy-handler
 /cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/blob/master/src/index.ts,rhasspy-handler/index.ts at master · cristianpb/rhasspy-handler · GitHub,1,1,rhasspy-handler
@@ -52,13 +53,13 @@ path,title,count,uniques,repository
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/.env_dist,telegraf-influxdb-grafana-docker/.env_dist at master · cristianpb/telegraf-in...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/projects,Actions · cristianpb/telegraf-influxdb-grafana-docker · GitHub,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/temp-sigfox,GitHub - cristianpb/temp-sigfox: Micropython code to send data from the ESP82...,4,3,temp-sigfox
-/cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki · GitHub,31,5,vimwiki
-/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,30,9,vimwiki
+/cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki · GitHub,18,5,vimwiki
+/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,16,10,vimwiki
 /cristianpb/vimwiki/tree/master/layouts,vimwiki/layouts at master · cristianpb/vimwiki · GitHub,8,2,vimwiki
 /cristianpb/vimwiki/tree/master/layouts/partials,vimwiki/layouts at master · cristianpb/vimwiki,7,1,vimwiki
-/cristianpb/vimwiki/blob/master/config.toml,vimwiki/config.toml at master · cristianpb/vimwiki · GitHub,6,2,vimwiki
-/cristianpb/vimwiki/blob/master/config-gh.toml,vimwiki/config-gh.toml at master · cristianpb/vimwiki · GitHub,5,2,vimwiki
-/cristianpb/vimwiki/blob/master/README.md,vimwiki/README.md at master · cristianpb/vimwiki · GitHub,5,2,vimwiki
 /cristianpb/vimwiki/tree/master/layouts/_default,vimwiki/layouts/_default at master · cristianpb/vimwiki,5,1,vimwiki
-/cristianpb/vimwiki/blob/master/content/_index.md,vimwiki/_index.md at master · cristianpb/vimwiki,4,1,vimwiki
 /cristianpb/vimwiki/tree/master/layouts/shortcodes,vimwiki/layouts at master · cristianpb/vimwiki,3,1,vimwiki
+/cristianpb/vimwiki/blob/master/content/amp.md,vimwiki/content at master · cristianpb/vimwiki · GitHub,2,2,vimwiki
+/cristianpb/vimwiki/blob/master/content/touchpad.md,vimwiki/touchpad.md at master · cristianpb/vimwiki · GitHub,2,2,vimwiki
+/cristianpb/vimwiki/blob/master/layouts/_default/list.html,vimwiki/layouts/_default at master · cristianpb/vimwiki,2,1,vimwiki
+/cristianpb/vimwiki/blob/master/layouts/index.html,vimwiki/layouts at master · cristianpb/vimwiki,2,1,vimwiki
