@@ -1,6 +1,6 @@
 referrer,count,uniques,repository
 cristianpb.github.io,7,1,analytics-google
-Google,1,1,analytics-google
+Google,2,2,analytics-google
 github.com,2,1,cristianpb.github.io
 dotshare.it,3,1,dotfiles
 cristianpb.github.io,3,1,dotfiles
@@ -10,13 +10,14 @@ mopidy.com,8,5,muse
 cristianpb.github.io,2,2,muse
 Google,1,1,muse
 DuckDuckGo,1,1,muse
-hackster.io,40,1,object-detection
+hackster.io,41,2,object-detection
 cristianpb.github.io,19,13,object-detection
-github.com,13,11,object-detection
+github.com,14,11,object-detection
 Google,7,2,object-detection
 cristianpb-github-io.cdn.ampproject.org,4,2,object-detection
+ampproject.org,1,1,object-detection
 hackster.io,36,4,object-detection-frontend
-Google,6,4,object-detection-frontend
+Google,4,3,object-detection-frontend
 Google,1,1,rhasspy-handler
 cristianpb.github.io,14,3,telegraf-influxdb-grafana-docker
 Google,7,7,telegraf-influxdb-grafana-docker
