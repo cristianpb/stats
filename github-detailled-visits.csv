@@ -4,11 +4,10 @@ path,title,count,uniques,repository
 /cristianpb/aws-lambda-cv,"cristianpb/aws-lambda-cv: Computer Vision, with AWS Lambda",1,1,aws-lambda-cv
 /cristianpb/aws-lambda-cv/blob/master/lambda_function.py,aws-lambda-cv/lambda_function.py at master · cristianpb/aws-lambda-cv,1,1,aws-lambda-cv
 /cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,1,1,cristianpb.github.io
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,6,6,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,7,6,dotfiles
 /cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/.vimrc at master · cristianpb/dotfiles · GitHub,3,2,dotfiles
-/cristianpb/dotfiles/tree/master/i3/.config/i3,dotfiles/i3/.config/i3 at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
-/cristianpb/dotfiles/tree/master/R,dotfiles/R at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,28,16,muse
+/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles,1,1,dotfiles
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,27,15,muse
 /cristianpb/muse/search,Search · tracks playing · GitHub,17,1,muse
 /cristianpb/muse/tree/b709e95519d76d15cc76dd7fbe01e92b558a016d/src,muse/src at b709e95519d76d15cc76dd7fbe01e92b558a016d · cristianpb/muse · GitHub,13,1,muse
 /cristianpb/muse/tree/b709e95519d76d15cc76dd7fbe01e92b558a016d,GitHub - cristianpb/muse at b709e95519d76d15cc76dd7fbe01e92b558a016d,10,1,muse
@@ -19,7 +18,7 @@ path,title,count,uniques,repository
 /cristianpb/muse/tree/b709e95519d76d15cc76dd7fbe01e92b558a016d/cypress,muse/cypress at b709e95519d76d15cc76dd7fbe01e92b558a016d · cristianpb/muse · ...,4,1,muse
 /cristianpb/muse/tree/b709e95519d76d15cc76dd7fbe01e92b558a016d/src/routes,muse/src/routes at b709e95519d76d15cc76dd7fbe01e92b558a016d · cristianpb/muse...,4,1,muse
 /cristianpb/music-s3/actions,Actions · cristianpb/music-s3,12,1,music-s3
-/cristianpb/music-s3,cristianpb/music-s3,7,2,music-s3
+/cristianpb/music-s3,cristianpb/music-s3,8,3,music-s3
 /cristianpb/music-s3/actions/runs/3063988096,debug · cristianpb/music-s3@ba09ef4,5,1,music-s3
 /cristianpb/music-s3/actions/runs/3056334574,🎉 Initial commit · cristianpb/music-s3@1a05908,4,1,music-s3
 /cristianpb/music-s3/actions/runs/3056404977,🎨 Checkoutv1 · cristianpb/music-s3@216f0dc,3,1,music-s3
@@ -30,9 +29,9 @@ path,title,count,uniques,repository
 /cristianpb/music-s3/actions/runs/3056331858/jobs/4930383411,🎉 Initial commit · cristianpb/music-s3@d64d703,1,1,music-s3
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",27,20,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,11,9,object-detection
-/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,9,7,object-detection
+/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,10,8,object-detection
+/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,3,3,object-detection
 /cristianpb/object-detection/blob/master/backend/motion.py,object-detection/motion.py at master · cristianpb/object-detection · GitHub,2,2,object-detection
-/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,2,2,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,2,2,object-detection
 /cristianpb/object-detection/blob/master/models/ssd_mobilenet/ssd_mobilenet_v2_coco_2018_03_29.pbtxt,object-detection/ssd_mobilenet_v2_coco_2018_03_29.pbtxt at master · cristianp...,1,1,object-detection
 /cristianpb/object-detection/tree/master/models/ssd_mobilenet,object-detection/models/ssd_mobilenet at master · cristianpb/object-detection...,1,1,object-detection
@@ -44,7 +43,7 @@ path,title,count,uniques,repository
 /cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/blob/master/src/index.ts,rhasspy-handler/index.ts at master · cristianpb/rhasspy-handler · GitHub,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/tree/master/src,rhasspy-handler/src at master · cristianpb/rhasspy-handler · GitHub,1,1,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",16,9,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",14,9,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,7,7,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/Makefile,telegraf-influxdb-grafana-docker/Makefile at master · cristianpb/telegraf-inf...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/find/master,File Finder · GitHub,1,1,telegraf-influxdb-grafana-docker
