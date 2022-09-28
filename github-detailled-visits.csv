@@ -1,11 +1,11 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,5,5,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,4,4,analytics-google
 /cristianpb/analytics-google/blob/master/.github/workflows/data.yml,analytics-google/data.yml at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/README.md,analytics-google/README.md at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/aws-lambda-cv,"cristianpb/aws-lambda-cv: Computer Vision, with AWS Lambda",1,1,aws-lambda-cv
 /cristianpb/aws-lambda-cv/blob/master/requirements.txt,aws-lambda-cv/requirements.txt at master · cristianpb/aws-lambda-cv,1,1,aws-lambda-cv
 /cristianpb/aws-lambda-cv/blob/master/template.yaml,aws-lambda-cv/template.yaml at master · cristianpb/aws-lambda-cv,1,1,aws-lambda-cv
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,16,6,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,15,5,dotfiles
 /cristianpb/dotfiles/tree/13fb22d4880eac3413d300379405bc9c63bc3ea7,cristianpb/dotfiles at 13fb22d4880eac3413d300379405bc9c63bc3ea7,6,1,dotfiles
 /cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/.vimrc at master · cristianpb/dotfiles · GitHub,3,3,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
@@ -17,7 +17,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/commits/master,Commits · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,19,8,muse
 /cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse · GitHub,8,2,muse
-/cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,4,3,muse
+/cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,3,2,muse
 /cristianpb/muse/tree/master/src/tools,muse/src/tools at master · cristianpb/muse · GitHub,3,1,muse
 /cristianpb/muse/tree/master/src/components,muse/src/components at master · cristianpb/muse · GitHub,2,2,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,2,1,muse
@@ -25,43 +25,45 @@ path,title,count,uniques,repository
 /cristianpb/muse/blob/master/src/client.js,muse/client.js at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/blob/master/src/components/Nav.svelte,muse/Nav.svelte at master · cristianpb/muse,1,1,muse
 /cristianpb/muse/blob/master/src/routes/search.svelte,muse/search.svelte at master · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/music-s3/actions,Actions · cristianpb/music-s3 · GitHub,28,2,music-s3
-/cristianpb/music-s3,GitHub - cristianpb/music-s3,27,4,music-s3
-/cristianpb/music-s3/blob/master/.github/workflows/main.yaml,music-s3/main.yaml at master · cristianpb/music-s3 · GitHub,5,2,music-s3
-/cristianpb/music-s3/tree/master/.github/workflows,music-s3/.github/workflows at master · cristianpb/music-s3 · GitHub,5,2,music-s3
+/cristianpb/music-s3,GitHub - cristianpb/music-s3,29,5,music-s3
+/cristianpb/music-s3/actions,Actions · cristianpb/music-s3 · GitHub,27,3,music-s3
+/cristianpb/music-s3/blob/master/.github/workflows/main.yaml,music-s3/main.yaml at master · cristianpb/music-s3 · GitHub,6,3,music-s3
+/cristianpb/music-s3/tree/master/.github/workflows,music-s3/.github/workflows at master · cristianpb/music-s3 · GitHub,6,3,music-s3
 /cristianpb/music-s3/actions/runs/3063988096,debug · cristianpb/music-s3@ba09ef4,5,1,music-s3
-/cristianpb/music-s3/actions/runs/3056334574,🎉 Initial commit · cristianpb/music-s3@1a05908,4,1,music-s3
+/cristianpb/music-s3/actions/runs/3125380576/jobs/5069690376,Workflow · cristianpb/music-s3@c1b4baf · GitHub,3,2,music-s3
 /cristianpb/music-s3/blob/master/download.py,music-s3/download.py at master · cristianpb/music-s3 · GitHub,3,2,music-s3
 /cristianpb/music-s3/blob/master/Makefile,music-s3/Makefile at master · cristianpb/music-s3 · GitHub,3,2,music-s3
-/cristianpb/music-s3/actions/runs/3056404977,🎨 Checkoutv1 · cristianpb/music-s3@216f0dc,3,1,music-s3
 /cristianpb/music-s3/actions/runs/3114114126,🎨 Use env secrets in makefile to encrypt and decrypt · cristianpb/music-s3@7...,3,1,music-s3
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",28,23,object-detection
+/cristianpb/music-s3/commits/master,Commits · cristianpb/music-s3 · GitHub,3,1,music-s3
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",34,23,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,15,11,object-detection
+/cristianpb/object-detection/tree/master/models/ssd_mobilenet,object-detection/models/ssd_mobilenet at master · cristianpb/object-detection...,10,2,object-detection
 /cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,9,7,object-detection
-/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,6,4,object-detection
-/cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,3,2,object-detection
-/cristianpb/object-detection/blob/master/backend/motion.py,object-detection/motion.py at master · cristianpb/object-detection · GitHub,2,2,object-detection
-/cristianpb/object-detection/tree/master/models/ssd_mobilenet,object-detection/models/ssd_mobilenet at master · cristianpb/object-detection...,2,2,object-detection
-/cristianpb/object-detection/blob/master/models/yolo/labels.json,object-detection/labels.json at master · cristianpb/object-detection · GitHub,2,1,object-detection
-/cristianpb/object-detection/blob/master/models/yolo/yolov3-tiny.cfg,object-detection/yolov3-tiny.cfg at master · cristianpb/object-detection · Gi...,2,1,object-detection
-/cristianpb/object-detection/tree/master/models/yolo,object-detection/models/yolo at master · cristianpb/object-detection · GitHub,2,1,object-detection
-/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,7,6,object-detection-frontend
+/cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,9,2,object-detection
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,5,4,object-detection
+/cristianpb/object-detection/blob/master/models/ssd_mobilenet/labels.json,object-detection/labels.json at master · cristianpb/object-detection · GitHub,5,2,object-detection
+/cristianpb/object-detection/blob/master/models/ssd_mobilenet/ssd_mobilenet_v2_coco_2018_03_29.pbtxt,object-detection/ssd_mobilenet_v2_coco_2018_03_29.pbtxt at master · cristianp...,5,1,object-detection
+/cristianpb/object-detection/tree/master/imgs,object-detection/imgs at master · cristianpb/object-detection · GitHub,5,1,object-detection
+/cristianpb/object-detection/blob/master/backend/camera.py,object-detection/camera.py at master · cristianpb/object-detection,2,1,object-detection
+/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,12,8,object-detection-frontend
+/cristianpb/object-detection-frontend/tree/master/src,object-detection-frontend/src at master · cristianpb/object-detection-frontend,3,3,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/angular.json,object-detection-frontend/angular.json at master · cristianpb/object-detectio...,2,2,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/src,object-detection-frontend/src at master · cristianpb/object-detection-frontend,2,2,object-detection-frontend
+/cristianpb/object-detection-frontend/tree/master/.github/workflows,object-detection-frontend/.github/workflows at master · cristianpb/object-det...,2,2,object-detection-frontend
+/cristianpb/object-detection-frontend/tree/master/src/app,object-detection-frontend/src/app at master · cristianpb/object-detection-fro...,2,2,object-detection-frontend
+/cristianpb/object-detection,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/.github/workflows/nodejs.yml,object-detection-frontend/nodejs.yml at master · cristianpb/object-detection-...,1,1,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/.github/workflows,object-detection-frontend/.github/workflows at master · cristianpb/object-det...,1,1,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/src/app,object-detection-frontend/src/app at master · cristianpb/object-detection-fro...,1,1,object-detection-frontend
+/cristianpb/object-detection-frontend/tree/master/e2e,object-detection-frontend/e2e at master · cristianpb/object-detection-fronten...,1,1,object-detection-frontend
+/cristianpb/object-detection-frontend/tree/master/e2e/src,object-detection-frontend/e2e/src at master · cristianpb/object-detection-fro...,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/src/assets,object-detection-frontend/src/assets at master · cristianpb/object-detection-...,1,1,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/src/environments,object-detection-frontend/src/environments at master · cristianpb/object-dete...,1,1,object-detection-frontend
 /cristianpb/qrcode-reader,cristianpb/qrcode-reader,1,1,qrcode-reader
-/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",8,7,rhasspy-handler
+/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",9,8,rhasspy-handler
 /cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,2,2,rhasspy-handler
 /cristianpb/rhasspy-handler/tree/master/src,rhasspy-handler/src at master · cristianpb/rhasspy-handler · GitHub,2,2,rhasspy-handler
 /cristianpb/rhasspy-handler/blob/master/src/phrases.ts,rhasspy-handler/phrases.ts at master · cristianpb/rhasspy-handler · GitHub,2,1,rhasspy-handler
 /cristianpb/rhasspy-handler/blob/master/src/alarms.ts,rhasspy-handler/alarms.ts at master · cristianpb/rhasspy-handler · GitHub,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/tree/master/rhasspy/.config/rhasspy/profiles/es,rhasspy-handler/rhasspy/.config/rhasspy/profiles/es at master · cristianpb/rh...,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/tree/master/systemd,rhasspy-handler/systemd at master · cristianpb/rhasspy-handler · GitHub,1,1,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",21,12,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",21,13,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,9,8,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,telegraf-influxdb-grafana-docker/docker-compose-gpu.yml at master · cristianp...,4,3,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf.conf,telegraf-influxdb-grafana-docker/telegraf.conf at master · cristianpb/telegra...,1,1,telegraf-influxdb-grafana-docker
