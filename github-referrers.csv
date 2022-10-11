@@ -9,10 +9,9 @@ search.nixos.org,6,4,muse
 mopidy.com,5,4,muse
 cristianpb.github.io,5,2,muse
 Google,1,1,muse
-play.unbl.ink,1,1,muse
-github.com,16,2,music-s3
+github.com,13,2,music-s3
 hackster.io,13,2,object-detection
-cristianpb.github.io,11,10,object-detection
+cristianpb.github.io,9,8,object-detection
 github.com,4,4,object-detection
 Google,3,3,object-detection
 cristianpb-github-io.cdn.ampproject.org,1,1,object-detection
@@ -22,7 +21,7 @@ Google,1,1,object-detection-frontend
 Google,15,4,rhasspy-handler
 StartPage,1,1,rhasspy-handler
 Bing,1,1,rhasspy-handler
-Google,12,5,telegraf-influxdb-grafana-docker
+Google,11,4,telegraf-influxdb-grafana-docker
 cristianpb.github.io,3,1,telegraf-influxdb-grafana-docker
 cristianpb.github.io,9,1,temp-sigfox
 cristianpb.github.io,1,1,vimwiki
