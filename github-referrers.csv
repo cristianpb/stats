@@ -1,7 +1,6 @@
 referrer,count,uniques,repository
 Google,14,3,analytics-google
-github.com,3,3,analytics-google
-cristianpb.github.io,1,1,analytics-google
+github.com,4,4,analytics-google
 cristianpb.github.io,5,2,dotfiles
 Google,1,1,dotfiles
 github.com,1,1,dotfiles
@@ -11,13 +10,13 @@ cristianpb.github.io,5,2,muse
 Google,1,1,muse
 github.com,13,2,music-s3
 hackster.io,13,2,object-detection
-cristianpb.github.io,9,8,object-detection
+cristianpb.github.io,8,7,object-detection
 github.com,4,4,object-detection
-Google,3,3,object-detection
+Google,2,2,object-detection
 cristianpb-github-io.cdn.ampproject.org,1,1,object-detection
+iaflash.fr,1,1,object-detection
 yandex.ru,1,1,object-detection
 hackster.io,5,1,object-detection-frontend
-Google,1,1,object-detection-frontend
 Google,15,4,rhasspy-handler
 StartPage,1,1,rhasspy-handler
 Bing,1,1,rhasspy-handler
