@@ -6,16 +6,16 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/tree/master/.github/workflows,analytics-google/.github/workflows at master · cristianpb/analytics-google,2,1,analytics-google
 /cristianpb/analytics-google/blob/master/.github/workflows/build.yml,analytics-google/build.yml at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/requirements.txt,analytics-google/requirements.txt at master · cristianpb/analytics-google,1,1,analytics-google
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,11,9,dotfiles
-/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,6,4,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/rc.conf at master · cristianpb/dotfiles · GitHub,4,4,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,10,8,dotfiles
+/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,5,3,dotfiles
 /cristianpb/dotfiles/blob/80d34ec88437633676201668810c6c4a14a33b81/wiki2html.sh,dotfiles/wiki2html.sh at 80d34ec88437633676201668810c6c4a14a33b81 · cristianp...,4,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands.py,dotfiles/commands.py at master · cristianpb/dotfiles · GitHub,4,1,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/rc.conf at master · cristianpb/dotfiles · GitHub,3,3,dotfiles
 /cristianpb/dotfiles/search,Search · hugo,3,1,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/rifle.conf at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/scope.sh at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
-/cristianpb/dotfiles/tree/master/ranger,dotfiles/ranger at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/autolock.sh,dotfiles/autolock.sh at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/blob/master/mbsync/.mbsyncrc,dotfiles/.mbsyncrc at master · cristianpb/dotfiles,1,1,dotfiles
+/cristianpb/dotfiles/blob/master/msmtp/.msmtprc,dotfiles/.msmtprc at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/blob/master/mutt/.muttrc,dotfiles/.muttrc at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,35,17,muse
 /cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse · GitHub,16,1,muse
 /cristianpb/muse/tree/master/src/components,muse/src/components at master · cristianpb/muse · GitHub,6,1,muse
