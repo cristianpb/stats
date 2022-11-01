@@ -12,32 +12,28 @@ path,title,count,uniques,repository
 /cristianpb/cristianpb.github.io/actions/runs/3324240125/jobs/5495591110,⬆ Update ruby version for CI tests · cristianpb/cristianpb.github.io@d8e32ea ...,2,2,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/3324168174,⬆ Update ruby version for CI tests · cristianpb/cristianpb.github.io@bbd6dbb,2,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/pulls,Pull requests · cristianpb/cristianpb.github.io · GitHub,2,1,cristianpb.github.io
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,20,7,dotfiles
-/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,9,5,dotfiles
-/cristianpb/dotfiles/blob/master/msmtp/.msmtprc,dotfiles/.msmtprc at master · cristianpb/dotfiles · GitHub,4,3,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/rc.conf at master · cristianpb/dotfiles · GitHub,4,3,dotfiles
-/cristianpb/dotfiles/tree/master/ranger,dotfiles/ranger at master · cristianpb/dotfiles · GitHub,3,3,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands.py,dotfiles/commands.py at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/rifle.conf at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
-/cristianpb/dotfiles/tree/master/ranger/.config,dotfiles/ranger/.config at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
-/cristianpb/dotfiles/commit/1dda1f406250ba99fbb603e387b16594044236d8,🍱 Update config files for ranger 1.9.3 · cristianpb/dotfiles@1dda1f4 · GitHub,2,1,dotfiles
-/cristianpb/dotfiles/commits/master,Commits · cristianpb/dotfiles · GitHub,2,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,14,9,muse
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,23,9,dotfiles
+/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,14,6,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/rc.conf at master · cristianpb/dotfiles · GitHub,6,4,dotfiles
+/cristianpb/dotfiles/blob/master/msmtp/.msmtprc,dotfiles/.msmtprc at master · cristianpb/dotfiles · GitHub,5,4,dotfiles
+/cristianpb/dotfiles/tree/master/mbsync,dotfiles/mbsync at master · cristianpb/dotfiles,5,1,dotfiles
+/cristianpb/dotfiles/tree/master/ranger,dotfiles/ranger at master · cristianpb/dotfiles · GitHub,4,4,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands.py,dotfiles/commands.py at master · cristianpb/dotfiles · GitHub,4,3,dotfiles
+/cristianpb/dotfiles/tree/master/ranger/.config,dotfiles/ranger/.config at master · cristianpb/dotfiles · GitHub,4,3,dotfiles
+/cristianpb/dotfiles/blob/master/mbsync/.mbsyncrc,dotfiles/.mbsyncrc at master · cristianpb/dotfiles,4,1,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/rifle.conf at master · cristianpb/dotfiles · GitHub,3,3,dotfiles
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,15,9,muse
 /cristianpb/muse/blob/b709e95519d76d15cc76dd7fbe01e92b558a016d/docker-compose.yml,muse/docker-compose.yml at b709e95519d76d15cc76dd7fbe01e92b558a016d · cristia...,2,2,muse
 /cristianpb/muse/blob/master/MANIFEST.in,muse/MANIFEST.in at master · cristianpb/muse,1,1,muse
-/cristianpb/muse/issues,Issues · cristianpb/muse,1,1,muse
 /cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/music-s3,GitHub - cristianpb/music-s3,6,2,music-s3
-/cristianpb/music-s3/actions,Actions · cristianpb/music-s3 · GitHub,6,2,music-s3
-/cristianpb/music-s3/actions/runs/3270355937,Workflow · cristianpb/music-s3@50a1a18 · GitHub,1,1,music-s3
-/cristianpb/music-s3/actions/runs/3270355937/jobs/5378883369,Workflow · cristianpb/music-s3@50a1a18 · GitHub,1,1,music-s3
-/cristianpb/music-s3/actions/runs/3270355937/usage,🎨 Add cronjob on friday · cristianpb/music-s3@50a1a18 · GitHub,1,1,music-s3
+/cristianpb/music-s3,GitHub - cristianpb/music-s3,5,2,music-s3
+/cristianpb/music-s3/actions,Actions · cristianpb/music-s3 · GitHub,5,2,music-s3
 /cristianpb/music-s3/actions/runs/3286547371,Workflow · cristianpb/music-s3@50a1a18 · GitHub,1,1,music-s3
 /cristianpb/music-s3/actions/runs/3286547371/jobs/5414778605,Workflow · cristianpb/music-s3@50a1a18 · GitHub,1,1,music-s3
 /cristianpb/music-s3/actions/runs/3309811604,Workflow · cristianpb/music-s3@282ac74 · GitHub,1,1,music-s3
 /cristianpb/music-s3/actions/runs/3334120156,Workflow · cristianpb/music-s3@282ac74 · GitHub,1,1,music-s3
 /cristianpb/music-s3/actions/runs/3334120156/jobs/5516753615,Workflow · cristianpb/music-s3@282ac74 · GitHub,1,1,music-s3
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",28,18,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",26,16,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,11,8,object-detection
 /cristianpb/object-detection/blob/master/Makefile,object-detection/Makefile at master · cristianpb/object-detection · GitHub,5,1,object-detection
 /cristianpb/object-detection/issues,Issues · cristianpb/object-detection · GitHub,3,1,object-detection
@@ -47,11 +43,10 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,2,1,object-detection
 /cristianpb/object-detection/blob/df1fac5a4be2e3c228efae32d9b9db92fbf8ab11/backend/camera.py,object-detection/camera.py at df1fac5a4be2e3c228efae32d9b9db92fbf8ab11 · cris...,1,1,object-detection
 /cristianpb/object-detection/blob/df1fac5a4be2e3c228efae32d9b9db92fbf8ab11/backend/utils.py,object-detection/utils.py at df1fac5a4be2e3c228efae32d9b9db92fbf8ab11 · crist...,1,1,object-detection
-/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,15,5,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/src,object-detection-frontend/src at master · cristianpb/object-detection-frontend,8,2,object-detection-frontend
+/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,14,4,object-detection-frontend
+/cristianpb/object-detection-frontend/tree/master/src,object-detection-frontend/src at master · cristianpb/object-detection-frontend,7,1,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/src/app,object-detection-frontend/src/app at master · cristianpb/object-detection-fro...,7,1,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/angular.json,object-detection-frontend/angular.json at master · cristianpb/object-detectio...,3,1,object-detection-frontend
-/cristianpb/object-detection-frontend/blob/master/README.md,object-detection-frontend/README.md at master · cristianpb/object-detection-f...,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/commit/eb52763320c3e3c97aa2278b805760ae5d9ce07a,👷 Use only one workflow for CI · cristianpb/object-detection-frontend@eb5276...,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/src/app/camera,object-detection-frontend/src/app/camera at master · cristianpb/object-detect...,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/src/assets,object-detection-frontend/src/assets at master · cristianpb/object-detection-...,1,1,object-detection-frontend
@@ -66,7 +61,7 @@ path,title,count,uniques,repository
 /cristianpb/playlists/tree/gh-pages/_app/immutable,playlists/_app/immutable at gh-pages · cristianpb/playlists · GitHub,3,1,playlists
 /cristianpb/playlists/actions/runs/3310220803,Get data from GA · cristianpb/playlists@0999480 · GitHub,2,1,playlists
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",7,7,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",18,11,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",17,11,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,7,3,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,6,5,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,6,3,telegraf-influxdb-grafana-docker
