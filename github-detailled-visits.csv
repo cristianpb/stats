@@ -1,17 +1,17 @@
 path,title,count,uniques,repository
 /cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,3,3,analytics-google
 /cristianpb/analytics-google/blob/master/README.md,analytics-google/README.md at master · cristianpb/analytics-google,1,1,analytics-google
-/cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,9,6,cristianpb.github.io
-/cristianpb/cristianpb.github.io/actions,Actions · cristianpb/cristianpb.github.io · GitHub,7,3,cristianpb.github.io
+/cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,8,5,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions,Actions · cristianpb/cristianpb.github.io · GitHub,4,2,cristianpb.github.io
 /cristianpb/cristianpb.github.io/blob/master/_config.yml,cristianpb.github.io/_config.yml at master · cristianpb/cristianpb.github.io ...,3,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io/actions/runs/3285468321/jobs/5412599729,⬆ update javascript dependencies · cristianpb/cristianpb.github.io@8db144b,2,2,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/3324240125,⬆ Update ruby version for CI tests · cristianpb/cristianpb.github.io@d8e32ea ...,2,2,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/3324240125/jobs/5495591110,⬆ Update ruby version for CI tests · cristianpb/cristianpb.github.io@d8e32ea ...,2,2,cristianpb.github.io
-/cristianpb/cristianpb.github.io/actions/runs/3324168174,⬆ Update ruby version for CI tests · cristianpb/cristianpb.github.io@bbd6dbb,2,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/tree/master/assets,cristianpb.github.io/assets at master · cristianpb/cristianpb.github.io · Git...,2,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/tree/master/_data,cristianpb.github.io/_data at master · cristianpb/cristianpb.github.io · GitHub,2,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io/actions/runs/3285468321,⬆ update javascript dependencies · cristianpb/cristianpb.github.io@8db144b · ...,1,1,cristianpb.github.io
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,30,9,dotfiles
+/cristianpb/cristianpb.github.io/actions/runs/3324240125/jobs/5495563069,⬆ Update ruby version for CI tests · cristianpb/cristianpb.github.io@d8e32ea ...,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/3324240125/usage,⬆ Update ruby version for CI tests · cristianpb/cristianpb.github.io@d8e32ea ...,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/3324240125/workflow,⬆ Update ruby version for CI tests · cristianpb/cristianpb.github.io@d8e32ea ...,1,1,cristianpb.github.io
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,29,8,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,16,8,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/rc.conf at master · cristianpb/dotfiles · GitHub,8,5,dotfiles
 /cristianpb/dotfiles/blob/master/msmtp/.msmtprc,dotfiles/.msmtprc at master · cristianpb/dotfiles · GitHub,6,5,dotfiles
@@ -21,7 +21,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/mbsync/.mbsyncrc,dotfiles/.mbsyncrc at master · cristianpb/dotfiles,4,1,dotfiles
 /cristianpb/dotfiles/tree/master/ranger,dotfiles/ranger at master · cristianpb/dotfiles · GitHub,3,3,dotfiles
 /cristianpb/dotfiles/tree/master/i3/.config/i3,dotfiles/i3/.config/i3 at master · cristianpb/dotfiles · GitHub,3,2,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,15,11,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,14,10,muse
 /cristianpb/muse/blob/b709e95519d76d15cc76dd7fbe01e92b558a016d/docker-compose.yml,muse/docker-compose.yml at b709e95519d76d15cc76dd7fbe01e92b558a016d · cristia...,2,2,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse,2,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/ext.conf,muse/ext.conf at master · cristianpb/muse,1,1,muse
@@ -33,36 +33,34 @@ path,title,count,uniques,repository
 /cristianpb/music-s3/actions,Actions · cristianpb/music-s3 · GitHub,1,1,music-s3
 /cristianpb/music-s3/actions/runs/3334120156,Workflow · cristianpb/music-s3@282ac74 · GitHub,1,1,music-s3
 /cristianpb/music-s3/actions/runs/3334120156/jobs/5516753615,Workflow · cristianpb/music-s3@282ac74 · GitHub,1,1,music-s3
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",17,13,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",15,12,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,7,6,object-detection
 /cristianpb/object-detection/blob/master/backend/app.py,object-detection/app.py at master · cristianpb/object-detection · GitHub,6,1,object-detection
 /cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,4,4,object-detection
-/cristianpb/object-detection/blob/master/Makefile,object-detection/Makefile at master · cristianpb/object-detection · GitHub,4,1,object-detection
 /cristianpb/object-detection/tree/master/tests,object-detection/tests at master · cristianpb/object-detection · GitHub,3,3,object-detection
 /cristianpb/object-detection/tree/master/imgs,object-detection/imgs at master · cristianpb/object-detection · GitHub,2,2,object-detection
-/cristianpb/object-detection/issues,Issues · cristianpb/object-detection · GitHub,2,1,object-detection
 /cristianpb/object-detection/blob/master/backend/camera.py,object-detection/camera.py at master · cristianpb/object-detection,1,1,object-detection
-/cristianpb/object-detection/blob/master/backend/motion.py,object-detection/motion.py at master · cristianpb/object-detection · GitHub,1,1,object-detection
-/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,7,4,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/src,object-detection-frontend/src at master · cristianpb/object-detection-frontend,3,2,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/src/app,object-detection-frontend/src/app at master · cristianpb/object-detection-fro...,3,2,object-detection-frontend
-/cristianpb/object-detection-frontend/blob/master/angular.json,object-detection-frontend/angular.json at master · cristianpb/object-detectio...,1,1,object-detection-frontend
+/cristianpb/object-detection/blob/master/backend/ssd_trt_detection.py,object-detection/ssd_trt_detection.py at master · cristianpb/object-detection,1,1,object-detection
+/cristianpb/object-detection/blob/master/models/cascade/fullbody_recognition_model.xml,object-detection/fullbody_recognition_model.xml at master · cristianpb/object...,1,1,object-detection
+/cristianpb/object-detection/blob/master/tests/test_detection.py,object-detection/test_detection.py at master · cristianpb/object-detection · ...,1,1,object-detection
+/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,4,3,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/src/app/camera/camera.component.ts,object-detection-frontend/camera.component.ts at master · cristianpb/object-d...,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/src/app/photos.service.ts,object-detection-frontend/photos.service.ts at master · cristianpb/object-det...,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/src/app/plots/plots.component.ts,object-detection-frontend/plots.component.ts at master · cristianpb/object-de...,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/src/app/workers/workers.component.ts,object-detection-frontend/workers.component.ts at master · cristianpb/object-...,1,1,object-detection-frontend
+/cristianpb/object-detection-frontend/tree/master/src,object-detection-frontend/src at master · cristianpb/object-detection-frontend,1,1,object-detection-frontend
+/cristianpb/object-detection-frontend/tree/master/src/app,object-detection-frontend/src/app at master · cristianpb/object-detection-fro...,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/src/app/camera,object-detection-frontend/src/app/camera at master · cristianpb/object-detect...,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/src/app/photos,object-detection-frontend/src/app/photos at master · cristianpb/object-detect...,1,1,object-detection-frontend
-/cristianpb/playlists,GitHub - cristianpb/playlists,12,5,playlists
-/cristianpb/playlists/actions,Actions · cristianpb/playlists · GitHub,5,4,playlists
-/cristianpb/playlists/blob/data/data.csv,playlists/data.csv at data · cristianpb/playlists · GitHub,4,3,playlists
-/cristianpb/playlists/tree/data,GitHub - cristianpb/playlists at data,4,3,playlists
-/cristianpb/playlists/actions/runs/3324037207/jobs/5495115504,🐛 Correct failing import dependency · cristianpb/playlists@5e13d1a · GitHub,1,1,playlists
-/cristianpb/playlists/actions/runs/3324039313,pages build and deployment · cristianpb/playlists@806538c · GitHub,1,1,playlists
-/cristianpb/playlists/actions/runs/3324039313/jobs/5495122517,pages build and deployment · cristianpb/playlists@806538c · GitHub,1,1,playlists
-/cristianpb/playlists/actions/runs/3324039313/jobs/5495122679,pages build and deployment · cristianpb/playlists@806538c · GitHub,1,1,playlists
+/cristianpb/object-detection-frontend/tree/master/src/app/plots,object-detection-frontend/src/app/plots at master · cristianpb/object-detecti...,1,1,object-detection-frontend
+/cristianpb/playlists,GitHub - cristianpb/playlists,8,5,playlists
+/cristianpb/playlists/actions,Actions · cristianpb/playlists · GitHub,4,3,playlists
+/cristianpb/playlists/blob/data/data.csv,playlists/data.csv at data · cristianpb/playlists · GitHub,3,3,playlists
+/cristianpb/playlists/tree/data,GitHub - cristianpb/playlists at data,3,2,playlists
 /cristianpb/playlists/blob/master/.github/workflows/data.yml,playlists/data.yml at master · cristianpb/playlists · GitHub,1,1,playlists
 /cristianpb/playlists/pulls,Pull requests · cristianpb/playlists · GitHub,1,1,playlists
+/cristianpb/playlists/tree/master,GitHub - cristianpb/playlists,1,1,playlists
+/cristianpb/playlists/tree/master/.github/workflows,playlists/.github/workflows at master · cristianpb/playlists · GitHub,1,1,playlists
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",6,6,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",20,13,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,8,6,telegraf-influxdb-grafana-docker
