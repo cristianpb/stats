@@ -1,6 +1,5 @@
 date,repository,clones,views
 2022-11-15,alchemy-machine,2,0
-2022-11-02,analytics-google,3,0
 2022-11-03,analytics-google,2,2
 2022-11-04,analytics-google,2,1
 2022-11-05,analytics-google,2,0
@@ -14,6 +13,7 @@ date,repository,clones,views
 2022-11-13,analytics-google,4,1
 2022-11-14,analytics-google,4,2
 2022-11-15,analytics-google,2,0
+2022-11-16,analytics-google,2,2
 2022-11-12,aws-lambda-cv,0,1
 2022-11-12,cristianpb,1,0
 2022-11-13,cristianpb,1,0
@@ -41,7 +41,10 @@ date,repository,clones,views
 2022-11-12,gswsr,2,0
 2022-11-10,hubot-ratp,1,0
 2022-11-12,hubot-ratp,1,0
+2022-11-16,hubot-ratp,2,0
+2022-11-16,infolettre-lab-ia,1,0
 2022-11-08,mask-detection,1,0
+2022-11-16,matchid-backend,1,0
 2022-11-12,mopidy.js,1,0
 2022-11-08,muse,5,0
 2022-11-09,muse,3,3
@@ -54,7 +57,6 @@ date,repository,clones,views
 2022-11-11,muse,0,14
 2022-11-12,muse,0,6
 2022-11-13,muse,0,1
-2022-11-02,music-s3,1,0
 2022-11-03,music-s3,1,0
 2022-11-04,music-s3,1,0
 2022-11-07,music-s3,1,0
@@ -65,11 +67,10 @@ date,repository,clones,views
 2022-11-13,music-s3,1,0
 2022-11-14,music-s3,1,2
 2022-11-15,music-s3,1,0
+2022-11-16,music-s3,1,0
 2022-11-12,mybottender,1,0
-2022-11-02,myhubot,1,0
 2022-11-09,newsapp,1,0
 2022-11-09,ngTwitterApp,1,0
-2022-11-02,object-detection,1,3
 2022-11-07,object-detection,1,4
 2022-11-08,object-detection,7,37
 2022-11-09,object-detection,3,9
@@ -82,7 +83,7 @@ date,repository,clones,views
 2022-11-05,object-detection,0,2
 2022-11-06,object-detection,0,4
 2022-11-10,object-detection,0,11
-2022-11-02,object-detection-frontend,1,0
+2022-11-16,object-detection,0,6
 2022-11-09,object-detection-frontend,1,3
 2022-11-11,object-detection-frontend,2,0
 2022-11-04,object-detection-frontend,0,2
@@ -107,8 +108,7 @@ date,repository,clones,views
 2022-11-06,rhasspy-handler,0,3
 2022-11-08,rhasspy-handler,0,3
 2022-11-10,rhasspy-handler,0,1
-2022-11-02,stats,2,0
-2022-11-03,stats,4,0
+2022-11-16,rhasspy-handler,0,8
 2022-11-04,stats,4,0
 2022-11-05,stats,5,0
 2022-11-06,stats,5,0
@@ -121,12 +121,11 @@ date,repository,clones,views
 2022-11-13,stats,4,0
 2022-11-14,stats,4,0
 2022-11-15,stats,3,0
+2022-11-16,stats,3,0
 2022-11-04,telegraf-influxdb-grafana-docker,1,0
 2022-11-07,telegraf-influxdb-grafana-docker,1,1
 2022-11-09,telegraf-influxdb-grafana-docker,4,13
 2022-11-10,telegraf-influxdb-grafana-docker,1,1
-2022-11-02,telegraf-influxdb-grafana-docker,0,7
-2022-11-03,telegraf-influxdb-grafana-docker,0,1
 2022-11-05,telegraf-influxdb-grafana-docker,0,3
 2022-11-06,telegraf-influxdb-grafana-docker,0,2
 2022-11-08,telegraf-influxdb-grafana-docker,0,13
@@ -135,14 +134,13 @@ date,repository,clones,views
 2022-11-13,telegraf-influxdb-grafana-docker,0,11
 2022-11-14,telegraf-influxdb-grafana-docker,0,11
 2022-11-15,telegraf-influxdb-grafana-docker,0,1
+2022-11-16,telegraf-influxdb-grafana-docker,0,1
 2022-11-07,temp-sigfox,1,0
 2022-11-12,temp-sigfox,2,0
 2022-11-06,temp-sigfox,0,1
 2022-11-03,tkasme,2,0
-2022-11-02,velo.club,1,0
 2022-11-07,vimwiki,1,2
 2022-11-11,vimwiki,1,0
 2022-11-12,vimwiki,1,0
 2022-11-14,vimwiki,1,3
-2022-11-02,vimwiki,0,7
 2022-11-05,vimwiki,0,8
