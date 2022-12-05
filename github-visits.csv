@@ -1,5 +1,4 @@
 date,repository,clones,views
-2022-11-20,analytics-google,2,0
 2022-11-21,analytics-google,2,1
 2022-11-22,analytics-google,2,2
 2022-11-23,analytics-google,4,3
@@ -13,6 +12,7 @@ date,repository,clones,views
 2022-12-01,analytics-google,3,1
 2022-12-02,analytics-google,3,0
 2022-12-03,analytics-google,3,0
+2022-12-04,analytics-google,2,0
 2022-12-02,aws-lambda-cv,1,0
 2022-11-30,aws-lambda-cv,0,4
 2022-11-21,cristianpb.github.io,1,0
@@ -25,17 +25,18 @@ date,repository,clones,views
 2022-11-24,dotfiles,1,0
 2022-11-29,dotfiles,2,7
 2022-12-02,dotfiles,1,42
+2022-12-04,dotfiles,1,2
 2022-11-22,dotfiles,0,2
 2022-11-26,dotfiles,0,6
 2022-11-30,dotfiles,0,1
 2022-12-01,dotfiles,0,10
 2022-11-22,gswsr,2,0
 2022-12-03,gswsr,3,0
+2022-12-04,gswsr,1,0
 2022-11-23,gswsr,0,1
 2022-12-03,matchid-backend,1,0
 2022-11-21,muse,1,2
 2022-11-27,muse,1,0
-2022-11-20,muse,0,1
 2022-11-22,muse,0,1
 2022-11-23,muse,0,1
 2022-11-24,muse,0,3
@@ -46,7 +47,6 @@ date,repository,clones,views
 2022-11-30,muse,0,2
 2022-12-01,muse,0,3
 2022-12-03,muse,0,1
-2022-11-20,music-s3,1,0
 2022-11-21,music-s3,1,0
 2022-11-22,music-s3,1,5
 2022-11-23,music-s3,1,1
@@ -56,6 +56,7 @@ date,repository,clones,views
 2022-11-29,music-s3,1,0
 2022-11-30,music-s3,1,0
 2022-12-01,music-s3,1,0
+2022-12-04,music-s3,1,0
 2022-11-23,mybottender,1,0
 2022-11-21,object-detection,4,22
 2022-11-22,object-detection,1,4
@@ -63,7 +64,6 @@ date,repository,clones,views
 2022-11-25,object-detection,1,32
 2022-11-30,object-detection,2,1
 2022-12-03,object-detection,1,2
-2022-11-20,object-detection,0,43
 2022-11-23,object-detection,0,37
 2022-11-26,object-detection,0,7
 2022-11-27,object-detection,0,6
@@ -71,6 +71,7 @@ date,repository,clones,views
 2022-11-29,object-detection,0,7
 2022-12-01,object-detection,0,3
 2022-12-02,object-detection,0,10
+2022-12-04,object-detection,0,4
 2022-12-03,object-detection-frontend,1,0
 2022-11-21,object-detection-frontend,0,3
 2022-11-25,object-detection-frontend,0,7
@@ -90,8 +91,8 @@ date,repository,clones,views
 2022-11-27,rhasspy-handler,0,1
 2022-11-28,rhasspy-handler,0,1
 2022-12-03,rhasspy-handler,0,1
+2022-12-04,rhasspy-handler,0,1
 2022-11-21,simple-streaming-gateway,1,0
-2022-11-21,stats,4,0
 2022-11-22,stats,5,0
 2022-11-23,stats,3,0
 2022-11-24,stats,4,0
@@ -104,11 +105,12 @@ date,repository,clones,views
 2022-12-01,stats,3,0
 2022-12-02,stats,6,0
 2022-12-03,stats,4,0
-2022-11-20,telegraf-influxdb-grafana-docker,1,15
+2022-12-04,stats,3,0
 2022-11-21,telegraf-influxdb-grafana-docker,2,5
 2022-11-22,telegraf-influxdb-grafana-docker,4,4
 2022-11-30,telegraf-influxdb-grafana-docker,1,22
 2022-12-03,telegraf-influxdb-grafana-docker,1,3
+2022-12-04,telegraf-influxdb-grafana-docker,1,0
 2022-11-23,telegraf-influxdb-grafana-docker,0,5
 2022-11-24,telegraf-influxdb-grafana-docker,0,2
 2022-11-26,telegraf-influxdb-grafana-docker,0,17
