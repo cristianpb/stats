@@ -9,7 +9,7 @@ path,title,count,uniques,repository
 /cristianpb/cristianpb.github.io/blob/c12ac972bdbf03d882e841adc61993d32709396c/jekyll_collections/_posts/2021-06-04-magic-wand.md,cristianpb.github.io/2021-06-04-magic-wand.md at c12ac972bdbf03d882e841adc619...,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/pulls,Pull requests · cristianpb/cristianpb.github.io · GitHub,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/tree/master/.github/workflows,cristianpb.github.io/.github/workflows at master · cristianpb/cristianpb.gith...,1,1,cristianpb.github.io
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,17,7,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,18,8,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,7,5,dotfiles
 /cristianpb/dotfiles/commits/master,Commits · cristianpb/dotfiles · GitHub,6,1,dotfiles
 /cristianpb/dotfiles/commits/backup,Commits · cristianpb/dotfiles · GitHub,4,1,dotfiles
@@ -19,12 +19,11 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/nvim/.config/nvim/init.vim,dotfiles/init.vim at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/.vimrc at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/commit/af72282e2bc39787eaedd204710ca19362f0613e,Add polybar/i3 multiple monitor support · cristianpb/dotfiles@af72282 · GitHub,2,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,16,14,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,16,13,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,2,2,muse
 /cristianpb/muse/blob/master/mopidy_muse/ext.conf,muse/ext.conf at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/mopidy.conf,muse/mopidy.conf at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/issues/15,Snapcast server settings are not stored · Issue #15 · cristianpb/muse,1,1,muse
-/cristianpb/muse/issues/23,"Tunein ""Now Playing"" song info does not update · Issue #23 · cristianpb/muse ...",1,1,muse
 /cristianpb/muse/issues/7,"Suggestion: Add to readme documentation a list of mopidy ""dependencies"" · Iss...",1,1,muse
 /cristianpb/muse/pulls,Pull requests · cristianpb/muse,1,1,muse
 /cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse · GitHub,1,1,muse
@@ -33,16 +32,16 @@ path,title,count,uniques,repository
 /cristianpb/music-s3/actions,Actions · cristianpb/music-s3,1,1,music-s3
 /cristianpb/music-s3/actions/runs/3615590701,Workflow · cristianpb/music-s3@2654906,1,1,music-s3
 /cristianpb/music-s3/actions/runs/3615590701/jobs/6092782855,Workflow · cristianpb/music-s3@2654906,1,1,music-s3
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",40,27,object-detection
-/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,19,14,object-detection
-/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,9,6,object-detection
-/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,7,5,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",32,21,object-detection
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,13,9,object-detection
+/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,7,4,object-detection
+/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,5,4,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,5,2,object-detection
-/cristianpb/object-detection/blob/master/backend/app.py,object-detection/app.py at master · cristianpb/object-detection,3,1,object-detection
 /cristianpb/object-detection/blob/master/backend/motion.py,object-detection/motion.py at master · cristianpb/object-detection · GitHub,2,2,object-detection
 /cristianpb/object-detection/blob/c2abea4ba28d37e2bc9b60416f5b9accdbc2b543/backend/app.py,object-detection/app.py at c2abea4ba28d37e2bc9b60416f5b9accdbc2b543 · cristia...,2,1,object-detection
 /cristianpb/object-detection/blob/master/models/yolo/labels.json,object-detection/labels.json at master · cristianpb/object-detection · GitHub,2,1,object-detection
 /cristianpb/object-detection/tree/c2abea4ba28d37e2bc9b60416f5b9accdbc2b543,cristianpb/object-detection at c2abea4ba28d37e2bc9b60416f5b9accdbc2b543,2,1,object-detection
+/cristianpb/object-detection/tree/c2abea4ba28d37e2bc9b60416f5b9accdbc2b543/backend,object-detection/backend at c2abea4ba28d37e2bc9b60416f5b9accdbc2b543 · cristi...,2,1,object-detection
 /cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,9,4,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/src,object-detection-frontend/src at master · cristianpb/object-detection-frontend,2,1,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/angular.json,object-detection-frontend/angular.json at master · cristianpb/object-detectio...,1,1,object-detection-frontend
@@ -51,7 +50,7 @@ path,title,count,uniques,repository
 /cristianpb/object-detection-frontend/tree/master/.github/workflows,object-detection-frontend/.github/workflows at master · cristianpb/object-det...,1,1,object-detection-frontend
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",5,5,rhasspy-handler
 /cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,2,2,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",30,9,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",28,8,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,9,4,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,7,4,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,5,4,telegraf-influxdb-grafana-docker
