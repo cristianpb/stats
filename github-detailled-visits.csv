@@ -1,29 +1,27 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,9,9,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,10,9,analytics-google
 /cristianpb/analytics-google/blob/master/requirements.txt,analytics-google/requirements.txt at master · cristianpb/analytics-google · G...,1,1,analytics-google
 /cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google · GitHub,1,1,analytics-google
 /cristianpb/analytics-google/tree/master/src/components,analytics-google/src/components at master · cristianpb/analytics-google · Git...,1,1,analytics-google
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,4,3,dotfiles
-/cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/.vimrc at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
-/cristianpb/dotfiles/blob/80d34ec88437633676201668810c6c4a14a33b81/checkmail.sh,dotfiles/checkmail.sh at 80d34ec88437633676201668810c6c4a14a33b81 · cristianp...,1,1,dotfiles
-/cristianpb/dotfiles/blob/80d34ec88437633676201668810c6c4a14a33b81/mutt/.mutt/account_gmail,dotfiles/account_gmail at 80d34ec88437633676201668810c6c4a14a33b81 · cristian...,1,1,dotfiles
-/cristianpb/dotfiles/blob/80d34ec88437633676201668810c6c4a14a33b81/mutt/.mutt/virtualmailboxes,dotfiles/virtualmailboxes at 80d34ec88437633676201668810c6c4a14a33b81 · crist...,1,1,dotfiles
-/cristianpb/dotfiles/blob/80d34ec88437633676201668810c6c4a14a33b81/new_mail.sh,dotfiles/new_mail.sh at 80d34ec88437633676201668810c6c4a14a33b81 · cristianpb...,1,1,dotfiles
-/cristianpb/dotfiles/blob/80d34ec88437633676201668810c6c4a14a33b81/notmuch/.notmuch-config,dotfiles/.notmuch-config at 80d34ec88437633676201668810c6c4a14a33b81 · cristi...,1,1,dotfiles
-/cristianpb/dotfiles/blob/80d34ec88437633676201668810c6c4a14a33b81/systemd/.config/systemd/user/checkmail.service,dotfiles/checkmail.service at 80d34ec88437633676201668810c6c4a14a33b81 · cris...,1,1,dotfiles
-/cristianpb/dotfiles/blob/80d34ec88437633676201668810c6c4a14a33b81/systemd/.config/systemd/user/checkmail.timer,dotfiles/checkmail.timer at 80d34ec88437633676201668810c6c4a14a33b81 · cristi...,1,1,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,5,4,dotfiles
 /cristianpb/dotfiles/blob/master/nvim/.config/nvim/coc-settings.json,dotfiles/coc-settings.json at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/blob/master/nvim/.config/nvim/init.vim,dotfiles/init.vim at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/blob/master/polybar/.config/polybar/config.ini,dotfiles/config.ini at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/.vimrc at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/blob/master/wiki2html.sh,dotfiles/wiki2html.sh at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/tree/master/nvim/.config/nvim,dotfiles/nvim/.config/nvim at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/tree/master/polybar/.config/polybar,dotfiles/polybar/.config/polybar at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles,1,1,dotfiles
+/cristianpb/dotfiles/tree/master/vim,dotfiles/vim at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/mopidy.js,GitHub - cristianpb/mopidy.js: JavaScript library for controlling a Mopidy mu...,2,1,mopidy.js
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,19,10,muse
-/cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse · GitHub,7,1,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,9,8,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,5,2,muse
-/cristianpb/muse/tree/master/cypress,muse/cypress at master · cristianpb/muse · GitHub,5,1,muse
-/cristianpb/muse/blob/master/mopidy_muse/ext.conf,muse/ext.conf at master · cristianpb/muse · GitHub,3,1,muse
-/cristianpb/muse/tree/master/cypress/plugins,muse/cypress/plugins at master · cristianpb/muse · GitHub,3,1,muse
-/cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse · GitHub,3,1,muse
-/cristianpb/muse/tree/master/cypress/integration,muse/cypress/integration at master · cristianpb/muse · GitHub,2,1,muse
-/cristianpb/muse/tree/master/src/components,muse/src/components at master · cristianpb/muse · GitHub,2,1,muse
-/cristianpb/muse/blob/master/cypress/fixtures/example.json,muse/example.json at master · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/issues/19,Option to shutdown or restart in settings · Issue #19 · cristianpb/muse · Git...,1,1,muse
+/cristianpb/muse/issues/20,Add options to play entire folders · Issue #20 · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/issues/28,"""undefined"" song titles in playlist · Issue #28 · cristianpb/muse · GitHub",1,1,muse
+/cristianpb/muse/issues/40,Dark mode · Issue #40 · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/issues/7,"Suggestion: Add to readme documentation a list of mopidy ""dependencies"" · Iss...",1,1,muse
+/cristianpb/muse/pulls,Pull requests · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/music-s3,GitHub - cristianpb/music-s3,5,4,music-s3
 /cristianpb/music-s3/actions,Actions · cristianpb/music-s3 · GitHub,3,3,music-s3
 /cristianpb/music-s3/actions/runs/3680756866/jobs/6226705103,Workflow · cristianpb/music-s3@2654906 · GitHub,2,1,music-s3
@@ -33,7 +31,7 @@ path,title,count,uniques,repository
 /cristianpb/music-s3/actions/runs/3708852042,Workflow · cristianpb/music-s3@2654906 · GitHub,1,1,music-s3
 /cristianpb/music-s3/blob/master/.github/workflows/main.yaml,music-s3/main.yaml at master · cristianpb/music-s3,1,1,music-s3
 /cristianpb/music-s3/tree/master/.github/workflows,music-s3/.github/workflows at master · cristianpb/music-s3,1,1,music-s3
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",22,16,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",25,18,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,14,8,object-detection
 /cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,13,7,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,8,4,object-detection
@@ -43,8 +41,8 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/tree/master/models/ssd_mobilenet,object-detection/models/ssd_mobilenet at master · cristianpb/object-detection...,3,3,object-detection
 /cristianpb/object-detection/tree/master/tests,object-detection/tests at master · cristianpb/object-detection · GitHub,3,3,object-detection
 /cristianpb/object-detection/search,Search · real time object detection · GitHub,3,2,object-detection
-/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",1,1,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",47,16,telegraf-influxdb-grafana-docker
+/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",2,2,rhasspy-handler
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",47,17,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,21,9,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,14,6,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,10,6,telegraf-influxdb-grafana-docker
