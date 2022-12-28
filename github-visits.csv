@@ -1,7 +1,6 @@
 date,repository,clones,views
 2022-12-20,alchemy-machine,1,0
 2022-12-23,alchemy-machine,1,0
-2022-12-13,analytics-google,5,1
 2022-12-14,analytics-google,2,0
 2022-12-15,analytics-google,4,0
 2022-12-16,analytics-google,2,1
@@ -15,9 +14,11 @@ date,repository,clones,views
 2022-12-24,analytics-google,2,1
 2022-12-25,analytics-google,3,0
 2022-12-26,analytics-google,2,0
+2022-12-27,analytics-google,3,0
 2022-12-20,cristianpb,1,0
 2022-12-21,cristianpb.github.io,1,0
 2022-12-26,cristianpb.github.io,0,1
+2022-12-27,deces-backend,0,22
 2022-12-14,dotfiles,1,6
 2022-12-21,dotfiles,1,2
 2022-12-19,dotfiles,0,1
@@ -33,7 +34,7 @@ date,repository,clones,views
 2022-12-23,muse,0,2
 2022-12-24,muse,0,1
 2022-12-26,muse,0,4
-2022-12-13,music-s3,1,5
+2022-12-27,muse,0,7
 2022-12-14,music-s3,1,0
 2022-12-15,music-s3,1,0
 2022-12-16,music-s3,4,10
@@ -50,7 +51,6 @@ date,repository,clones,views
 2022-12-20,object-detection,1,45
 2022-12-21,object-detection,1,8
 2022-12-23,object-detection,1,3
-2022-12-13,object-detection,0,6
 2022-12-16,object-detection,0,3
 2022-12-17,object-detection,0,1
 2022-12-18,object-detection,0,15
@@ -58,6 +58,7 @@ date,repository,clones,views
 2022-12-22,object-detection,0,5
 2022-12-24,object-detection,0,3
 2022-12-26,object-detection,0,4
+2022-12-27,object-detection,0,7
 2022-12-25,object-detection-frontend,0,1
 2022-12-15,playlists,1,0
 2022-12-16,playlists,3,0
@@ -69,7 +70,6 @@ date,repository,clones,views
 2022-12-19,rhasspy-handler,0,1
 2022-12-22,rhasspy-handler,0,1
 2022-12-26,rhasspy-handler,0,1
-2022-12-14,stats,3,0
 2022-12-15,stats,5,0
 2022-12-16,stats,3,0
 2022-12-17,stats,3,0
@@ -82,13 +82,13 @@ date,repository,clones,views
 2022-12-24,stats,4,0
 2022-12-25,stats,4,0
 2022-12-26,stats,3,0
+2022-12-27,stats,4,0
 2022-12-16,telegraf-influxdb-grafana-docker,1,4
 2022-12-20,telegraf-influxdb-grafana-docker,1,34
 2022-12-22,telegraf-influxdb-grafana-docker,2,1
 2022-12-23,telegraf-influxdb-grafana-docker,2,2
 2022-12-24,telegraf-influxdb-grafana-docker,1,2
 2022-12-26,telegraf-influxdb-grafana-docker,1,5
-2022-12-13,telegraf-influxdb-grafana-docker,0,5
 2022-12-14,telegraf-influxdb-grafana-docker,0,13
 2022-12-15,telegraf-influxdb-grafana-docker,0,26
 2022-12-17,telegraf-influxdb-grafana-docker,0,18
@@ -96,12 +96,12 @@ date,repository,clones,views
 2022-12-19,telegraf-influxdb-grafana-docker,0,6
 2022-12-21,telegraf-influxdb-grafana-docker,0,5
 2022-12-25,telegraf-influxdb-grafana-docker,0,1
+2022-12-27,telegraf-influxdb-grafana-docker,0,8
 2022-12-21,temp-sigfox,1,0
 2022-12-26,temp-sigfox,0,2
 2022-12-18,tkasme,1,0
 2022-12-19,velo.club,1,0
 2022-12-25,velo.club,1,0
-2022-12-13,vimwiki,1,0
 2022-12-16,vimwiki,0,1
 2022-12-23,vimwiki,0,2
 2022-12-24,vimwiki,0,15
