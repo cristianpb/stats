@@ -12,8 +12,8 @@ path,title,count,uniques,repository
 /cristianpb/cristianpb.github.io/tree/master/.github/workflows,cristianpb.github.io/.github/workflows at master · cristianpb/cristianpb.gith...,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/tree/master/_includes,cristianpb.github.io/_includes at master · cristianpb/cristianpb.github.io,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/tree/master/jekyll_collections,cristianpb.github.io/jekyll_collections at master · cristianpb/cristianpb.git...,1,1,cristianpb.github.io
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,5,4,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,5,4,dotfiles
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,4,3,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/rc.conf at master · cristianpb/dotfiles · GitHub,4,3,dotfiles
 /cristianpb/dotfiles/blob/master/msmtp/.msmtprc,dotfiles/.msmtprc at master · cristianpb/dotfiles,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/new_mail.sh,dotfiles/new_mail.sh at master · cristianpb/dotfiles,1,1,dotfiles
@@ -23,22 +23,22 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/find/master,File Finder · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/msmtp,dotfiles/msmtp at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,17,15,muse
-/cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,5,5,muse
+/cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,7,7,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,5,4,muse
 /cristianpb/muse/issues/42,Searching all backends returns no result · Issue #42 · cristianpb/muse · GitHub,2,2,muse
 /cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse,1,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/mopidy.conf,muse/mopidy.conf at master · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/issues/28,"""undefined"" song titles in playlist · Issue #28 · cristianpb/muse · GitHub",1,1,muse
 /cristianpb/muse/issues/39,Add snapcast stream support · Issue #39 · cristianpb/muse,1,1,muse
+/cristianpb/muse/issues/40,Dark mode · Issue #40 · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/issues/46,Would you put lyrics options? · Issue #46 · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/muse/issues/47,"I cant see my ""favorites artist"" in Qobuz · Issue #47 · cristianpb/muse",1,1,muse
-/cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/music-s3,GitHub - cristianpb/music-s3,2,1,music-s3
 /cristianpb/music-s3/branches,Branches · cristianpb/music-s3 · GitHub,1,1,music-s3
 /cristianpb/music-s3/tree/master/.github/workflows,music-s3/.github/workflows at master · cristianpb/music-s3 · GitHub,1,1,music-s3
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",22,15,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",23,16,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,13,7,object-detection
 /cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,8,5,object-detection
-/cristianpb/object-detection/blob/master/backend/motion.py,object-detection/motion.py at master · cristianpb/object-detection · GitHub,6,3,object-detection
+/cristianpb/object-detection/blob/master/backend/motion.py,object-detection/motion.py at master · cristianpb/object-detection · GitHub,5,3,object-detection
 /cristianpb/object-detection/blob/master/backend/camera.py,object-detection/camera.py at master · cristianpb/object-detection · GitHub,4,2,object-detection
 /cristianpb/object-detection/blob/master/tests/test_detection.py,object-detection/test_detection.py at master · cristianpb/object-detection · ...,3,3,object-detection
 /cristianpb/object-detection/tree/master/nginx,object-detection/nginx at master · cristianpb/object-detection · GitHub,3,3,object-detection
@@ -55,7 +55,13 @@ path,title,count,uniques,repository
 /cristianpb/playlists/tree/gh-pages,GitHub - cristianpb/playlists at gh-pages,1,1,playlists
 /cristianpb/playlists/watchers,Watchers · cristianpb/playlists · GitHub,1,1,playlists
 /cristianpb/priceminister,GitHub - cristianpb/priceminister: Data science projet on nlp,1,1,priceminister
-/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",6,5,rhasspy-handler
+/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",5,4,rhasspy-handler
+/cristianpb/rhasspy-handler,cristianpb/rhasspy-handler: My voice assistant intent handler,2,1,rhasspy-handler
+/cristianpb/rhasspy-handler/tree/master/src,rhasspy-handler/src at master · cristianpb/rhasspy-handler,2,1,rhasspy-handler
+/cristianpb/rhasspy-handler/blob/master/src/phrases.ts,rhasspy-handler/phrases.ts at master · cristianpb/rhasspy-handler,1,1,rhasspy-handler
+/cristianpb/rhasspy-handler/blob/master/src/rhasspymopidy.ts,rhasspy-handler/rhasspymopidy.ts at master · cristianpb/rhasspy-handler,1,1,rhasspy-handler
+/cristianpb/rhasspy-handler/tree/master/rhasspy/.config/rhasspy/profiles/es,rhasspy-handler/rhasspy/.config/rhasspy/profiles/es at master · cristianpb/rh...,1,1,rhasspy-handler
+/cristianpb/rhasspy-handler/tree/master/systemd,rhasspy-handler/systemd at master · cristianpb/rhasspy-handler,1,1,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",15,6,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml bij master · cristianpb/t...,14,8,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,7,2,telegraf-influxdb-grafana-docker
