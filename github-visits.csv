@@ -1,6 +1,5 @@
 date,repository,clones,views
-2023-01-23,analytics-google,3,0
-2023-01-24,analytics-google,2,4
+2023-01-24,analytics-google,2,3
 2023-01-25,analytics-google,2,1
 2023-01-26,analytics-google,3,0
 2023-01-27,analytics-google,3,0
@@ -13,9 +12,10 @@ date,repository,clones,views
 2023-02-03,analytics-google,2,2
 2023-02-04,analytics-google,3,0
 2023-02-05,analytics-google,2,0
+2023-02-06,analytics-google,4,1
 2023-02-02,cristianpb.github.io,2,0
 2023-02-04,cristianpb.github.io,1,0
-2023-01-23,dotfiles,2,5
+2023-02-06,cristianpb.github.io,16,1
 2023-01-29,dotfiles,2,0
 2023-02-03,dotfiles,1,8
 2023-01-25,dotfiles,0,1
@@ -32,8 +32,8 @@ date,repository,clones,views
 2023-02-02,mask-detection,1,0
 2023-01-29,muse,1,9
 2023-02-01,muse,1,1
-2023-02-05,muse,83,46
-2023-01-23,muse,0,5
+2023-02-05,muse,84,46
+2023-02-06,muse,2,4
 2023-01-24,muse,0,9
 2023-01-27,muse,0,6
 2023-01-30,muse,0,2
@@ -41,7 +41,6 @@ date,repository,clones,views
 2023-02-02,muse,0,1
 2023-02-03,muse,0,8
 2023-02-04,muse,0,1
-2023-01-23,music-s3,1,0
 2023-01-24,music-s3,1,0
 2023-01-25,music-s3,1,0
 2023-01-26,music-s3,1,0
@@ -53,6 +52,7 @@ date,repository,clones,views
 2023-02-02,music-s3,1,0
 2023-02-03,music-s3,1,0
 2023-02-05,music-s3,1,0
+2023-02-06,music-s3,2,0
 2023-02-02,mybottender,1,0
 2023-01-26,ngTwitterApp,1,0
 2023-02-03,ngTwitterApp,1,0
@@ -68,6 +68,7 @@ date,repository,clones,views
 2023-02-01,object-detection,0,13
 2023-02-03,object-detection,0,2
 2023-02-05,object-detection,0,3
+2023-02-06,object-detection,0,1
 2023-01-29,object-detection-frontend,1,0
 2023-01-24,object-detection-frontend,0,1
 2023-01-26,object-detection-frontend,0,5
@@ -81,14 +82,12 @@ date,repository,clones,views
 2023-01-31,rhasspy-handler,1,0
 2023-02-02,rhasspy-handler,1,0
 2023-02-05,rhasspy-handler,1,0
-2023-01-23,rhasspy-handler,0,2
+2023-02-06,rhasspy-handler,1,0
 2023-01-24,rhasspy-handler,0,1
 2023-01-28,rhasspy-handler,0,8
 2023-01-29,rhasspy-handler,0,3
 2023-01-30,rhasspy-handler,0,49
 2023-02-01,rhasspy-handler,0,2
-2023-01-23,stats,2,0
-2023-01-24,stats,3,0
 2023-01-25,stats,4,0
 2023-01-26,stats,3,0
 2023-01-27,stats,3,0
@@ -101,10 +100,11 @@ date,repository,clones,views
 2023-02-03,stats,3,0
 2023-02-04,stats,3,0
 2023-02-05,stats,3,0
-2023-01-23,telegraf-influxdb-grafana-docker,1,4
+2023-02-06,stats,6,0
 2023-02-01,telegraf-influxdb-grafana-docker,1,1
 2023-02-02,telegraf-influxdb-grafana-docker,1,7
 2023-02-05,telegraf-influxdb-grafana-docker,1,6
+2023-02-06,telegraf-influxdb-grafana-docker,1,12
 2023-01-25,telegraf-influxdb-grafana-docker,0,3
 2023-01-26,telegraf-influxdb-grafana-docker,0,1
 2023-01-29,telegraf-influxdb-grafana-docker,0,1
