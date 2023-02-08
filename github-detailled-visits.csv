@@ -1,8 +1,9 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,6,5,analytics-google
+/cristianpb/analytics-google,cristianpb/analytics-google: Google analytics from cristianpb.github.io,6,5,analytics-google
 /cristianpb/analytics-google/blob/master/requirements.txt,analytics-google/requirements.txt at master · cristianpb/analytics-google · G...,1,1,analytics-google
+/cristianpb/cristianpb.github.io,cristianpb/cristianpb.github.io: My website,1,1,cristianpb.github.io
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,9,3,dotfiles
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,6,5,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,5,4,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/rc.conf at master · cristianpb/dotfiles,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/bash/.shell_prompt.sh,dotfiles/.shell_prompt.sh at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/mpd/.mpd/mpd.conf,dotfiles/mpd.conf at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
@@ -21,10 +22,10 @@ path,title,count,uniques,repository
 /cristianpb/goaccess/actions/workflows/deb-packaging.yml,Actions · cristianpb/goaccess,3,1,goaccess
 /cristianpb/goaccess/actions/runs/4086520422/jobs/7045920394,🐳 Build docker iage on different architectures · cristianpb/goaccess@99ce29c,2,1,goaccess
 /cristianpb/goaccess/actions/runs/4090480743,🐋 Always publish master image on latest · cristianpb/goaccess@f294fd8,2,1,goaccess
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,15,9,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,18,10,muse
 /cristianpb/muse/actions/runs/4096869765,🐳 Publish docker tags · cristianpb/muse@9098b37,14,2,muse
+/cristianpb/muse/actions,Actions · cristianpb/muse · GitHub,7,4,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,6,5,muse
-/cristianpb/muse/actions,Actions · cristianpb/muse · GitHub,6,3,muse
 /cristianpb/muse/actions/runs/4096869765/jobs/7064821155,🐳 Publish docker tags · cristianpb/muse@9098b37,6,2,muse
 /cristianpb/muse/actions/runs/4096869765/jobs/7064821185,🐳 Publish docker tags · cristianpb/muse@9098b37 · GitHub,6,2,muse
 /cristianpb/muse/actions/workflows/mopidy-base.yml,Actions · cristianpb/muse,5,2,muse
@@ -33,16 +34,16 @@ path,title,count,uniques,repository
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,2,2,muse
 /cristianpb/music-s3,GitHub - cristianpb/music-s3,1,1,music-s3
 /cristianpb/music-s3/actions,Actions · cristianpb/music-s3 · GitHub,1,1,music-s3
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",15,14,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",13,12,object-detection
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,5,4,object-detection
 /cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,4,4,object-detection
 /cristianpb/object-detection/blob/master/backend/motion.py,object-detection/motion.py at master · cristianpb/object-detection · GitHub,4,3,object-detection
-/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,4,3,object-detection
 /cristianpb/object-detection/tree/master/models/ssd_mobilenet,object-detection/models/ssd_mobilenet at master · cristianpb/object-detection,3,1,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,2,2,object-detection
 /cristianpb/object-detection/blob/master/models/ssd_mobilenet/ssd_mobilenet_v2_coco_2018_03_29.pbtxt,object-detection/ssd_mobilenet_v2_coco_2018_03_29.pbtxt at master · cristianp...,2,1,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection,2,1,object-detection
-/cristianpb/object-detection/blob/df1fac5a4be2e3c228efae32d9b9db92fbf8ab11/backend/camera.py,object-detection/camera.py at df1fac5a4be2e3c228efae32d9b9db92fbf8ab11 · cris...,1,1,object-detection
 /cristianpb/object-detection/blob/master/backend/app.py,object-detection/app.py at master · cristianpb/object-detection,1,1,object-detection
+/cristianpb/object-detection/blob/master/backend/camera.py,object-detection/camera.py at master · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,5,4,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/src/app/app.module.ts,object-detection-frontend/app.module.ts at master · cristianpb/object-detecti...,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/e2e,object-detection-frontend/e2e at master · cristianpb/object-detection-fronten...,1,1,object-detection-frontend
@@ -61,13 +62,11 @@ path,title,count,uniques,repository
 /cristianpb/rhasspy-handler/blob/master/src/%40types/mopidy.d.ts,rhasspy-handler/mopidy.d.ts at master · cristianpb/rhasspy-handler · GitHub,2,1,rhasspy-handler
 /cristianpb/rhasspy-handler/blob/master/systemd/handler.service,rhasspy-handler/handler.service at master · cristianpb/rhasspy-handler · GitHub,2,1,rhasspy-handler
 /cristianpb/rhasspy-handler/blob/master/systemd/rhasspy.service,rhasspy-handler/rhasspy.service at master · cristianpb/rhasspy-handler · GitHub,2,1,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",10,8,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml bij master · cristianpb/t...,8,8,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,3,3,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",15,10,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml bij master · cristianpb/t...,9,8,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,5,4,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,telegraf-influxdb-grafana-docker/docker-compose-gpu.yml at master · cristianp...,2,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,2,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf.conf,telegraf-influxdb-grafana-docker/telegraf.conf at master · cristianpb/telegra...,1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/.env_dist,telegraf-influxdb-grafana-docker/.env_dist at master · cristianpb/telegraf-in...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/telegraf,telegraf-influxdb-grafana-docker/docker/telegraf at master · cristianpb/teleg...,1,1,telegraf-influxdb-grafana-docker
-/cristianpb/temp-sigfox,GitHub - cristianpb/temp-sigfox: Micropython code to send data from the ESP82...,1,1,temp-sigfox
-/cristianpb/vimwiki,cristianpb/vimwiki: My vimwiki,1,1,vimwiki
-/cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki,1,1,vimwiki
