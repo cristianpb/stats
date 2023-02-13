@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,cristianpb/analytics-google: Google analytics from cristianpb.github.io,4,3,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,5,4,analytics-google
 /cristianpb/analytics-google/blob/master/analytics.py,analytics-google/analytics.py at master · cristianpb/analytics-google · GitHub,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/package-lock.json,analytics-google/package-lock.json at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/requirements.txt,analytics-google/requirements.txt at master · cristianpb/analytics-google · G...,1,1,analytics-google
@@ -24,7 +24,7 @@ path,title,count,uniques,repository
 /cristianpb/goaccess/actions/workflows/deb-packaging.yml,Actions · cristianpb/goaccess,3,1,goaccess
 /cristianpb/goaccess/actions/runs/4086520422/jobs/7045920394,🐳 Build docker iage on different architectures · cristianpb/goaccess@99ce29c,2,1,goaccess
 /cristianpb/goaccess/actions/runs/4090480743,🐋 Always publish master image on latest · cristianpb/goaccess@f294fd8,2,1,goaccess
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,20,11,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,21,11,muse
 /cristianpb/muse/actions/runs/4096869765,🐳 Publish docker tags · cristianpb/muse@9098b37,19,2,muse
 /cristianpb/muse/actions,Actions · cristianpb/muse · GitHub,7,4,muse
 /cristianpb/muse/actions/runs/4096869765/jobs/7064821155,🐳 Publish docker tags · cristianpb/muse@9098b37,6,2,muse
@@ -34,8 +34,8 @@ path,title,count,uniques,repository
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,2,2,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,2,2,muse
 /cristianpb/muse/pulls,Pull requests · cristianpb/muse · GitHub,2,2,muse
-/cristianpb/music-s3,GitHub - cristianpb/music-s3,4,3,music-s3
-/cristianpb/music-s3/actions,Actions · cristianpb/music-s3 · GitHub,3,2,music-s3
+/cristianpb/music-s3,GitHub - cristianpb/music-s3,3,2,music-s3
+/cristianpb/music-s3/actions,Actions · cristianpb/music-s3 · GitHub,2,1,music-s3
 /cristianpb/music-s3/actions/workflows/main.yaml,Actions · cristianpb/music-s3,2,1,music-s3
 /cristianpb/music-s3/actions/runs/4139377742,Workflow · cristianpb/music-s3@1173e16 · GitHub,1,1,music-s3
 /cristianpb/music-s3/actions/runs/4139377742/jobs/7156875524,Workflow · cristianpb/music-s3@1173e16 · GitHub,1,1,music-s3
@@ -61,25 +61,24 @@ path,title,count,uniques,repository
 /cristianpb/object-detection-frontend/tree/master/e2e/src,object-detection-frontend/e2e/src at master · cristianpb/object-detection-fro...,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/.github/workflows,object-detection-frontend/.github/workflows at master · cristianpb/object-det...,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/src,object-detection-frontend/src at master · cristianpb/object-detection-frontend,1,1,object-detection-frontend
-/cristianpb/playlists,GitHub - cristianpb/playlists,1,1,playlists
-/cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,13,2,rhasspy-handler
-/cristianpb/rhasspy-handler/tree/master/src,rhasspy-handler/src at master · cristianpb/rhasspy-handler · GitHub,8,1,rhasspy-handler
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",5,5,rhasspy-handler
-/cristianpb/rhasspy-handler/tree/master/systemd,rhasspy-handler/systemd at master · cristianpb/rhasspy-handler · GitHub,5,1,rhasspy-handler
-/cristianpb/rhasspy-handler/tree/master/src/%40types,rhasspy-handler/src/@types at master · cristianpb/rhasspy-handler · GitHub,3,1,rhasspy-handler
-/cristianpb/rhasspy-handler/blob/master/src/%40types/mopidy.d.ts,rhasspy-handler/mopidy.d.ts at master · cristianpb/rhasspy-handler · GitHub,2,1,rhasspy-handler
-/cristianpb/rhasspy-handler/blob/master/systemd/handler.service,rhasspy-handler/handler.service at master · cristianpb/rhasspy-handler · GitHub,2,1,rhasspy-handler
-/cristianpb/rhasspy-handler/blob/master/systemd/rhasspy.service,rhasspy-handler/rhasspy.service at master · cristianpb/rhasspy-handler · GitHub,2,1,rhasspy-handler
-/cristianpb/rhasspy-handler/blob/master/jest.config.js,rhasspy-handler/jest.config.js at master · cristianpb/rhasspy-handler · GitHub,1,1,rhasspy-handler
-/cristianpb/rhasspy-handler/blob/master/package.json,rhasspy-handler/package.json at master · cristianpb/rhasspy-handler · GitHub,1,1,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",26,13,telegraf-influxdb-grafana-docker
+/cristianpb/rhasspy-handler,cristianpb/rhasspy-handler: My voice assistant intent handler,2,1,rhasspy-handler
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",24,12,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,16,10,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,14,7,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,13,6,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/telegraf,telegraf-influxdb-grafana-docker/docker/telegraf at master · cristianpb/teleg...,6,3,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/.env_dist,telegraf-influxdb-grafana-docker/.env_dist at master · cristianpb/telegraf-in...,4,4,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,telegraf-influxdb-grafana-docker/docker-compose-gpu.yml at master · cristianp...,3,3,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,3,3,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf.conf,telegraf-influxdb-grafana-docker/telegraf.conf at master · cristianpb/telegra...,3,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/Makefile,telegraf-influxdb-grafana-docker/Makefile at master · cristianpb/telegraf-inf...,2,2,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,2,2,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,telegraf-influxdb-grafana-docker/docker-compose-gpu.yml at master · cristianp...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf-gpu.conf,telegraf-influxdb-grafana-docker/telegraf-gpu.conf at master · cristianpb/tel...,1,1,telegraf-influxdb-grafana-docker
-/cristianpb/vimwiki,cristianpb/vimwiki: My vimwiki,4,3,vimwiki
+/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,5,4,vimwiki
+/cristianpb/vimwiki/tree/master/layouts,vimwiki/layouts at master · cristianpb/vimwiki · GitHub,3,1,vimwiki
+/cristianpb/vimwiki/blob/master/layouts/partials/footer.html,vimwiki/footer.html at master · cristianpb/vimwiki · GitHub,2,1,vimwiki
+/cristianpb/vimwiki/tree/master/layouts/partials,vimwiki/layouts/partials at master · cristianpb/vimwiki · GitHub,2,1,vimwiki
+/cristianpb/vimwiki/blob/master/config.toml,vimwiki/config.toml at master · cristianpb/vimwiki · GitHub,1,1,vimwiki
+/cristianpb/vimwiki/blob/master/layouts/partials/header.html,vimwiki/header.html at master · cristianpb/vimwiki · GitHub,1,1,vimwiki
+/cristianpb/vimwiki/blob/master/layouts/partials/head.html,vimwiki/head.html at master · cristianpb/vimwiki · GitHub,1,1,vimwiki
+/cristianpb/vimwiki/blob/master/layouts/partials/posts.html,vimwiki/posts.html at master · cristianpb/vimwiki · GitHub,1,1,vimwiki
+/cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki · GitHub,1,1,vimwiki
