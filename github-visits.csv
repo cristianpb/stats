@@ -1,5 +1,4 @@
 date,repository,clones,views
-2023-01-31,analytics-google,3,0
 2023-02-01,analytics-google,2,1
 2023-02-02,analytics-google,2,1
 2023-02-03,analytics-google,2,2
@@ -13,6 +12,7 @@ date,repository,clones,views
 2023-02-11,analytics-google,2,0
 2023-02-12,analytics-google,2,1
 2023-02-13,analytics-google,4,1
+2023-02-14,analytics-google,2,0
 2023-02-02,cristianpb.github.io,2,0
 2023-02-04,cristianpb.github.io,1,0
 2023-02-06,cristianpb.github.io,16,1
@@ -23,9 +23,9 @@ date,repository,clones,views
 2023-02-11,cristianpb.github.io,32,0
 2023-02-12,cristianpb.github.io,34,0
 2023-02-13,cristianpb.github.io,12,0
+2023-02-14,cristianpb.github.io,8,1
 2023-02-03,dotfiles,1,8
 2023-02-07,dotfiles,1,0
-2023-01-31,dotfiles,0,13
 2023-02-01,dotfiles,0,2
 2023-02-04,dotfiles,0,2
 2023-02-05,dotfiles,0,4
@@ -34,6 +34,7 @@ date,repository,clones,views
 2023-02-10,dotfiles,0,2
 2023-02-11,dotfiles,0,6
 2023-02-13,dotfiles,0,1
+2023-02-14,dotfiles,0,18
 2023-02-03,goaccess,9,28
 2023-02-04,goaccess,20,32
 2023-02-13,goaccess,1,0
@@ -48,7 +49,6 @@ date,repository,clones,views
 2023-02-08,muse,1,3
 2023-02-12,muse,2,2
 2023-02-13,muse,1,1
-2023-01-31,muse,0,2
 2023-02-02,muse,0,1
 2023-02-03,muse,0,8
 2023-02-04,muse,0,1
@@ -56,7 +56,6 @@ date,repository,clones,views
 2023-02-09,muse,0,1
 2023-02-10,muse,0,2
 2023-02-11,muse,0,5
-2023-01-31,music-s3,1,0
 2023-02-01,music-s3,1,0
 2023-02-02,music-s3,1,0
 2023-02-03,music-s3,1,0
@@ -68,10 +67,10 @@ date,repository,clones,views
 2023-02-10,music-s3,1,9
 2023-02-12,music-s3,1,0
 2023-02-13,music-s3,1,0
+2023-02-14,music-s3,1,0
 2023-02-02,mybottender,1,0
 2023-02-07,myhubot,1,0
 2023-02-03,ngTwitterApp,1,0
-2023-01-31,object-detection,1,0
 2023-02-02,object-detection,1,0
 2023-02-04,object-detection,1,3
 2023-02-07,object-detection,1,5
@@ -85,6 +84,7 @@ date,repository,clones,views
 2023-02-09,object-detection,0,3
 2023-02-10,object-detection,0,2
 2023-02-13,object-detection,0,10
+2023-02-14,object-detection,0,5
 2023-02-08,object-detection-frontend,1,0
 2023-02-11,object-detection-frontend,2,0
 2023-02-12,object-detection-frontend,3,0
@@ -101,17 +101,16 @@ date,repository,clones,views
 2023-02-05,priceminister,1,0
 2023-02-10,priceminister,1,0
 2023-02-10,qrcode-reader,1,0
-2023-01-31,rhasspy-handler,1,0
 2023-02-02,rhasspy-handler,1,0
 2023-02-05,rhasspy-handler,1,0
 2023-02-06,rhasspy-handler,1,0
 2023-02-07,rhasspy-handler,1,0
 2023-02-08,rhasspy-handler,1,1
+2023-02-14,rhasspy-handler,2,0
 2023-02-01,rhasspy-handler,0,2
 2023-02-09,rhasspy-handler,0,1
 2023-02-10,rhasspy-handler,0,3
 2023-02-13,rhasspy-handler,0,1
-2023-02-01,stats,4,0
 2023-02-02,stats,4,0
 2023-02-03,stats,3,0
 2023-02-04,stats,3,0
@@ -124,6 +123,7 @@ date,repository,clones,views
 2023-02-11,stats,5,0
 2023-02-12,stats,3,0
 2023-02-13,stats,5,0
+2023-02-14,stats,3,0
 2023-02-01,telegraf-influxdb-grafana-docker,1,1
 2023-02-02,telegraf-influxdb-grafana-docker,1,7
 2023-02-05,telegraf-influxdb-grafana-docker,1,6
