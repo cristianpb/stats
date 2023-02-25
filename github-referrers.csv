@@ -4,15 +4,15 @@ github.com,1,1,analytics-google
 cristianpb.github.io,3,1,cristianpb.github.io
 github.com,1,1,cristianpb.github.io
 Google,7,3,dotfiles
-github.com,5,2,dotfiles
 mopidy.com,6,5,muse
 Google,6,5,muse
 cristianpb.github.io,2,1,muse
 pypi.org,1,1,muse
-cristianpb.github.io,38,9,object-detection
-github.com,25,8,object-detection
+cristianpb.github.io,36,9,object-detection
+github.com,12,9,object-detection
 cristianpb-github-io.cdn.ampproject.org,2,2,object-detection
 Google,2,2,object-detection
+programcreek.com,1,1,object-detection
 Google,4,3,object-detection-frontend
 hackster.io,3,1,object-detection-frontend
 Google,5,1,priceminister
@@ -20,5 +20,6 @@ cristianpb.github.io,86,3,rhasspy-handler
 Google,6,5,rhasspy-handler
 Google,13,5,telegraf-influxdb-grafana-docker
 github.com,6,1,telegraf-influxdb-grafana-docker
+medium.com,4,1,telegraf-influxdb-grafana-docker
 cristianpb.github.io,2,1,telegraf-influxdb-grafana-docker
-cristianpb.github.io,13,1,vimwiki
+github.com,1,1,vimwiki
