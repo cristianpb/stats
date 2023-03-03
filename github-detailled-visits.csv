@@ -1,10 +1,19 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,2,2,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,3,3,analytics-google
+/cristianpb/analytics-google/blob/master/src/client.js,analytics-google/client.js at master · cristianpb/analytics-google,2,1,analytics-google
+/cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google,2,1,analytics-google
+/cristianpb/analytics-google/tree/master/src/components,analytics-google/src/components at master · cristianpb/analytics-google,2,1,analytics-google
+/cristianpb/analytics-google/blob/master/src/components/views/Charts.svelte,analytics-google/Charts.svelte at master · cristianpb/analytics-google,1,1,analytics-google
+/cristianpb/analytics-google/blob/master/src/routes/index.svelte,analytics-google/index.svelte at master · cristianpb/analytics-google,1,1,analytics-google
+/cristianpb/analytics-google/blob/master/src/server.js,analytics-google/server.js at master · cristianpb/analytics-google,1,1,analytics-google
+/cristianpb/analytics-google/blob/master/src/service-worker.js,analytics-google/service-worker.js at master · cristianpb/analytics-google,1,1,analytics-google
+/cristianpb/analytics-google/blob/master/src/template.html,analytics-google/template.html at master · cristianpb/analytics-google,1,1,analytics-google
+/cristianpb/analytics-google/tree/master/src/components/views,analytics-google/src/components/views at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/cristianpb.github.io/blob/master/gulpfile.js,cristianpb.github.io/gulpfile.js at master · cristianpb/cristianpb.github.io,3,1,cristianpb.github.io
-/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,27,3,dotfiles
+/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,28,3,dotfiles
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,5,5,dotfiles
+/cristianpb/dotfiles/blob/1dda1f406250ba99fbb603e387b16594044236d8/ranger/.config/ranger/commands.py,dotfiles/commands.py at 1dda1f406250ba99fbb603e387b16594044236d8 · cristianpb...,5,1,dotfiles
 /cristianpb/dotfiles/tree/1dda1f406250ba99fbb603e387b16594044236d8/ranger/.config/ranger,dotfiles/ranger/.config/ranger at 1dda1f406250ba99fbb603e387b16594044236d8 · ...,4,1,dotfiles
-/cristianpb/dotfiles/blob/1dda1f406250ba99fbb603e387b16594044236d8/ranger/.config/ranger/commands.py,dotfiles/commands.py at 1dda1f406250ba99fbb603e387b16594044236d8 · cristianpb...,3,1,dotfiles
 /cristianpb/dotfiles/commit/1dda1f406250ba99fbb603e387b16594044236d8,🍱 Update config files for ranger 1.9.3 · cristianpb/dotfiles@1dda1f4 · GitHub,3,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/rc.conf at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
 /cristianpb/dotfiles/blob/1dda1f406250ba99fbb603e387b16594044236d8/ranger/.config/ranger/commands_full.py,dotfiles/commands_full.py at 1dda1f406250ba99fbb603e387b16594044236d8 · crist...,2,1,dotfiles
@@ -12,7 +21,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/1dda1f406250ba99fbb603e387b16594044236d8/ranger/.config/ranger/rifle.conf,dotfiles/rifle.conf at 1dda1f406250ba99fbb603e387b16594044236d8 · cristianpb/...,2,1,dotfiles
 /cristianpb/dotfiles/blob/1dda1f406250ba99fbb603e387b16594044236d8/ranger/.config/ranger/scope.sh,dotfiles/scope.sh at 1dda1f406250ba99fbb603e387b16594044236d8 · cristianpb/do...,1,1,dotfiles
 /cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,17,15,muse
-/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse,2,2,muse
+/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse,3,3,muse
 /cristianpb/muse/issues/23,"Tunein ""Now Playing"" song info does not update · Issue #23 · cristianpb/muse ...",2,2,muse
 /cristianpb/muse/issues/25,Support for older browsers (Mobile safari & chrome) · Issue #25 · cristianpb/...,2,1,muse
 /cristianpb/muse/blob/master/.github/workflows/publish.yml,muse/publish.yml at master · cristianpb/muse · GitHub,1,1,muse
@@ -25,14 +34,16 @@ path,title,count,uniques,repository
 /cristianpb/music-s3/actions,Actions · cristianpb/music-s3 · GitHub,4,2,music-s3
 /cristianpb/music-s3/actions/runs/4208415552,Workflow · cristianpb/music-s3@1173e16 · GitHub,1,1,music-s3
 /cristianpb/music-s3/actions/runs/4218691925,Workflow · cristianpb/music-s3@7bc3ab9 · GitHub,1,1,music-s3
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",16,15,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",22,19,object-detection
 /cristianpb/object-detection/blob/master/backend/app.py,object-detection/app.py at master · cristianpb/object-detection · GitHub,10,10,object-detection
-/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,5,5,object-detection
-/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,4,4,object-detection
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/yolo_detection.py at master · cristianpb/object-detection · ...,7,7,object-detection
+/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/ssd_detection.py at master · cristianpb/object-detection · G...,5,5,object-detection
+/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,4,2,object-detection
+/cristianpb/object-detection/blob/master/backend/motion.py,object-detection/motion.py at master · cristianpb/object-detection · GitHub,2,2,object-detection
+/cristianpb/object-detection/blob/master/setup.py,object-detection/setup.py at master · cristianpb/object-detection · GitHub,2,2,object-detection
+/cristianpb/object-detection/blob/master/backend/ssd_trt_detection.py,object-detection/ssd_trt_detection.py at master · cristianpb/object-detection...,2,1,object-detection
+/cristianpb/object-detection/blob/master/backend/utils.py,object-detection/utils.py at master · cristianpb/object-detection · GitHub,2,1,object-detection
 /cristianpb/object-detection/blob/master/config.yml.sample,object-detection/config.yml.sample at master · cristianpb/object-detection · ...,1,1,object-detection
-/cristianpb/object-detection/blob/master/docker-compose.yml,object-detection/docker-compose.yml at master · cristianpb/object-detection ·...,1,1,object-detection
-/cristianpb/object-detection/pulls,Pull requests · cristianpb/object-detection,1,1,object-detection
-/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,7,6,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/src/main.ts,object-detection-frontend/main.ts at master · cristianpb/object-detection-fro...,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/src,object-detection-frontend/src at master · cristianpb/object-detection-fronten...,1,1,object-detection-frontend
@@ -40,16 +51,12 @@ path,title,count,uniques,repository
 /cristianpb/playlists/blob/data/data.csv,playlists/data.csv at data · cristianpb/playlists · GitHub,1,1,playlists
 /cristianpb/playlists/tree/data,GitHub - cristianpb/playlists at data,1,1,playlists
 /cristianpb/playlists/tree/master/src,playlists/src at master · cristianpb/playlists · GitHub,1,1,playlists
-/cristianpb/priceminister,GitHub - cristianpb/priceminister: Data science projet on nlp,2,1,priceminister
-/cristianpb/priceminister/blob/master/docs/Makefile,priceminister/Makefile at master · cristianpb/priceminister · GitHub,1,1,priceminister
-/cristianpb/priceminister/tree/master/docs,priceminister/docs at master · cristianpb/priceminister · GitHub,1,1,priceminister
-/cristianpb/priceminister/tree/master/models,priceminister/models at master · cristianpb/priceminister · GitHub,1,1,priceminister
-/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",5,4,rhasspy-handler
+/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",6,5,rhasspy-handler
 /cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/blob/master/src/radios.ts,rhasspy-handler/radios.ts at master · cristianpb/rhasspy-handler · GitHub,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/tree/master/src,rhasspy-handler/src at master · cristianpb/rhasspy-handler · GitHub,1,1,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",20,9,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,15,8,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",21,10,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,20,12,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,telegraf-influxdb-grafana-docker/docker-compose-gpu.yml at master · cristianp...,5,3,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/.env_dist,telegraf-influxdb-grafana-docker/.env_dist at master · cristianpb/telegraf-in...,3,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,2,2,telegraf-influxdb-grafana-docker
@@ -57,4 +64,4 @@ path,title,count,uniques,repository
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/Makefile,telegraf-influxdb-grafana-docker/Makefile at master · cristianpb/telegraf-inf...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/telegraf,telegraf-influxdb-grafana-docker/docker/telegraf at master · cristianpb/teleg...,1,1,telegraf-influxdb-grafana-docker
-/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,1,1,vimwiki
+/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,2,2,vimwiki
