@@ -1,6 +1,6 @@
 date,repository,clones,views
 2023-03-02,alchemy-machine,2,0
-2023-02-18,analytics-google,2,0
+2023-03-04,alchemy-machine,2,0
 2023-02-19,analytics-google,2,1
 2023-02-20,analytics-google,4,0
 2023-02-21,analytics-google,2,0
@@ -14,9 +14,11 @@ date,repository,clones,views
 2023-03-01,analytics-google,2,15
 2023-03-02,analytics-google,7,0
 2023-03-03,analytics-google,2,0
+2023-03-04,analytics-google,2,1
+2023-03-04,aws-lambda-cv,0,1
 2023-03-02,cristianpb,2,0
-2023-02-18,cristianpb.github.io,30,0
-2023-02-19,cristianpb.github.io,14,3
+2023-03-04,cristianpb,1,0
+2023-02-19,cristianpb.github.io,12,3
 2023-02-20,cristianpb.github.io,16,0
 2023-02-21,cristianpb.github.io,18,0
 2023-02-22,cristianpb.github.io,34,0
@@ -27,7 +29,9 @@ date,repository,clones,views
 2023-02-27,cristianpb.github.io,1,0
 2023-02-28,cristianpb.github.io,2,0
 2023-03-02,cristianpb.github.io,7,0
+2023-03-04,cristianpb.github.io,2,0
 2023-02-25,deces-backend,1,0
+2023-03-04,deces-dataprep,1,0
 2023-02-25,deces-ui,1,0
 2023-02-21,dotfiles,3,5
 2023-02-23,dotfiles,2,2
@@ -35,7 +39,7 @@ date,repository,clones,views
 2023-03-01,dotfiles,1,2
 2023-03-02,dotfiles,2,2
 2023-03-03,dotfiles,2,3
-2023-02-18,dotfiles,0,4
+2023-03-04,dotfiles,1,13
 2023-02-19,dotfiles,0,7
 2023-02-20,dotfiles,0,2
 2023-02-22,dotfiles,0,22
@@ -44,10 +48,12 @@ date,repository,clones,views
 2023-02-27,dotfiles,0,3
 2023-02-28,dotfiles,0,2
 2023-03-02,enkontext,2,0
+2023-03-04,enkontext,1,0
 2023-02-26,gswsr,1,0
 2023-02-28,gswsr,1,0
 2023-03-01,gswsr,1,0
 2023-03-02,gswsr,2,0
+2023-03-04,gswsr,2,0
 2023-02-19,hubot-ratp,1,0
 2023-02-22,hubot-ratp,1,0
 2023-03-01,hubot-ratp,2,0
@@ -57,12 +63,13 @@ date,repository,clones,views
 2023-02-25,mask-detection,1,0
 2023-03-02,mask-detection,2,0
 2023-03-02,matchid-backend,6,0
+2023-03-04,matchid-backend,1,0
 2023-02-24,mopidy.js,1,0
 2023-02-24,muse,1,2
 2023-02-25,muse,2,2
 2023-02-26,muse,1,4
 2023-03-02,muse,9,1
-2023-02-18,muse,0,2
+2023-03-04,muse,1,7
 2023-02-21,muse,0,4
 2023-02-22,muse,0,2
 2023-02-23,muse,0,3
@@ -93,7 +100,6 @@ date,repository,clones,views
 2023-02-24,object-detection,2,2
 2023-03-01,object-detection,1,22
 2023-03-02,object-detection,4,4
-2023-02-18,object-detection,0,2
 2023-02-19,object-detection,0,7
 2023-02-22,object-detection,0,5
 2023-02-23,object-detection,0,5
@@ -105,7 +111,6 @@ date,repository,clones,views
 2023-02-27,object-detection-frontend,1,1
 2023-03-02,object-detection-frontend,2,0
 2023-03-03,object-detection-frontend,1,0
-2023-02-18,object-detection-frontend,0,1
 2023-02-19,object-detection-frontend,0,1
 2023-02-21,object-detection-frontend,0,5
 2023-02-23,object-detection-frontend,0,1
@@ -116,6 +121,7 @@ date,repository,clones,views
 2023-02-24,playlists,3,0
 2023-03-02,playlists,3,0
 2023-03-03,playlists,17,21
+2023-03-04,playlists,1,0
 2023-02-21,playlists,0,2
 2023-03-02,PresentationTechnique,4,0
 2023-02-27,priceminister,1,0
@@ -124,6 +130,7 @@ date,repository,clones,views
 2023-02-21,qrcode-reader,1,0
 2023-02-26,qrcode-reader,1,0
 2023-03-02,qrcode-reader,2,0
+2023-03-04,qrcode-reader,1,0
 2023-03-02,recettes,2,0
 2023-02-24,rhasspy-handler,2,1
 2023-03-02,rhasspy-handler,5,0
@@ -133,7 +140,6 @@ date,repository,clones,views
 2023-02-22,rhasspy-handler,0,2
 2023-02-25,rhasspy-handler,0,3
 2023-03-01,rhasspy-handler,0,1
-2023-02-19,stats,3,0
 2023-02-20,stats,4,0
 2023-02-21,stats,3,0
 2023-02-22,stats,4,0
@@ -146,12 +152,12 @@ date,repository,clones,views
 2023-03-01,stats,4,0
 2023-03-02,stats,7,0
 2023-03-03,stats,4,0
+2023-03-04,stats,3,0
 2023-02-22,telegraf-influxdb-grafana-docker,1,6
 2023-02-27,telegraf-influxdb-grafana-docker,1,14
 2023-02-28,telegraf-influxdb-grafana-docker,2,11
 2023-03-02,telegraf-influxdb-grafana-docker,4,1
 2023-03-03,telegraf-influxdb-grafana-docker,1,1
-2023-02-18,telegraf-influxdb-grafana-docker,0,2
 2023-02-20,telegraf-influxdb-grafana-docker,0,8
 2023-02-23,telegraf-influxdb-grafana-docker,0,4
 2023-02-24,telegraf-influxdb-grafana-docker,0,2
@@ -163,6 +169,7 @@ date,repository,clones,views
 2023-02-25,tkasme,1,0
 2023-03-02,tkasme,2,0
 2023-03-02,velo.club,2,0
+2023-03-04,velo.club,1,0
 2023-02-22,vimwiki,1,0
 2023-02-24,vimwiki,2,0
 2023-02-25,vimwiki,1,0
