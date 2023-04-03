@@ -1,5 +1,4 @@
 date,repository,clones,views
-2023-03-19,analytics-google,2,0
 2023-03-20,analytics-google,3,0
 2023-03-21,analytics-google,2,0
 2023-03-22,analytics-google,2,1
@@ -13,14 +12,15 @@ date,repository,clones,views
 2023-03-30,analytics-google,3,0
 2023-03-31,analytics-google,2,0
 2023-04-01,analytics-google,3,0
+2023-04-02,analytics-google,2,0
 2023-03-21,aws-lambda-cv,1,0
 2023-03-21,cristianpb.github.io,2,0
 2023-03-22,cristianpb.github.io,5,0
 2023-03-23,cristianpb.github.io,4,0
+2023-04-02,cristianpb.github.io,1,0
 2023-03-23,datalab.mi,1,0
 2023-03-20,dotfiles,1,2
 2023-03-30,dotfiles,1,0
-2023-03-19,dotfiles,0,1
 2023-03-21,dotfiles,0,1
 2023-03-22,dotfiles,0,1
 2023-03-23,dotfiles,0,6
@@ -32,7 +32,7 @@ date,repository,clones,views
 2023-03-29,dotfiles,0,2
 2023-03-31,dotfiles,0,11
 2023-04-01,dotfiles,0,1
-2023-03-19,enkontext,1,0
+2023-04-02,dotfiles,0,2
 2023-03-21,gswsr,1,0
 2023-03-27,gswsr,1,0
 2023-03-23,hubot-ratp,1,0
@@ -40,7 +40,6 @@ date,repository,clones,views
 2023-03-27,hubot-ratp,0,1
 2023-04-01,hubot-velib,1,0
 2023-03-28,mask-detection,1,0
-2023-03-19,muse,9,18
 2023-03-24,muse,1,16
 2023-03-25,muse,1,2
 2023-03-27,muse,1,1
@@ -54,7 +53,7 @@ date,repository,clones,views
 2023-03-29,muse,0,10
 2023-03-31,muse,0,3
 2023-04-01,muse,0,1
-2023-03-19,music-s3,1,0
+2023-04-02,muse,0,2
 2023-03-20,music-s3,1,0
 2023-03-21,music-s3,1,0
 2023-03-22,music-s3,1,0
@@ -67,6 +66,7 @@ date,repository,clones,views
 2023-03-30,music-s3,1,0
 2023-03-31,music-s3,1,0
 2023-04-01,music-s3,1,0
+2023-04-02,music-s3,1,0
 2023-03-22,mybottender,1,0
 2023-03-28,mybottender,1,0
 2023-03-28,newsapp,1,0
@@ -76,7 +76,6 @@ date,repository,clones,views
 2023-03-27,object-detection,1,4
 2023-03-29,object-detection,1,20
 2023-03-31,object-detection,1,17
-2023-03-19,object-detection,0,5
 2023-03-20,object-detection,0,24
 2023-03-21,object-detection,0,12
 2023-03-22,object-detection,0,8
@@ -86,6 +85,7 @@ date,repository,clones,views
 2023-03-26,object-detection,0,8
 2023-03-28,object-detection,0,1
 2023-03-30,object-detection,0,10
+2023-04-02,object-detection,0,5
 2023-03-31,object-detection-frontend,1,1
 2023-03-21,object-detection-frontend,0,2
 2023-03-22,object-detection-frontend,0,2
@@ -102,7 +102,7 @@ date,repository,clones,views
 2023-03-26,priceminister,1,0
 2023-03-23,recettes,1,0
 2023-03-27,recettes,1,0
-2023-03-19,rhasspy-handler,1,0
+2023-04-02,recettes,1,0
 2023-03-22,rhasspy-handler,1,0
 2023-03-28,rhasspy-handler,2,0
 2023-03-20,rhasspy-handler,0,1
@@ -110,7 +110,7 @@ date,repository,clones,views
 2023-03-24,rhasspy-handler,0,1
 2023-03-30,rhasspy-handler,0,1
 2023-04-01,rhasspy-handler,0,1
-2023-03-20,stats,4,0
+2023-03-20,stats,1,0
 2023-03-21,stats,4,0
 2023-03-22,stats,3,0
 2023-03-23,stats,3,0
@@ -123,7 +123,7 @@ date,repository,clones,views
 2023-03-30,stats,3,0
 2023-03-31,stats,3,0
 2023-04-01,stats,4,0
-2023-03-19,telegraf-influxdb-grafana-docker,1,31
+2023-04-02,stats,3,0
 2023-03-21,telegraf-influxdb-grafana-docker,1,2
 2023-03-26,telegraf-influxdb-grafana-docker,1,0
 2023-03-20,telegraf-influxdb-grafana-docker,0,13
@@ -134,7 +134,7 @@ date,repository,clones,views
 2023-03-29,telegraf-influxdb-grafana-docker,0,2
 2023-03-31,telegraf-influxdb-grafana-docker,0,8
 2023-04-01,telegraf-influxdb-grafana-docker,0,8
-2023-03-19,temp-sigfox,1,0
+2023-04-02,telegraf-influxdb-grafana-docker,0,37
 2023-03-26,temp-sigfox,2,0
 2023-03-28,temp-sigfox,1,0
 2023-03-30,temp-sigfox,2,0
