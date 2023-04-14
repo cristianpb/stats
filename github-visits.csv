@@ -1,5 +1,4 @@
 date,repository,clones,views
-2023-03-30,analytics-google,3,0
 2023-03-31,analytics-google,2,0
 2023-04-01,analytics-google,3,0
 2023-04-02,analytics-google,2,0
@@ -13,13 +12,14 @@ date,repository,clones,views
 2023-04-10,analytics-google,2,0
 2023-04-11,analytics-google,3,0
 2023-04-12,analytics-google,4,0
+2023-04-13,analytics-google,2,1
 2023-04-04,aws-lambda-cv,1,0
 2023-04-11,aws-lambda-cv,0,2
 2023-04-12,cristianpb,1,0
 2023-04-02,cristianpb.github.io,1,0
 2023-04-10,cristianpb.github.io,1,0
 2023-04-04,dataiku-dss-docker,1,0
-2023-03-30,dotfiles,1,0
+2023-04-12,deces-ui,1,0
 2023-04-05,dotfiles,1,15
 2023-04-07,dotfiles,1,9
 2023-03-31,dotfiles,0,11
@@ -34,7 +34,6 @@ date,repository,clones,views
 2023-04-01,hubot-velib,1,0
 2023-04-06,hubot-velib,1,0
 2023-04-10,matchid-backend,1,0
-2023-03-30,muse,2,0
 2023-03-31,muse,0,3
 2023-04-01,muse,0,1
 2023-04-02,muse,0,2
@@ -46,7 +45,7 @@ date,repository,clones,views
 2023-04-10,muse,0,3
 2023-04-11,muse,0,2
 2023-04-12,muse,0,2
-2023-03-30,music-s3,1,0
+2023-04-13,muse,0,4
 2023-03-31,music-s3,1,0
 2023-04-01,music-s3,1,0
 2023-04-02,music-s3,1,0
@@ -68,14 +67,14 @@ date,repository,clones,views
 2023-04-05,object-detection,1,2
 2023-04-06,object-detection,1,2
 2023-04-07,object-detection,1,0
-2023-03-30,object-detection,0,10
 2023-04-02,object-detection,0,5
 2023-04-08,object-detection,0,9
 2023-04-09,object-detection,0,4
 2023-04-10,object-detection,0,7
 2023-04-11,object-detection,0,10
 2023-04-12,object-detection,0,11
-2023-03-31,object-detection-frontend,1,1
+2023-04-13,object-detection,0,5
+2023-03-31,object-detection-frontend,0,1
 2023-04-03,object-detection-frontend,0,1
 2023-04-04,object-detection-frontend,0,5
 2023-04-06,object-detection-frontend,0,2
@@ -84,11 +83,9 @@ date,repository,clones,views
 2023-04-07,playlists,3,0
 2023-04-11,playlists,1,0
 2023-04-02,recettes,1,0
-2023-03-30,rhasspy-handler,0,1
 2023-04-01,rhasspy-handler,0,1
 2023-04-06,rhasspy-handler,0,1
 2023-04-07,rhasspy-handler,0,1
-2023-03-31,stats,3,0
 2023-04-01,stats,4,0
 2023-04-02,stats,3,0
 2023-04-03,stats,3,0
@@ -101,6 +98,7 @@ date,repository,clones,views
 2023-04-10,stats,3,0
 2023-04-11,stats,4,0
 2023-04-12,stats,3,0
+2023-04-13,stats,3,0
 2023-04-03,telegraf-influxdb-grafana-docker,1,28
 2023-04-04,telegraf-influxdb-grafana-docker,1,1
 2023-04-07,telegraf-influxdb-grafana-docker,1,1
@@ -111,10 +109,10 @@ date,repository,clones,views
 2023-04-06,telegraf-influxdb-grafana-docker,0,2
 2023-04-11,telegraf-influxdb-grafana-docker,0,2
 2023-04-12,telegraf-influxdb-grafana-docker,0,3
-2023-03-30,temp-sigfox,2,0
 2023-04-04,temp-sigfox,0,3
 2023-04-03,vimwiki,0,1
 2023-04-06,vimwiki,0,30
 2023-04-10,vimwiki,0,10
 2023-04-11,vimwiki,0,17
 2023-04-12,vimwiki,0,2
+2023-04-13,vimwiki,0,1
