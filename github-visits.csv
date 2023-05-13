@@ -1,6 +1,5 @@
 date,repository,clones,views
 2023-05-01,alchemy-machine,1,0
-2023-04-28,analytics-google,4,1
 2023-04-29,analytics-google,4,0
 2023-04-30,analytics-google,5,0
 2023-05-01,analytics-google,5,0
@@ -14,13 +13,13 @@ date,repository,clones,views
 2023-05-09,analytics-google,5,0
 2023-05-10,analytics-google,4,0
 2023-05-11,analytics-google,4,2
+2023-05-12,analytics-google,4,0
 2023-05-01,cristianpb,1,0
 2023-05-11,cristianpb,1,0
 2023-05-08,cristianpb.github.io,1,0
 2023-04-30,dotfiles,1,0
 2023-05-04,dotfiles,2,1
 2023-05-06,dotfiles,1,0
-2023-04-28,dotfiles,0,17
 2023-04-29,dotfiles,0,1
 2023-05-02,dotfiles,0,1
 2023-05-05,dotfiles,0,1
@@ -34,7 +33,6 @@ date,repository,clones,views
 2023-04-29,mask-detection,1,0
 2023-05-04,matchid-backend,1,0
 2023-05-04,muse,1,1
-2023-04-28,muse,0,2
 2023-04-29,muse,0,2
 2023-05-01,muse,0,5
 2023-05-03,muse,0,1
@@ -44,7 +42,7 @@ date,repository,clones,views
 2023-05-09,muse,0,3
 2023-05-10,muse,0,1
 2023-05-11,muse,0,2
-2023-04-28,music-s3,1,0
+2023-05-12,muse,0,3
 2023-04-30,music-s3,1,0
 2023-05-01,music-s3,1,0
 2023-05-02,music-s3,1,0
@@ -56,9 +54,10 @@ date,repository,clones,views
 2023-05-09,music-s3,1,0
 2023-05-10,music-s3,1,0
 2023-05-11,music-s3,1,0
+2023-05-12,music-s3,1,1
 2023-05-01,ngTwitterApp,1,0
-2023-04-28,object-detection,1,6
 2023-05-01,object-detection,1,0
+2023-05-12,object-detection,1,8
 2023-04-29,object-detection,0,11
 2023-05-02,object-detection,0,5
 2023-05-03,object-detection,0,1
@@ -71,17 +70,15 @@ date,repository,clones,views
 2023-05-06,object-detection-frontend,32,4
 2023-04-29,object-detection-frontend,0,2
 2023-05-02,object-detection-frontend,0,1
-2023-04-28,piac-bot,1,0
 2023-05-07,piac-bot,1,0
 2023-05-08,piac-bot,1,0
-2023-04-28,playlists,5,0
 2023-04-29,playlists,1,0
 2023-05-01,playlists,2,0
 2023-05-05,playlists,5,0
 2023-05-08,playlists,1,0
+2023-05-12,playlists,4,0
 2023-05-01,qrcode-reader,1,0
 2023-04-29,qrcode-reader,0,6
-2023-04-28,rhasspy-handler,1,0
 2023-04-30,rhasspy-handler,1,0
 2023-05-07,rhasspy-handler,1,0
 2023-04-29,rhasspy-handler,0,2
@@ -91,7 +88,7 @@ date,repository,clones,views
 2023-05-04,rhasspy-handler,0,5
 2023-05-09,rhasspy-handler,0,1
 2023-05-10,rhasspy-handler,0,27
-2023-04-29,stats,4,0
+2023-04-29,stats,1,0
 2023-04-30,stats,5,0
 2023-05-01,stats,6,0
 2023-05-02,stats,5,0
@@ -104,7 +101,7 @@ date,repository,clones,views
 2023-05-09,stats,6,0
 2023-05-10,stats,8,0
 2023-05-11,stats,7,0
-2023-04-28,telegraf-influxdb-grafana-docker,0,3
+2023-05-12,stats,6,0
 2023-04-30,telegraf-influxdb-grafana-docker,0,1
 2023-05-01,telegraf-influxdb-grafana-docker,0,55
 2023-05-02,telegraf-influxdb-grafana-docker,0,4
@@ -116,6 +113,7 @@ date,repository,clones,views
 2023-05-09,telegraf-influxdb-grafana-docker,0,2
 2023-05-10,telegraf-influxdb-grafana-docker,0,3
 2023-05-11,telegraf-influxdb-grafana-docker,0,21
+2023-05-12,telegraf-influxdb-grafana-docker,0,6
 2023-05-01,temp-sigfox,1,0
 2023-04-30,tkasme,1,0
 2023-05-01,velo.club,1,0
