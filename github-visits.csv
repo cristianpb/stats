@@ -1,5 +1,4 @@
 date,repository,clones,views
-2023-05-06,analytics-google,4,0
 2023-05-07,analytics-google,4,0
 2023-05-08,analytics-google,5,0
 2023-05-09,analytics-google,5,0
@@ -13,12 +12,14 @@ date,repository,clones,views
 2023-05-17,analytics-google,4,0
 2023-05-18,analytics-google,4,0
 2023-05-19,analytics-google,4,0
+2023-05-20,analytics-google,8,0
 2023-05-11,cristianpb,1,0
 2023-05-18,cristianpb,1,0
 2023-05-08,cristianpb.github.io,1,0
+2023-05-20,cristianpb.github.io,2,0
 2023-05-13,deces-backend,2,0
-2023-05-06,dotfiles,1,0
 2023-05-19,dotfiles,1,3
+2023-05-20,dotfiles,4,0
 2023-05-07,dotfiles,0,2
 2023-05-08,dotfiles,0,1
 2023-05-13,dotfiles,0,2
@@ -28,7 +29,7 @@ date,repository,clones,views
 2023-05-11,gswsr,0,1
 2023-05-17,hubot-ratp,1,0
 2023-05-17,muse,1,0
-2023-05-06,muse,0,1
+2023-05-20,muse,2,0
 2023-05-07,muse,0,1
 2023-05-08,muse,0,5
 2023-05-09,muse,0,3
@@ -50,10 +51,13 @@ date,repository,clones,views
 2023-05-16,music-s3,1,0
 2023-05-17,music-s3,1,0
 2023-05-18,music-s3,1,0
+2023-05-19,music-s3,1,0
+2023-05-20,music-s3,4,0
 2023-05-18,mybottender,1,0
+2023-05-20,newsapp,2,0
 2023-05-12,object-detection,1,8
 2023-05-17,object-detection,1,13
-2023-05-06,object-detection,0,4
+2023-05-20,object-detection,2,1
 2023-05-07,object-detection,0,1
 2023-05-08,object-detection,0,8
 2023-05-11,object-detection,0,2
@@ -62,7 +66,6 @@ date,repository,clones,views
 2023-05-16,object-detection,0,1
 2023-05-18,object-detection,0,1
 2023-05-19,object-detection,0,2
-2023-05-06,object-detection-frontend,32,4
 2023-05-16,object-detection-frontend,1,0
 2023-05-17,object-detection-frontend,0,1
 2023-05-18,object-detection-frontend,0,1
@@ -72,6 +75,7 @@ date,repository,clones,views
 2023-05-12,playlists,4,0
 2023-05-15,playlists,1,0
 2023-05-19,playlists,5,0
+2023-05-20,playlists,2,0
 2023-05-17,PresentationTechnique,1,0
 2023-05-07,rhasspy-handler,1,0
 2023-05-09,rhasspy-handler,0,1
@@ -79,7 +83,6 @@ date,repository,clones,views
 2023-05-15,rhasspy-handler,0,1
 2023-05-19,rhasspy-handler,0,1
 2023-05-17,simple-streaming-gateway,1,0
-2023-05-07,stats,6,0
 2023-05-08,stats,6,0
 2023-05-09,stats,6,0
 2023-05-10,stats,8,0
@@ -92,8 +95,9 @@ date,repository,clones,views
 2023-05-17,stats,5,0
 2023-05-18,stats,6,0
 2023-05-19,stats,5,0
+2023-05-20,stats,8,0
 2023-05-19,telegraf-influxdb-grafana-docker,1,1
-2023-05-06,telegraf-influxdb-grafana-docker,0,1
+2023-05-20,telegraf-influxdb-grafana-docker,2,1
 2023-05-07,telegraf-influxdb-grafana-docker,0,2
 2023-05-08,telegraf-influxdb-grafana-docker,0,4
 2023-05-09,telegraf-influxdb-grafana-docker,0,2
@@ -105,8 +109,10 @@ date,repository,clones,views
 2023-05-16,telegraf-influxdb-grafana-docker,0,3
 2023-05-17,telegraf-influxdb-grafana-docker,0,2
 2023-05-18,telegraf-influxdb-grafana-docker,0,21
+2023-05-20,tkasme,2,0
 2023-05-08,vimwiki,2,0
 2023-05-15,vimwiki,1,34
+2023-05-20,vimwiki,2,1
 2023-05-07,vimwiki,0,9
 2023-05-10,vimwiki,0,2
 2023-05-11,vimwiki,0,1
