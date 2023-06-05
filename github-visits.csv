@@ -1,6 +1,5 @@
 date,repository,clones,views
 2023-05-24,alchemy-machine,2,0
-2023-05-21,analytics-google,6,0
 2023-05-22,analytics-google,3,0
 2023-05-23,analytics-google,4,0
 2023-05-24,analytics-google,4,0
@@ -14,12 +13,12 @@ date,repository,clones,views
 2023-06-01,analytics-google,4,0
 2023-06-02,analytics-google,5,0
 2023-06-03,analytics-google,4,0
+2023-06-04,analytics-google,4,0
 2023-05-24,aws-lambda-cv,2,0
 2023-05-28,aws-lambda-cv,1,0
 2023-05-22,cristianpb,1,0
 2023-05-23,cristianpb,2,0
 2023-05-28,cristianpb,1,0
-2023-05-21,cristianpb.github.io,2,0
 2023-05-24,cristianpb.github.io,4,1
 2023-05-26,cristianpb.github.io,1,0
 2023-05-31,cristianpb.github.io,0,2
@@ -50,7 +49,6 @@ date,repository,clones,views
 2023-05-28,matchid-backend,1,0
 2023-05-24,mopidy.js,2,0
 2023-05-29,mopidy.js,1,0
-2023-05-21,muse,2,0
 2023-05-23,muse,2,0
 2023-05-30,muse,1,0
 2023-05-31,muse,1,1
@@ -59,7 +57,7 @@ date,repository,clones,views
 2023-05-24,muse,0,2
 2023-05-26,muse,0,1
 2023-05-29,muse,0,7
-2023-05-21,music-s3,1,0
+2023-06-04,muse,0,2
 2023-05-22,music-s3,2,17
 2023-05-23,music-s3,1,0
 2023-05-24,music-s3,1,0
@@ -71,15 +69,14 @@ date,repository,clones,views
 2023-05-31,music-s3,1,0
 2023-06-01,music-s3,1,2
 2023-06-02,music-s3,1,0
+2023-06-04,music-s3,1,0
 2023-05-24,mybottender,2,0
 2023-05-28,mybottender,1,0
 2023-05-24,myhubot,2,0
 2023-05-28,myhubot,1,0
-2023-05-21,newsapp,6,0
 2023-05-22,newsapp,8,0
 2023-05-29,newsapp,1,0
 2023-05-29,ngTwitterApp,1,0
-2023-05-21,object-detection,2,58
 2023-05-22,object-detection,1,10
 2023-05-23,object-detection,1,9
 2023-05-28,object-detection,1,13
@@ -90,6 +87,7 @@ date,repository,clones,views
 2023-05-25,object-detection,0,1
 2023-05-26,object-detection,0,13
 2023-06-01,object-detection,0,36
+2023-06-04,object-detection,0,5
 2023-05-22,object-detection-frontend,2,0
 2023-05-23,object-detection-frontend,2,3
 2023-05-24,object-detection-frontend,1,0
@@ -97,7 +95,6 @@ date,repository,clones,views
 2023-05-29,object-detection-frontend,0,1
 2023-05-24,piac-bot,2,0
 2023-05-27,piac-bot,1,0
-2023-05-21,playlists,2,0
 2023-05-22,playlists,1,0
 2023-05-24,playlists,1,0
 2023-05-26,playlists,6,0
@@ -118,9 +115,8 @@ date,repository,clones,views
 2023-05-26,rhasspy-handler,0,2
 2023-05-31,rhasspy-handler,0,1
 2023-06-02,rhasspy-handler,0,1
-2023-05-21,simple-streaming-gateway,2,0
 2023-05-29,simple-streaming-gateway,1,0
-2023-05-22,stats,6,0
+2023-05-22,stats,1,0
 2023-05-23,stats,5,0
 2023-05-24,stats,6,0
 2023-05-25,stats,6,0
@@ -133,7 +129,8 @@ date,repository,clones,views
 2023-06-01,stats,5,0
 2023-06-02,stats,5,0
 2023-06-03,stats,6,0
-2023-05-22,telegraf-influxdb-grafana-docker,2,5
+2023-06-04,stats,6,0
+2023-05-22,telegraf-influxdb-grafana-docker,2,1
 2023-05-23,telegraf-influxdb-grafana-docker,3,29
 2023-05-29,telegraf-influxdb-grafana-docker,1,1
 2023-05-24,telegraf-influxdb-grafana-docker,0,55
@@ -142,12 +139,11 @@ date,repository,clones,views
 2023-05-30,telegraf-influxdb-grafana-docker,0,12
 2023-06-01,telegraf-influxdb-grafana-docker,0,27
 2023-06-03,telegraf-influxdb-grafana-docker,0,20
+2023-06-04,telegraf-influxdb-grafana-docker,0,11
 2023-05-23,temp-sigfox,2,0
 2023-05-29,temp-sigfox,1,0
-2023-05-21,tkasme,2,0
 2023-05-24,tkasme,2,0
 2023-05-23,velo.club,2,0
 2023-05-29,velo.club,1,0
-2023-05-21,vimwiki,8,0
 2023-05-22,vimwiki,8,0
 2023-05-24,vimwiki,0,1
