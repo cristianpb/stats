@@ -3,10 +3,11 @@ Google,3,2,analytics-google
 github.com,1,1,analytics-google
 cristianpb.github.io,17,1,dotfiles
 github.com,6,1,dotfiles
+search.brave.com,6,1,dotfiles
 dotshare.it,3,1,dotfiles
-Google,11,2,muse
 mopidy.com,6,4,muse
 cristianpb.github.io,3,2,muse
+Google,1,1,muse
 github.com,1,1,music-s3
 cristianpb.github.io,33,6,object-detection
 github.com,17,8,object-detection
@@ -18,5 +19,5 @@ hackster.io,1,1,object-detection
 Bing,1,1,object-detection
 Google,15,4,object-detection-frontend
 github.com,1,1,playlists
-Google,61,10,telegraf-influxdb-grafana-docker
+Google,53,11,telegraf-influxdb-grafana-docker
 cristianpb.github.io,14,3,vimwiki
