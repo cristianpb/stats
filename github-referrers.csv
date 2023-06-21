@@ -5,8 +5,9 @@ cristianpb.github.io,17,1,dotfiles
 search.brave.com,6,1,dotfiles
 mopidy.com,5,3,muse
 cristianpb.github.io,4,2,muse
+Google,2,1,muse
 cristianpb.github.io,22,5,object-detection
-github.com,17,8,object-detection
+github.com,13,6,object-detection
 cristianpb-github-io.cdn.ampproject.org,9,1,object-detection
 vimsky.com,1,1,object-detection
 hackster.io,1,1,object-detection
@@ -14,6 +15,6 @@ programcreek.com,1,1,object-detection
 Bing,1,1,object-detection
 Google,16,5,object-detection-frontend
 Google,1,1,rhasspy-handler
-Google,34,8,telegraf-influxdb-grafana-docker
+Google,31,7,telegraf-influxdb-grafana-docker
 medium.com,5,1,telegraf-influxdb-grafana-docker
 cristianpb.github.io,1,1,vimwiki
