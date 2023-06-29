@@ -1,6 +1,5 @@
 referrer,count,uniques,repository
 github.com,2,1,analytics-google
-search.brave.com,6,1,dotfiles
 github.com,3,1,dotfiles
 grep.app,2,1,dotfiles
 mopidy.com,5,3,muse
@@ -14,6 +13,6 @@ programcreek.com,1,1,object-detection
 Google,1,1,object-detection
 Google,2,2,object-detection-frontend
 Google,2,2,rhasspy-handler
-Google,21,4,telegraf-influxdb-grafana-docker
+Google,17,2,telegraf-influxdb-grafana-docker
 cristianpb.github.io,13,1,telegraf-influxdb-grafana-docker
 medium.com,5,1,telegraf-influxdb-grafana-docker

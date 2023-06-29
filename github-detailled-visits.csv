@@ -1,18 +1,17 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,4,3,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,3,2,analytics-google
 /cristianpb/analytics-google/blob/master/README.md,analytics-google/README.md at master · cristianpb/analytics-google · GitHub,1,1,analytics-google
 /cristianpb/analytics-google/commits/master,Commits · cristianpb/analytics-google · GitHub,1,1,analytics-google
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/sxiv/.config/sxiv/exec/image-info,dotfiles/sxiv/.config/sxiv/exec/image-info at master · cristianpb/dotfiles · ...,2,1,dotfiles
-/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/mbsync/.mbsyncrc,dotfiles/mbsync/.mbsyncrc at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/ranger/.config/ranger/rifle.conf at master · cristianpb/dotfiles · G...,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles · Git...,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/mbsync,dotfiles/mbsync at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
-/cristianpb/dotfiles/tree/master/ranger,dotfiles/ranger at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,9,8,muse
-/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,3,2,muse
+/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,10,9,muse
+/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,5,3,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/stargazers,Stargazers · cristianpb/muse,1,1,muse
 /cristianpb/music-s3,GitHub - cristianpb/music-s3,4,2,music-s3
@@ -34,8 +33,8 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/actions,Actions · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,2,2,object-detection-frontend
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",2,2,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,11,5,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",6,6,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,9,4,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",4,4,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/Makefile,telegraf-influxdb-grafana-docker/Makefile at master · cristianpb/telegraf-inf...,4,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,4,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/influxdb/influxdb.conf,telegraf-influxdb-grafana-docker/docker/influxdb/influxdb.conf at master · cr...,3,1,telegraf-influxdb-grafana-docker
