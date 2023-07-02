@@ -1,7 +1,6 @@
 date,repository,clones,views
 2023-06-22,alchemy-machine,2,0
 2023-06-29,alchemy-machine,1,0
-2023-06-17,analytics-google,4,0
 2023-06-18,analytics-google,4,0
 2023-06-19,analytics-google,5,0
 2023-06-20,analytics-google,4,0
@@ -15,6 +14,7 @@ date,repository,clones,views
 2023-06-28,analytics-google,4,0
 2023-06-29,analytics-google,4,0
 2023-06-30,analytics-google,4,0
+2023-07-01,analytics-google,5,0
 2023-06-26,aws-lambda-cv,1,0
 2023-06-21,cristianpb,2,0
 2023-06-27,cristianpb,1,0
@@ -36,6 +36,7 @@ date,repository,clones,views
 2023-06-18,dotfiles,0,1
 2023-06-23,dotfiles,0,2
 2023-06-27,dotfiles,0,4
+2023-07-01,dotfiles,0,1
 2023-06-21,enkontext,2,0
 2023-06-26,enkontext,1,0
 2023-06-29,goaccess,1,0
@@ -55,6 +56,7 @@ date,repository,clones,views
 2023-06-21,matchid-backend,4,0
 2023-06-22,matchid-backend,2,0
 2023-06-30,matchid-backend,1,0
+2023-07-01,matchid-backend,1,0
 2023-06-25,mopidy.js,1,0
 2023-06-20,muse,1,1
 2023-06-21,muse,2,0
@@ -62,12 +64,12 @@ date,repository,clones,views
 2023-06-28,muse,1,2
 2023-06-29,muse,1,0
 2023-06-30,muse,1,3
-2023-06-17,muse,0,2
 2023-06-18,muse,0,1
 2023-06-19,muse,0,2
 2023-06-23,muse,0,2
 2023-06-25,muse,0,3
 2023-06-27,muse,0,3
+2023-07-01,muse,0,1
 2023-06-18,music-s3,1,0
 2023-06-19,music-s3,6,6
 2023-06-20,music-s3,2,0
@@ -80,6 +82,7 @@ date,repository,clones,views
 2023-06-28,music-s3,1,0
 2023-06-29,music-s3,1,0
 2023-06-30,music-s3,1,1
+2023-07-01,music-s3,1,0
 2023-06-21,mybottender,2,0
 2023-06-30,mybottender,1,0
 2023-06-22,myhubot,2,0
@@ -87,6 +90,7 @@ date,repository,clones,views
 2023-06-22,newsapp,2,0
 2023-06-25,newsapp,2,0
 2023-06-30,newsapp,1,0
+2023-07-01,newsapp,1,0
 2023-06-22,ngTwitterApp,3,0
 2023-06-27,ngTwitterApp,1,0
 2023-06-19,object-detection,1,1
@@ -95,6 +99,7 @@ date,repository,clones,views
 2023-06-27,object-detection,1,0
 2023-06-28,object-detection,3,18
 2023-06-30,object-detection,1,3
+2023-07-01,object-detection,2,0
 2023-06-20,object-detection,0,15
 2023-06-21,object-detection,0,13
 2023-06-23,object-detection,0,5
@@ -136,7 +141,6 @@ date,repository,clones,views
 2023-06-30,rhasspy-handler,1,1
 2023-06-18,rhasspy-handler,0,1
 2023-06-30,simple-streaming-gateway,2,0
-2023-06-18,stats,7,0
 2023-06-19,stats,6,0
 2023-06-20,stats,5,0
 2023-06-21,stats,5,0
@@ -149,14 +153,15 @@ date,repository,clones,views
 2023-06-28,stats,3,0
 2023-06-29,stats,6,0
 2023-06-30,stats,5,0
+2023-07-01,stats,6,0
 2023-06-21,telegraf-influxdb-grafana-docker,2,1
 2023-06-23,telegraf-influxdb-grafana-docker,1,0
 2023-06-26,telegraf-influxdb-grafana-docker,1,0
 2023-06-30,telegraf-influxdb-grafana-docker,2,1
-2023-06-17,telegraf-influxdb-grafana-docker,0,5
 2023-06-20,telegraf-influxdb-grafana-docker,0,1
 2023-06-22,telegraf-influxdb-grafana-docker,0,13
 2023-06-28,telegraf-influxdb-grafana-docker,0,1
+2023-07-01,telegraf-influxdb-grafana-docker,0,8
 2023-06-21,temp-sigfox,4,0
 2023-06-23,temp-sigfox,1,0
 2023-06-26,temp-sigfox,1,0
