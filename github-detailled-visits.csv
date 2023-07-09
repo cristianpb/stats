@@ -1,6 +1,6 @@
 path,title,count,uniques,repository
 /cristianpb/analytics-google/blob/gh-pages/countries.geo.json,analytics-google/countries.geo.json at gh-pages · cristianpb/analytics-google...,7,1,analytics-google
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,6,5,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,5,5,analytics-google
 /cristianpb/analytics-google/blob/gh-pages/Makefile,File not found · GitHub,3,1,analytics-google
 /cristianpb/analytics-google/blob/gh-pages/client/github.d18f4f74.js,analytics-google/client/github.d18f4f74.js at gh-pages · cristianpb/analytics...,2,1,analytics-google
 /cristianpb/analytics-google/blob/gh-pages/github/index.html,analytics-google/github/index.html at gh-pages · cristianpb/analytics-google ...,2,1,analytics-google
@@ -16,13 +16,12 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/ranger/.config/ranger/rifle.conf at master · cristianpb/dotfiles · G...,3,2,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles · Git...,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim/.vimrc at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,12,9,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,13,9,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,4,3,muse
 /cristianpb/muse/issues/15,Snapcast server settings are not stored · Issue #15 · cristianpb/muse,2,1,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/muse/stargazers,Stargazers · cristianpb/muse,1,1,muse
 /cristianpb/music-s3,cristianpb/music-s3,1,1,music-s3
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",10,10,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",11,11,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,7,3,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,6,4,object-detection
 /cristianpb/object-detection/blob/master/backend/cascade.py,object-detection/backend/cascade.py at master · cristianpb/object-detection ·...,6,1,object-detection
@@ -32,7 +31,7 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,4,1,object-detection
 /cristianpb/object-detection/blob/master/backend/camera.py,object-detection/backend/camera.py at master · cristianpb/object-detection · ...,2,1,object-detection
 /cristianpb/object-detection/blob/master/backend/centroidtracker.py,object-detection/backend/centroidtracker.py at master · cristianpb/object-det...,2,1,object-detection
-/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",2,2,rhasspy-handler
+/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",4,3,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",7,5,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,7,4,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,3,3,telegraf-influxdb-grafana-docker
