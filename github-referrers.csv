@@ -1,6 +1,6 @@
 referrer,count,uniques,repository
+Google,4,2,analytics-google
 github.com,4,1,analytics-google
-Google,1,1,analytics-google
 github.com,5,1,cristianpb.github.io
 cristianpb.github.io,1,1,cristianpb.github.io
 cristianpb.github.io,3,2,dotfiles
@@ -9,11 +9,12 @@ pypi.org,6,2,muse
 cristianpb.github.io,2,1,muse
 github.com,39,5,object-detection
 Google,6,2,object-detection
+hackster.io,5,3,object-detection
 cristianpb.github.io,4,3,object-detection
-hackster.io,4,2,object-detection
-Google,7,5,object-detection-frontend
-Google,5,4,rhasspy-handler
-Google,15,4,telegraf-influxdb-grafana-docker
+Google,9,6,object-detection-frontend
+Google,4,3,rhasspy-handler
+Google,20,4,telegraf-influxdb-grafana-docker
 DuckDuckGo,12,1,telegraf-influxdb-grafana-docker
 cristianpb.github.io,11,2,telegraf-influxdb-grafana-docker
+medium.com,8,1,telegraf-influxdb-grafana-docker
 github.com,2,1,vimwiki
