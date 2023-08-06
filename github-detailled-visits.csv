@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,27,8,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,28,8,analytics-google
 /cristianpb/analytics-google/actions,Actions · cristianpb/analytics-google · GitHub,24,3,analytics-google
 /cristianpb/analytics-google/tree/gh-pages/_app/immutable,analytics-google/_app/immutable at gh-pages · cristianpb/analytics-google · G...,12,2,analytics-google
 /cristianpb/analytics-google/blob/master/src/components/Nav.svelte,analytics-google/src/components/Nav.svelte at master · cristianpb/analytics-g...,11,1,analytics-google
@@ -45,7 +45,7 @@ path,title,count,uniques,repository
 /cristianpb/music-s3/actions,Actions · cristianpb/music-s3,2,1,music-s3
 /cristianpb/music-s3/actions/runs/5650866317,Workflow · cristianpb/music-s3@ade3eaf,1,1,music-s3
 /cristianpb/music-s3/actions/runs/5650866317/job/15307963607,Workflow · cristianpb/music-s3@ade3eaf,1,1,music-s3
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",7,6,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",10,9,object-detection
 /cristianpb/object-detection/tree/master/models/yolo,object-detection/models/yolo at master · cristianpb/object-detection,6,1,object-detection
 /cristianpb/object-detection/blob/master/models/yolo/yolov3-tiny.cfg,object-detection/models/yolo/yolov3-tiny.cfg at master · cristianpb/object-de...,4,1,object-detection
 /cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,4,1,object-detection
@@ -55,16 +55,16 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,2,1,object-detection
 /cristianpb/object-detection/blob/master/models/yolo/labels.json,object-detection/models/yolo/labels.json at master · cristianpb/object-detect...,2,1,object-detection
 /cristianpb/object-detection/blob/master/models/yolo/yolov3.cfg,object-detection/models/yolo/yolov3.cfg at master · cristianpb/object-detection,2,1,object-detection
-/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,10,6,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/src/app/camera,object-detection-frontend/src/app/camera at master · cristianpb/object-detect...,7,1,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/e2e,object-detection-frontend/e2e at master · cristianpb/object-detection-fronten...,5,1,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/src,object-detection-frontend/src at master · cristianpb/object-detection-fronten...,5,1,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/src/app,object-detection-frontend/src/app at master · cristianpb/object-detection-fro...,5,1,object-detection-frontend
-/cristianpb/object-detection-frontend/blob/master/src/app/camera/camera.component.spec.ts,object-detection-frontend/src/app/camera/camera.component.spec.ts at master ·...,4,1,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/e2e/src,object-detection-frontend/e2e/src at master · cristianpb/object-detection-fro...,4,1,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/.github/workflows,object-detection-frontend/.github/workflows at master · cristianpb/object-det...,4,1,object-detection-frontend
-/cristianpb/object-detection-frontend/blob/master/angular.json,object-detection-frontend/angular.json at master · cristianpb/object-detectio...,3,1,object-detection-frontend
-/cristianpb/object-detection-frontend/blob/master/Dockerfile,object-detection-frontend/Dockerfile at master · cristianpb/object-detection-...,2,1,object-detection-frontend
+/cristianpb/object-detection-frontend/tree/master/src/app/camera,object-detection-frontend/src/app/camera at master · cristianpb/object-detect...,15,2,object-detection-frontend
+/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,13,8,object-detection-frontend
+/cristianpb/object-detection-frontend/tree/master/src,object-detection-frontend/src at master · cristianpb/object-detection-frontend,10,2,object-detection-frontend
+/cristianpb/object-detection-frontend/tree/master/e2e,object-detection-frontend/e2e at master · cristianpb/object-detection-frontend,9,2,object-detection-frontend
+/cristianpb/object-detection-frontend/tree/master/src/app,object-detection-frontend/src/app at master · cristianpb/object-detection-fro...,9,2,object-detection-frontend
+/cristianpb/object-detection-frontend/blob/master/src/app/camera/camera.component.spec.ts,object-detection-frontend/src/app/camera/camera.component.spec.ts at master ·...,6,2,object-detection-frontend
+/cristianpb/object-detection-frontend/tree/master/e2e/src,object-detection-frontend/e2e/src at master · cristianpb/object-detection-fro...,6,2,object-detection-frontend
+/cristianpb/object-detection-frontend/tree/master/src/environments,object-detection-frontend/src/environments at master · cristianpb/object-dete...,6,1,object-detection-frontend
+/cristianpb/object-detection-frontend/blob/master/e2e/src/app.e2e-spec.ts,object-detection-frontend/e2e/src/app.e2e-spec.ts at master · cristianpb/obje...,4,2,object-detection-frontend
+/cristianpb/object-detection-frontend/blob/master/src/app/camera/camera.component.html,object-detection-frontend/src/app/camera/camera.component.html at master · cr...,4,2,object-detection-frontend
 /cristianpb/playlists,GitHub - cristianpb/playlists,7,3,playlists
 /cristianpb/playlists/tree/master/src,playlists/src at master · cristianpb/playlists · GitHub,7,2,playlists
 /cristianpb/playlists/actions,Actions · cristianpb/playlists,7,1,playlists
@@ -81,8 +81,8 @@ path,title,count,uniques,repository
 /cristianpb/stats/blob/master/index.ts,stats/index.ts at master · cristianpb/stats,2,1,stats
 /cristianpb/stats/actions,Actions · cristianpb/stats,1,1,stats
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",7,6,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,7,3,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,6,3,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,5,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/DashboardTelegraf.json,telegraf-influxdb-grafana-docker/docker/grafana/DashboardTelegraf.json at mas...,4,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,4,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/.env_dist,telegraf-influxdb-grafana-docker/.env_dist at master · cristianpb/telegraf-in...,3,1,telegraf-influxdb-grafana-docker
