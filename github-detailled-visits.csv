@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,28,8,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,29,9,analytics-google
 /cristianpb/analytics-google/actions,Actions · cristianpb/analytics-google · GitHub,24,3,analytics-google
 /cristianpb/analytics-google/tree/gh-pages/_app/immutable,analytics-google/_app/immutable at gh-pages · cristianpb/analytics-google · G...,12,2,analytics-google
 /cristianpb/analytics-google/blob/master/src/components/Nav.svelte,analytics-google/src/components/Nav.svelte at master · cristianpb/analytics-g...,11,1,analytics-google
@@ -9,8 +9,8 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/tree/gh-pages/_app,analytics-google/_app at gh-pages · cristianpb/analytics-google · GitHub,6,2,analytics-google
 /cristianpb/analytics-google/tree/gh-pages/_app/immutable/assets,analytics-google/_app/immutable/assets at gh-pages · cristianpb/analytics-goo...,6,1,analytics-google
 /cristianpb/analytics-google/tree/master/src/components,analytics-google/src/components at master · cristianpb/analytics-google,6,1,analytics-google
-/cristianpb/cristianpb.github.io/actions,Actions · cristianpb/cristianpb.github.io,11,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io,cristianpb/cristianpb.github.io: My website,9,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions,Actions · cristianpb/cristianpb.github.io,10,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io,cristianpb/cristianpb.github.io: My website,8,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/tree/master/_includes,cristianpb.github.io/_includes at master · cristianpb/cristianpb.github.io,6,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/5662262613/job/15341874674,🎨 Set ruby version · cristianpb/cristianpb.github.io@13ab54f,2,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/5672346922,🎨 Set ruby version · cristianpb/cristianpb.github.io@4ba3260,2,1,cristianpb.github.io
@@ -19,13 +19,14 @@ path,title,count,uniques,repository
 /cristianpb/cristianpb.github.io/blob/master/_includes/read_time.html,cristianpb.github.io/_includes/read_time.html at master · cristianpb/cristian...,2,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/blob/master/package.json,cristianpb.github.io/package.json at master · cristianpb/cristianpb.github.io,2,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/tree/master/assets,cristianpb.github.io/assets at master · cristianpb/cristianpb.github.io,2,1,cristianpb.github.io
-/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,14,5,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles · GitHub,8,3,dotfiles
+/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,27,5,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles · GitHub,14,4,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/ranger/.config/ranger/rifle.conf at master · cristianpb/dotfiles,7,2,dotfiles
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,4,3,dotfiles
 /cristianpb/dotfiles/tree/master/i3/.config/i3,dotfiles/i3/.config/i3 at master · cristianpb/dotfiles · GitHub,4,1,dotfiles
 /cristianpb/dotfiles/tree/master/polybar/.config/polybar,dotfiles/polybar/.config/polybar at master · cristianpb/dotfiles · GitHub,4,1,dotfiles
 /cristianpb/dotfiles/blob/master/i3/.config/i3/config,dotfiles/i3/.config/i3/config at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/ranger/.config/ranger/rifle.conf at master · cristianpb/dotfiles,2,1,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/tree/master/polybar/.config/polybar/scripts,dotfiles/polybar/.config/polybar/scripts at master · cristianpb/dotfiles · Gi...,2,1,dotfiles
 /cristianpb/dotfiles/tree/master/st/.builds/st,dotfiles/st/.builds/st at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/gswsr,cristianpb/gswsr,2,1,gswsr
@@ -45,26 +46,26 @@ path,title,count,uniques,repository
 /cristianpb/music-s3/actions,Actions · cristianpb/music-s3,2,1,music-s3
 /cristianpb/music-s3/actions/runs/5650866317,Workflow · cristianpb/music-s3@ade3eaf,1,1,music-s3
 /cristianpb/music-s3/actions/runs/5650866317/job/15307963607,Workflow · cristianpb/music-s3@ade3eaf,1,1,music-s3
-/cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection,17,2,object-detection
+/cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection,20,2,object-detection
+/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,18,3,object-detection
 /cristianpb/object-detection/tree/master/models/yolo,object-detection/models/yolo at master · cristianpb/object-detection,16,2,object-detection
-/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,12,2,object-detection
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",10,8,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",14,10,object-detection
 /cristianpb/object-detection/tree/master/models/ssd_mobilenet,object-detection/models/ssd_mobilenet at master · cristianpb/object-detection,8,1,object-detection
+/cristianpb/object-detection/blob/master/README.md,object-detection/README.md at master · cristianpb/object-detection,7,1,object-detection
 /cristianpb/object-detection/blob/master/models/yolo/yolov3-tiny.cfg,object-detection/models/yolo/yolov3-tiny.cfg at master · cristianpb/object-de...,6,2,object-detection
+/cristianpb/object-detection/tree/master,"cristianpb/object-detection: Object detection on Jetson Nano, Raspberry Pi an...",6,2,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,4,2,object-detection
 /cristianpb/object-detection/blob/master/models/yolo/labels.json,object-detection/models/yolo/labels.json at master · cristianpb/object-detect...,4,2,object-detection
-/cristianpb/object-detection/blob/master/models/yolo/yolov3.cfg,object-detection/models/yolo/yolov3.cfg at master · cristianpb/object-detection,4,2,object-detection
-/cristianpb/object-detection/tree/master/models/cascade,object-detection/models/cascade at master · cristianpb/object-detection,4,1,object-detection
-/cristianpb/object-detection-frontend/tree/master/src,object-detection-frontend/src at master · cristianpb/object-detection-frontend,15,3,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/src/app/camera,object-detection-frontend/src/app/camera at master · cristianpb/object-detect...,15,2,object-detection-frontend
-/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,12,7,object-detection-frontend
+/cristianpb/object-detection-frontend/tree/master/src,object-detection-frontend/src at master · cristianpb/object-detection-frontend,17,4,object-detection-frontend
+/cristianpb/object-detection-frontend/tree/master/src/app/camera,object-detection-frontend/src/app/camera at master · cristianpb/object-detect...,17,3,object-detection-frontend
+/cristianpb/object-detection-frontend/tree/master/src/app,object-detection-frontend/src/app at master · cristianpb/object-detection-fro...,16,4,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/e2e,object-detection-frontend/e2e at master · cristianpb/object-detection-frontend,12,3,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/src/app,object-detection-frontend/src/app at master · cristianpb/object-detection-fro...,12,3,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,9,4,object-detection-frontend
+/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,11,6,object-detection-frontend
+/cristianpb/object-detection-frontend/tree/master,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,10,4,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/e2e/src,object-detection-frontend/e2e/src at master · cristianpb/object-detection-fro...,8,3,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/src/environments,object-detection-frontend/src/environments at master · cristianpb/object-dete...,8,2,object-detection-frontend
+/cristianpb/object-detection-frontend/blob/master/src/app/camera/camera.component.html,object-detection-frontend/src/app/camera/camera.component.html at master · cr...,6,3,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/src/app/camera/camera.component.spec.ts,object-detection-frontend/src/app/camera/camera.component.spec.ts at master ·...,6,2,object-detection-frontend
-/cristianpb/object-detection-frontend/blob/master/e2e/src/app.e2e-spec.ts,object-detection-frontend/e2e/src/app.e2e-spec.ts at master · cristianpb/obje...,4,2,object-detection-frontend
 /cristianpb/playlists,GitHub - cristianpb/playlists,7,3,playlists
 /cristianpb/playlists/tree/master/src,playlists/src at master · cristianpb/playlists · GitHub,7,2,playlists
 /cristianpb/playlists/actions,Actions · cristianpb/playlists,7,1,playlists
@@ -76,17 +77,12 @@ path,title,count,uniques,repository
 /cristianpb/playlists/blob/master/src/app.html,playlists/src/app.html at master · cristianpb/playlists · GitHub,2,1,playlists
 /cristianpb/playlists/blob/master/src/components/views/Table.svelte,playlists/src/components/views/Table.svelte at master · cristianpb/playlists ...,2,1,playlists
 /cristianpb/qrcode-reader,cristianpb/qrcode-reader,1,1,qrcode-reader
-/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",1,1,rhasspy-handler
 /cristianpb/stats,cristianpb/stats,4,1,stats
 /cristianpb/stats/blob/master/index.ts,stats/index.ts at master · cristianpb/stats,2,1,stats
 /cristianpb/stats/actions,Actions · cristianpb/stats,1,1,stats
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,7,3,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",6,4,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,6,3,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",5,3,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,4,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/DashboardTelegraf.json,telegraf-influxdb-grafana-docker/docker/grafana/DashboardTelegraf.json at mas...,4,2,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,4,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,4,2,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/.env_dist,telegraf-influxdb-grafana-docker/.env_dist at master · cristianpb/telegraf-in...,3,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/Makefile,telegraf-influxdb-grafana-docker/Makefile at master · cristianpb/telegraf-inf...,3,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master,"cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and grafana m...",1,1,telegraf-influxdb-grafana-docker
-/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,1,1,vimwiki
-/cristianpb/vimwiki/commit/ddbd9f46fe6d83e12172ae0d253d9e85d1ab7034,💄 Update css in banner title · cristianpb/vimwiki@ddbd9f4 · GitHub,1,1,vimwiki
