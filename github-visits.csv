@@ -2,7 +2,6 @@ date,repository,clones,views
 2023-07-28,alchemy-machine,2,0
 2023-07-29,alchemy-machine,1,0
 2023-08-08,alchemy-machine,2,0
-2023-07-27,analytics-google,1,3
 2023-07-28,analytics-google,23,35
 2023-07-29,analytics-google,2,0
 2023-07-30,analytics-google,43,114
@@ -16,6 +15,7 @@ date,repository,clones,views
 2023-08-07,analytics-google,6,1
 2023-08-08,analytics-google,4,1
 2023-08-09,analytics-google,4,14
+2023-08-10,analytics-google,4,0
 2023-07-28,cristianpb,5,0
 2023-07-30,cristianpb,2,0
 2023-08-03,cristianpb,2,0
@@ -30,16 +30,17 @@ date,repository,clones,views
 2023-08-04,datalab.mi,1,0
 2023-08-06,datalab.mi,1,0
 2023-08-09,datalab.mi,3,0
+2023-08-10,datalab.mi,5,0
 2023-07-28,dotfiles,2,16
 2023-07-29,dotfiles,1,1
 2023-08-01,dotfiles,1,0
 2023-08-05,dotfiles,1,9
 2023-08-07,dotfiles,1,1
 2023-08-08,dotfiles,1,4
-2023-07-27,dotfiles,0,5
 2023-08-02,dotfiles,0,6
 2023-08-03,dotfiles,0,5
 2023-08-06,dotfiles,0,26
+2023-08-10,dotfiles,0,5
 2023-07-28,enkontext,2,0
 2023-08-05,enkontext,1,0
 2023-07-28,gswsr,2,0
@@ -51,11 +52,11 @@ date,repository,clones,views
 2023-07-28,mask-detection,2,0
 2023-08-06,mask-detection,1,0
 2023-08-08,mask-detection,2,0
+2023-08-10,mask-detection,1,0
 2023-07-28,matchid-backend,4,0
 2023-08-04,matchid-backend,1,0
 2023-08-05,matchid-backend,1,0
 2023-08-09,matchid-backend,2,0
-2023-07-27,muse,1,0
 2023-07-28,muse,4,2
 2023-08-06,muse,1,0
 2023-08-09,muse,3,6
@@ -67,7 +68,7 @@ date,repository,clones,views
 2023-08-05,muse,0,2
 2023-08-07,muse,0,1
 2023-08-08,muse,0,2
-2023-07-27,music-s3,1,0
+2023-08-10,muse,0,4
 2023-07-28,music-s3,3,0
 2023-07-29,music-s3,5,6
 2023-07-30,music-s3,1,0
@@ -80,6 +81,7 @@ date,repository,clones,views
 2023-08-07,music-s3,1,0
 2023-08-08,music-s3,1,0
 2023-08-09,music-s3,1,0
+2023-08-10,music-s3,2,0
 2023-07-28,mybottender,2,0
 2023-07-28,myhubot,2,0
 2023-08-09,myhubot,1,0
@@ -89,7 +91,6 @@ date,repository,clones,views
 2023-07-28,ngTwitterApp,2,0
 2023-08-02,ngTwitterApp,2,0
 2023-07-28,object-detection,2,0
-2023-07-27,object-detection,0,1
 2023-07-31,object-detection,0,1
 2023-08-02,object-detection,0,11
 2023-08-03,object-detection,0,1
@@ -104,7 +105,6 @@ date,repository,clones,views
 2023-08-06,object-detection-frontend,2,14
 2023-08-07,object-detection-frontend,5,1
 2023-08-08,object-detection-frontend,3,15
-2023-07-27,object-detection-frontend,0,2
 2023-07-31,object-detection-frontend,0,4
 2023-08-02,object-detection-frontend,0,53
 2023-08-03,object-detection-frontend,0,2
@@ -135,8 +135,8 @@ date,repository,clones,views
 2023-08-07,rhasspy-handler,7,1
 2023-08-08,rhasspy-handler,1,0
 2023-08-09,rhasspy-handler,1,0
+2023-08-10,rhasspy-handler,0,1
 2023-08-03,simple-streaming-gateway,1,0
-2023-07-27,stats,2,0
 2023-07-28,stats,7,0
 2023-07-29,stats,5,0
 2023-07-30,stats,5,7
@@ -150,7 +150,7 @@ date,repository,clones,views
 2023-08-07,stats,6,0
 2023-08-08,stats,5,0
 2023-08-09,stats,5,0
-2023-07-27,telegraf-influxdb-grafana-docker,1,16
+2023-08-10,stats,5,0
 2023-07-28,telegraf-influxdb-grafana-docker,2,1
 2023-08-07,telegraf-influxdb-grafana-docker,2,37
 2023-08-02,telegraf-influxdb-grafana-docker,0,2
