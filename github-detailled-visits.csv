@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,14,7,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,10,5,analytics-google
 /cristianpb/analytics-google/tree/gh-pages/_app/immutable,analytics-google/_app/immutable at gh-pages · cristianpb/analytics-google · G...,7,1,analytics-google
 /cristianpb/analytics-google/tree/gh-pages/_app/immutable/nodes,analytics-google/_app/immutable/nodes at gh-pages · cristianpb/analytics-goog...,5,1,analytics-google
 /cristianpb/analytics-google/tree/gh-pages/_app,analytics-google/_app at gh-pages · cristianpb/analytics-google · GitHub,4,1,analytics-google
@@ -19,14 +19,12 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/mbsync/.mbsyncrc,dotfiles/mbsync/.mbsyncrc at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/tree/master/mbsync,dotfiles/mbsync at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,18,12,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,17,12,muse
+/cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,4,4,muse
 /cristianpb/muse/blob/master/README.md,muse/README.md at master · cristianpb/muse · GitHub,4,1,muse
-/cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,3,3,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse,2,1,muse
-/cristianpb/muse/branches,Branches · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/commits/master,Commits · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/muse/pulls,Pull requests · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/muse/stargazers,Stargazers · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/issues/42,Searching all backends returns no result · Issue #42 · cristianpb/muse,1,1,muse
 /cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,26,5,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,24,3,object-detection
 /cristianpb/object-detection/tree/master/models/yolo,object-detection/models/yolo at master · cristianpb/object-detection,18,2,object-detection
@@ -47,16 +45,6 @@ path,title,count,uniques,repository
 /cristianpb/object-detection-frontend/tree/master/src/environments,object-detection-frontend/src/environments at master · cristianpb/object-dete...,8,2,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/src/app/camera/camera.component.html,object-detection-frontend/src/app/camera/camera.component.html at master · cr...,6,3,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/src/app/camera/camera.component.spec.ts,object-detection-frontend/src/app/camera/camera.component.spec.ts at master ·...,6,2,object-detection-frontend
-/cristianpb/playlists/tree/master/src,playlists/src at master · cristianpb/playlists · GitHub,5,1,playlists
-/cristianpb/playlists/blob/master/decrypt_secret.sh,playlists/decrypt_secret.sh at master · cristianpb/playlists · GitHub,2,1,playlists
-/cristianpb/playlists/blob/master/.gitignore,playlists/.gitignore at master · cristianpb/playlists · GitHub,2,1,playlists
-/cristianpb/playlists/blob/master/Makefile,playlists/Makefile at master · cristianpb/playlists · GitHub,2,1,playlists
-/cristianpb/playlists/blob/master/src/app.html,playlists/src/app.html at master · cristianpb/playlists · GitHub,2,1,playlists
-/cristianpb/playlists/blob/master/src/components/views/Table.svelte,playlists/src/components/views/Table.svelte at master · cristianpb/playlists ...,2,1,playlists
-/cristianpb/playlists/tree/master/src/components,playlists/src/components at master · cristianpb/playlists · GitHub,2,1,playlists
-/cristianpb/playlists/tree/master/src/components/views,playlists/src/components/views at master · cristianpb/playlists · GitHub,2,1,playlists
-/cristianpb/playlists,GitHub - cristianpb/playlists,1,1,playlists
-/cristianpb/playlists/tree/master,GitHub - cristianpb/playlists,1,1,playlists
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",2,2,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,14,4,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",7,5,telegraf-influxdb-grafana-docker

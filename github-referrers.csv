@@ -1,10 +1,11 @@
 referrer,count,uniques,repository
-github.com,18,5,analytics-google
+github.com,14,3,analytics-google
 github.com,3,1,cristianpb.github.io
 Google,7,3,dotfiles
 github.com,5,1,dotfiles
-mopidy.com,14,7,muse
-cristianpb.github.io,5,3,muse
+mopidy.com,10,8,muse
+cristianpb.github.io,4,2,muse
+DuckDuckGo,3,1,muse
 Google,2,1,muse
 github.com,124,7,object-detection
 cristianpb.github.io,48,4,object-detection
@@ -15,6 +16,5 @@ Google,119,5,object-detection-frontend
 cristianpb.github.io,13,1,object-detection-frontend
 statics.teams.cdn.office.net,1,1,object-detection-frontend
 hackster.io,1,1,object-detection-frontend
-github.com,21,1,playlists
 Google,2,2,rhasspy-handler
 Google,51,7,telegraf-influxdb-grafana-docker
