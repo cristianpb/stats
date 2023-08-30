@@ -4,34 +4,33 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google · GitHub,2,1,analytics-google
 /cristianpb/analytics-google/tree/master/src/lib,analytics-google/src/lib at master · cristianpb/analytics-google · GitHub,2,1,analytics-google
 /cristianpb/analytics-google/tree/master/src/lib/tools,analytics-google/src/lib/tools at master · cristianpb/analytics-google · GitHub,2,1,analytics-google
-/cristianpb/cristianpb.github.io/tree/master/_layouts,cristianpb.github.io/_layouts at master · cristianpb/cristianpb.github.io · G...,5,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/blob/master/gulpfile.js,cristianpb.github.io/gulpfile.js at master · cristianpb/cristianpb.github.io,10,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/tree/master/_layouts,cristianpb.github.io/_layouts at master · cristianpb/cristianpb.github.io · G...,8,2,cristianpb.github.io
+/cristianpb/cristianpb.github.io/blob/master/Gemfile,cristianpb.github.io/Gemfile at master · cristianpb/cristianpb.github.io · Gi...,7,2,cristianpb.github.io
+/cristianpb/cristianpb.github.io/tree/master/.github/workflows,cristianpb.github.io/.github/workflows at master · cristianpb/cristianpb.gith...,7,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,5,3,cristianpb.github.io
 /cristianpb/cristianpb.github.io/blob/master/_includes/js_lib.html,cristianpb.github.io/_includes/js_lib.html at master · cristianpb/cristianpb....,4,2,cristianpb.github.io
-/cristianpb/cristianpb.github.io/blob/master/Gemfile,cristianpb.github.io/Gemfile at master · cristianpb/cristianpb.github.io · Gi...,4,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,2,2,cristianpb.github.io
-/cristianpb/cristianpb.github.io/blob/master/_config_algolia.yml,cristianpb.github.io/_config_algolia.yml at master · cristianpb/cristianpb.gi...,2,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io/blob/master/.gitignore,cristianpb.github.io/.gitignore at master · cristianpb/cristianpb.github.io ·...,2,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io/blob/master/_includes/header.html,cristianpb.github.io/_includes/header.html at master · cristianpb/cristianpb....,2,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io/blob/master/_layouts/default.html,cristianpb.github.io/_layouts/default.html at master · cristianpb/cristianpb....,2,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io/blob/master/_layouts/iframe.html,cristianpb.github.io/_layouts/iframe.html at master · cristianpb/cristianpb.g...,2,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io/blob/master/_layouts/post.html,cristianpb.github.io/_layouts/post.html at master · cristianpb/cristianpb.git...,2,1,cristianpb.github.io
-/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,59,5,dotfiles
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,24,8,dotfiles
+/cristianpb/cristianpb.github.io/blob/master/.github/workflows/tests.yml,cristianpb.github.io/.github/workflows/tests.yml at master · cristianpb/crist...,4,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/tree/master/jekyll_collections,cristianpb.github.io/jekyll_collections at master · cristianpb/cristianpb.git...,4,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/blob/master/_config.yml,cristianpb.github.io/_config.yml at master · cristianpb/cristianpb.github.io,3,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/fork,Fork cristianpb/cristianpb.github.io,3,1,cristianpb.github.io
+/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,61,6,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,25,8,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles · GitHub,19,5,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles · Git...,12,5,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/ranger/.config/ranger/rifle.conf at master · cristianpb/dotfiles · G...,11,4,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config,dotfiles/ranger/.config at master · cristianpb/dotfiles · GitHub,11,4,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands_full.py,dotfiles/ranger/.config/ranger/commands_full.py at master · cristianpb/dotfil...,10,3,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands.py,dotfiles/ranger/.config/ranger/commands.py at master · cristianpb/dotfiles · ...,8,4,dotfiles
+/cristianpb/dotfiles/blob/master/bash/.bashrc,dotfiles/bash/.bashrc at master · cristianpb/dotfiles · GitHub,6,2,dotfiles
 /cristianpb/dotfiles/tree/master/i3/.config/i3,dotfiles/i3/.config/i3 at master · cristianpb/dotfiles · GitHub,5,2,dotfiles
-/cristianpb/dotfiles/tree/master/systemd/.config/systemd/user,dotfiles/systemd/.config/systemd/user at master · cristianpb/dotfiles · GitHub,5,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,13,10,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,14,11,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,3,1,muse
 /cristianpb/muse/issues/19,Option to shutdown or restart in settings · Issue #19 · cristianpb/muse · Git...,1,1,muse
-/cristianpb/muse/issues/23,"Tunein ""Now Playing"" song info does not update · Issue #23 · cristianpb/muse ...",1,1,muse
 /cristianpb/muse/issues/42,Searching all backends returns no result · Issue #42 · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/music-s3/actions/runs/5896983014,Workflow · cristianpb/music-s3@b43ed81 · GitHub,2,2,music-s3
 /cristianpb/music-s3/actions/runs/5896983014/job/15995822273,Workflow · cristianpb/music-s3@b43ed81,1,1,music-s3
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",17,15,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",15,13,object-detection
 /cristianpb/object-detection/tree/master/tests,object-detection/tests at master · cristianpb/object-detection · GitHub,3,1,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,2,1,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,2,1,object-detection
@@ -44,9 +43,9 @@ path,title,count,uniques,repository
 /cristianpb/stats/tree/master/.github/workflows,stats/.github/workflows at master · cristianpb/stats · GitHub,2,1,stats
 /cristianpb/stats,GitHub - cristianpb/stats,1,1,stats
 /cristianpb/stats/tree/master,GitHub - cristianpb/stats,1,1,stats
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,22,6,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,18,4,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,8,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",5,4,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",6,5,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master,"cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and grafana m...",3,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,telegraf-influxdb-grafana-docker/docker-compose-gpu.yml at master · cristianp...,3,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/schema.png,telegraf-influxdb-grafana-docker/schema.png at master · cristianpb/telegraf-i...,3,1,telegraf-influxdb-grafana-docker
