@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,4,4,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,5,5,analytics-google
 /cristianpb/analytics-google/blob/master/src/lib/tools/getData.js,analytics-google/src/lib/tools/getData.js at master · cristianpb/analytics-go...,2,1,analytics-google
 /cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google · GitHub,2,1,analytics-google
 /cristianpb/analytics-google/tree/master/src/lib,analytics-google/src/lib at master · cristianpb/analytics-google · GitHub,2,1,analytics-google
@@ -24,19 +24,19 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands.py,dotfiles/ranger/.config/ranger/commands.py at master · cristianpb/dotfiles · ...,8,4,dotfiles
 /cristianpb/dotfiles/blob/master/bash/.bashrc,dotfiles/bash/.bashrc at master · cristianpb/dotfiles · GitHub,6,2,dotfiles
 /cristianpb/dotfiles/tree/master,GitHub - cristianpb/dotfiles: My dotfiles,5,3,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,17,13,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,20,14,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,3,1,muse
+/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse,2,1,muse
 /cristianpb/muse/issues/19,Option to shutdown or restart in settings · Issue #19 · cristianpb/muse · Git...,1,1,muse
 /cristianpb/muse/issues/42,Searching all backends returns no result · Issue #42 · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/music-s3/actions/runs/5896983014,Workflow · cristianpb/music-s3@b43ed81 · GitHub,2,2,music-s3
-/cristianpb/music-s3/actions/runs/5896983014/job/15995822273,Workflow · cristianpb/music-s3@b43ed81,1,1,music-s3
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",14,12,object-detection
+/cristianpb/muse/tree/master,cristianpb/muse: Mopidy web client with Snapcast support,1,1,muse
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",11,10,object-detection
 /cristianpb/object-detection/tree/master/tests,object-detection/tests at master · cristianpb/object-detection · GitHub,3,1,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,2,1,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,2,1,object-detection
 /cristianpb/object-detection/blob/master/tests/test_detection.py,object-detection/tests/test_detection.py at master · cristianpb/object-detect...,2,1,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,2,1,object-detection
-/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",5,2,rhasspy-handler
+/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",4,1,rhasspy-handler
 /cristianpb/stats/blob/master/index.ts,stats/index.ts at master · cristianpb/stats · GitHub,3,1,stats
 /cristianpb/stats/blob/master/.github/workflows/data.yml,stats/.github/workflows/data.yml at master · cristianpb/stats · GitHub,2,1,stats
 /cristianpb/stats/tree/master/.github/workflows,stats/.github/workflows at master · cristianpb/stats · GitHub,2,1,stats
