@@ -1,52 +1,58 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,1,1,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,3,2,analytics-google
+/cristianpb/analytics-google/issues,Issues · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/cristianpb,cristianpb/cristianpb,4,2,cristianpb
 /cristianpb/cristianpb/blob/main/.github/workflows/main.yml,cristianpb/.github/workflows/main.yml at main · cristianpb/cristianpb,4,2,cristianpb
 /cristianpb/cristianpb/tree/main/.github/workflows,cristianpb/.github/workflows at main · cristianpb/cristianpb · GitHub,4,2,cristianpb
 /cristianpb/cristianpb/actions,Workflow runs · cristianpb/cristianpb · GitHub,2,2,cristianpb
 /cristianpb/cristianpb/actions/workflows/main.yml,README build · Workflow runs · cristianpb/cristianpb · GitHub,1,1,cristianpb
-/cristianpb/cristianpb.github.io/actions,Workflow runs · cristianpb/cristianpb.github.io · GitHub,10,2,cristianpb.github.io
-/cristianpb/cristianpb.github.io/actions/runs/6164569824,pages build and deployment · cristianpb/cristianpb.github.io@6a9676f,5,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,4,2,cristianpb.github.io
-/cristianpb/cristianpb.github.io/actions/runs/6164569866,✍ Article for ES · cristianpb/cristianpb.github.io@6a9676f,4,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions,Workflow runs · cristianpb/cristianpb.github.io · GitHub,13,2,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/6164569866,✍ Article for ES · cristianpb/cristianpb.github.io@6a9676f,9,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,8,2,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/6164569824,pages build and deployment · cristianpb/cristianpb.github.io@6a9676f,8,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/commit/c6494fe47fd4eb74d5c4c48e9465a23ecd5f8bba,wip article es · cristianpb/cristianpb.github.io@c6494fe · GitHub,2,2,cristianpb.github.io
 /cristianpb/cristianpb.github.io/pulls,Pull requests · cristianpb/cristianpb.github.io · GitHub,2,2,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/6164569824/job/16730574634,pages build and deployment · cristianpb/cristianpb.github.io@6a9676f,2,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/6164569824/job/16730909890,pages build and deployment · cristianpb/cristianpb.github.io@6a9676f,2,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/6164569866/job/16730581797,✍ Article for ES · cristianpb/cristianpb.github.io@6a9676f,2,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/activity,Activity · cristianpb/cristianpb.github.io · GitHub,2,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io/blob/master/jekyll_collections/_api/github-pages.html,cristianpb.github.io/jekyll_collections/_api/github-pages.html at master · cr...,2,1,cristianpb.github.io
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,10,2,dotfiles
+/cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim/.vimrc at master · cristianpb/dotfiles · GitHub,8,3,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles · GitHub,6,3,dotfiles
-/cristianpb/dotfiles/tree/backup,GitHub - cristianpb/dotfiles at backup,5,1,dotfiles
-/cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim/.vimrc at master · cristianpb/dotfiles · GitHub,4,2,dotfiles
-/cristianpb/dotfiles/tree/master,GitHub - cristianpb/dotfiles: My dotfiles,4,1,dotfiles
+/cristianpb/dotfiles/tree/master/bash,dotfiles/bash at master · cristianpb/dotfiles,4,1,dotfiles
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,3,3,dotfiles
+/cristianpb/dotfiles/blob/master/autolock.sh,dotfiles/autolock.sh at master · cristianpb/dotfiles,2,1,dotfiles
+/cristianpb/dotfiles/blob/master/bash/.bashrc,dotfiles/bash/.bashrc at master · cristianpb/dotfiles,2,1,dotfiles
+/cristianpb/dotfiles/blob/master/checkmail.sh,dotfiles/checkmail.sh at master · cristianpb/dotfiles,2,1,dotfiles
+/cristianpb/dotfiles/blob/master/new_mail.sh,dotfiles/new_mail.sh at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands.py,dotfiles/ranger/.config/ranger/commands.py at master · cristianpb/dotfiles · ...,2,1,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles · Git...,2,1,dotfiles
-/cristianpb/dotfiles/blob/master/sxiv/.config/sxiv/exec/image-info,dotfiles/sxiv/.config/sxiv/exec/image-info at master · cristianpb/dotfiles · ...,2,1,dotfiles
-/cristianpb/dotfiles/blob/master/sxiv/.config/sxiv/exec/key-handler,dotfiles/sxiv/.config/sxiv/exec/key-handler at master · cristianpb/dotfiles ·...,2,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,14,9,muse
-/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,12,3,object-detection
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",7,5,object-detection
-/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,4,2,object-detection
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,16,10,muse
+/cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,15,4,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",6,4,object-detection
+/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,6,3,object-detection
 /cristianpb/object-detection/blob/c2abea4ba28d37e2bc9b60416f5b9accdbc2b543/nginx/backend-dev.template,object-detection/nginx/backend-dev.template at c2abea4ba28d37e2bc9b60416f5b9a...,4,1,object-detection
+/cristianpb/object-detection/blob/master/backend/camera.py,object-detection/backend/camera.py at master · cristianpb/object-detection,4,1,object-detection
 /cristianpb/object-detection/blob/c2abea4ba28d37e2bc9b60416f5b9accdbc2b543/nginx/backend.template,object-detection/nginx/backend.template at c2abea4ba28d37e2bc9b60416f5b9accdb...,2,1,object-detection
-/cristianpb/object-detection/blob/master/backend/motion.py,object-detection/backend/motion.py at master · cristianpb/object-detection,2,1,object-detection
-/cristianpb/object-detection/blob/master/config.yml.sample,object-detection/config.yml.sample at master · cristianpb/object-detection · ...,2,1,object-detection
-/cristianpb/priceminister,GitHub - cristianpb/priceminister: Data science projet on nlp,1,1,priceminister
+/cristianpb/object-detection/blob/master/backend/__init__.py,object-detection/backend/__init__.py at master · cristianpb/object-detection,2,1,object-detection
+/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection,2,1,object-detection
+/cristianpb/object-detection/tree/master,"cristianpb/object-detection: Object detection on Jetson Nano, Raspberry Pi an...",1,1,object-detection
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",4,4,rhasspy-handler
 /cristianpb/stats,cristianpb/stats,2,1,stats
 /cristianpb/stats/tree/gh-pages,cristianpb/stats at gh-pages,2,1,stats
 /cristianpb/stats/tree/master/.github/workflows,stats/.github/workflows at master · cristianpb/stats,2,1,stats
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,9,4,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",7,5,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,15,5,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",7,6,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,6,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/influxdb,telegraf-influxdb-grafana-docker/docker/influxdb at master · cristianpb/teleg...,4,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,telegraf-influxdb-grafana-docker/docker-compose-gpu.yml at master · cristianp...,3,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/influxdb/influxdb.conf,telegraf-influxdb-grafana-docker/docker/influxdb/influxdb.conf at master · cr...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/influxdb/types.db,telegraf-influxdb-grafana-docker/docker/influxdb/types.db at master · cristia...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/.env_dist,telegraf-influxdb-grafana-docker/.env_dist at master · cristianpb/telegraf-in...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master,telegraf-influxdb-grafana-docker/ at master · cristianpb/telegraf-influxdb-gr...,2,1,telegraf-influxdb-grafana-docker
-/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,4,4,vimwiki
-/cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki · GitHub,3,1,vimwiki
+/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,5,5,vimwiki
+/cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki · GitHub,5,2,vimwiki
+/cristianpb/vimwiki/tree/master/assets/css,vimwiki/assets/css at master · cristianpb/vimwiki,3,1,vimwiki
+/cristianpb/vimwiki/tree/master/layouts,vimwiki/layouts at master · cristianpb/vimwiki,3,1,vimwiki
 /cristianpb/vimwiki/blob/master/content/FlashXperia.md,vimwiki/content/FlashXperia.md at master · cristianpb/vimwiki · GitHub,2,1,vimwiki
 /cristianpb/vimwiki/blob/master/.gitignore,vimwiki/.gitignore at master · cristianpb/vimwiki,2,1,vimwiki
