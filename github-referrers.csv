@@ -9,7 +9,7 @@ github.com,1,1,dotfiles
 cristianpb.github.io,7,2,muse
 mopidy.com,2,2,muse
 github.com,48,5,object-detection
-cristianpb.github.io,35,9,object-detection
+cristianpb.github.io,34,9,object-detection
 hackster.io,2,2,object-detection
 cristianpb-github-io.cdn.ampproject.org,2,1,object-detection
 Google,1,1,object-detection
@@ -17,6 +17,6 @@ Google,1,1,object-detection-frontend
 Google,2,2,rhasspy-handler
 github.com,2,1,rhasspy-handler
 StartPage,1,1,rhasspy-handler
-cristianpb.github.io,51,3,telegraf-influxdb-grafana-docker
-Google,44,6,telegraf-influxdb-grafana-docker
+Google,43,5,telegraf-influxdb-grafana-docker
+cristianpb.github.io,38,3,telegraf-influxdb-grafana-docker
 github.com,15,1,vimwiki
