@@ -267,7 +267,7 @@ const mergeAnalytics = async () => {
     const itemIdx = agg.findIndex((x: any) => x.url === pagePath)
     if (itemIdx > -1) {
       const item = agg[itemIdx]
-      item.users += +chunk.users
+      item.users += +chunk.totalUsers
       item.sessions += +chunk.sessions
       agg.splice(itemIdx, 1, item);
     }
