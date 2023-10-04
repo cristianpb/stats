@@ -1,6 +1,5 @@
 date,repository,clones,views
 2023-09-30,alchemy-machine,1,0
-2023-09-19,analytics-google,4,1
 2023-09-20,analytics-google,2,0
 2023-09-21,analytics-google,4,3
 2023-09-22,analytics-google,4,4
@@ -14,6 +13,7 @@ date,repository,clones,views
 2023-09-30,analytics-google,5,0
 2023-10-01,analytics-google,4,0
 2023-10-02,analytics-google,5,0
+2023-10-03,analytics-google,4,0
 2023-09-30,aws-lambda-cv,1,0
 2023-09-24,cristianpb.github.io,1,0
 2023-09-29,cristianpb.github.io,1,0
@@ -34,6 +34,7 @@ date,repository,clones,views
 2023-09-22,dotfiles,0,44
 2023-09-29,dotfiles,0,26
 2023-10-02,dotfiles,0,8
+2023-10-03,dotfiles,0,2
 2023-09-30,enkontext,1,0
 2023-09-21,gswsr,2,0
 2023-09-23,gswsr,1,0
@@ -41,10 +42,11 @@ date,repository,clones,views
 2023-09-30,gswsr,1,0
 2023-09-30,hubot-ratp,1,0
 2023-09-30,hubot-velib,1,0
-2023-09-19,infolettre-lab-ia,1,0
+2023-10-03,infolettre-lab-ia,1,0
 2023-09-30,mask-detection,1,0
 2023-09-27,matchid-backend,4,0
 2023-09-30,matchid-backend,1,0
+2023-10-03,matchid-backend,1,0
 2023-09-30,mopidy.js,1,0
 2023-09-23,muse,2,0
 2023-09-24,muse,1,0
@@ -54,7 +56,7 @@ date,repository,clones,views
 2023-09-22,muse,0,4
 2023-09-28,muse,0,2
 2023-10-01,muse,0,1
-2023-09-19,music-s3,1,0
+2023-10-03,muse,0,2
 2023-09-20,music-s3,1,0
 2023-09-21,music-s3,6,2
 2023-09-22,music-s3,2,0
@@ -67,6 +69,7 @@ date,repository,clones,views
 2023-09-29,music-s3,1,0
 2023-10-01,music-s3,1,0
 2023-10-02,music-s3,1,0
+2023-10-03,music-s3,1,0
 2023-09-26,mybottender,1,0
 2023-09-30,mybottender,1,0
 2023-09-29,myhubot,1,0
@@ -75,7 +78,6 @@ date,repository,clones,views
 2023-09-30,ngTwitterApp,1,0
 2023-09-27,object-detection,2,3
 2023-09-30,object-detection,2,31
-2023-09-19,object-detection,0,18
 2023-09-22,object-detection,0,3
 2023-09-23,object-detection,0,4
 2023-09-25,object-detection,0,2
@@ -84,6 +86,7 @@ date,repository,clones,views
 2023-09-29,object-detection,0,33
 2023-10-01,object-detection,0,1
 2023-10-02,object-detection,0,3
+2023-10-03,object-detection,0,2
 2023-09-24,object-detection-frontend,1,0
 2023-09-27,object-detection-frontend,2,0
 2023-09-30,object-detection-frontend,1,1
@@ -95,12 +98,14 @@ date,repository,clones,views
 2023-09-25,playlists,1,0
 2023-09-29,playlists,5,0
 2023-10-02,playlists,1,0
+2023-10-03,playlists,1,0
 2023-09-21,playlists,0,1
 2023-09-30,PresentationTechnique,2,0
 2023-09-23,priceminister,1,0
 2023-09-27,priceminister,1,0
 2023-09-29,priceminister,2,0
 2023-09-30,priceminister,1,0
+2023-10-03,priceminister,0,3
 2023-09-20,qrcode-reader,1,0
 2023-09-30,qrcode-reader,1,0
 2023-09-30,recettes,1,0
@@ -110,7 +115,6 @@ date,repository,clones,views
 2023-09-30,rhasspy-handler,3,1
 2023-09-20,rhasspy-handler,0,1
 2023-09-26,rhasspy-handler,0,4
-2023-09-20,stats,4,0
 2023-09-21,stats,5,0
 2023-09-22,stats,5,0
 2023-09-23,stats,5,0
@@ -123,9 +127,10 @@ date,repository,clones,views
 2023-09-30,stats,6,0
 2023-10-01,stats,13,0
 2023-10-02,stats,7,13
+2023-10-03,stats,5,0
 2023-09-29,telegraf-influxdb-grafana-docker,1,0
 2023-09-30,telegraf-influxdb-grafana-docker,2,0
-2023-09-19,telegraf-influxdb-grafana-docker,0,8
+2023-10-03,telegraf-influxdb-grafana-docker,1,2
 2023-09-22,telegraf-influxdb-grafana-docker,0,1
 2023-09-23,telegraf-influxdb-grafana-docker,0,13
 2023-09-25,telegraf-influxdb-grafana-docker,0,11
