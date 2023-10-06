@@ -1,30 +1,28 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,cristianpb/analytics-google: Google analytics from cristianpb.github.io,2,2,analytics-google
-/cristianpb/analytics-google/blob/master/requirements.txt,analytics-google/requirements.txt at master · cristianpb/analytics-google · G...,2,1,analytics-google
-/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,26,5,dotfiles
-/cristianpb/dotfiles/tree/master/ranger/.config,dotfiles/ranger/.config at master · cristianpb/dotfiles · GitHub,12,3,dotfiles
-/cristianpb/dotfiles/tree/master/ranger,dotfiles/ranger at master · cristianpb/dotfiles · GitHub,7,3,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands_full.py,dotfiles/ranger/.config/ranger/commands_full.py at master · cristianpb/dotfiles,7,2,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles · GitHub,7,2,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles · Git...,7,2,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands.py,dotfiles/ranger/.config/ranger/commands.py at master · cristianpb/dotfiles,5,1,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/ranger/.config/ranger/rifle.conf at master · cristianpb/dotfiles,5,1,dotfiles
+/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,15,4,dotfiles
+/cristianpb/dotfiles/tree/master/ranger/.config,dotfiles/ranger/.config at master · cristianpb/dotfiles · GitHub,9,2,dotfiles
+/cristianpb/dotfiles/tree/master/ranger,dotfiles/ranger at master · cristianpb/dotfiles · GitHub,4,2,dotfiles
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,3,3,dotfiles
-/cristianpb/dotfiles/tree/master,dotfiles/ at master · cristianpb/dotfiles · GitHub,3,2,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,7,7,muse
-/cristianpb/muse/issues,Issues · cristianpb/muse,2,1,muse
-/cristianpb/muse/issues/39,Add snapcast stream support · Issue #39 · cristianpb/muse,1,1,muse
-/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,25,10,object-detection
+/cristianpb/dotfiles/blob/master/mbsync/.mbsyncrc,dotfiles/mbsync/.mbsyncrc at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands_full.py,dotfiles/ranger/.config/ranger/commands_full.py at master · cristianpb/dotfiles,2,1,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles · Git...,2,1,dotfiles
+/cristianpb/dotfiles/tree/master,dotfiles/ at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
+/cristianpb/dotfiles/tree/master/mbsync,dotfiles/mbsync at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,6,6,muse
+/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse,2,1,muse
+/cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse,2,1,muse
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,23,9,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,12,5,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,12,4,object-detection
 /cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,9,4,object-detection
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",8,6,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",8,5,object-detection
 /cristianpb/object-detection/tree/master/models/yolo,object-detection/models/yolo at master · cristianpb/object-detection · GitHub,6,3,object-detection
 /cristianpb/object-detection/tree/master,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",4,3,object-detection
 /cristianpb/object-detection/blob/master/backend/motion.py,object-detection/backend/motion.py at master · cristianpb/object-detection,2,1,object-detection
 /cristianpb/object-detection/blob/master/backend/utils.py,object-detection/backend/utils.py at master · cristianpb/object-detection · G...,2,1,object-detection
 /cristianpb/object-detection/blob/master/config.yml.sample,object-detection/config.yml.sample at master · cristianpb/object-detection · ...,2,1,object-detection
-/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,2,2,object-detection-frontend
+/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,1,1,object-detection-frontend
 /cristianpb/priceminister/tree/master/src,priceminister/src at master · cristianpb/priceminister,3,1,priceminister
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",3,3,rhasspy-handler
 /cristianpb/rhasspy-handler,cristianpb/rhasspy-handler: My voice assistant intent handler,2,1,rhasspy-handler
@@ -48,3 +46,4 @@ path,title,count,uniques,repository
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/telegraf,telegraf-influxdb-grafana-docker/docker/telegraf at master · cristianpb/teleg...,3,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blame/master/docker-compose.yml,Blaming telegraf-influxdb-grafana-docker/docker-compose.yml at master · crist...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/DashboardTelegraf.json,telegraf-influxdb-grafana-docker/docker/grafana/DashboardTelegraf.json at mas...,2,1,telegraf-influxdb-grafana-docker
+/cristianpb/temp-sigfox,cristianpb/temp-sigfox: Micropython code to send data from the ESP8266 using ...,1,1,temp-sigfox
