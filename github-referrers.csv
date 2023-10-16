@@ -7,11 +7,11 @@ Google,3,2,muse
 cristianpb.github.io,3,1,muse
 cristianpb.github.io,12,4,object-detection
 Google,10,2,object-detection
-github.com,6,4,object-detection
+github.com,3,3,object-detection
 Bing,1,1,object-detection
 Google,4,1,object-detection-frontend
 github.com,3,1,priceminister
-Google,2,2,rhasspy-handler
-Google,33,5,telegraf-influxdb-grafana-docker
+Google,3,3,rhasspy-handler
+Google,45,7,telegraf-influxdb-grafana-docker
 cristianpb.github.io,31,1,telegraf-influxdb-grafana-docker
 Google,1,1,temp-sigfox
