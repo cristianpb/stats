@@ -1,7 +1,6 @@
 date,repository,clones,views
 2023-10-09,alchemy-machine,2,0
 2023-10-11,alchemy-machine,2,0
-2023-10-08,analytics-google,4,2
 2023-10-09,analytics-google,5,1
 2023-10-10,analytics-google,3,0
 2023-10-11,analytics-google,4,0
@@ -15,6 +14,7 @@ date,repository,clones,views
 2023-10-19,analytics-google,3,0
 2023-10-20,analytics-google,2,0
 2023-10-21,analytics-google,3,1
+2023-10-22,analytics-google,3,0
 2023-10-09,cristianpb,2,0
 2023-10-09,cristianpb.github.io,1,0
 2023-10-10,cristianpb.github.io,6,0
@@ -30,11 +30,11 @@ date,repository,clones,views
 2023-10-18,dotfiles,0,40
 2023-10-19,dotfiles,0,67
 2023-10-20,dotfiles,0,10
+2023-10-22,dotfiles,0,5
 2023-10-10,enkontext,3,0
 2023-10-16,enkontext,1,0
 2023-10-10,gswsr,2,0
 2023-10-11,gswsr,1,0
-2023-10-08,hubot-ratp,2,0
 2023-10-10,hubot-ratp,3,0
 2023-10-13,hubot-ratp,1,0
 2023-10-14,hubot-ratp,1,0
@@ -55,12 +55,11 @@ date,repository,clones,views
 2023-10-13,muse,1,0
 2023-10-16,muse,2,0
 2023-10-19,muse,1,0
-2023-10-08,muse,0,4
+2023-10-22,muse,1,8
 2023-10-15,muse,0,7
 2023-10-17,muse,0,1
 2023-10-18,muse,0,1
 2023-10-20,muse,0,3
-2023-10-08,music-s3,1,0
 2023-10-09,music-s3,3,0
 2023-10-10,music-s3,1,0
 2023-10-11,music-s3,1,0
@@ -72,6 +71,7 @@ date,repository,clones,views
 2023-10-18,music-s3,1,0
 2023-10-19,music-s3,1,0
 2023-10-20,music-s3,1,0
+2023-10-22,music-s3,1,0
 2023-10-09,mybottender,2,0
 2023-10-09,myhubot,2,0
 2023-10-09,newsapp,2,0
@@ -79,7 +79,6 @@ date,repository,clones,views
 2023-10-09,ngTwitterApp,2,0
 2023-10-09,object-detection,1,2
 2023-10-10,object-detection,3,9
-2023-10-08,object-detection,0,2
 2023-10-11,object-detection,0,4
 2023-10-12,object-detection,0,1
 2023-10-13,object-detection,0,4
@@ -88,8 +87,8 @@ date,repository,clones,views
 2023-10-20,object-detection,0,1
 2023-10-10,object-detection-frontend,4,0
 2023-10-12,object-detection-frontend,1,0
-2023-10-08,object-detection-frontend,0,4
 2023-10-10,piac-bot,2,0
+2023-10-22,piac-bot,1,0
 2023-10-09,playlists,3,0
 2023-10-13,playlists,4,0
 2023-10-16,playlists,2,0
@@ -109,9 +108,9 @@ date,repository,clones,views
 2023-10-14,rhasspy-handler,0,1
 2023-10-17,rhasspy-handler,0,1
 2023-10-18,rhasspy-handler,0,1
-2023-10-08,simple-streaming-gateway,3,0
+2023-10-22,rhasspy-handler,0,1
 2023-10-10,simple-streaming-gateway,1,0
-2023-10-09,stats,5,0
+2023-10-09,stats,1,0
 2023-10-10,stats,5,0
 2023-10-11,stats,4,0
 2023-10-12,stats,4,0
@@ -124,6 +123,7 @@ date,repository,clones,views
 2023-10-19,stats,3,0
 2023-10-20,stats,4,0
 2023-10-21,stats,3,0
+2023-10-22,stats,6,0
 2023-10-09,telegraf-influxdb-grafana-docker,2,0
 2023-10-11,telegraf-influxdb-grafana-docker,1,33
 2023-10-13,telegraf-influxdb-grafana-docker,1,33
@@ -133,11 +133,9 @@ date,repository,clones,views
 2023-10-12,telegraf-influxdb-grafana-docker,0,5
 2023-10-09,temp-sigfox,2,0
 2023-10-16,temp-sigfox,0,1
-2023-10-08,tkasme,3,0
 2023-10-10,tkasme,2,0
 2023-10-12,tkasme,1,0
 2023-10-10,velo.club,2,0
 2023-10-12,velo.club,1,0
 2023-10-10,vimwiki,2,0
 2023-10-17,vimwiki,1,0
-2023-10-08,vimwiki,0,1
