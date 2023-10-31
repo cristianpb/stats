@@ -5,14 +5,13 @@ pypi.org,50,3,muse
 mopidy.com,6,6,muse
 cristianpb.github.io,5,2,muse
 Google,1,1,muse
-github.com,1,1,muse
+Google,13,1,object-detection
 github.com,11,3,object-detection
 hackster.io,9,2,object-detection
+cristianpb.github.io,5,1,object-detection
 github.com,6,1,object-detection-frontend
 Google,1,1,object-detection-frontend
 hackster.io,1,1,object-detection-frontend
 github.com,1,1,qrcode-reader
-Google,5,5,rhasspy-handler
-medium.com,49,1,telegraf-influxdb-grafana-docker
+Google,4,4,rhasspy-handler
 Google,2,1,telegraf-influxdb-grafana-docker
-cristianpb.github.io,1,1,telegraf-influxdb-grafana-docker
