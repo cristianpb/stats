@@ -1,12 +1,12 @@
 referrer,count,uniques,repository
-github.com,2,2,analytics-google
+github.com,1,1,analytics-google
 start.duckduckgo.com,5,1,dotfiles
 pypi.org,50,3,muse
 mopidy.com,6,6,muse
 cristianpb.github.io,5,2,muse
 Google,1,1,muse
 Google,13,1,object-detection
-github.com,11,3,object-detection
+github.com,12,4,object-detection
 hackster.io,9,2,object-detection
 cristianpb.github.io,5,1,object-detection
 github.com,6,1,object-detection-frontend
