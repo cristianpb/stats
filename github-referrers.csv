@@ -1,5 +1,5 @@
 referrer,count,uniques,repository
-Google,4,1,analytics-google
+Google,5,2,analytics-google
 cristianpb.github.io,4,1,cristianpb.github.io
 github.com,17,2,dotfiles
 DuckDuckGo,13,1,muse
@@ -7,9 +7,9 @@ cristianpb.github.io,2,1,muse
 mopidy.com,2,1,muse
 pypi.org,1,1,muse
 Google,1,1,muse
-Google,26,4,object-detection
-cristianpb.github.io,14,3,object-detection
+Google,13,3,object-detection
 github.com,11,5,object-detection
+cristianpb.github.io,9,2,object-detection
 Google,3,1,object-detection-frontend
 Google,4,4,rhasspy-handler
 cristianpb.github.io,1,1,rhasspy-handler
