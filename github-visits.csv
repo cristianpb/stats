@@ -1,6 +1,5 @@
 date,repository,clones,views
 2023-11-04,alchemy-machine,2,0
-2023-10-29,analytics-google,3,0
 2023-10-30,analytics-google,5,0
 2023-10-31,analytics-google,2,0
 2023-11-01,analytics-google,2,4
@@ -14,9 +13,9 @@ date,repository,clones,views
 2023-11-09,analytics-google,3,0
 2023-11-10,analytics-google,3,1
 2023-11-11,analytics-google,3,0
+2023-11-12,analytics-google,3,0
 2023-11-03,cristianpb.github.io,3,4
 2023-10-31,datalab.mi,1,0
-2023-10-29,dotfiles,1,2
 2023-11-01,dotfiles,1,1
 2023-11-04,dotfiles,1,0
 2023-11-02,dotfiles,0,2
@@ -33,7 +32,6 @@ date,repository,clones,views
 2023-11-07,mopidy.js,0,1
 2023-10-30,muse,1,2
 2023-11-04,muse,1,0
-2023-10-29,muse,0,1
 2023-11-01,muse,0,15
 2023-11-02,muse,0,2
 2023-11-03,muse,0,4
@@ -41,7 +39,7 @@ date,repository,clones,views
 2023-11-06,muse,0,1
 2023-11-07,muse,0,1
 2023-11-08,muse,0,2
-2023-10-29,music-s3,1,0
+2023-11-12,muse,0,6
 2023-10-30,music-s3,1,0
 2023-10-31,music-s3,1,0
 2023-11-01,music-s3,1,0
@@ -53,8 +51,8 @@ date,repository,clones,views
 2023-11-08,music-s3,1,0
 2023-11-09,music-s3,1,0
 2023-11-10,music-s3,2,0
+2023-11-12,music-s3,1,0
 2023-11-03,ngTwitterApp,1,0
-2023-10-29,object-detection,2,22
 2023-10-31,object-detection,1,0
 2023-11-02,object-detection,2,0
 2023-11-07,object-detection,1,4
@@ -69,7 +67,6 @@ date,repository,clones,views
 2023-11-11,object-detection,0,2
 2023-11-02,object-detection-frontend,1,3
 2023-11-04,object-detection-frontend,1,0
-2023-10-29,playlists,1,0
 2023-10-30,playlists,1,0
 2023-11-03,playlists,3,0
 2023-11-06,playlists,1,0
@@ -83,7 +80,7 @@ date,repository,clones,views
 2023-11-06,rhasspy-handler,0,1
 2023-11-08,rhasspy-handler,0,1
 2023-11-11,rhasspy-handler,0,1
-2023-10-30,stats,6,0
+2023-10-30,stats,1,0
 2023-10-31,stats,4,0
 2023-11-01,stats,5,0
 2023-11-02,stats,4,0
@@ -96,7 +93,7 @@ date,repository,clones,views
 2023-11-09,stats,5,0
 2023-11-10,stats,6,0
 2023-11-11,stats,4,0
-2023-10-29,telegraf-influxdb-grafana-docker,1,0
+2023-11-12,stats,5,0
 2023-11-09,telegraf-influxdb-grafana-docker,1,51
 2023-11-01,telegraf-influxdb-grafana-docker,0,2
 2023-11-02,telegraf-influxdb-grafana-docker,0,4

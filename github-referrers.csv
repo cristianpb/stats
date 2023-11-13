@@ -8,9 +8,11 @@ mopidy.com,2,1,muse
 pypi.org,1,1,muse
 Google,1,1,muse
 Google,13,3,object-detection
-github.com,11,5,object-detection
+github.com,10,4,object-detection
 cristianpb.github.io,9,2,object-detection
+cristianpb-github-io.cdn.ampproject.org,2,1,object-detection
 Google,3,1,object-detection-frontend
+github.com,1,1,qrcode-reader
 Google,4,4,rhasspy-handler
 cristianpb.github.io,1,1,rhasspy-handler
 Google,62,7,telegraf-influxdb-grafana-docker
