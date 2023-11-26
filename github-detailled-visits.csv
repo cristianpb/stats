@@ -1,8 +1,8 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,4,3,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,6,5,analytics-google
+/cristianpb/analytics-google/blob/master/requirements.txt,analytics-google/requirements.txt at master · cristianpb/analytics-google · G...,4,2,analytics-google
 /cristianpb/analytics-google/tree/master/src/lib,analytics-google/src/lib at master · cristianpb/analytics-google · GitHub,3,1,analytics-google
 /cristianpb/analytics-google/tree/master/src/lib/views,analytics-google/src/lib/views at master · cristianpb/analytics-google · GitHub,3,1,analytics-google
-/cristianpb/analytics-google/blob/master/requirements.txt,analytics-google/requirements.txt at master · cristianpb/analytics-google,2,1,analytics-google
 /cristianpb/analytics-google/blob/master/src/lib/tools/getData.js,analytics-google/src/lib/tools/getData.js at master · cristianpb/analytics-go...,2,1,analytics-google
 /cristianpb/analytics-google/blob/master/src/lib/views/Github.svelte,analytics-google/src/lib/views/Github.svelte at master · cristianpb/analytics...,2,1,analytics-google
 /cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google · GitHub,2,1,analytics-google
@@ -17,7 +17,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/sxiv/.config/sxiv/exec/image-info,dotfiles/sxiv/.config/sxiv/exec/image-info at master · cristianpb/dotfiles · ...,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/sxiv/.config/sxiv/exec/key-handler,dotfiles/sxiv/.config/sxiv/exec/key-handler at master · cristianpb/dotfiles ·...,2,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,19,14,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,18,14,muse
 /cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse · GitHub,17,1,muse
 /cristianpb/muse/tree/master/cypress,muse/cypress at master · cristianpb/muse · GitHub,12,1,muse
 /cristianpb/muse/tree/master,muse/ at master · cristianpb/muse · GitHub,9,1,muse
@@ -25,16 +25,16 @@ path,title,count,uniques,repository
 /cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse · GitHub,6,1,muse
 /cristianpb/muse/tree/master/src/tools,muse/src/tools at master · cristianpb/muse · GitHub,6,1,muse
 /cristianpb/muse/tree/master/src/routes,muse/src/routes at master · cristianpb/muse · GitHub,4,1,muse
-/cristianpb/muse/blob/master/MANIFEST.in,muse/MANIFEST.in at master · cristianpb/muse · GitHub,3,1,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,2,2,muse
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",5,5,object-detection
-/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,4,1,object-detection
-/cristianpb/object-detection/blob/master/backend/base_camera.py,object-detection/backend/base_camera.py at master · cristianpb/object-detecti...,2,1,object-detection
-/cristianpb/object-detection/blob/master/backend/camera.py,object-detection/backend/camera.py at master · cristianpb/object-detection · ...,2,1,object-detection
+/cristianpb/muse/blob/master/cypress/plugins/index.js,muse/cypress/plugins/index.js at master · cristianpb/muse · GitHub,2,1,muse
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",6,6,object-detection
+/cristianpb/object-detection/blob/master/backend/base_camera.py,object-detection/backend/base_camera.py at master · cristianpb/object-detecti...,6,2,object-detection
+/cristianpb/object-detection/blob/master/backend/camera.py,object-detection/backend/camera.py at master · cristianpb/object-detection · ...,6,2,object-detection
+/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,6,2,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,2,1,object-detection
 /cristianpb/object-detection/commit/7308e207862f07d8438d9105fb92a80951b2789d,Add motion detector and cascade filter detection · cristianpb/object-detectio...,1,1,object-detection
 /cristianpb/object-detection/tree/master,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",1,1,object-detection
-/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,9,6,object-detection-frontend
+/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,10,7,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/src,object-detection-frontend/src at master · cristianpb/object-detection-fronten...,2,1,object-detection-frontend
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",3,2,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,8,4,telegraf-influxdb-grafana-docker
