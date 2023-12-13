@@ -1,18 +1,12 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,4,3,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,5,4,analytics-google
 /cristianpb/cristianpb.github.io/blob/6a9676f4c02772eb9e1d723633a330bad6a90e47/jekyll_collections/_posts/2019-10-25-jekyll-algolia.md,cristianpb.github.io/jekyll_collections/_posts/2019-10-25-jekyll-algolia.md a...,5,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,3,2,cristianpb.github.io
-/cristianpb/dotfiles/tree/master,GitHub - cristianpb/dotfiles: My dotfiles,7,3,dotfiles
-/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,6,2,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands.py,dotfiles/ranger/.config/ranger/commands.py at master · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/dotfiles/tree/master/ranger,dotfiles/ranger at master · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/dotfiles/tree/master/ranger/.config,dotfiles/ranger/.config at master · cristianpb/dotfiles,2,1,dotfiles
+/cristianpb/dotfiles/tree/master,GitHub - cristianpb/dotfiles: My dotfiles,4,2,dotfiles
+/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,1,1,dotfiles
-/cristianpb/dotfiles/commits/master,Commits · cristianpb/dotfiles,1,1,dotfiles
-/cristianpb/dotfiles/tree/osx,cristianpb/dotfiles at osx,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,17,8,muse
-/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,14,2,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,19,10,muse
+/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,17,3,muse
 /cristianpb/muse/blob/master/Makefile,muse/Makefile at master · cristianpb/muse,6,1,muse
 /cristianpb/muse/commits/master,Commits · cristianpb/muse · GitHub,2,2,muse
 /cristianpb/muse/commit/9098b3754e7c5e1f9b98a4858a1490a5ab1e113b,🐳 Publish docker tags · cristianpb/muse@9098b37,1,1,muse
@@ -20,29 +14,20 @@ path,title,count,uniques,repository
 /cristianpb/muse/issues/42,Searching all backends returns no result · Issue #42 · cristianpb/muse,1,1,muse
 /cristianpb/muse/releases,Releases · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/releases/tag/v0.0.27,Release Release v0.0.27 · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/tree/master,cristianpb/muse: Mopidy web client with Snapcast support,1,1,muse
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",8,8,object-detection
-/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,6,3,object-detection
-/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,5,2,object-detection
-/cristianpb/object-detection/tree/master,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",2,2,object-detection
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,4,2,object-detection
 /cristianpb/object-detection/blob/c2abea4ba28d37e2bc9b60416f5b9accdbc2b543/nginx/backend-dev.template,object-detection/nginx/backend-dev.template at c2abea4ba28d37e2bc9b60416f5b9a...,2,1,object-detection
 /cristianpb/object-detection/blob/master/backend/app.py,object-detection/backend/app.py at master · cristianpb/object-detection · Git...,2,1,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,2,1,object-detection
 /cristianpb/object-detection/blob/master/setup.py,object-detection/setup.py at master · cristianpb/object-detection · GitHub,2,1,object-detection
+/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,2,1,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,2,1,object-detection
 /cristianpb/object-detection/tree/master/models/yolo,object-detection/models/yolo at master · cristianpb/object-detection · GitHub,2,1,object-detection
-/cristianpb/object-detection-frontend/tree/master/src/app,object-detection-frontend/src/app at master · cristianpb/object-detection-fro...,15,1,object-detection-frontend
-/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,5,4,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/src,object-detection-frontend/src at master · cristianpb/object-detection-fronten...,5,1,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/src/app/camera,object-detection-frontend/src/app/camera at master · cristianpb/object-detect...,3,1,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/src/app/preview,object-detection-frontend/src/app/preview at master · cristianpb/object-detec...,3,1,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/src/app/types,object-detection-frontend/src/app/types at master · cristianpb/object-detecti...,3,1,object-detection-frontend
-/cristianpb/object-detection-frontend/blob/master/package.json,object-detection-frontend/package.json at master · cristianpb/object-detectio...,2,1,object-detection-frontend
-/cristianpb/object-detection-frontend/blob/master/src/app/camera/camera.component.html,object-detection-frontend/src/app/camera/camera.component.html at master · cr...,2,1,object-detection-frontend
-/cristianpb/object-detection-frontend/blob/master/src/app/image-decode.pipe.ts,object-detection-frontend/src/app/image-decode.pipe.ts at master · cristianpb...,2,1,object-detection-frontend
-/cristianpb/object-detection-frontend/blob/master/src/app/photos.service.ts,object-detection-frontend/src/app/photos.service.ts at master · cristianpb/ob...,2,1,object-detection-frontend
+/cristianpb/object-detection/tree/master,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",1,1,object-detection
+/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,3,3,object-detection-frontend
 /cristianpb/PresentationTechnique/labels,Labels · cristianpb/PresentationTechnique · GitHub,6,2,PresentationTechnique
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",2,2,rhasspy-handler
-/cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,1,1,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,14,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/telegraf,telegraf-influxdb-grafana-docker/docker/telegraf at master · cristianpb/teleg...,12,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",4,3,telegraf-influxdb-grafana-docker
