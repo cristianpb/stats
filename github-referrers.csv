@@ -3,15 +3,13 @@ Google,1,1,analytics-google
 github.com,1,1,analytics-google
 Google,1,1,dotfiles
 mopidy.com,34,5,muse
-Google,8,4,muse
+Google,6,3,muse
 DuckDuckGo,1,1,muse
 github.com,10,7,object-detection
 cristianpb.github.io,8,2,object-detection
-Google,6,1,object-detection
 Bing,9,1,object-detection-frontend
 Google,2,2,object-detection-frontend
 hackster.io,1,1,object-detection-frontend
 Google,2,2,rhasspy-handler
-cristianpb.github.io,25,1,telegraf-influxdb-grafana-docker
 Google,2,1,telegraf-influxdb-grafana-docker
 cristianpb.github.io,1,1,vimwiki
