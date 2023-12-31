@@ -1,16 +1,26 @@
 path,title,count,uniques,repository
 /cristianpb/analytics-google,cristianpb/analytics-google: Google analytics from cristianpb.github.io,1,1,analytics-google
-/cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/tree/4328700f92bfc8644b35d3088e1763d32b425925/.github/workflows,cristianpb.github.io/.github/workflows at 4328700f92bfc8644b35d3088e1763d32b4...,6,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions,Workflow runs · cristianpb/cristianpb.github.io,5,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/blob/4328700f92bfc8644b35d3088e1763d32b425925/.github/workflows/tests.yml,cristianpb.github.io/.github/workflows/tests.yml at 4328700f92bfc8644b35d3088...,4,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/tree/4328700f92bfc8644b35d3088e1763d32b425925/.github,cristianpb.github.io/.github at 4328700f92bfc8644b35d3088e1763d32b425925 · cr...,4,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/6164569824,pages build and deployment · cristianpb/cristianpb.github.io@6a9676f,3,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/workflows/pages/pages-build-deployment,pages-build-deployment · Workflow runs · cristianpb/cristianpb.github.io,3,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/workflows/tests.yml,Github CI · Workflow runs · cristianpb/cristianpb.github.io,3,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/6164569824/job/16740429749,pages build and deployment · cristianpb/cristianpb.github.io@6a9676f,2,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/6580723803/workflow,🎨 modify blog page · cristianpb/cristianpb.github.io@4328700,2,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/blob/master/.github/workflows/tests.yml,cristianpb.github.io/.github/workflows/tests.yml at master · cristianpb/crist...,2,1,cristianpb.github.io
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles,7,2,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles,4,1,dotfiles
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,3,3,dotfiles
-/cristianpb/dotfiles/tree/master,GitHub - cristianpb/dotfiles: My dotfiles,2,2,dotfiles
+/cristianpb/dotfiles/tree/master,GitHub - cristianpb/dotfiles: My dotfiles,3,2,dotfiles
 /cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim/.vimrc at master · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,14,9,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,16,11,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,2,1,muse
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",8,7,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,4,2,object-detection
 /cristianpb/object-detection/blob/master/README.md,object-detection/README.md at master · cristianpb/object-detection,2,1,object-detection
+/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,5,2,object-detection-frontend
 /cristianpb/PresentationTechnique/labels,Labels · cristianpb/PresentationTechnique · GitHub,3,1,PresentationTechnique
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",5,5,rhasspy-handler
 /cristianpb/rhasspy-handler,cristianpb/rhasspy-handler: My voice assistant intent handler,3,1,rhasspy-handler
