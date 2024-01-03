@@ -9,13 +9,13 @@ mopidy.com,9,5,muse
 Google,2,1,muse
 cristianpb.github.io,1,1,muse
 cristianpb.github.io,8,5,object-detection
-github.com,5,4,object-detection
+github.com,3,2,object-detection
 programcreek.com,2,1,object-detection
 github.com,3,1,object-detection-frontend
 Google,2,1,object-detection-frontend
-Google,4,4,rhasspy-handler
+Google,3,3,rhasspy-handler
 github.com,2,1,rhasspy-handler
-Google,20,4,telegraf-influxdb-grafana-docker
+Google,18,3,telegraf-influxdb-grafana-docker
 cristianpb.github.io,15,1,telegraf-influxdb-grafana-docker
 cristianpb.github.io,17,1,vimwiki
 discourse.gohugo.io,4,2,vimwiki
