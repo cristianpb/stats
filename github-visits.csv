@@ -1,6 +1,5 @@
 date,repository,clones,views
 2024-01-01,alchemy-machine,2,0
-2023-12-21,analytics-google,3,0
 2023-12-22,analytics-google,3,0
 2023-12-23,analytics-google,3,0
 2023-12-24,analytics-google,3,0
@@ -14,6 +13,7 @@ date,repository,clones,views
 2024-01-01,analytics-google,4,0
 2024-01-02,analytics-google,3,0
 2024-01-03,analytics-google,3,1
+2024-01-04,analytics-google,3,0
 2023-12-30,cristianpb,2,0
 2023-12-31,cristianpb,1,0
 2023-12-27,cristianpb.github.io,1,0
@@ -22,10 +22,9 @@ date,repository,clones,views
 2023-12-26,cristianpb.github.io,0,1
 2023-12-29,cristianpb.github.io,0,45
 2023-12-22,datalab.mi,1,0
-2023-12-22,dotfiles,2,3
+2023-12-22,dotfiles,1,3
 2023-12-30,dotfiles,3,5
 2024-01-03,dotfiles,1,0
-2023-12-21,dotfiles,0,1
 2023-12-23,dotfiles,0,2
 2023-12-24,dotfiles,0,1
 2023-12-25,dotfiles,0,7
@@ -47,13 +46,12 @@ date,repository,clones,views
 2023-12-26,muse,1,6
 2023-12-31,muse,2,1
 2024-01-01,muse,5,0
-2023-12-21,muse,0,1
+2024-01-04,muse,1,1
 2023-12-28,muse,0,2
 2023-12-29,muse,0,2
 2023-12-30,muse,0,1
 2024-01-02,muse,0,1
 2024-01-03,muse,0,1
-2023-12-21,music-s3,1,0
 2023-12-22,music-s3,1,0
 2023-12-24,music-s3,1,0
 2023-12-25,music-s3,1,0
@@ -66,6 +64,7 @@ date,repository,clones,views
 2024-01-01,music-s3,1,0
 2024-01-02,music-s3,1,0
 2024-01-03,music-s3,1,0
+2024-01-04,music-s3,1,0
 2023-12-22,mybottender,1,0
 2023-12-26,mybottender,1,0
 2023-12-27,mybottender,1,0
@@ -86,6 +85,7 @@ date,repository,clones,views
 2023-12-31,object-detection,0,1
 2024-01-02,object-detection,0,2
 2024-01-03,object-detection,0,6
+2024-01-04,object-detection,0,10
 2024-01-01,object-detection-frontend,2,0
 2023-12-29,object-detection-frontend,0,5
 2024-01-03,object-detection-frontend,0,13
@@ -102,7 +102,6 @@ date,repository,clones,views
 2023-12-27,PresentationTechnique,1,0
 2023-12-29,PresentationTechnique,2,0
 2024-01-01,PresentationTechnique,6,0
-2023-12-21,PresentationTechnique,0,3
 2023-12-29,priceminister,1,0
 2024-01-01,priceminister,2,0
 2024-01-01,qrcode-reader,2,0
@@ -110,10 +109,8 @@ date,repository,clones,views
 2023-12-30,recettes,2,0
 2023-12-28,rhasspy-handler,2,0
 2023-12-30,rhasspy-handler,2,0
-2023-12-21,rhasspy-handler,0,2
 2023-12-23,rhasspy-handler,0,3
 2023-12-25,rhasspy-handler,0,1
-2023-12-22,stats,5,0
 2023-12-23,stats,5,0
 2023-12-24,stats,4,0
 2023-12-25,stats,5,0
@@ -126,15 +123,16 @@ date,repository,clones,views
 2024-01-01,stats,5,0
 2024-01-02,stats,3,0
 2024-01-03,stats,4,0
+2024-01-04,stats,5,0
 2023-12-27,telegraf-influxdb-grafana-docker,1,27
 2024-01-01,telegraf-influxdb-grafana-docker,2,0
-2023-12-21,telegraf-influxdb-grafana-docker,0,6
 2023-12-22,telegraf-influxdb-grafana-docker,0,2
 2023-12-22,temp-sigfox,1,0
 2023-12-28,temp-sigfox,2,0
 2023-12-30,tkasme,2,0
 2024-01-01,tkasme,2,0
 2024-01-01,velo.club,2,0
+2024-01-04,velo.club,1,0
 2023-12-29,vimwiki,2,0
 2023-12-22,vimwiki,0,21
 2023-12-31,vimwiki,0,1
