@@ -13,8 +13,9 @@ Google,5,1,object-detection
 github.com,4,2,object-detection
 Google,15,3,object-detection-frontend
 github.com,3,1,object-detection-frontend
-Google,1,1,rhasspy-handler
+Google,2,2,rhasspy-handler
 cristianpb.github.io,15,1,telegraf-influxdb-grafana-docker
+medium.com,15,1,telegraf-influxdb-grafana-docker
 Google,10,1,telegraf-influxdb-grafana-docker
 Google,1,1,vimwiki
 discourse.gohugo.io,1,1,vimwiki

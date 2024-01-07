@@ -1,6 +1,5 @@
 date,repository,clones,views
 2024-01-01,alchemy-machine,2,0
-2023-12-23,analytics-google,3,0
 2023-12-24,analytics-google,3,0
 2023-12-25,analytics-google,4,0
 2023-12-26,analytics-google,3,0
@@ -14,6 +13,7 @@ date,repository,clones,views
 2024-01-03,analytics-google,3,1
 2024-01-04,analytics-google,3,0
 2024-01-05,analytics-google,4,0
+2024-01-06,analytics-google,3,0
 2023-12-30,cristianpb,2,0
 2023-12-31,cristianpb,1,0
 2023-12-27,cristianpb.github.io,1,0
@@ -23,7 +23,6 @@ date,repository,clones,views
 2023-12-29,cristianpb.github.io,0,45
 2023-12-30,dotfiles,3,5
 2024-01-03,dotfiles,1,0
-2023-12-23,dotfiles,0,2
 2023-12-24,dotfiles,0,1
 2023-12-25,dotfiles,0,7
 2023-12-26,dotfiles,0,1
@@ -46,6 +45,7 @@ date,repository,clones,views
 2024-01-01,muse,5,0
 2024-01-04,muse,1,1
 2024-01-05,muse,1,1
+2024-01-06,muse,1,1
 2023-12-28,muse,0,2
 2023-12-29,muse,0,2
 2023-12-30,muse,0,1
@@ -64,6 +64,7 @@ date,repository,clones,views
 2024-01-03,music-s3,1,0
 2024-01-04,music-s3,1,0
 2024-01-05,music-s3,1,4
+2024-01-06,music-s3,1,0
 2023-12-26,mybottender,1,0
 2023-12-27,mybottender,1,0
 2023-12-29,mybottender,1,0
@@ -75,6 +76,7 @@ date,repository,clones,views
 2023-12-27,object-detection,2,0
 2024-01-01,object-detection,2,0
 2024-01-05,object-detection,2,1
+2024-01-06,object-detection,1,0
 2023-12-25,object-detection,0,4
 2023-12-26,object-detection,0,3
 2023-12-28,object-detection,0,2
@@ -106,10 +108,8 @@ date,repository,clones,views
 2023-12-30,recettes,2,0
 2023-12-28,rhasspy-handler,2,0
 2023-12-30,rhasspy-handler,2,0
-2023-12-23,rhasspy-handler,0,3
 2023-12-25,rhasspy-handler,0,1
 2024-01-05,rhasspy-handler,0,1
-2023-12-24,stats,4,0
 2023-12-25,stats,5,0
 2023-12-26,stats,4,0
 2023-12-27,stats,4,0
@@ -122,9 +122,11 @@ date,repository,clones,views
 2024-01-03,stats,4,0
 2024-01-04,stats,5,0
 2024-01-05,stats,5,0
+2024-01-06,stats,3,0
 2023-12-27,telegraf-influxdb-grafana-docker,1,27
 2024-01-01,telegraf-influxdb-grafana-docker,2,0
 2024-01-05,telegraf-influxdb-grafana-docker,1,18
+2024-01-06,telegraf-influxdb-grafana-docker,1,0
 2023-12-28,temp-sigfox,2,0
 2023-12-30,tkasme,2,0
 2024-01-01,tkasme,2,0
