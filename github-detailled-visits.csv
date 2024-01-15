@@ -1,21 +1,25 @@
 path,title,count,uniques,repository
 /cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,2,2,analytics-google
 /cristianpb/dotfiles/tree/master,GitHub - cristianpb/dotfiles: My dotfiles,6,3,dotfiles
+/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,5,2,dotfiles
 /cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim/.vimrc at master · cristianpb/dotfiles,4,1,dotfiles
 /cristianpb/dotfiles/tree/master/polybar/.config/polybar,dotfiles/polybar/.config/polybar at master · cristianpb/dotfiles,3,1,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/wiki2html.sh,dotfiles/wiki2html.sh at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/tree/master/polybar/.config/polybar/scripts,dotfiles/polybar/.config/polybar/scripts at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/tree/master/ranger,dotfiles/ranger at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config,dotfiles/ranger/.config at master · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,9,8,muse
-/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,4,2,muse
+/cristianpb/dotfiles,cristianpb/dotfiles: My dotfiles,1,1,dotfiles
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,17,13,muse
+/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,11,3,muse
+/cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse,4,1,muse
+/cristianpb/muse/blob/master/Dockerfile-base,muse/Dockerfile-base at master · cristianpb/muse,4,1,muse
 /cristianpb/muse/commits/master,Commits · cristianpb/muse,4,1,muse
+/cristianpb/muse/blob/master/Dockerfile-snapserver,muse/Dockerfile-snapserver at master · cristianpb/muse,2,1,muse
+/cristianpb/muse/blob/master/setup.cfg,muse/setup.cfg at master · cristianpb/muse,2,1,muse
 /cristianpb/muse/commit/060e4372975b70bd39e31dd4f9356e31f5e1dfdd,🐳 Use own snapserver docker image · cristianpb/muse@060e437,1,1,muse
 /cristianpb/muse/commit/9098b3754e7c5e1f9b98a4858a1490a5ab1e113b,🐳 Publish docker tags · cristianpb/muse@9098b37,1,1,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse,1,1,muse
-/cristianpb/muse/issues/23,"Tunein ""Now Playing"" song info does not update · Issue #23 · cristianpb/muse ...",1,1,muse
-/cristianpb/muse/issues/46,Would you put lyrics options? · Issue #46 · cristianpb/muse,1,1,muse
 /cristianpb/music-s3/actions/runs/7416041325,Workflow · cristianpb/music-s3@e7873f0 · GitHub,3,3,music-s3
 /cristianpb/music-s3/actions/runs/7416041325/job/20180276933,Workflow · cristianpb/music-s3@e7873f0 · GitHub,1,1,music-s3
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",8,8,object-detection
@@ -43,7 +47,7 @@ path,title,count,uniques,repository
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master,"cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and grafana m...",2,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/Makefile,telegraf-influxdb-grafana-docker/Makefile at master · cristianpb/telegraf-inf...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/schema.png,telegraf-influxdb-grafana-docker/schema.png at master · cristianpb/telegraf-i...,2,1,telegraf-influxdb-grafana-docker
-/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,17,3,vimwiki
+/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,18,3,vimwiki
 /cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki,17,2,vimwiki
 /cristianpb/vimwiki/blob/master/config.toml,vimwiki/config.toml at master · cristianpb/vimwiki,9,1,vimwiki
 /cristianpb/vimwiki/tree/master/layouts,vimwiki/layouts at master · cristianpb/vimwiki,6,1,vimwiki
