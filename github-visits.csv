@@ -1,6 +1,6 @@
 date,repository,clones,views
 2024-01-12,alchemy-machine,1,0
-2024-01-03,analytics-google,3,1
+2024-01-17,alchemy-machine,1,0
 2024-01-04,analytics-google,3,0
 2024-01-05,analytics-google,4,0
 2024-01-06,analytics-google,3,0
@@ -14,20 +14,22 @@ date,repository,clones,views
 2024-01-14,analytics-google,3,25
 2024-01-15,analytics-google,5,0
 2024-01-16,analytics-google,4,14
+2024-01-17,analytics-google,2,0
 2024-01-14,aws-lambda-cv,1,0
 2024-01-11,cristianpb,1,0
 2024-01-13,cristianpb,1,0
 2024-01-11,cristianpb.github.io,1,0
 2024-01-13,cristianpb.github.io,1,0
 2024-01-14,cristianpb.github.io,1,0
+2024-01-17,cristianpb.github.io,1,0
 2024-01-12,dataiku-dss-docker,1,0
+2024-01-17,dataiku-dss-docker,1,0
 2024-01-12,datalab.mi,1,0
 2024-01-12,deces-backend,1,0
 2024-01-12,deces-dataprep,2,0
 2024-01-13,deces-dataprep,1,0
 2024-01-10,deces-ui,1,0
 2024-01-13,deces-ui,1,0
-2024-01-03,dotfiles,1,0
 2024-01-07,dotfiles,2,6
 2024-01-08,dotfiles,2,1
 2024-01-11,dotfiles,1,1
@@ -36,6 +38,7 @@ date,repository,clones,views
 2024-01-13,dotfiles,0,6
 2024-01-14,dotfiles,0,4
 2024-01-16,dotfiles,0,6
+2024-01-17,dotfiles,0,2
 2024-01-14,enkontext,1,0
 2024-01-13,goaccess,1,0
 2024-01-11,gswsr,1,0
@@ -55,13 +58,12 @@ date,repository,clones,views
 2024-01-11,muse,1,1
 2024-01-12,muse,1,12
 2024-01-13,muse,3,27
-2024-01-03,muse,0,1
 2024-01-08,muse,0,2
 2024-01-10,muse,0,1
 2024-01-14,muse,0,1
 2024-01-15,muse,0,7
 2024-01-16,muse,0,11
-2024-01-03,music-s3,1,0
+2024-01-17,muse,0,7
 2024-01-04,music-s3,1,0
 2024-01-05,music-s3,1,4
 2024-01-06,music-s3,1,0
@@ -74,6 +76,7 @@ date,repository,clones,views
 2024-01-14,music-s3,1,0
 2024-01-15,music-s3,1,0
 2024-01-16,music-s3,1,0
+2024-01-17,music-s3,1,0
 2024-01-08,mybottender,1,0
 2024-01-13,mybottender,1,0
 2024-01-15,mybottender,1,0
@@ -85,7 +88,6 @@ date,repository,clones,views
 2024-01-07,object-detection,1,1
 2024-01-11,object-detection,1,4
 2024-01-13,object-detection,1,0
-2024-01-03,object-detection,0,6
 2024-01-04,object-detection,0,10
 2024-01-08,object-detection,0,9
 2024-01-12,object-detection,0,4
@@ -94,7 +96,6 @@ date,repository,clones,views
 2024-01-16,object-detection,0,10
 2024-01-12,object-detection-frontend,2,6
 2024-01-13,object-detection-frontend,1,0
-2024-01-03,object-detection-frontend,0,13
 2024-01-11,object-detection-frontend,0,5
 2024-01-11,piac-bot,1,0
 2024-01-05,playlists,3,0
@@ -104,6 +105,7 @@ date,repository,clones,views
 2024-01-11,PresentationTechnique,1,0
 2024-01-13,PresentationTechnique,1,0
 2024-01-14,priceminister,1,0
+2024-01-17,priceminister,0,6
 2024-01-12,qrcode-reader,1,0
 2024-01-12,recettes,1,0
 2024-01-13,recettes,2,0
@@ -113,8 +115,8 @@ date,repository,clones,views
 2024-01-16,rhasspy-handler,1,0
 2024-01-05,rhasspy-handler,0,1
 2024-01-07,rhasspy-handler,0,1
+2024-01-17,rhasspy-handler,0,1
 2024-01-14,simple-streaming-gateway,1,0
-2024-01-04,stats,5,0
 2024-01-05,stats,5,0
 2024-01-06,stats,3,0
 2024-01-07,stats,4,0
@@ -127,12 +129,14 @@ date,repository,clones,views
 2024-01-14,stats,4,0
 2024-01-15,stats,5,0
 2024-01-16,stats,4,0
+2024-01-17,stats,4,0
 2024-01-05,telegraf-influxdb-grafana-docker,1,18
 2024-01-06,telegraf-influxdb-grafana-docker,1,0
 2024-01-09,telegraf-influxdb-grafana-docker,1,0
 2024-01-10,telegraf-influxdb-grafana-docker,1,0
 2024-01-12,telegraf-influxdb-grafana-docker,1,1
 2024-01-13,telegraf-influxdb-grafana-docker,1,0
+2024-01-17,telegraf-influxdb-grafana-docker,1,25
 2024-01-08,telegraf-influxdb-grafana-docker,0,19
 2024-01-11,telegraf-influxdb-grafana-docker,0,3
 2024-01-15,telegraf-influxdb-grafana-docker,0,1
@@ -153,3 +157,4 @@ date,repository,clones,views
 2024-01-14,vimwiki,0,6
 2024-01-15,vimwiki,0,3
 2024-01-16,vimwiki,0,2
+2024-01-17,vimwiki,0,2
