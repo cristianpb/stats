@@ -1,6 +1,7 @@
 referrer,count,uniques,repository
 cristianpb.github.io,22,2,analytics-google
-Google,6,1,analytics-google
+Google,3,1,analytics-google
+cristianpb.github.io,2,1,cristianpb.github.io
 cristianpb.github.io,11,1,dotfiles
 github.com,4,3,dotfiles
 dotshare.it,3,1,dotfiles
@@ -9,13 +10,16 @@ Google,25,2,muse
 mopidy.com,10,8,muse
 l.workplace.com,5,1,muse
 github.com,4,2,muse
+search.nixos.org,3,2,muse
 cristianpb.github.io,2,1,muse
-search.nixos.org,1,1,muse
-cristianpb.github.io,22,3,object-detection
+cristianpb.github.io,23,4,object-detection
 github.com,8,4,object-detection
 Google,8,3,object-detection
 programcreek.com,1,1,object-detection
+DuckDuckGo,1,1,object-detection
+messages.google.com,1,1,object-detection
 github.com,2,1,object-detection-frontend
+DuckDuckGo,1,1,object-detection-frontend
 github.com,1,1,playlists
 Google,6,1,priceminister
 Google,3,2,rhasspy-handler
