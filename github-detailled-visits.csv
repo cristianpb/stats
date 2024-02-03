@@ -28,26 +28,27 @@ path,title,count,uniques,repository
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/issues/15,Snapcast server settings are not stored · Issue #15 · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/issues/23,"Tunein ""Now Playing"" song info does not update · Issue #23 · cristianpb/muse",1,1,muse
-/cristianpb/music-s3/actions,Workflow runs · cristianpb/music-s3 · GitHub,7,3,music-s3
-/cristianpb/music-s3,GitHub - cristianpb/music-s3,3,2,music-s3
+/cristianpb/music-s3/actions,Workflow runs · cristianpb/music-s3 · GitHub,9,3,music-s3
+/cristianpb/music-s3,GitHub - cristianpb/music-s3,5,2,music-s3
 /cristianpb/music-s3/actions/runs/7604540012/job/20707544440,Workflow · cristianpb/music-s3@79c5c73 · GitHub,3,1,music-s3
+/cristianpb/music-s3/tree/master/.github/workflows,music-s3/.github/workflows at master · cristianpb/music-s3 · GitHub,3,1,music-s3
+/cristianpb/music-s3/actions/runs/7733822564,Workflow · cristianpb/music-s3@79c5c73 · GitHub,2,1,music-s3
+/cristianpb/music-s3/actions/runs/7733822564/job/21086635125,Workflow · cristianpb/music-s3@79c5c73 · GitHub,2,1,music-s3
+/cristianpb/music-s3/blob/master/.github/workflows/main.yaml,music-s3/.github/workflows/main.yaml at master · cristianpb/music-s3 · GitHub,2,1,music-s3
+/cristianpb/music-s3/blob/master/.github/workflows/tests.yml,music-s3/.github/workflows/tests.yml at master · cristianpb/music-s3 · GitHub,2,1,music-s3
 /cristianpb/music-s3/actions/runs/7604540012,Workflow · cristianpb/music-s3@79c5c73 · GitHub,1,1,music-s3
 /cristianpb/music-s3/actions/runs/7618770752,Workflow · cristianpb/music-s3@79c5c73 · GitHub,1,1,music-s3
-/cristianpb/music-s3/actions/runs/7618770752/job/20750578756,Workflow · cristianpb/music-s3@79c5c73 · GitHub,1,1,music-s3
-/cristianpb/music-s3/actions/runs/7633222003,Workflow · cristianpb/music-s3@79c5c73 · GitHub,1,1,music-s3
-/cristianpb/music-s3/actions/runs/7633222003/job/20794992028,Workflow · cristianpb/music-s3@79c5c73 · GitHub,1,1,music-s3
-/cristianpb/music-s3/actions/runs/7661803949,Workflow · cristianpb/music-s3@79c5c73 · GitHub,1,1,music-s3
-/cristianpb/music-s3/actions/runs/7661803949/job/20881872779,Workflow · cristianpb/music-s3@79c5c73 · GitHub,1,1,music-s3
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",19,12,object-detection
-/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,6,1,object-detection
+/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,8,2,object-detection
+/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,5,2,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,4,2,object-detection
+/cristianpb/object-detection/blob/master/backend/motion.py,object-detection/backend/motion.py at master · cristianpb/object-detection · ...,2,1,object-detection
 /cristianpb/object-detection/blob/master/README.md,object-detection/README.md at master · cristianpb/object-detection · GitHub,2,1,object-detection
-/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection,2,1,object-detection
 /cristianpb/object-detection/tree/master/.github,object-detection/.github at master · cristianpb/object-detection · GitHub,2,1,object-detection
 /cristianpb/object-detection/tree/master/.github/workflows,object-detection/.github/workflows at master · cristianpb/object-detection · ...,2,1,object-detection
 /cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,4,3,object-detection-frontend
 /cristianpb/priceminister,GitHub - cristianpb/priceminister: Data science projet on nlp,1,1,priceminister
-/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",3,2,rhasspy-handler
+/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",4,3,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",10,6,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,10,3,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/Makefile,telegraf-influxdb-grafana-docker/Makefile at master · cristianpb/telegraf-inf...,5,1,telegraf-influxdb-grafana-docker
@@ -57,9 +58,9 @@ path,title,count,uniques,repository
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/influxdb,telegraf-influxdb-grafana-docker/docker/influxdb at master · cristianpb/teleg...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master,"cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and grafana m...",1,1,telegraf-influxdb-grafana-docker
-/cristianpb/vimwiki,cristianpb/vimwiki: My vimwiki,33,2,vimwiki
+/cristianpb/vimwiki,cristianpb/vimwiki: My vimwiki,33,3,vimwiki
 /cristianpb/vimwiki/blob/master/content/index.md,vimwiki/content/index.md at master · cristianpb/vimwiki,10,1,vimwiki
-/cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki,7,1,vimwiki
+/cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki · GitHub,9,2,vimwiki
 /cristianpb/vimwiki/blob/master/config.toml,vimwiki/config.toml at master · cristianpb/vimwiki,5,1,vimwiki
 /cristianpb/vimwiki/blob/master/config-gh.toml,vimwiki/config-gh.toml at master · cristianpb/vimwiki,4,1,vimwiki
 /cristianpb/vimwiki/tree/master/layouts,vimwiki/layouts at master · cristianpb/vimwiki,3,1,vimwiki
