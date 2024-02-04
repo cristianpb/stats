@@ -18,16 +18,9 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/ranger/.config/ranger/rifle.conf at master · cristianpb/dotfiles · G...,5,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands.py,dotfiles/ranger/.config/ranger/commands.py at master · cristianpb/dotfiles · ...,4,1,dotfiles
 /cristianpb/dotfiles/tree/master/ranger,dotfiles/ranger at master · cristianpb/dotfiles · GitHub,3,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,9,7,muse
-/cristianpb/muse/actions/runs/7602133066/job/20702315196,⬆ Update npm packages · cristianpb/muse@c5dbe1e · GitHub,2,2,muse
-/cristianpb/muse/actions,Workflow runs · cristianpb/muse,2,1,muse
-/cristianpb/muse/actions/runs/7602303377/job/20702698163,🆙 Update node version for git runner · cristianpb/muse@8bc02b2,2,1,muse
-/cristianpb/muse/actions/runs/7602287508,♿ Fix linter problems linked with A11y · cristianpb/muse@6657295,1,1,muse
-/cristianpb/muse/actions/runs/7602287508/job/20702658349,♿ Fix linter problems linked with A11y · cristianpb/muse@6657295,1,1,muse
-/cristianpb/muse/actions/runs/7602303377,🆙 Update node version for git runner · cristianpb/muse@8bc02b2,1,1,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,8,6,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/issues/15,Snapcast server settings are not stored · Issue #15 · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/muse/issues/23,"Tunein ""Now Playing"" song info does not update · Issue #23 · cristianpb/muse",1,1,muse
 /cristianpb/music-s3/actions,Workflow runs · cristianpb/music-s3 · GitHub,9,3,music-s3
 /cristianpb/music-s3,GitHub - cristianpb/music-s3,5,2,music-s3
 /cristianpb/music-s3/actions/runs/7604540012/job/20707544440,Workflow · cristianpb/music-s3@79c5c73 · GitHub,3,1,music-s3
@@ -58,7 +51,7 @@ path,title,count,uniques,repository
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/influxdb,telegraf-influxdb-grafana-docker/docker/influxdb at master · cristianpb/teleg...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master,"cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and grafana m...",1,1,telegraf-influxdb-grafana-docker
-/cristianpb/vimwiki,cristianpb/vimwiki: My vimwiki,33,3,vimwiki
+/cristianpb/vimwiki,cristianpb/vimwiki: My vimwiki,35,3,vimwiki
 /cristianpb/vimwiki/blob/master/content/index.md,vimwiki/content/index.md at master · cristianpb/vimwiki,10,1,vimwiki
 /cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki · GitHub,9,2,vimwiki
 /cristianpb/vimwiki/blob/master/config.toml,vimwiki/config.toml at master · cristianpb/vimwiki,5,1,vimwiki
