@@ -7,11 +7,11 @@ DuckDuckGo,22,1,dotfiles
 mopidy.com,16,5,muse
 github.com,15,3,muse
 cristianpb.github.io,31,2,object-detection
-Google,5,3,object-detection
-github.com,2,2,object-detection
+Google,7,4,object-detection
+github.com,3,3,object-detection
 Google,6,1,object-detection-frontend
 cristianpb.github.io,1,1,playlists
 Google,2,2,rhasspy-handler
+Google,14,5,telegraf-influxdb-grafana-docker
 cristianpb.github.io,9,1,telegraf-influxdb-grafana-docker
-Google,8,4,telegraf-influxdb-grafana-docker
 rusty-electron.github.io,2,1,vimwiki
