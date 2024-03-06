@@ -1,6 +1,7 @@
 referrer,count,uniques,repository
+yandex.ru,19,1,alchemy-machine
+cristianpb.github.io,14,1,analytics-google
 Google,12,1,analytics-google
-cristianpb.github.io,8,1,analytics-google
 github.com,12,3,cristianpb
 github.com,1,1,cristianpb.github.io
 DuckDuckGo,22,1,dotfiles
@@ -14,7 +15,7 @@ cristianpb.github.io,45,3,object-detection
 github.com,3,3,object-detection
 Google,6,1,object-detection-frontend
 Google,2,2,rhasspy-handler
-Google,10,3,telegraf-influxdb-grafana-docker
+Google,16,4,telegraf-influxdb-grafana-docker
 cristianpb.github.io,9,1,telegraf-influxdb-grafana-docker
 github.com,4,1,vimwiki
 rusty-electron.github.io,2,1,vimwiki
