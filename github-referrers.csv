@@ -1,6 +1,6 @@
 referrer,count,uniques,repository
 yandex.ru,19,1,alchemy-machine
-cristianpb.github.io,30,1,analytics-google
+cristianpb.github.io,32,1,analytics-google
 github.com,8,1,analytics-google
 Google,2,1,analytics-google
 github.com,1,1,cristianpb
@@ -11,14 +11,14 @@ cristianpb.github.io,6,4,muse
 Google,4,2,muse
 pypi.org,3,1,muse
 search.nixos.org,1,1,muse
-Google,57,2,object-detection
-github.com,18,6,object-detection
+Google,55,1,object-detection
+github.com,17,5,object-detection
 cristianpb.github.io,14,1,object-detection
 github.com,3,2,object-detection-frontend
 rxdb.dev,4,4,rhasspy-handler
 github.com,2,1,rhasspy-handler
-Google,70,7,telegraf-influxdb-grafana-docker
-medium.com,22,1,telegraf-influxdb-grafana-docker
+Google,65,7,telegraf-influxdb-grafana-docker
+medium.com,35,2,telegraf-influxdb-grafana-docker
 cristianpb.github.io,13,3,telegraf-influxdb-grafana-docker
 hackster.io,5,1,temp-sigfox
 github.com,4,1,vimwiki
