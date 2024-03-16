@@ -7,30 +7,32 @@ path,title,count,uniques,repository
 /cristianpb/alchemy-machine/blob/master/public/core.js,alchemy-machine/public/core.js at master · cristianpb/alchemy-machine · GitHub,2,1,alchemy-machine
 /cristianpb/alchemy-machine/blob/master/README.md,alchemy-machine/README.md at master · cristianpb/alchemy-machine · GitHub,2,1,alchemy-machine
 /cristianpb/alchemy-machine,GitHub - cristianpb/alchemy-machine: alchemy simulator using angularjs and no...,1,1,alchemy-machine
-/cristianpb/analytics-google/blob/master/Makefile,analytics-google/Makefile at master · cristianpb/analytics-google,32,1,analytics-google
+/cristianpb/analytics-google/blob/master/Makefile,analytics-google/Makefile at master · cristianpb/analytics-google,36,1,analytics-google
 /cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,7,6,analytics-google
 /cristianpb/analytics-google/tree/master/.github/workflows,analytics-google/.github/workflows at master · cristianpb/analytics-google · ...,3,1,analytics-google
 /cristianpb/analytics-google/blob/master/analytics.py,analytics-google/analytics.py at master · cristianpb/analytics-google · GitHub,2,1,analytics-google
 /cristianpb/analytics-google/blob/master/.github/workflows/build.yml,analytics-google/.github/workflows/build.yml at master · cristianpb/analytics...,2,1,analytics-google
-/cristianpb/cristianpb,cristianpb/cristianpb,1,1,cristianpb
-/cristianpb/cristianpb.github.io,cristianpb/cristianpb.github.io: My website,1,1,cristianpb.github.io
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,5,2,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,6,3,dotfiles
+/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,5,2,dotfiles
+/cristianpb/dotfiles/commits,Commits · cristianpb/dotfiles,4,1,dotfiles
 /cristianpb/dotfiles/tree/master/bash,dotfiles/bash at master · cristianpb/dotfiles · GitHub,3,1,dotfiles
-/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,3,1,dotfiles
+/cristianpb/dotfiles/tree/master/vim,dotfiles/vim at master · cristianpb/dotfiles,3,1,dotfiles
 /cristianpb/dotfiles/blob/master/bash/.bashrc,dotfiles/bash/.bashrc at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
-/cristianpb/dotfiles/tree/master,GitHub - cristianpb/dotfiles: My dotfiles,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,29,16,muse
+/cristianpb/dotfiles/blob/master/checkmail.sh,dotfiles/checkmail.sh at master · cristianpb/dotfiles,2,1,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,11. dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles,2,1,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/ranger/.config/ranger/rifle.conf at master · cristianpb/dotfiles,2,1,dotfiles
+/cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim/.vimrc at master · cristianpb/dotfiles,2,1,dotfiles
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,30,13,muse
 /cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse · GitHub,14,1,muse
 /cristianpb/muse/blob/master/Dockerfile-base,muse/Dockerfile-base at master · cristianpb/muse · GitHub,8,1,muse
-/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,6,2,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,4,3,muse
+/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,4,1,muse
+/cristianpb/muse/tree/master/src/routes,muse/src/routes at master · cristianpb/muse · GitHub,4,1,muse
+/cristianpb/muse/releases,Releases · cristianpb/muse · GitHub,2,2,muse
+/cristianpb/muse/blob/master/cypress/plugins/index.js,muse/cypress/plugins/index.js at master · cristianpb/muse · GitHub,2,1,muse
 /cristianpb/muse/blob/master/Dockerfile-snapserver,muse/Dockerfile-snapserver at master · cristianpb/muse · GitHub,2,1,muse
 /cristianpb/muse/blob/master/.github/workflows/mopidy-base.yml,muse/.github/workflows/mopidy-base.yml at master · cristianpb/muse · GitHub,2,1,muse
-/cristianpb/muse/blob/master/.github/workflows/publish.yml,muse/.github/workflows/publish.yml at master · cristianpb/muse · GitHub,2,1,muse
-/cristianpb/muse/blob/master/Makefile,muse/Makefile at master · cristianpb/muse · GitHub,2,1,muse
-/cristianpb/muse/issues/4,How to get snapcast control working? · Issue #4 · cristianpb/muse · GitHub,2,1,muse
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",9,6,object-detection
-/cristianpb/object-detection/tree/master/imgs,object-detection/imgs at master · cristianpb/object-detection · GitHub,9,2,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,7,2,object-detection
 /cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,6,1,object-detection
 /cristianpb/object-detection/tree/master/models/cascade,object-detection/models/cascade at master · cristianpb/object-detection · Git...,4,2,object-detection
@@ -38,10 +40,12 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/blob/master/README.md,object-detection/README.md at master · cristianpb/object-detection · GitHub,4,1,object-detection
 /cristianpb/object-detection/tree/master/.github,object-detection/.github at master · cristianpb/object-detection · GitHub,4,1,object-detection
 /cristianpb/object-detection/tree/master/.github/workflows,object-detection/.github/workflows at master · cristianpb/object-detection · ...,4,1,object-detection
-/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,3,1,object-detection
+/cristianpb/object-detection/tree/master/imgs,object-detection/imgs at master · cristianpb/object-detection · GitHub,4,1,object-detection
+/cristianpb/object-detection/blob/master/backend/app.py,object-detection/backend/app.py at master · cristianpb/object-detection · Git...,2,1,object-detection
 /cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,3,2,object-detection-frontend
-/cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,6,5,rhasspy-handler
+/cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,7,6,rhasspy-handler
 /cristianpb/rhasspy-handler/actions/runs/8217631948/job/22473543134,🗺 Add timezone support in production · cristianpb/rhasspy-handler@338874e · ...,2,1,rhasspy-handler
+/cristianpb/rhasspy-handler/tree/master/src,rhasspy-handler/src at master · cristianpb/rhasspy-handler,2,1,rhasspy-handler
 /cristianpb/rhasspy-handler/actions,Workflow runs · cristianpb/rhasspy-handler,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/actions/runs/8152064919,🐳 Use entry point instead of cmd · cristianpb/rhasspy-handler@c0c7085,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/actions/runs/8152106039,🐳 Use entry point instead of cmd · cristianpb/rhasspy-handler@7c1c983,1,1,rhasspy-handler
@@ -59,6 +63,10 @@ path,title,count,uniques,repository
 /cristianpb/temp-sigfox/blob/master/micropython/boot.py,temp-sigfox/micropython/boot.py at master · cristianpb/temp-sigfox · GitHub,2,1,temp-sigfox
 /cristianpb/temp-sigfox/tree/master/micropython,temp-sigfox/micropython at master · cristianpb/temp-sigfox · GitHub,2,1,temp-sigfox
 /cristianpb/temp-sigfox,GitHub - cristianpb/temp-sigfox: Micropython code to send data from the ESP82...,1,1,temp-sigfox
-/cristianpb/vimwiki,cristianpb/vimwiki: My vimwiki,3,1,vimwiki
-/cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki,2,1,vimwiki
-/cristianpb/vimwiki/deployments/github-pages,Deployments · cristianpb/vimwiki,1,1,vimwiki
+/cristianpb/vimwiki/tree/master/assets/css,vimwiki/assets/css at master · cristianpb/vimwiki,5,1,vimwiki
+/cristianpb/vimwiki/blob/master/assets/css/dark.css,vimwiki/assets/css/dark.css at master · cristianpb/vimwiki,2,1,vimwiki
+/cristianpb/vimwiki/blob/master/assets/css/main.css,vimwiki/assets/css/main.css at master · cristianpb/vimwiki,2,1,vimwiki
+/cristianpb/vimwiki/blob/master/assets/css/syntax.css,vimwiki/assets/css/syntax.css at master · cristianpb/vimwiki,2,1,vimwiki
+/cristianpb/vimwiki/blob/master/config-gh.toml,vimwiki/config-gh.toml at master · cristianpb/vimwiki,2,1,vimwiki
+/cristianpb/vimwiki/blob/master/config.toml,vimwiki/config.toml at master · cristianpb/vimwiki,2,1,vimwiki
+/cristianpb/vimwiki,cristianpb/vimwiki: My vimwiki,1,1,vimwiki
