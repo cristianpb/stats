@@ -1,5 +1,4 @@
 date,repository,clones,views
-2024-03-13,analytics-google,4,2
 2024-03-14,analytics-google,2,4
 2024-03-15,analytics-google,3,4
 2024-03-16,analytics-google,5,2
@@ -13,15 +12,19 @@ date,repository,clones,views
 2024-03-24,analytics-google,4,0
 2024-03-25,analytics-google,3,1
 2024-03-26,analytics-google,3,0
+2024-03-27,analytics-google,2,0
 2024-03-26,aws-lambda-cv,0,28
+2024-03-27,aws-lambda-cv,0,10
 2024-03-14,cristianpb.github.io,1,0
 2024-03-23,cristianpb.github.io,1,0
 2024-03-25,cristianpb.github.io,2,30
 2024-03-26,cristianpb.github.io,2,15
+2024-03-27,cristianpb.github.io,6,4
 2024-03-18,cristianpb.github.io,0,1
 2024-03-21,dotfiles,1,21
 2024-03-22,dotfiles,1,0
 2024-03-26,dotfiles,1,23
+2024-03-27,dotfiles,1,14
 2024-03-14,dotfiles,0,18
 2024-03-15,dotfiles,0,1
 2024-03-18,dotfiles,0,2
@@ -35,7 +38,7 @@ date,repository,clones,views
 2024-03-21,hubot-ratp,1,0
 2024-03-22,hubot-velib,1,0
 2024-03-23,hubot-velib,1,0
-2024-03-13,muse,1,0
+2024-03-27,mask-detection,1,0
 2024-03-15,muse,2,1
 2024-03-16,muse,1,5
 2024-03-17,muse,10,6
@@ -45,10 +48,10 @@ date,repository,clones,views
 2024-03-23,muse,1,1
 2024-03-24,muse,1,0
 2024-03-25,muse,10,6
+2024-03-27,muse,1,0
 2024-03-14,muse,0,31
 2024-03-19,muse,0,12
 2024-03-26,muse,0,22
-2024-03-13,music-s3,1,0
 2024-03-14,music-s3,1,0
 2024-03-15,music-s3,1,0
 2024-03-17,music-s3,1,0
@@ -61,6 +64,7 @@ date,repository,clones,views
 2024-03-24,music-s3,1,0
 2024-03-25,music-s3,1,0
 2024-03-26,music-s3,1,0
+2024-03-27,music-s3,1,0
 2024-03-15,myhubot,1,0
 2024-03-18,myhubot,1,0
 2024-03-19,myhubot,1,0
@@ -70,6 +74,7 @@ date,repository,clones,views
 2024-03-20,object-detection,2,0
 2024-03-21,object-detection,1,5
 2024-03-22,object-detection,1,3
+2024-03-27,object-detection,1,4
 2024-03-14,object-detection,0,2
 2024-03-16,object-detection,0,1
 2024-03-18,object-detection,0,3
@@ -80,6 +85,7 @@ date,repository,clones,views
 2024-03-19,object-detection-frontend,2,6
 2024-03-22,object-detection-frontend,1,1
 2024-03-23,object-detection-frontend,1,2
+2024-03-27,object-detection-frontend,0,3
 2024-03-15,playlists,6,0
 2024-03-16,playlists,1,2
 2024-03-18,playlists,1,0
@@ -90,7 +96,7 @@ date,repository,clones,views
 2024-03-21,rhasspy-handler,1,0
 2024-03-22,rhasspy-handler,1,0
 2024-03-14,rhasspy-handler,0,3
-2024-03-14,stats,5,0
+2024-03-14,stats,1,0
 2024-03-15,stats,4,0
 2024-03-16,stats,4,0
 2024-03-17,stats,5,0
@@ -103,10 +109,10 @@ date,repository,clones,views
 2024-03-24,stats,3,0
 2024-03-25,stats,3,0
 2024-03-26,stats,4,0
+2024-03-27,stats,3,0
 2024-03-19,telegraf-influxdb-grafana-docker,1,7
 2024-03-21,telegraf-influxdb-grafana-docker,1,17
 2024-03-23,telegraf-influxdb-grafana-docker,1,0
-2024-03-13,telegraf-influxdb-grafana-docker,0,14
 2024-03-17,telegraf-influxdb-grafana-docker,0,42
 2024-03-18,telegraf-influxdb-grafana-docker,0,3
 2024-03-20,telegraf-influxdb-grafana-docker,0,32
@@ -117,6 +123,7 @@ date,repository,clones,views
 2024-03-20,vimwiki,1,28
 2024-03-22,vimwiki,1,0
 2024-03-24,vimwiki,1,0
+2024-03-27,vimwiki,1,0
 2024-03-14,vimwiki,0,16
 2024-03-15,vimwiki,0,23
 2024-03-17,vimwiki,0,3
