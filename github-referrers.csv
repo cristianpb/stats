@@ -4,11 +4,11 @@ Google,3,2,analytics-google
 tailwindresources.com,1,1,analytics-google
 cristianpb.github.io,28,1,aws-lambda-cv
 github.com,56,3,cristianpb.github.io
-cristianpb.github.io,34,2,dotfiles
+cristianpb.github.io,24,1,dotfiles
 Google,23,1,dotfiles
 github.com,15,1,dotfiles
 discourse.gohugo.io,4,1,dotfiles
-mopidy.com,23,8,muse
+mopidy.com,26,9,muse
 search.nixos.org,6,5,muse
 cristianpb.github.io,2,2,muse
 github.com,2,1,muse
@@ -18,8 +18,7 @@ cristianpb.github.io,19,3,object-detection
 Google,18,5,object-detection
 github.com,2,1,object-detection
 programcreek.com,1,1,object-detection
-hackster.io,1,1,object-detection
-Google,19,2,object-detection-frontend
+Google,20,3,object-detection-frontend
 cristianpb.github.io,1,1,playlists
 Google,35,1,telegraf-influxdb-grafana-docker
 medium.com,3,1,telegraf-influxdb-grafana-docker
