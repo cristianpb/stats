@@ -1,44 +1,44 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,12,6,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,14,8,analytics-google
+/cristianpb/analytics-google/blob/master/package.json,analytics-google/package.json at master · cristianpb/analytics-google · GitHub,4,2,analytics-google
 /cristianpb/analytics-google/branches,Branches · cristianpb/analytics-google · GitHub,4,2,analytics-google
 /cristianpb/analytics-google/blob/gh-pages/_app/immutable/assets/0.1d3a72c9.css,analytics-google/_app/immutable/assets/0.1d3a72c9.css at gh-pages · cristianp...,4,1,analytics-google
 /cristianpb/analytics-google/blob/gh-pages/_app/immutable/assets/3.bc783ab0.css,analytics-google/_app/immutable/assets/3.bc783ab0.css at gh-pages · cristianp...,4,1,analytics-google
 /cristianpb/analytics-google/blob/gh-pages/_app/immutable/assets/_layout.1d3a72c9.css,analytics-google/_app/immutable/assets/_layout.1d3a72c9.css at gh-pages · cri...,4,1,analytics-google
+/cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google · GitHub,4,1,analytics-google
 /cristianpb/analytics-google/pulls,Pull requests · cristianpb/analytics-google · GitHub,3,2,analytics-google
-/cristianpb/analytics-google/blob/1f41e316526b4c7b5197639341db5e582be9672f/src/components/views/Algolia.svelte,analytics-google/src/components/views/Algolia.svelte at 1f41e316526b4c7b51976...,2,1,analytics-google
-/cristianpb/analytics-google/blob/gh-pages/algolia.html,analytics-google/algolia.html at gh-pages · cristianpb/analytics-google,2,1,analytics-google
-/cristianpb/analytics-google/blob/gh-pages/_app/immutable/assets/_page.bc783ab0.css,analytics-google/_app/immutable/assets/_page.bc783ab0.css at gh-pages · crist...,2,1,analytics-google
-/cristianpb/analytics-google/blob/gh-pages/_app/immutable/entry/app.4dcb341a.js,analytics-google/_app/immutable/entry/app.4dcb341a.js at gh-pages · cristianp...,2,1,analytics-google
-/cristianpb/cristianpb.github.io/pulls,Pull requests · cristianpb/cristianpb.github.io,9,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io,cristianpb/cristianpb.github.io: My website,7,1,cristianpb.github.io
+/cristianpb/analytics-google/tree/master/src/lib,analytics-google/src/lib at master · cristianpb/analytics-google · GitHub,3,1,analytics-google
+/cristianpb/analytics-google/tree/master/src/routes,analytics-google/src/routes at master · cristianpb/analytics-google · GitHub,3,1,analytics-google
+/cristianpb/cristianpb.github.io/pulls,Pull requests · cristianpb/cristianpb.github.io,8,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io,cristianpb/cristianpb.github.io: My website,5,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions,Workflow runs · cristianpb/cristianpb.github.io,4,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/pull/46,Bulma1.0 by cristianpb · Pull Request #46 · cristianpb/cristianpb.github.io,3,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/8459601892/job/23176246665,🎨 Adapt content · cristianpb/cristianpb.github.io@d832ffd,2,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io/blob/master/_includes/main-post-min.css,cristianpb.github.io/_includes/main-post-min.css at master · cristianpb/crist...,2,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/branches,Branches · cristianpb/cristianpb.github.io,2,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/pull/46/checks,Bulma1.0 by cristianpb · Pull Request #46 · cristianpb/cristianpb.github.io,2,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/security,Security Overview · cristianpb/cristianpb.github.io,2,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/security/dependabot,Dependabot alerts · cristianpb/cristianpb.github.io,2,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/8459601892,🎨 Adapt content · cristianpb/cristianpb.github.io@d832ffd,1,1,cristianpb.github.io
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,32,7,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles,16,6,dotfiles
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,12,4,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,13,5,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands.py,dotfiles/ranger/.config/ranger/commands.py at master · cristianpb/dotfiles · ...,8,4,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles,6,3,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/ranger/.config/ranger/rifle.conf at master · cristianpb/dotfiles,6,2,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands_full.py,dotfiles/ranger/.config/ranger/commands_full.py at master · cristianpb/dotfiles,4,2,dotfiles
+/cristianpb/dotfiles/tree/master/vim,dotfiles/vim at master · cristianpb/dotfiles · GitHub,4,2,dotfiles
 /cristianpb/dotfiles/tree/master/top,dotfiles/top at master · cristianpb/dotfiles · GitHub,3,1,dotfiles
 /cristianpb/dotfiles/blob/master/top/.toprc,dotfiles/top/.toprc at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
-/cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim/.vimrc at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,15,11,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,15,10,muse
 /cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse,6,1,muse
 /cristianpb/muse/blob/master/Dockerfile-snapserver,muse/Dockerfile-snapserver at master · cristianpb/muse · GitHub,5,2,muse
 /cristianpb/muse/actions,Workflow runs · cristianpb/muse · GitHub,4,2,muse
 /cristianpb/muse/actions/runs/8545574822/job/23414166895,💄 update css styles for dark mode · cristianpb/muse@a7f1011 · GitHub,3,2,muse
+/cristianpb/muse/branches,Branches · cristianpb/muse · GitHub,3,1,muse
 /cristianpb/muse/commits/master/.github/workflows/publish.yml,History for .github/workflows/publish.yml - cristianpb/muse,3,1,muse
 /cristianpb/muse/tree/master/.github/workflows,muse/.github/workflows at master · cristianpb/muse,3,1,muse
 /cristianpb/muse/tree/master/mopidy_muse/static,muse/mopidy_muse/static at master · cristianpb/muse,3,1,muse
 /cristianpb/muse/actions/runs/8313654861,🐳 Remove mopidy base image · cristianpb/muse@13bd65e · GitHub,2,2,muse
-/cristianpb/muse/actions/runs/8313654861/job/22749884481,🐳 Remove mopidy base image · cristianpb/muse@13bd65e · GitHub,2,2,muse
 /cristianpb/ngTwitterApp,GitHub - cristianpb/ngTwitterApp: Angular twitter App,1,1,ngTwitterApp
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,10,5,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,10,4,object-detection
@@ -50,13 +50,14 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/blob/master/imgs/image.jpeg,object-detection/imgs/image.jpeg at master · cristianpb/object-detection,2,1,object-detection
 /cristianpb/object-detection/blob/master/models/ssd_mobilenet/ssd_mobilenet_v2_coco_2018_03_29.pbtxt,object-detection/models/ssd_mobilenet/ssd_mobilenet_v2_coco_2018_03_29.pbtxt ...,2,1,object-detection
 /cristianpb/object-detection/blob/master/README.md,object-detection/README.md at master · cristianpb/object-detection,2,1,object-detection
-/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,6,3,object-detection-frontend
+/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,7,4,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/src/app,object-detection-frontend/src/app at master · cristianpb/object-detection-fro...,4,1,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/src,object-detection-frontend/src at master · cristianpb/object-detection-fronten...,3,1,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/src/app/camera,object-detection-frontend/src/app/camera at master · cristianpb/object-detect...,3,1,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/src/app/camera/camera.component.html,object-detection-frontend/src/app/camera/camera.component.html at master · cr...,2,1,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/src/app/preview,object-detection-frontend/src/app/preview at master · cristianpb/object-detec...,2,1,object-detection-frontend
 /cristianpb/playlists,GitHub - cristianpb/playlists,1,1,playlists
+/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",1,1,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,20,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,16,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/dashboard.yaml,telegraf-influxdb-grafana-docker/docker/grafana/dashboard.yaml at master · cr...,8,2,telegraf-influxdb-grafana-docker
