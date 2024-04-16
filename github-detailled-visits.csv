@@ -1,17 +1,17 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,16,10,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,12,9,analytics-google
 /cristianpb/analytics-google/blob/master/package.json,analytics-google/package.json at master · cristianpb/analytics-google · GitHub,4,2,analytics-google
-/cristianpb/analytics-google/branches,Branches · cristianpb/analytics-google · GitHub,4,2,analytics-google
 /cristianpb/analytics-google/blob/gh-pages/_app/immutable/assets/0.1d3a72c9.css,analytics-google/_app/immutable/assets/0.1d3a72c9.css at gh-pages · cristianp...,4,1,analytics-google
 /cristianpb/analytics-google/blob/gh-pages/_app/immutable/assets/3.bc783ab0.css,analytics-google/_app/immutable/assets/3.bc783ab0.css at gh-pages · cristianp...,4,1,analytics-google
 /cristianpb/analytics-google/blob/gh-pages/_app/immutable/assets/_layout.1d3a72c9.css,analytics-google/_app/immutable/assets/_layout.1d3a72c9.css at gh-pages · cri...,4,1,analytics-google
 /cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google · GitHub,4,1,analytics-google
-/cristianpb/analytics-google/pulls,Pull requests · cristianpb/analytics-google · GitHub,3,2,analytics-google
 /cristianpb/analytics-google/tree/master/src/lib,analytics-google/src/lib at master · cristianpb/analytics-google · GitHub,3,1,analytics-google
 /cristianpb/analytics-google/tree/master/src/routes,analytics-google/src/routes at master · cristianpb/analytics-google · GitHub,3,1,analytics-google
+/cristianpb/analytics-google/blob/gh-pages/algolia.html,analytics-google/algolia.html at gh-pages · cristianpb/analytics-google,2,1,analytics-google
+/cristianpb/analytics-google/blob/gh-pages/_app/immutable/assets/_page.bc783ab0.css,analytics-google/_app/immutable/assets/_page.bc783ab0.css at gh-pages · crist...,2,1,analytics-google
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,34,8,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles,18,7,dotfiles
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,12,5,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,11,5,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands.py,dotfiles/ranger/.config/ranger/commands.py at master · cristianpb/dotfiles · ...,8,4,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles,6,3,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/ranger/.config/ranger/rifle.conf at master · cristianpb/dotfiles,6,2,dotfiles
@@ -19,7 +19,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/tree/master/vim,dotfiles/vim at master · cristianpb/dotfiles · GitHub,4,2,dotfiles
 /cristianpb/dotfiles/tree/master/top,dotfiles/top at master · cristianpb/dotfiles · GitHub,3,1,dotfiles
 /cristianpb/dotfiles/blob/master/top/.toprc,dotfiles/top/.toprc at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,22,14,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,21,13,muse
 /cristianpb/muse/actions,Workflow runs · cristianpb/muse · GitHub,4,2,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse,4,1,muse
 /cristianpb/muse/actions/runs/8545574822/job/23414166895,💄 update css styles for dark mode · cristianpb/muse@a7f1011 · GitHub,3,2,muse
@@ -33,8 +33,8 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,8,4,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,8,3,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,4,1,object-detection
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",3,3,object-detection
 /cristianpb/object-detection/tree/master/models/ssd_mobilenet,object-detection/models/ssd_mobilenet at master · cristianpb/object-detection...,3,1,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",2,2,object-detection
 /cristianpb/object-detection/blob/master/imgs/image_box.jpg,object-detection/imgs/image_box.jpg at master · cristianpb/object-detection,2,1,object-detection
 /cristianpb/object-detection/blob/master/imgs/image_box_text.jpg,object-detection/imgs/image_box_text.jpg at master · cristianpb/object-detect...,2,1,object-detection
 /cristianpb/object-detection/blob/master/imgs/image.jpeg,object-detection/imgs/image.jpeg at master · cristianpb/object-detection,2,1,object-detection
@@ -59,6 +59,6 @@ path,title,count,uniques,repository
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/DashboardTelegraf.json,telegraf-influxdb-grafana-docker/docker/grafana/DashboardTelegraf.json at mas...,5,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf.conf,telegraf-influxdb-grafana-docker/docker/telegraf/telegraf.conf at master · cr...,5,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master,telegraf-influxdb-grafana-docker/ at master · cristianpb/telegraf-influxdb-gr...,5,2,telegraf-influxdb-grafana-docker
-/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,3,3,vimwiki
+/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,2,2,vimwiki
 /cristianpb/vimwiki/blob/master/content/ubuntu.md,vimwiki/content/ubuntu.md at master · cristianpb/vimwiki,2,1,vimwiki
 /cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki,2,1,vimwiki
