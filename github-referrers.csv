@@ -1,12 +1,13 @@
 referrer,count,uniques,repository
 Google,19,3,analytics-google
+github.com,10,2,analytics-google
 cristianpb.github.io,2,1,analytics-google
-github.com,1,1,analytics-google
 cristianpb.github.io,7,1,dotfiles
 dotshare.it,6,1,dotfiles
+Google,2,1,dotfiles
 cristianpb.github.io,9,1,muse
+mopidy.com,4,4,muse
 Google,4,2,muse
-mopidy.com,3,3,muse
 Google,75,3,object-detection
 github.com,47,4,object-detection
 cristianpb.github.io,33,2,object-detection
