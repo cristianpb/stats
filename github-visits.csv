@@ -1,5 +1,4 @@
 date,repository,clones,views
-2024-04-07,analytics-google,3,0
 2024-04-08,analytics-google,4,0
 2024-04-09,analytics-google,4,3
 2024-04-10,analytics-google,4,1
@@ -13,10 +12,11 @@ date,repository,clones,views
 2024-04-18,analytics-google,3,0
 2024-04-19,analytics-google,3,9
 2024-04-20,analytics-google,6,1
+2024-04-21,analytics-google,4,0
 2024-04-19,aws-lambda-cv,1,0
 2024-04-11,cristianpb,1,0
 2024-04-19,dotfiles,1,2
-2024-04-07,dotfiles,0,14
+2024-04-21,dotfiles,2,0
 2024-04-08,dotfiles,0,34
 2024-04-09,dotfiles,0,6
 2024-04-10,dotfiles,0,4
@@ -28,7 +28,6 @@ date,repository,clones,views
 2024-04-12,hubot-ratp,1,0
 2024-04-20,hubot-ratp,1,0
 2024-04-12,hubot-velib,1,0
-2024-04-07,muse,17,24
 2024-04-09,muse,1,0
 2024-04-10,muse,1,0
 2024-04-11,muse,1,5
@@ -40,7 +39,7 @@ date,repository,clones,views
 2024-04-14,muse,0,16
 2024-04-15,muse,0,4
 2024-04-16,muse,0,2
-2024-04-07,music-s3,1,0
+2024-04-21,muse,0,1
 2024-04-08,music-s3,1,0
 2024-04-09,music-s3,1,0
 2024-04-10,music-s3,1,0
@@ -52,18 +51,17 @@ date,repository,clones,views
 2024-04-18,music-s3,1,0
 2024-04-19,music-s3,7,0
 2024-04-11,mybottender,1,0
-2024-04-07,object-detection,2,0
 2024-04-08,object-detection,1,2
 2024-04-11,object-detection,2,0
 2024-04-15,object-detection,2,136
 2024-04-17,object-detection,4,36
 2024-04-18,object-detection,1,2
+2024-04-21,object-detection,1,0
 2024-04-10,object-detection,0,2
 2024-04-13,object-detection,0,1
 2024-04-16,object-detection,0,46
 2024-04-19,object-detection,0,4
 2024-04-20,object-detection,0,2
-2024-04-07,object-detection-frontend,2,0
 2024-04-17,object-detection-frontend,6,1
 2024-04-20,object-detection-frontend,1,5
 2024-04-10,object-detection-frontend,0,3
@@ -76,7 +74,6 @@ date,repository,clones,views
 2024-04-11,rhasspy-handler,0,1
 2024-04-18,rhasspy-handler,0,1
 2024-04-19,simple-streaming-gateway,1,0
-2024-04-08,stats,3,0
 2024-04-09,stats,3,0
 2024-04-10,stats,3,0
 2024-04-11,stats,4,0
@@ -89,6 +86,7 @@ date,repository,clones,views
 2024-04-18,stats,3,0
 2024-04-19,stats,3,0
 2024-04-20,stats,5,0
+2024-04-21,stats,6,0
 2024-04-09,telegraf-influxdb-grafana-docker,0,45
 2024-04-10,telegraf-influxdb-grafana-docker,0,5
 2024-04-12,telegraf-influxdb-grafana-docker,0,1
