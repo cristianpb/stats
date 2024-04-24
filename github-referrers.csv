@@ -7,12 +7,12 @@ Google,2,1,dotfiles
 cristianpb.github.io,9,1,muse
 mopidy.com,5,5,muse
 Google,4,2,muse
-Google,73,2,object-detection
+Google,74,3,object-detection
 github.com,47,4,object-detection
 cristianpb.github.io,33,2,object-detection
-Google,17,5,object-detection-frontend
-Google,2,2,rhasspy-handler
-Google,29,6,telegraf-influxdb-grafana-docker
+Google,14,4,object-detection-frontend
+Google,3,3,rhasspy-handler
+Google,49,7,telegraf-influxdb-grafana-docker
 medium.com,1,1,telegraf-influxdb-grafana-docker
 cristianpb.github.io,58,1,vimwiki
 github.com,5,1,vimwiki
