@@ -4,12 +4,12 @@ dotshare.it,6,1,dotfiles
 cristianpb.github.io,6,1,dotfiles
 Google,2,1,dotfiles
 mopidy.com,7,3,muse
-Google,4,2,muse
-Google,88,5,object-detection
-cristianpb.github.io,72,6,object-detection
+Google,2,1,muse
 github.com,47,4,object-detection
+cristianpb.github.io,42,5,object-detection
+Google,16,4,object-detection
 Google,13,4,object-detection-frontend
 github.com,1,1,object-detection-frontend
-Google,4,4,rhasspy-handler
+Google,6,5,rhasspy-handler
 Google,35,7,telegraf-influxdb-grafana-docker
 cristianpb.github.io,58,1,vimwiki
