@@ -1,27 +1,19 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,6,6,analytics-google
-/cristianpb/analytics-google/blob/master/Makefile,analytics-google/Makefile at master · cristianpb/analytics-google,4,1,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,7,7,analytics-google
+/cristianpb/analytics-google/blob/master/Makefile,analytics-google/Makefile at master · cristianpb/analytics-google,6,1,analytics-google
 /cristianpb/analytics-google/blob/master/README.md,analytics-google/README.md at master · cristianpb/analytics-google,2,1,analytics-google
 /cristianpb/analytics-google/blob/master/requirements.txt,analytics-google/requirements.txt at master · cristianpb/analytics-google,2,1,analytics-google
 /cristianpb/cristianpb,GitHub - cristianpb/cristianpb,1,1,cristianpb
-/cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,3,2,cristianpb.github.io
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,30,3,dotfiles
-/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles,9,1,dotfiles
-/cristianpb/dotfiles/tree/master,GitHub - cristianpb/dotfiles: My dotfiles,3,2,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands_full.py,dotfiles/ranger/.config/ranger/commands_full.py at master · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands.py,dotfiles/ranger/.config/ranger/commands.py at master · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/dotfiles/commits,Commits · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/dotfiles/tree/master/bash,dotfiles/bash at master · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/dotfiles/tree/master/ranger,dotfiles/ranger at master · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,13,10,muse
-/cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,2,2,muse
+/cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,1,1,cristianpb.github.io
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,28,3,dotfiles
+/cristianpb/dotfiles/tree/master,GitHub - cristianpb/dotfiles: My dotfiles,2,1,dotfiles
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,15,12,muse
+/cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,3,3,muse
 /cristianpb/muse/issues/51,error connecting to mopidy · Issue #51 · cristianpb/muse · GitHub,2,2,muse
 /cristianpb/muse/issues/17,Mopidy Server connection does not seem to work · Issue #17 · cristianpb/muse ...,1,1,muse
 /cristianpb/muse/issues/23,"Tunein ""Now Playing"" song info does not update · Issue #23 · cristianpb/muse ...",1,1,muse
 /cristianpb/muse/issues/46,Would you put lyrics options? · Issue #46 · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/object-detection,object-detection/models at master · cristianpb/object-detection,18,16,object-detection
+/cristianpb/object-detection,object-detection/models at master · cristianpb/object-detection,17,15,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,9,3,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,4,2,object-detection
 /cristianpb/object-detection/blob/master/backend/camera.py,object-detection/backend/camera.py at master · cristianpb/object-detection,2,1,object-detection
@@ -37,10 +29,15 @@ path,title,count,uniques,repository
 /cristianpb/rhasspy-handler/tree/master,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,1,1,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,10,4,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,8,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",4,4,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master,telegraf-influxdb-grafana-docker/ at master · cristianpb/telegraf-influxdb-gr...,4,2,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",3,3,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,telegraf-influxdb-grafana-docker/docker-compose-gpu.yml at master · cristianp...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/influxdb,telegraf-influxdb-grafana-docker/docker/influxdb at master · cristianpb/teleg...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/telegraf,telegraf-influxdb-grafana-docker/docker/telegraf at master · cristianpb/teleg...,2,1,telegraf-influxdb-grafana-docker
-/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,1,1,vimwiki
+/cristianpb/vimwiki/fork,Fork cristianpb/vimwiki,6,1,vimwiki
+/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,3,2,vimwiki
+/cristianpb/vimwiki/tree/master/layouts,vimwiki/layouts at master · cristianpb/vimwiki,3,1,vimwiki
+/cristianpb/vimwiki/tree/master/layouts/_default,vimwiki/layouts/_default at master · cristianpb/vimwiki,2,1,vimwiki
+/cristianpb/vimwiki/stargazers,Stargazers · cristianpb/vimwiki,1,1,vimwiki
+/cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki,1,1,vimwiki
