@@ -5,14 +5,18 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/blob/master/requirements.txt,analytics-google/requirements.txt at master · cristianpb/analytics-google,2,1,analytics-google
 /cristianpb/cristianpb,GitHub - cristianpb/cristianpb,1,1,cristianpb
 /cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,1,1,cristianpb.github.io
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,28,3,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,25,3,dotfiles
 /cristianpb/dotfiles/tree/master,GitHub - cristianpb/dotfiles: My dotfiles,2,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,15,12,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,16,13,muse
+/cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse · GitHub,8,1,muse
+/cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse · GitHub,5,1,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,3,3,muse
-/cristianpb/muse/issues/51,error connecting to mopidy · Issue #51 · cristianpb/muse · GitHub,2,2,muse
-/cristianpb/muse/issues/17,Mopidy Server connection does not seem to work · Issue #17 · cristianpb/muse ...,1,1,muse
-/cristianpb/muse/issues/23,"Tunein ""Now Playing"" song info does not update · Issue #23 · cristianpb/muse ...",1,1,muse
-/cristianpb/muse/issues/46,Would you put lyrics options? · Issue #46 · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/blob/master/src/app.html,muse/src/app.html at master · cristianpb/muse · GitHub,2,1,muse
+/cristianpb/muse/tree/master/cypress,muse/cypress at master · cristianpb/muse · GitHub,2,1,muse
+/cristianpb/muse/tree/master/.github,muse/.github at master · cristianpb/muse · GitHub,2,1,muse
+/cristianpb/muse/tree/master/.github/workflows,muse/.github/workflows at master · cristianpb/muse · GitHub,2,1,muse
+/cristianpb/muse/tree/master/src/routes,muse/src/routes at master · cristianpb/muse · GitHub,2,1,muse
+/cristianpb/muse/tree/master/static,muse/static at master · cristianpb/muse · GitHub,2,1,muse
 /cristianpb/object-detection,object-detection/models at master · cristianpb/object-detection,17,15,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,9,3,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,4,2,object-detection
@@ -36,8 +40,8 @@ path,title,count,uniques,repository
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/influxdb,telegraf-influxdb-grafana-docker/docker/influxdb at master · cristianpb/teleg...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/telegraf,telegraf-influxdb-grafana-docker/docker/telegraf at master · cristianpb/teleg...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/vimwiki/fork,Fork cristianpb/vimwiki,6,1,vimwiki
-/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,3,2,vimwiki
 /cristianpb/vimwiki/tree/master/layouts,vimwiki/layouts at master · cristianpb/vimwiki,3,1,vimwiki
+/cristianpb/vimwiki,cristianpb/vimwiki: My vimwiki,2,1,vimwiki
 /cristianpb/vimwiki/tree/master/layouts/_default,vimwiki/layouts/_default at master · cristianpb/vimwiki,2,1,vimwiki
 /cristianpb/vimwiki/stargazers,Stargazers · cristianpb/vimwiki,1,1,vimwiki
 /cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki,1,1,vimwiki
