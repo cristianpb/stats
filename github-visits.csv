@@ -1,5 +1,4 @@
 date,repository,clones,views
-2024-05-05,analytics-google,3,0
 2024-05-06,analytics-google,6,0
 2024-05-07,analytics-google,5,1
 2024-05-08,analytics-google,5,5
@@ -13,6 +12,7 @@ date,repository,clones,views
 2024-05-16,analytics-google,5,3
 2024-05-17,analytics-google,3,0
 2024-05-18,analytics-google,5,2
+2024-05-19,analytics-google,3,0
 2024-05-06,aws-lambda-cv,1,0
 2024-05-15,cristianpb,0,1
 2024-05-06,cristianpb.github.io,1,0
@@ -20,7 +20,6 @@ date,repository,clones,views
 2024-05-15,cristianpb.github.io,1,1
 2024-05-16,cristianpb.github.io,4,0
 2024-05-12,dotfiles,1,2
-2024-05-05,dotfiles,0,3
 2024-05-06,dotfiles,0,2
 2024-05-07,dotfiles,0,1
 2024-05-08,dotfiles,0,1
@@ -39,13 +38,12 @@ date,repository,clones,views
 2024-05-11,muse,1,6
 2024-05-12,muse,2,1
 2024-05-13,muse,1,1
-2024-05-05,muse,0,2
+2024-05-19,muse,1,0
 2024-05-08,muse,0,2
 2024-05-15,muse,0,1
 2024-05-16,muse,0,3
 2024-05-17,muse,0,27
 2024-05-18,muse,0,10
-2024-05-05,music-s3,1,0
 2024-05-06,music-s3,2,0
 2024-05-07,music-s3,1,0
 2024-05-08,music-s3,1,0
@@ -57,12 +55,13 @@ date,repository,clones,views
 2024-05-15,music-s3,1,0
 2024-05-16,music-s3,1,0
 2024-05-17,music-s3,1,0
+2024-05-19,music-s3,1,0
 2024-05-17,myhubot,1,0
+2024-05-19,myhubot,1,0
 2024-05-08,object-detection,1,1
 2024-05-12,object-detection,1,0
 2024-05-13,object-detection,1,2
 2024-05-18,object-detection,1,0
-2024-05-05,object-detection,0,1
 2024-05-06,object-detection,0,3
 2024-05-07,object-detection,0,15
 2024-05-09,object-detection,0,6
@@ -71,6 +70,7 @@ date,repository,clones,views
 2024-05-15,object-detection,0,3
 2024-05-16,object-detection,0,2
 2024-05-17,object-detection,0,1
+2024-05-19,object-detection,0,8
 2024-05-06,object-detection-frontend,0,1
 2024-05-09,object-detection-frontend,0,9
 2024-05-11,object-detection-frontend,0,1
@@ -83,7 +83,6 @@ date,repository,clones,views
 2024-05-12,playlists,2,0
 2024-05-17,playlists,5,0
 2024-05-12,PresentationTechnique,2,0
-2024-05-05,priceminister,1,0
 2024-05-07,priceminister,1,0
 2024-05-17,priceminister,1,0
 2024-05-18,priceminister,1,0
@@ -92,8 +91,7 @@ date,repository,clones,views
 2024-05-07,rhasspy-handler,0,6
 2024-05-12,rhasspy-handler,0,1
 2024-05-11,simple-streaming-gateway,1,0
-2024-05-05,stats,2,0
-2024-05-06,stats,4,0
+2024-05-06,stats,1,0
 2024-05-07,stats,4,0
 2024-05-08,stats,3,0
 2024-05-09,stats,4,0
@@ -106,6 +104,7 @@ date,repository,clones,views
 2024-05-16,stats,4,0
 2024-05-17,stats,3,0
 2024-05-18,stats,4,0
+2024-05-19,stats,3,0
 2024-05-06,telegraf-influxdb-grafana-docker,0,3
 2024-05-07,telegraf-influxdb-grafana-docker,0,2
 2024-05-10,telegraf-influxdb-grafana-docker,0,1
@@ -114,5 +113,4 @@ date,repository,clones,views
 2024-05-14,telegraf-influxdb-grafana-docker,0,2
 2024-05-16,telegraf-influxdb-grafana-docker,0,1
 2024-05-06,temp-sigfox,1,0
-2024-05-05,vimwiki,1,1
 2024-05-16,vimwiki,0,15
