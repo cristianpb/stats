@@ -1,10 +1,10 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google/blob/master/Makefile,analytics-google/Makefile at master · cristianpb/analytics-google,10,1,analytics-google
+/cristianpb/analytics-google/blob/master/Makefile,analytics-google/Makefile at master · cristianpb/analytics-google · GitHub,10,2,analytics-google
 /cristianpb/analytics-google,cristianpb/analytics-google: Google analytics from cristianpb.github.io,3,2,analytics-google
 /cristianpb/cristianpb.github.io,cristianpb/cristianpb.github.io: My website,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/9260233262,➕ Add WWW 2024 articles · cristianpb/cristianpb.github.io@73d87b6,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/9260233262/job/25473663757,➕ Add WWW 2024 articles · cristianpb/cristianpb.github.io@73d87b6,1,1,cristianpb.github.io
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,10,5,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,11,6,dotfiles
 /cristianpb/dotfiles/tree/master,dotfiles/ at master · cristianpb/dotfiles · GitHub,9,1,dotfiles
 /cristianpb/dotfiles/tree/master/msmtp,dotfiles/msmtp at master · cristianpb/dotfiles · GitHub,6,1,dotfiles
 /cristianpb/dotfiles/blob/master/msmtp/.msmtprc,dotfiles/msmtp/.msmtprc at master · cristianpb/dotfiles · GitHub,5,1,dotfiles
@@ -14,22 +14,23 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,4,1,dotfiles
 /cristianpb/dotfiles/tree/master/dunst/.config/dunst,dotfiles/dunst/.config/dunst at master · cristianpb/dotfiles · GitHub,3,1,dotfiles
 /cristianpb/dotfiles/tree/master/gnupg/.gnupg,dotfiles/gnupg/.gnupg at master · cristianpb/dotfiles · GitHub,3,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,18,11,muse
-/cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse · GitHub,5,2,muse
-/cristianpb/muse/tree/master/src/lib,muse/src/lib at master · cristianpb/muse · GitHub,5,2,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,16,9,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse,4,3,muse
-/cristianpb/muse/blob/master/src/lib/tools/mopidyTools.js,muse/src/lib/tools/mopidyTools.js at master · cristianpb/muse · GitHub,4,2,muse
 /cristianpb/muse/blob/master/src/lib/tools/snapcast.js,muse/src/lib/tools/snapcast.js at master · cristianpb/muse,4,1,muse
 /cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse,4,1,muse
 /cristianpb/muse/actions/runs/9220095288/job/25366421071,⬆ Update snapserver version · cristianpb/muse@30ac320 · GitHub,2,2,muse
 /cristianpb/muse/actions,Workflow runs · cristianpb/muse,2,1,muse
 /cristianpb/muse/blob/master/Makefile,muse/Makefile at master · cristianpb/muse,2,1,muse
+/cristianpb/muse/blob/master/mopidy_muse/mopidy.conf,muse/mopidy_muse/mopidy.conf at master · cristianpb/muse,2,1,muse
+/cristianpb/muse/blob/master/src/lib/tools/mopidyTools.js,muse/src/lib/tools/mopidyTools.js at master · cristianpb/muse,2,1,muse
+/cristianpb/muse/blob/master/src/routes/404/%2Blayout.js,muse/src/routes/404/+layout.js at master · cristianpb/muse,2,1,muse
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,14,5,object-detection
-/cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,8,2,object-detection
-/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,6,2,object-detection
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",5,4,object-detection
-/cristianpb/object-detection/tree/master/imgs,object-detection/imgs at master · cristianpb/object-detection · GitHub,3,1,object-detection
-/cristianpb/object-detection/tree/master/models/ssd_mobilenet,object-detection/models/ssd_mobilenet at master · cristianpb/object-detection...,3,1,object-detection
+/cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,11,3,object-detection
+/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,8,3,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",7,6,object-detection
+/cristianpb/object-detection/tree/master/imgs,object-detection/imgs at master · cristianpb/object-detection · GitHub,6,2,object-detection
+/cristianpb/object-detection/tree/master/models/ssd_mobilenet,object-detection/models/ssd_mobilenet at master · cristianpb/object-detection...,5,2,object-detection
+/cristianpb/object-detection/blob/master/imgs/image.jpeg,object-detection/imgs/image.jpeg at master · cristianpb/object-detection · Gi...,2,1,object-detection
 /cristianpb/object-detection/blob/master/models/ssd_mobilenet/ssd_mobilenet_v2_coco_2018_03_29.pbtxt,object-detection/models/ssd_mobilenet/ssd_mobilenet_v2_coco_2018_03_29.pbtxt ...,2,1,object-detection
 /cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,2,2,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,16,4,telegraf-influxdb-grafana-docker
@@ -40,5 +41,5 @@ path,title,count,uniques,repository
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf.conf,telegraf-influxdb-grafana-docker/docker/telegraf/telegraf.conf at master · cr...,4,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf-gpu.conf,telegraf-influxdb-grafana-docker/docker/telegraf/telegraf-gpu.conf at master ...,4,2,telegraf-influxdb-grafana-docker
 /cristianpb/vimwiki/blob/master/content/index.md,vimwiki/content/index.md at master · cristianpb/vimwiki · GitHub,4,1,vimwiki
+/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,2,2,vimwiki
 /cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki · GitHub,2,1,vimwiki
-/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,1,1,vimwiki
