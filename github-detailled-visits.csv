@@ -27,8 +27,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/tree/master/mbsync,dotfiles/mbsync at master · cristianpb/dotfiles · GitHub,4,1,dotfiles
 /cristianpb/dotfiles/tree/master/polybar/.config/polybar,dotfiles/polybar/.config/polybar at master · cristianpb/dotfiles · GitHub,4,1,dotfiles
 /cristianpb/dotfiles/tree/master/dunst/.config/dunst,dotfiles/dunst/.config/dunst at master · cristianpb/dotfiles · GitHub,3,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,18,11,muse
-/cristianpb/muse/issues,Issues · cristianpb/muse,4,3,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,16,10,muse
 /cristianpb/muse/blob/master/src/lib/tools/snapcast.js,muse/src/lib/tools/snapcast.js at master · cristianpb/muse,4,1,muse
 /cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse,4,1,muse
 /cristianpb/muse/blob/master/Makefile,muse/Makefile at master · cristianpb/muse,2,1,muse
@@ -37,8 +36,9 @@ path,title,count,uniques,repository
 /cristianpb/muse/blob/master/src/routes/404/%2Blayout.js,muse/src/routes/404/+layout.js at master · cristianpb/muse,2,1,muse
 /cristianpb/muse/blob/master/src/routes/404/%2Bpage.svelte,muse/src/routes/404/+page.svelte at master · cristianpb/muse,2,1,muse
 /cristianpb/muse/blob/master/src/routes/browse/%2Bpage.svelte,muse/src/routes/browse/+page.svelte at master · cristianpb/muse,2,1,muse
+/cristianpb/muse/blob/master/src/routes/settings/%2Bpage.svelte,muse/src/routes/settings/+page.svelte at master · cristianpb/muse,2,1,muse
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",10,9,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,10,4,object-detection
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",9,8,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,8,2,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,6,3,object-detection
 /cristianpb/object-detection/tree/master/imgs,object-detection/imgs at master · cristianpb/object-detection · GitHub,6,2,object-detection
