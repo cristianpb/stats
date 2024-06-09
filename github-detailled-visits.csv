@@ -1,6 +1,6 @@
 path,title,count,uniques,repository
 /cristianpb/analytics-google/blob/master/Makefile,analytics-google/Makefile at master · cristianpb/analytics-google · GitHub,14,4,analytics-google
-/cristianpb/analytics-google,cristianpb/analytics-google: Google analytics from cristianpb.github.io,7,5,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,8,6,analytics-google
 /cristianpb/analytics-google/tree/master/.github/workflows,analytics-google/.github/workflows at master · cristianpb/analytics-google,7,1,analytics-google
 /cristianpb/analytics-google/tree/master/static,analytics-google/static at master · cristianpb/analytics-google,6,2,analytics-google
 /cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google,5,1,analytics-google
@@ -17,16 +17,11 @@ path,title,count,uniques,repository
 /cristianpb/cristianpb.github.io,cristianpb/cristianpb.github.io: My website,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/9260233262,➕ Add WWW 2024 articles · cristianpb/cristianpb.github.io@73d87b6,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/9260233262/job/25473663757,➕ Add WWW 2024 articles · cristianpb/cristianpb.github.io@73d87b6,1,1,cristianpb.github.io
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,13,5,dotfiles
-/cristianpb/dotfiles/tree/master,dotfiles/ at master · cristianpb/dotfiles · GitHub,9,1,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,10,3,dotfiles
 /cristianpb/dotfiles/blob/f5e8fe38af6ab47497f6c3451054e6df92e2d96b/vim/.vimrc,dotfiles/vim/.vimrc at f5e8fe38af6ab47497f6c3451054e6df92e2d96b · cristianpb/...,8,1,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,6,2,dotfiles
-/cristianpb/dotfiles/tree/master/msmtp,dotfiles/msmtp at master · cristianpb/dotfiles · GitHub,6,1,dotfiles
-/cristianpb/dotfiles/blob/master/msmtp/.msmtprc,dotfiles/msmtp/.msmtprc at master · cristianpb/dotfiles · GitHub,5,1,dotfiles
-/cristianpb/dotfiles/blob/master/checkmail.sh,dotfiles/checkmail.sh at master · cristianpb/dotfiles · GitHub,4,2,dotfiles
-/cristianpb/dotfiles/tree/master/mbsync,dotfiles/mbsync at master · cristianpb/dotfiles · GitHub,4,1,dotfiles
-/cristianpb/dotfiles/tree/master/polybar/.config/polybar,dotfiles/polybar/.config/polybar at master · cristianpb/dotfiles · GitHub,4,1,dotfiles
-/cristianpb/dotfiles/tree/master/dunst/.config/dunst,dotfiles/dunst/.config/dunst at master · cristianpb/dotfiles · GitHub,3,1,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands.py,dotfiles/ranger/.config/ranger/commands.py at master · cristianpb/dotfiles · ...,1,1,dotfiles
 /cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,16,10,muse
 /cristianpb/muse/blob/master/src/lib/tools/snapcast.js,muse/src/lib/tools/snapcast.js at master · cristianpb/muse,4,1,muse
 /cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse,4,1,muse
@@ -47,7 +42,6 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/blob/master/backend/camera.py,object-detection/backend/camera.py at master · cristianpb/object-detection · ...,2,1,object-detection
 /cristianpb/object-detection/blob/master/backend/utils.py,object-detection/backend/utils.py at master · cristianpb/object-detection · G...,2,1,object-detection
 /cristianpb/object-detection/blob/master/config.yml.sample,object-detection/config.yml.sample at master · cristianpb/object-detection,2,1,object-detection
-/cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,1,1,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,14,3,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/telegraf,telegraf-influxdb-grafana-docker/docker/telegraf at master · cristianpb/teleg...,4,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",3,2,telegraf-influxdb-grafana-docker
@@ -55,6 +49,13 @@ path,title,count,uniques,repository
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,3,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf.conf,telegraf-influxdb-grafana-docker/docker/telegraf/telegraf.conf at master · cr...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf-gpu.conf,telegraf-influxdb-grafana-docker/docker/telegraf/telegraf-gpu.conf at master ...,2,1,telegraf-influxdb-grafana-docker
-/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,2,2,vimwiki
+/cristianpb/vimwiki/tree/master/layouts,vimwiki/layouts at master · cristianpb/vimwiki,12,1,vimwiki
+/cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki,11,2,vimwiki
+/cristianpb/vimwiki/tree/master/layouts/partials,vimwiki/layouts/partials at master · cristianpb/vimwiki,8,1,vimwiki
+/cristianpb/vimwiki/blob/master/config-gh.toml,vimwiki/config-gh.toml at master · cristianpb/vimwiki,7,1,vimwiki
+/cristianpb/vimwiki/tree/master/layouts/_default,vimwiki/layouts/_default at master · cristianpb/vimwiki,7,1,vimwiki
+/cristianpb/vimwiki/tree/master/layouts/shortcodes,vimwiki/layouts/shortcodes at master · cristianpb/vimwiki,7,1,vimwiki
+/cristianpb/vimwiki/blob/master/.gitignore,vimwiki/.gitignore at master · cristianpb/vimwiki,4,1,vimwiki
+/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,3,3,vimwiki
+/cristianpb/vimwiki/blob/master/config.toml,vimwiki/config.toml at master · cristianpb/vimwiki,2,1,vimwiki
 /cristianpb/vimwiki/blob/master/content/arch_linux.md,vimwiki/content/arch_linux.md at master · cristianpb/vimwiki,2,1,vimwiki
-/cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki,2,1,vimwiki
