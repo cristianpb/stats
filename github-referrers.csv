@@ -1,9 +1,9 @@
 referrer,count,uniques,repository
 yandex.ru,4,1,alchemy-machine
-github.com,61,3,analytics-google
 Google,6,3,analytics-google
-cristianpb.github.io,6,1,analytics-google
-github.com,20,1,cristianpb.github.io
+cristianpb.github.io,4,1,analytics-google
+github.com,2,2,analytics-google
+github.com,21,2,cristianpb.github.io
 github.com,8,2,dotfiles
 grep.app,2,1,dotfiles
 dotfiles.github.io,1,1,dotfiles
