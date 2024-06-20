@@ -9,7 +9,7 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/tree/master/.github/workflows,analytics-google/.github/workflows at master · cristianpb/analytics-google · ...,2,1,analytics-google
 /cristianpb/cristianpb.github.io,cristianpb/cristianpb.github.io: My website,1,1,cristianpb.github.io
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,9,4,dotfiles
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,7,7,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,8,8,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles,4,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/ranger/.config/ranger/rifle.conf at master · cristianpb/dotfiles,3,1,dotfiles
 /cristianpb/dotfiles/blob/master/mbsync/.mbsyncrc,dotfiles/mbsync/.mbsyncrc at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
@@ -18,7 +18,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim/.vimrc at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/tree/master/vim,dotfiles/vim at master · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,7,5,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,8,6,muse
 /cristianpb/muse/blob/master/src/lib/tools/mopidyTools.js,muse/src/lib/tools/mopidyTools.js at master · cristianpb/muse,4,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/__init__.py,muse/mopidy_muse/__init__.py at master · cristianpb/muse,2,1,muse
 /cristianpb/muse/blob/master/src/lib/tools/stores.js,muse/src/lib/tools/stores.js at master · cristianpb/muse,2,1,muse
@@ -27,20 +27,20 @@ path,title,count,uniques,repository
 /cristianpb/muse/tree/master/src/lib/components,muse/src/lib/components at master · cristianpb/muse,2,1,muse
 /cristianpb/muse/tree/master/src/lib/tools,muse/src/lib/tools at master · cristianpb/muse,2,1,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse,1,1,muse
-/cristianpb/music-s3,GitHub - cristianpb/music-s3,3,3,music-s3
+/cristianpb/music-s3,GitHub - cristianpb/music-s3,4,3,music-s3
 /cristianpb/music-s3/actions/workflows/main.yaml,Workflow · Workflow runs · cristianpb/music-s3 · GitHub,3,2,music-s3
+/cristianpb/music-s3/actions,Workflow runs · cristianpb/music-s3 · GitHub,2,2,music-s3
 /cristianpb/music-s3/actions/runs/9375684896,Workflow · cristianpb/music-s3@fdc5e64,2,1,music-s3
 /cristianpb/music-s3/blob/master/decrypt_secret.sh,music-s3/decrypt_secret.sh at master · cristianpb/music-s3 · GitHub,2,1,music-s3
 /cristianpb/music-s3/blob/master/download.py,music-s3/download.py at master · cristianpb/music-s3 · GitHub,2,1,music-s3
-/cristianpb/music-s3/actions,Workflow runs · cristianpb/music-s3,1,1,music-s3
 /cristianpb/music-s3/actions/runs/9375684896/job/25814236362,Workflow · cristianpb/music-s3@fdc5e64,1,1,music-s3
 /cristianpb/music-s3/actions/runs/9409225528,Workflow · cristianpb/music-s3@fdc5e64,1,1,music-s3
 /cristianpb/music-s3/actions/runs/9409225528/job/25918726801,Workflow · cristianpb/music-s3@fdc5e64,1,1,music-s3
 /cristianpb/music-s3/actions/workflows/tests.yml,test application · Workflow runs · cristianpb/music-s3 · GitHub,1,1,music-s3
 /cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,17,2,object-detection
 /cristianpb/object-detection/blob/master/backend/motion.py,object-detection/backend/motion.py at master · cristianpb/object-detection · ...,16,3,object-detection
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",13,10,object-detection
 /cristianpb/object-detection/blob/master/backend/camera.py,object-detection/backend/camera.py at master · cristianpb/object-detection · ...,13,2,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",12,9,object-detection
 /cristianpb/object-detection/tree/master/imgs,object-detection/imgs at master · cristianpb/object-detection · GitHub,8,2,object-detection
 /cristianpb/object-detection/blob/master/backend/app.py,object-detection/backend/app.py at master · cristianpb/object-detection · Git...,6,2,object-detection
 /cristianpb/object-detection/blob/master/Makefile,object-detection/Makefile at master · cristianpb/object-detection · GitHub,6,2,object-detection
@@ -68,7 +68,7 @@ path,title,count,uniques,repository
 /cristianpb/vimwiki/blob/master/config-gh.toml,vimwiki/config-gh.toml at master · cristianpb/vimwiki,7,1,vimwiki
 /cristianpb/vimwiki/tree/master/layouts/_default,vimwiki/layouts/_default at master · cristianpb/vimwiki,7,1,vimwiki
 /cristianpb/vimwiki/tree/master/layouts/shortcodes,vimwiki/layouts/shortcodes at master · cristianpb/vimwiki,7,1,vimwiki
+/cristianpb/vimwiki/tree/master,cristianpb/vimwiki: My vimwiki,5,1,vimwiki
 /cristianpb/vimwiki/blob/master/.gitignore,vimwiki/.gitignore at master · cristianpb/vimwiki,4,1,vimwiki
-/cristianpb/vimwiki/tree/master,cristianpb/vimwiki: My vimwiki,4,1,vimwiki
 /cristianpb/vimwiki/blob/master/config.toml,vimwiki/config.toml at master · cristianpb/vimwiki,2,1,vimwiki
 /cristianpb/vimwiki/blob/master/content/JetsonNano.md,vimwiki/content/JetsonNano.md at master · cristianpb/vimwiki,2,1,vimwiki
