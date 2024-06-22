@@ -1,7 +1,5 @@
 referrer,count,uniques,repository
-yandex.ru,4,1,alchemy-machine
 cristianpb.github.io,8,1,analytics-google
-Google,1,1,analytics-google
 github.com,1,1,analytics-google
 github.com,2,2,cristianpb.github.io
 dotfiles.github.io,6,2,dotfiles
@@ -15,10 +13,10 @@ github.com,5,1,music-s3
 cristianpb.github.io,70,2,object-detection
 github.com,21,5,object-detection
 programcreek.com,1,1,object-detection
-github.com,3,2,object-detection-frontend
-github.com,1,1,playlists
+Google,3,2,object-detection-frontend
+github.com,2,2,object-detection-frontend
 Google,1,1,rhasspy-handler
 github.com,3,1,stats
 cristianpb.github.io,37,1,telegraf-influxdb-grafana-docker
 Google,4,1,telegraf-influxdb-grafana-docker
-cristianpb.github.io,5,1,vimwiki
+cristianpb.github.io,4,1,vimwiki
