@@ -1,7 +1,6 @@
 date,repository,clones,views
 2024-06-27,alchemy-machine,1,0
-2024-06-18,analytics-google,10,0
-2024-06-19,analytics-google,7,1
+2024-06-19,analytics-google,7,0
 2024-06-20,analytics-google,3,0
 2024-06-21,analytics-google,4,0
 2024-06-22,analytics-google,2,2
@@ -14,6 +13,7 @@ date,repository,clones,views
 2024-06-29,analytics-google,2,0
 2024-06-30,analytics-google,2,0
 2024-07-01,analytics-google,2,0
+2024-07-02,analytics-google,5,1
 2024-06-27,aws-lambda-cv,1,0
 2024-06-21,cristianpb,1,0
 2024-06-20,cristianpb.github.io,1,0
@@ -33,16 +33,16 @@ date,repository,clones,views
 2024-06-22,deces-ui,1,0
 2024-06-27,dotfiles,1,4
 2024-06-30,dotfiles,1,0
-2024-06-18,dotfiles,0,1
 2024-06-22,dotfiles,0,1
 2024-06-23,dotfiles,0,5
 2024-06-24,dotfiles,0,4
 2024-06-25,dotfiles,0,1
 2024-06-26,dotfiles,0,1
+2024-07-02,gswsr,1,0
 2024-06-29,hubot-ratp,1,0
 2024-06-27,hubot-velib,1,0
+2024-07-02,mask-detection,1,0
 2024-06-27,mopidy.js,1,0
-2024-06-18,muse,3,1
 2024-06-23,muse,2,1
 2024-06-25,muse,1,0
 2024-06-27,muse,2,0
@@ -52,7 +52,7 @@ date,repository,clones,views
 2024-06-26,muse,0,1
 2024-06-28,muse,0,7
 2024-07-01,muse,0,3
-2024-06-18,music-s3,6,2
+2024-07-02,muse,0,2
 2024-06-19,music-s3,1,0
 2024-06-20,music-s3,1,0
 2024-06-21,music-s3,1,0
@@ -64,6 +64,7 @@ date,repository,clones,views
 2024-06-28,music-s3,1,0
 2024-06-30,music-s3,1,0
 2024-07-01,music-s3,2,0
+2024-07-02,music-s3,1,0
 2024-06-27,mybottender,1,0
 2024-06-27,myhubot,1,0
 2024-06-27,newsapp,1,0
@@ -78,8 +79,10 @@ date,repository,clones,views
 2024-06-27,object-detection,0,7
 2024-06-28,object-detection,0,5
 2024-06-30,object-detection,0,26
+2024-07-02,object-detection,0,1
 2024-06-25,object-detection-frontend,1,0
 2024-06-27,object-detection-frontend,1,0
+2024-07-02,object-detection-frontend,1,0
 2024-06-20,object-detection-frontend,0,3
 2024-06-24,object-detection-frontend,0,1
 2024-06-21,playlists,7,0
@@ -99,7 +102,6 @@ date,repository,clones,views
 2024-06-29,rhasspy-handler,1,1
 2024-07-01,rhasspy-handler,1,0
 2024-06-28,rhasspy-handler,0,1
-2024-06-19,stats,4,0
 2024-06-20,stats,3,0
 2024-06-21,stats,3,0
 2024-06-22,stats,4,0
@@ -112,6 +114,7 @@ date,repository,clones,views
 2024-06-29,stats,4,0
 2024-06-30,stats,3,0
 2024-07-01,stats,3,0
+2024-07-02,stats,3,0
 2024-06-20,telegraf-influxdb-grafana-docker,0,1
 2024-06-22,telegraf-influxdb-grafana-docker,0,1
 2024-06-23,telegraf-influxdb-grafana-docker,0,2
@@ -119,6 +122,7 @@ date,repository,clones,views
 2024-06-26,telegraf-influxdb-grafana-docker,0,3
 2024-06-27,telegraf-influxdb-grafana-docker,0,24
 2024-06-28,telegraf-influxdb-grafana-docker,0,3
+2024-07-02,telegraf-influxdb-grafana-docker,0,1
 2024-06-27,temp-sigfox,1,0
 2024-07-01,temp-sigfox,1,0
 2024-06-27,tkasme,2,0
@@ -128,4 +132,3 @@ date,repository,clones,views
 2024-06-29,velo.club,1,0
 2024-06-22,vimwiki,1,0
 2024-06-27,vimwiki,1,0
-2024-06-18,vimwiki,0,1
