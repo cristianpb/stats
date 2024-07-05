@@ -1,7 +1,6 @@
 date,repository,clones,views
 2024-06-27,alchemy-machine,1,0
-2024-06-20,analytics-google,3,0
-2024-06-21,analytics-google,4,0
+2024-06-21,analytics-google,3,0
 2024-06-22,analytics-google,2,2
 2024-06-23,analytics-google,1,0
 2024-06-24,analytics-google,3,0
@@ -14,9 +13,9 @@ date,repository,clones,views
 2024-07-01,analytics-google,2,0
 2024-07-02,analytics-google,5,1
 2024-07-03,analytics-google,1,0
+2024-07-04,analytics-google,2,0
 2024-06-27,aws-lambda-cv,1,0
 2024-06-21,cristianpb,1,0
-2024-06-20,cristianpb.github.io,1,0
 2024-06-22,cristianpb.github.io,1,0
 2024-06-24,cristianpb.github.io,4,0
 2024-06-25,cristianpb.github.io,10,0
@@ -38,8 +37,10 @@ date,repository,clones,views
 2024-06-25,dotfiles,0,1
 2024-06-26,dotfiles,0,1
 2024-07-03,dotfiles,0,23
+2024-07-04,dotfiles,0,5
 2024-07-02,gswsr,1,0
 2024-06-29,hubot-ratp,1,0
+2024-07-04,hubot-ratp,0,1
 2024-06-27,hubot-velib,1,0
 2024-07-02,mask-detection,1,0
 2024-06-27,mopidy.js,1,0
@@ -52,7 +53,6 @@ date,repository,clones,views
 2024-06-28,muse,0,7
 2024-07-01,muse,0,3
 2024-07-02,muse,0,2
-2024-06-20,music-s3,1,0
 2024-06-21,music-s3,1,0
 2024-06-23,music-s3,1,0
 2024-06-24,music-s3,1,0
@@ -64,6 +64,7 @@ date,repository,clones,views
 2024-07-01,music-s3,2,0
 2024-07-02,music-s3,1,0
 2024-07-03,music-s3,1,0
+2024-07-04,music-s3,1,0
 2024-06-27,mybottender,1,0
 2024-06-27,myhubot,1,0
 2024-06-27,newsapp,1,0
@@ -83,7 +84,6 @@ date,repository,clones,views
 2024-06-27,object-detection-frontend,1,0
 2024-07-02,object-detection-frontend,1,0
 2024-07-03,object-detection-frontend,1,0
-2024-06-20,object-detection-frontend,0,3
 2024-06-24,object-detection-frontend,0,1
 2024-06-21,playlists,7,0
 2024-06-24,playlists,1,0
@@ -95,13 +95,13 @@ date,repository,clones,views
 2024-07-01,priceminister,1,0
 2024-06-27,qrcode-reader,1,0
 2024-06-27,recettes,1,0
+2024-07-04,recettes,1,0
 2024-06-21,rhasspy-handler,1,0
 2024-06-24,rhasspy-handler,1,0
 2024-06-27,rhasspy-handler,1,0
 2024-06-29,rhasspy-handler,1,1
 2024-07-01,rhasspy-handler,1,0
 2024-06-28,rhasspy-handler,0,1
-2024-06-21,stats,3,0
 2024-06-22,stats,4,0
 2024-06-23,stats,3,0
 2024-06-24,stats,3,0
@@ -114,7 +114,7 @@ date,repository,clones,views
 2024-07-01,stats,3,0
 2024-07-02,stats,3,0
 2024-07-03,stats,2,0
-2024-06-20,telegraf-influxdb-grafana-docker,0,1
+2024-07-04,stats,2,0
 2024-06-22,telegraf-influxdb-grafana-docker,0,1
 2024-06-23,telegraf-influxdb-grafana-docker,0,2
 2024-06-24,telegraf-influxdb-grafana-docker,0,1
@@ -123,6 +123,7 @@ date,repository,clones,views
 2024-06-28,telegraf-influxdb-grafana-docker,0,3
 2024-07-02,telegraf-influxdb-grafana-docker,0,1
 2024-07-03,telegraf-influxdb-grafana-docker,0,8
+2024-07-04,telegraf-influxdb-grafana-docker,0,3
 2024-06-27,temp-sigfox,1,0
 2024-07-01,temp-sigfox,1,0
 2024-06-27,tkasme,2,0
@@ -132,3 +133,4 @@ date,repository,clones,views
 2024-06-29,velo.club,1,0
 2024-06-22,vimwiki,1,0
 2024-06-27,vimwiki,1,0
+2024-07-04,vimwiki,0,1
