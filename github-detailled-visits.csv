@@ -1,19 +1,23 @@
 path,title,count,uniques,repository
 /cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,1,1,analytics-google
-/cristianpb/dotfiles,cristianpb/dotfiles: My dotfiles,5,5,dotfiles
+/cristianpb/dotfiles,cristianpb/dotfiles: My dotfiles,9,7,dotfiles
 /cristianpb/dotfiles/tree/master/top,dotfiles/top at master · cristianpb/dotfiles,5,1,dotfiles
 /cristianpb/dotfiles/blob/osx/notmuch/.notmuch-config,File not found,3,1,dotfiles
+/cristianpb/dotfiles/blob/master/BingDownloadImage.sh,dotfiles/BingDownloadImage.sh at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
+/cristianpb/dotfiles/blob/master/checkmail.sh,dotfiles/checkmail.sh at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
+/cristianpb/dotfiles/blob/master/.gitignore,dotfiles/.gitignore at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/notmuch/.notmuch-config,dotfiles/notmuch/.notmuch-config at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/termite/.config/termite/config,dotfiles/termite/.config/termite/config at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/top/.toprc,dotfiles/top/.toprc at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim/.vimrc at master · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/dotfiles/blob/master/watson_dmenu,dotfiles/watson_dmenu at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
-/cristianpb/dotfiles/blob/osx/tmux.theme,dotfiles/tmux.theme at osx · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/dotfiles/blob/osx/toprc,dotfiles/toprc at osx · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/hubot-ratp,GitHub - cristianpb/hubot-ratp: A hubot script to obtain Paris transport time...,1,1,hubot-ratp
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,8,7,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,13,8,muse
+/cristianpb/muse/issues,Issues · cristianpb/muse,6,1,muse
+/cristianpb/muse/releases/tag/v0.0.33,Release Release v0.0.33 · cristianpb/muse · GitHub,3,2,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,2,1,muse
-/cristianpb/muse/releases/tag/v0.0.33,Release Release v0.0.33 · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/issues/37,Option to search for artists · Issue #37 · cristianpb/muse,1,1,muse
+/cristianpb/muse/pulls,Pull requests · cristianpb/muse,1,1,muse
+/cristianpb/muse/releases,Releases · cristianpb/muse,1,1,muse
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",9,7,object-detection
 /cristianpb/object-detection/tree/master/imgs,object-detection/imgs at master · cristianpb/object-detection · GitHub,6,2,object-detection
 /cristianpb/object-detection/blob/master/setup.py,object-detection/setup.py at master · cristianpb/object-detection · GitHub,3,1,object-detection
@@ -26,9 +30,9 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/blob/master/.gitignore,object-detection/.gitignore at master · cristianpb/object-detection,2,1,object-detection
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",2,2,rhasspy-handler
 /cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,1,1,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,13,4,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,15,4,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,13,2,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",6,4,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",8,5,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/telegraf,telegraf-influxdb-grafana-docker/docker/telegraf at master · cristianpb/teleg...,6,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",4,3,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/influxdb,telegraf-influxdb-grafana-docker/docker/influxdb at master · cristianpb/teleg...,3,1,telegraf-influxdb-grafana-docker
@@ -36,4 +40,13 @@ path,title,count,uniques,repository
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf.conf,telegraf-influxdb-grafana-docker/docker/telegraf/telegraf.conf at master · cr...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf-gpu.conf,telegraf-influxdb-grafana-docker/docker/telegraf/telegraf-gpu.conf at master ...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,2,1,telegraf-influxdb-grafana-docker
-/cristianpb/vimwiki/tree/master,cristianpb/vimwiki: My vimwiki,1,1,vimwiki
+/cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki · GitHub,9,2,vimwiki
+/cristianpb/vimwiki/tree/master/.github/workflows,vimwiki/.github/workflows at master · cristianpb/vimwiki · GitHub,6,1,vimwiki
+/cristianpb/vimwiki/blob/master/config-gh.toml,vimwiki/config-gh.toml at master · cristianpb/vimwiki · GitHub,4,2,vimwiki
+/cristianpb/vimwiki/blob/master/config.toml,vimwiki/config.toml at master · cristianpb/vimwiki · GitHub,4,2,vimwiki
+/cristianpb/vimwiki/tree/master,cristianpb/vimwiki: My vimwiki,4,2,vimwiki
+/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,3,2,vimwiki
+/cristianpb/vimwiki/tree/master/.github,vimwiki/.github at master · cristianpb/vimwiki · GitHub,3,1,vimwiki
+/cristianpb/vimwiki/blob/master/content/_index.md,vimwiki/content/_index.md at master · cristianpb/vimwiki,2,1,vimwiki
+/cristianpb/vimwiki/blob/master/content/JetsonNano.md,vimwiki/content/JetsonNano.md at master · cristianpb/vimwiki,2,1,vimwiki
+/cristianpb/vimwiki/blob/master/content/touchpad.md,vimwiki/content/touchpad.md at master · cristianpb/vimwiki · GitHub,2,1,vimwiki
