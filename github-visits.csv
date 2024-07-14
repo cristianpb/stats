@@ -1,5 +1,4 @@
 date,repository,clones,views
-2024-06-29,analytics-google,2,0
 2024-06-30,analytics-google,2,0
 2024-07-01,analytics-google,2,0
 2024-07-02,analytics-google,5,1
@@ -13,8 +12,8 @@ date,repository,clones,views
 2024-07-10,analytics-google,2,0
 2024-07-11,analytics-google,3,0
 2024-07-12,analytics-google,2,0
+2024-07-13,analytics-google,3,0
 2024-07-06,aws-lambda-cv,1,0
-2024-06-29,cristianpb.github.io,1,0
 2024-06-30,cristianpb.github.io,2,0
 2024-06-30,dotfiles,1,0
 2024-07-03,dotfiles,0,23
@@ -23,7 +22,6 @@ date,repository,clones,views
 2024-07-11,dotfiles,0,16
 2024-07-12,dotfiles,0,2
 2024-07-02,gswsr,1,0
-2024-06-29,hubot-ratp,1,0
 2024-07-04,hubot-ratp,0,1
 2024-07-02,mask-detection,1,0
 2024-07-08,muse,1,1
@@ -45,7 +43,6 @@ date,repository,clones,views
 2024-07-10,music-s3,1,0
 2024-07-11,music-s3,1,0
 2024-07-12,music-s3,1,0
-2024-06-30,ngTwitterApp,1,0
 2024-07-01,object-detection,1,1
 2024-07-03,object-detection,1,5
 2024-07-08,object-detection,1,0
@@ -62,13 +59,11 @@ date,repository,clones,views
 2024-07-01,priceminister,1,0
 2024-07-04,recettes,1,0
 2024-07-11,recettes,1,0
-2024-06-29,rhasspy-handler,1,1
 2024-07-01,rhasspy-handler,1,0
 2024-07-12,rhasspy-handler,1,0
 2024-07-07,rhasspy-handler,0,1
 2024-07-09,rhasspy-handler,0,1
 2024-07-11,rhasspy-handler,0,1
-2024-06-30,stats,3,0
 2024-07-01,stats,3,0
 2024-07-02,stats,3,0
 2024-07-03,stats,2,0
@@ -81,6 +76,7 @@ date,repository,clones,views
 2024-07-10,stats,2,0
 2024-07-11,stats,4,0
 2024-07-12,stats,2,0
+2024-07-13,stats,2,0
 2024-07-07,telegraf-influxdb-grafana-docker,2,35
 2024-07-02,telegraf-influxdb-grafana-docker,0,1
 2024-07-03,telegraf-influxdb-grafana-docker,0,8
@@ -91,9 +87,8 @@ date,repository,clones,views
 2024-07-12,telegraf-influxdb-grafana-docker,0,4
 2024-07-01,temp-sigfox,1,0
 2024-07-10,temp-sigfox,1,0
-2024-06-29,tkasme,1,0
 2024-06-30,tkasme,1,0
-2024-06-29,velo.club,1,0
 2024-07-04,vimwiki,0,1
 2024-07-11,vimwiki,0,45
 2024-07-12,vimwiki,0,3
+2024-07-13,vimwiki,0,2
