@@ -1,14 +1,14 @@
 referrer,count,uniques,repository
-Google,2,1,analytics-google
+Google,9,3,analytics-google
 github.com,1,1,cristianpb
 github.com,3,1,cristianpb.github.io
 cristianpb.github.io,30,2,dotfiles
-dotfiles.github.io,22,5,dotfiles
+dotfiles.github.io,20,3,dotfiles
 github.com,5,1,dotfiles
 github.com,1,1,enkontext
 github.com,1,1,judilibre-stats
 github.com,1,1,mask-detection
-mopidy.com,7,4,muse
+mopidy.com,6,3,muse
 search.nixos.org,4,1,muse
 Google,1,1,muse
 cristianpb.github.io,13,3,object-detection
@@ -17,6 +17,6 @@ Google,1,1,object-detection-frontend
 github.com,1,1,piac-bot
 github.com,1,1,PresentationTechnique
 Google,2,2,rhasspy-handler
-Google,13,4,telegraf-influxdb-grafana-docker
+Google,16,5,telegraf-influxdb-grafana-docker
 cristianpb.github.io,11,1,telegraf-influxdb-grafana-docker
 cristianpb.github.io,150,3,vimwiki
