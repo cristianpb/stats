@@ -1,6 +1,5 @@
 date,repository,clones,views
 2024-07-16,alchemy-machine,1,0
-2024-07-08,analytics-google,1,0
 2024-07-09,analytics-google,1,0
 2024-07-10,analytics-google,2,0
 2024-07-11,analytics-google,3,0
@@ -14,12 +13,12 @@ date,repository,clones,views
 2024-07-19,analytics-google,1,0
 2024-07-20,analytics-google,2,7
 2024-07-21,analytics-google,2,0
+2024-07-22,analytics-google,2,0
 2024-07-17,cristianpb,0,1
 2024-07-16,cristianpb.github.io,1,0
 2024-07-19,cristianpb.github.io,1,0
 2024-07-20,cristianpb.github.io,2,0
 2024-07-17,cristianpb.github.io,0,3
-2024-07-08,dotfiles,0,1
 2024-07-11,dotfiles,0,16
 2024-07-12,dotfiles,0,2
 2024-07-14,dotfiles,0,74
@@ -31,7 +30,6 @@ date,repository,clones,views
 2024-07-14,gswsr,1,0
 2024-07-17,judilibre-stats,0,1
 2024-07-17,mask-detection,0,1
-2024-07-08,muse,1,1
 2024-07-09,muse,0,2
 2024-07-11,muse,0,16
 2024-07-12,muse,0,5
@@ -39,7 +37,6 @@ date,repository,clones,views
 2024-07-16,muse,0,2
 2024-07-17,muse,0,1
 2024-07-21,muse,0,1
-2024-07-08,music-s3,1,0
 2024-07-09,music-s3,1,0
 2024-07-10,music-s3,1,0
 2024-07-11,music-s3,1,0
@@ -51,14 +48,15 @@ date,repository,clones,views
 2024-07-18,music-s3,1,0
 2024-07-19,music-s3,1,0
 2024-07-21,music-s3,1,0
+2024-07-22,music-s3,1,0
 2024-07-16,mybottender,1,0
-2024-07-08,object-detection,1,0
 2024-07-09,object-detection,0,1
 2024-07-14,object-detection,0,6
 2024-07-15,object-detection,0,5
 2024-07-16,object-detection,0,3
 2024-07-19,object-detection,0,2
 2024-07-21,object-detection,0,1
+2024-07-22,object-detection,0,1
 2024-07-16,object-detection-frontend,0,1
 2024-07-17,piac-bot,0,1
 2024-07-12,playlists,3,0
@@ -68,7 +66,7 @@ date,repository,clones,views
 2024-07-12,rhasspy-handler,1,0
 2024-07-09,rhasspy-handler,0,1
 2024-07-11,rhasspy-handler,0,1
-2024-07-09,stats,4,0
+2024-07-09,stats,2,0
 2024-07-10,stats,2,0
 2024-07-11,stats,4,0
 2024-07-12,stats,2,0
@@ -81,6 +79,7 @@ date,repository,clones,views
 2024-07-19,stats,2,0
 2024-07-20,stats,2,0
 2024-07-21,stats,4,0
+2024-07-22,stats,2,0
 2024-07-10,telegraf-influxdb-grafana-docker,0,6
 2024-07-11,telegraf-influxdb-grafana-docker,0,4
 2024-07-12,telegraf-influxdb-grafana-docker,0,4
