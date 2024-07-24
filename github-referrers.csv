@@ -12,11 +12,12 @@ github.com,1,1,mask-detection
 mopidy.com,6,3,muse
 search.nixos.org,4,1,muse
 cristianpb.github.io,13,3,object-detection
+hackster.io,1,1,object-detection
 github.com,1,1,object-detection
 Google,1,1,object-detection-frontend
 github.com,1,1,piac-bot
 github.com,1,1,PresentationTechnique
 Google,1,1,rhasspy-handler
-Google,16,5,telegraf-influxdb-grafana-docker
 cristianpb.github.io,11,1,telegraf-influxdb-grafana-docker
+Google,10,4,telegraf-influxdb-grafana-docker
 cristianpb.github.io,150,3,vimwiki
