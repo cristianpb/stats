@@ -1,21 +1,29 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,9,6,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,11,8,analytics-google
 /cristianpb/analytics-google/blob/master/analytics.py,analytics-google/analytics.py at master · cristianpb/analytics-google · GitHub,2,1,analytics-google
 /cristianpb/analytics-google/blob/master/requirements.txt,analytics-google/requirements.txt at master · cristianpb/analytics-google · G...,2,1,analytics-google
 /cristianpb/analytics-google/tree/master/.github/workflows,analytics-google/.github/workflows at master · cristianpb/analytics-google · ...,2,1,analytics-google
 /cristianpb/cristianpb,GitHub - cristianpb/cristianpb,1,1,cristianpb
+/cristianpb/cristianpb.github.io/actions,Workflow runs · cristianpb/cristianpb.github.io,6,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,5,3,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/10124709274/job/27999350496,🎨 Update bulma css to version 1.0.2 · cristianpb/cristianpb.github.io@1f01e5...,2,2,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/10126580976,"🥅 Ignore medium tests, because too many request error in CI · cristianpb/cri...",2,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/10126580976/job/28003400869,"🥅 Ignore medium tests, because too many request error in CI · cristianpb/cri...",2,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/tree/master/_includes,cristianpb.github.io/_includes at master · cristianpb/cristianpb.github.io · ...,2,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/10124738120/job/27999418777,🎨 Update bulma css to version 1.0.2 · cristianpb/cristianpb.github.io@a85260a,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/10124801973,🎨 Update bulma css to version 1.0.2 · cristianpb/cristianpb.github.io@1a3558d,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/10124801973/job/27999568905,🎨 Update bulma css to version 1.0.2 · cristianpb/cristianpb.github.io@1a3558d,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/10126308421,🎨 Update bulma css to version 1.0.2 · cristianpb/cristianpb.github.io@2a7fe29,1,1,cristianpb.github.io
 /cristianpb/dotfiles/tree/master/vim,dotfiles/vim at master · cristianpb/dotfiles,14,2,dotfiles
+/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,12,4,dotfiles
 /cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim/.vimrc at master · cristianpb/dotfiles,9,2,dotfiles
 /cristianpb/dotfiles/blob/master/wiki2html.sh,dotfiles/wiki2html.sh at master · cristianpb/dotfiles,8,3,dotfiles
-/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,8,3,dotfiles
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,6,4,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles · Git...,4,2,dotfiles
-/cristianpb/dotfiles/tree/master,GitHub - cristianpb/dotfiles: My dotfiles,2,2,dotfiles
+/cristianpb/dotfiles/tree/master,GitHub - cristianpb/dotfiles: My dotfiles,3,3,dotfiles
 /cristianpb/dotfiles/blob/master/BingDownloadImage.sh,dotfiles/BingDownloadImage.sh at master · cristianpb/dotfiles,2,1,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands_full.py,dotfiles/ranger/.config/ranger/commands_full.py at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/ranger/.config/ranger/rifle.conf at master · cristianpb/dotfiles · G...,2,1,dotfiles
 /cristianpb/enkontext,GitHub - cristianpb/enkontext,1,1,enkontext
 /cristianpb/judilibre-stats,GitHub - cristianpb/judilibre-stats: stats UI for API judilibre,1,1,judilibre-stats
 /cristianpb/mask-detection,GitHub - cristianpb/mask-detection,1,1,mask-detection
@@ -23,10 +31,9 @@ path,title,count,uniques,repository
 /cristianpb/music-s3,GitHub - cristianpb/music-s3,1,1,music-s3
 /cristianpb/music-s3/actions,Workflow runs · cristianpb/music-s3 · GitHub,1,1,music-s3
 /cristianpb/music-s3/actions/runs/10103058054,Workflow · cristianpb/music-s3@107360f · GitHub,1,1,music-s3
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",10,8,object-detection
-/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,6,3,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",9,7,object-detection
+/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,4,2,object-detection
 /cristianpb/object-detection/blob/master/README.md,object-detection/README.md at master · cristianpb/object-detection · GitHub,3,1,object-detection
-/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,2,1,object-detection
 /cristianpb/object-detection/blob/master/config.yml.sample,object-detection/config.yml.sample at master · cristianpb/object-detection · ...,2,1,object-detection
 /cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,3,2,object-detection-frontend
 /cristianpb/piac-bot,GitHub - cristianpb/piac-bot,1,1,piac-bot
@@ -38,13 +45,13 @@ path,title,count,uniques,repository
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/commit/d9c413b194c8220e8f9ef67465fc653823611c5f,Remove collectd dependencies · cristianpb/telegraf-influxdb-grafana-docker@d9...,1,1,telegraf-influxdb-grafana-docker
-/cristianpb/vimwiki/tree/master/layouts,vimwiki/layouts at master · cristianpb/vimwiki,26,1,vimwiki
+/cristianpb/vimwiki/tree/master/layouts,vimwiki/layouts at master · cristianpb/vimwiki,28,1,vimwiki
 /cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki,18,1,vimwiki
+/cristianpb/vimwiki,cristianpb/vimwiki: My vimwiki,14,2,vimwiki
 /cristianpb/vimwiki/blob/master/content/index.md,vimwiki/content/index.md at master · cristianpb/vimwiki,14,1,vimwiki
 /cristianpb/vimwiki/blob/master/layouts/index.html,vimwiki/layouts/index.html at master · cristianpb/vimwiki,14,1,vimwiki
-/cristianpb/vimwiki,cristianpb/vimwiki: My vimwiki,13,2,vimwiki
 /cristianpb/vimwiki/blob/master/content/_index.md,vimwiki/content/_index.md at master · cristianpb/vimwiki,12,1,vimwiki
 /cristianpb/vimwiki/blob/master/layouts/_default/baseof.html,vimwiki/layouts/_default/baseof.html at master · cristianpb/vimwiki,10,1,vimwiki
+/cristianpb/vimwiki/blob/master/layouts/partials/head.html,vimwiki/layouts/partials/head.html at master · cristianpb/vimwiki,10,1,vimwiki
 /cristianpb/vimwiki/tree/master/layouts/_default,vimwiki/layouts/_default at master · cristianpb/vimwiki,9,1,vimwiki
-/cristianpb/vimwiki/blob/master/.github/workflows/publish.yml,vimwiki/.github/workflows/publish.yml at master · cristianpb/vimwiki,8,1,vimwiki
-/cristianpb/vimwiki/blob/master/layouts/_default/list.html,vimwiki/layouts/_default/list.html at master · cristianpb/vimwiki,8,1,vimwiki
+/cristianpb/vimwiki/blob/master/config.toml,vimwiki/config.toml at master · cristianpb/vimwiki,8,1,vimwiki
