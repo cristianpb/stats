@@ -1,5 +1,4 @@
 date,repository,clones,views
-2024-07-18,analytics-google,2,1
 2024-07-19,analytics-google,1,0
 2024-07-20,analytics-google,2,7
 2024-07-21,analytics-google,2,0
@@ -13,6 +12,7 @@ date,repository,clones,views
 2024-07-29,analytics-google,2,6
 2024-07-30,analytics-google,3,0
 2024-07-31,analytics-google,1,0
+2024-08-01,analytics-google,1,4
 2024-07-19,cristianpb.github.io,1,0
 2024-07-20,cristianpb.github.io,2,0
 2024-07-27,cristianpb.github.io,36,24
@@ -21,20 +21,19 @@ date,repository,clones,views
 2024-07-31,cristianpb.github.io,0,1
 2024-07-29,dotfiles,1,0
 2024-07-30,dotfiles,1,0
-2024-07-18,dotfiles,0,20
 2024-07-21,dotfiles,0,12
 2024-07-25,dotfiles,0,5
 2024-07-26,dotfiles,0,1
 2024-07-27,dotfiles,0,14
 2024-07-28,dotfiles,0,5
 2024-07-23,enkontext,1,0
+2024-08-01,muse,1,0
 2024-07-21,muse,0,1
 2024-07-24,muse,0,1
 2024-07-25,muse,0,2
 2024-07-26,muse,0,1
 2024-07-30,muse,0,4
 2024-07-31,muse,0,2
-2024-07-18,music-s3,1,0
 2024-07-19,music-s3,1,0
 2024-07-21,music-s3,1,0
 2024-07-22,music-s3,1,0
@@ -46,6 +45,7 @@ date,repository,clones,views
 2024-07-29,music-s3,1,0
 2024-07-30,music-s3,1,0
 2024-07-31,music-s3,1,0
+2024-08-01,music-s3,1,0
 2024-07-19,object-detection,0,2
 2024-07-21,object-detection,0,1
 2024-07-22,object-detection,0,1
@@ -56,9 +56,9 @@ date,repository,clones,views
 2024-07-19,playlists,3,0
 2024-07-26,playlists,3,0
 2024-07-28,playlists,1,0
+2024-08-01,rhasspy-handler,1,0
 2024-07-29,rhasspy-handler,0,1
 2024-07-30,rhasspy-handler,0,4
-2024-07-19,stats,2,0
 2024-07-20,stats,2,0
 2024-07-21,stats,4,0
 2024-07-22,stats,2,0
@@ -71,8 +71,9 @@ date,repository,clones,views
 2024-07-29,stats,2,0
 2024-07-30,stats,2,0
 2024-07-31,stats,2,0
+2024-08-01,stats,3,0
 2024-07-19,telegraf-influxdb-grafana-docker,0,11
 2024-07-20,telegraf-influxdb-grafana-docker,0,3
-2024-07-18,vimwiki,0,1
+2024-08-01,telegraf-influxdb-grafana-docker,0,3
 2024-07-27,vimwiki,0,14
 2024-07-28,vimwiki,0,1

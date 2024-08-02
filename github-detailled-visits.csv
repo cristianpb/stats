@@ -5,7 +5,7 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google · GitHub,2,1,analytics-google
 /cristianpb/analytics-google/tree/master/static,analytics-google/static at master · cristianpb/analytics-google · GitHub,2,1,analytics-google
 /cristianpb/cristianpb.github.io/actions,Workflow runs · cristianpb/cristianpb.github.io,7,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,4,2,cristianpb.github.io
+/cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,5,3,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/10124709274/job/27999350496,🎨 Update bulma css to version 1.0.2 · cristianpb/cristianpb.github.io@1f01e5...,2,2,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/10126580976,"🥅 Ignore medium tests, because too many request error in CI · cristianpb/cri...",2,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/10126580976/job/28003400869,"🥅 Ignore medium tests, because too many request error in CI · cristianpb/cri...",2,1,cristianpb.github.io
@@ -25,22 +25,18 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/ubuntu/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at ubuntu · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/tree/master/ranger,dotfiles/ranger at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,9,6,muse
+/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse,2,1,muse
 /cristianpb/music-s3,GitHub - cristianpb/music-s3,1,1,music-s3
 /cristianpb/music-s3/actions,Workflow runs · cristianpb/music-s3 · GitHub,1,1,music-s3
 /cristianpb/music-s3/actions/runs/10103058054,Workflow · cristianpb/music-s3@107360f · GitHub,1,1,music-s3
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",6,5,object-detection
-/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,4,2,object-detection
 /cristianpb/object-detection/blob/master/README.md,object-detection/README.md at master · cristianpb/object-detection · GitHub,3,1,object-detection
+/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,2,1,object-detection
 /cristianpb/object-detection/blob/master/config.yml.sample,object-detection/config.yml.sample at master · cristianpb/object-detection · ...,2,1,object-detection
 /cristianpb/object-detection-frontend,cristianpb/object-detection-frontend: Frontend Angular application for object...,2,1,object-detection-frontend
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",5,3,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",3,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,2,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/datasource.yaml,telegraf-influxdb-grafana-docker/docker/grafana/datasource.yaml at master · c...,2,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/branches,Branches · cristianpb/telegraf-influxdb-grafana-docker · GitHub,2,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,2,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,2,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/commit/d9c413b194c8220e8f9ef67465fc653823611c5f,Remove collectd dependencies · cristianpb/telegraf-influxdb-grafana-docker@d9...,1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",1,1,telegraf-influxdb-grafana-docker
 /cristianpb/vimwiki/tree/master/assets/css,vimwiki/assets/css at master · cristianpb/vimwiki,3,1,vimwiki
 /cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,2,2,vimwiki
 /cristianpb/vimwiki/blob/master/assets/css/dark.css,vimwiki/assets/css/dark.css at master · cristianpb/vimwiki,2,1,vimwiki
