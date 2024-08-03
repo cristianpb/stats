@@ -1,5 +1,5 @@
 referrer,count,uniques,repository
-Google,11,5,analytics-google
+Google,8,4,analytics-google
 github.com,1,1,analytics-google
 github.com,12,3,cristianpb.github.io
 discourse.gohugo.io,12,1,dotfiles
