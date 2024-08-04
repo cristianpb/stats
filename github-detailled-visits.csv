@@ -14,17 +14,17 @@ path,title,count,uniques,repository
 /cristianpb/cristianpb.github.io/actions/runs/10124801973/job/27999568905,🎨 Update bulma css to version 1.0.2 · cristianpb/cristianpb.github.io@1a3558d,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/10126308421,🎨 Update bulma css to version 1.0.2 · cristianpb/cristianpb.github.io@2a7fe29,1,1,cristianpb.github.io
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,10,3,dotfiles
-/cristianpb/dotfiles/tree/master/vim,dotfiles/vim at master · cristianpb/dotfiles,5,1,dotfiles
-/cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim/.vimrc at master · cristianpb/dotfiles,4,1,dotfiles
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,2,2,dotfiles
-/cristianpb/dotfiles/tree/master,cristianpb/dotfiles: My dotfiles,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands_full.py,dotfiles/ranger/.config/ranger/commands_full.py at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/dotfiles/blob/master/wiki2html.sh,dotfiles/wiki2html.sh at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/blob/ubuntu/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at ubuntu · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/tree/master/ranger,dotfiles/ranger at master · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,9,6,muse
-/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse,2,1,muse
+/cristianpb/dotfiles/tree/ubuntu/ranger/.config/ranger,dotfiles/ranger/.config/ranger at ubuntu · cristianpb/dotfiles,2,1,dotfiles
+/cristianpb/dotfiles/commit/1dda1f406250ba99fbb603e387b16594044236d8,🍱 Update config files for ranger 1.9.3 · cristianpb/dotfiles@1dda1f4 · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/tree/master,cristianpb/dotfiles: My dotfiles,1,1,dotfiles
+/cristianpb/dotfiles/tree/ubuntu,cristianpb/dotfiles at ubuntu,1,1,dotfiles
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,8,5,muse
+/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse,4,1,muse
 /cristianpb/music-s3,GitHub - cristianpb/music-s3,1,1,music-s3
 /cristianpb/music-s3/actions,Workflow runs · cristianpb/music-s3 · GitHub,1,1,music-s3
 /cristianpb/music-s3/actions/runs/10103058054,Workflow · cristianpb/music-s3@107360f · GitHub,1,1,music-s3
