@@ -13,25 +13,28 @@ path,title,count,uniques,repository
 /cristianpb/cristianpb.github.io/actions/runs/10124738120/job/27999418777,🎨 Update bulma css to version 1.0.2 · cristianpb/cristianpb.github.io@a85260a,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/10124801824,pages build and deployment · cristianpb/cristianpb.github.io@1a3558d,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/10124801973,🎨 Update bulma css to version 1.0.2 · cristianpb/cristianpb.github.io@1a3558d,1,1,cristianpb.github.io
-/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,10,3,dotfiles
+/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,8,2,dotfiles
 /cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim/.vimrc at master · cristianpb/dotfiles · GitHub,6,1,dotfiles
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,4,4,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,3,3,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands_full.py,dotfiles/ranger/.config/ranger/commands_full.py at master · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/blob/ubuntu/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at ubuntu · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/commit/f5e8fe38af6ab47497f6c3451054e6df92e2d96b,➖ Remove ruby Dependency · cristianpb/dotfiles@f5e8fe3 · GitHub,2,1,dotfiles
 /cristianpb/dotfiles/tree/master/ranger,dotfiles/ranger at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/tree/ubuntu/ranger/.config/ranger,dotfiles/ranger/.config/ranger at ubuntu · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/commit/1dda1f406250ba99fbb603e387b16594044236d8,🍱 Update config files for ranger 1.9.3 · cristianpb/dotfiles@1dda1f4 · GitHub,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,11,7,muse
+/cristianpb/dotfiles/tree/master,cristianpb/dotfiles: My dotfiles,1,1,dotfiles
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,9,5,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse,4,1,muse
 /cristianpb/muse/commits/master,Commits · cristianpb/muse · GitHub,2,1,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/music-s3,GitHub - cristianpb/music-s3,1,1,music-s3
 /cristianpb/music-s3/actions,Workflow runs · cristianpb/music-s3 · GitHub,1,1,music-s3
 /cristianpb/music-s3/actions/runs/10103058054,Workflow · cristianpb/music-s3@107360f · GitHub,1,1,music-s3
+/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,4,1,object-detection
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,4,1,object-detection
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",3,3,object-detection
 /cristianpb/object-detection/blob/master/config.yml.sample,object-detection/config.yml.sample at master · cristianpb/object-detection · ...,2,1,object-detection
+/cristianpb/object-detection/deployments,Deployments · cristianpb/object-detection,2,1,object-detection
 /cristianpb/object-detection-frontend,cristianpb/object-detection-frontend: Frontend Angular application for object...,2,1,object-detection-frontend
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",5,3,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,telegraf-influxdb-grafana-docker/docker-compose-gpu.yml at master · cristianp...,2,1,telegraf-influxdb-grafana-docker
