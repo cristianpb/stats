@@ -3,9 +3,21 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/blob/master/country.csv,analytics-google/country.csv at master · cristianpb/analytics-google · GitHub,4,1,analytics-google
 /cristianpb/analytics-google/blob/master/analytics.py,analytics-google/analytics.py at master · cristianpb/analytics-google · GitHub,2,1,analytics-google
 /cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google,2,1,analytics-google
-/cristianpb/cristianpb.github.io,cristianpb/cristianpb.github.io: My website,4,3,cristianpb.github.io
+/cristianpb/cristianpb,cristianpb/cristianpb,3,1,cristianpb
+/cristianpb/cristianpb/actions/workflows/main.yml,README build · Workflow runs · cristianpb/cristianpb,2,1,cristianpb
+/cristianpb/cristianpb/actions,Workflow runs · cristianpb/cristianpb,1,1,cristianpb
+/cristianpb/cristianpb/actions/runs/10338273006,README build · cristianpb/cristianpb@63f8563,1,1,cristianpb
+/cristianpb/cristianpb/actions/runs/10338273006/job/28616134983,README build · cristianpb/cristianpb@63f8563,1,1,cristianpb
+/cristianpb/cristianpb.github.io,cristianpb/cristianpb.github.io: My website,7,5,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions,Workflow runs · cristianpb/cristianpb.github.io,5,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/10338191583/job/28615950862,pages build and deployment · cristianpb/cristianpb.github.io@f25c996,2,2,cristianpb.github.io
 /cristianpb/cristianpb.github.io/blob/master/_includes/sidebar.html,cristianpb.github.io/_includes/sidebar.html at master · cristianpb/cristianpb...,2,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/deployments/github-pages,Deployments · cristianpb/cristianpb.github.io,2,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/tree/master/jekyll_collections,cristianpb.github.io/jekyll_collections at master · cristianpb/cristianpb.git...,2,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/10338191583,pages build and deployment · cristianpb/cristianpb.github.io@f25c996,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/10338191635,✍ Add article about hackster amd contest · cristianpb/cristianpb.github.io@f2...,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/10338191635/job/28615950967,✍ Add article about hackster amd contest · cristianpb/cristianpb.github.io@f2...,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/10338207594,✍ Add article about hackster amd contest · cristianpb/cristianpb.github.io@d0...,1,1,cristianpb.github.io
 /cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim/.vimrc at master · cristianpb/dotfiles · GitHub,6,1,dotfiles
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,3,3,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles,3,1,dotfiles
@@ -13,7 +25,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/commit/f5e8fe38af6ab47497f6c3451054e6df92e2d96b,➖ Remove ruby Dependency · cristianpb/dotfiles@f5e8fe3 · GitHub,2,1,dotfiles
 /cristianpb/dotfiles/tree/master,GitHub - cristianpb/dotfiles: My dotfiles,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,12,6,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,8,5,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse,4,1,muse
 /cristianpb/muse/commits/master,Commits · cristianpb/muse · GitHub,3,1,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,2,2,muse
@@ -28,7 +40,7 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,6,1,object-detection
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",3,3,object-detection
 /cristianpb/object-detection/deployments,Deployments · cristianpb/object-detection,2,1,object-detection
-/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",5,4,rhasspy-handler
+/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",1,1,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",3,3,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,telegraf-influxdb-grafana-docker/docker-compose-gpu.yml at master · cristianp...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,2,1,telegraf-influxdb-grafana-docker
