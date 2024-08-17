@@ -5,13 +5,13 @@ Google,2,1,analytics-google
 github.com,2,1,cristianpb
 github.com,9,4,cristianpb.github.io
 discourse.gohugo.io,4,1,dotfiles
-dotfiles.github.io,1,1,dotfiles
-mopidy.com,5,2,muse
+mopidy.com,7,3,muse
 Google,4,1,muse
 cristianpb.github.io,2,1,muse
 github.com,1,1,muse
 github.com,8,2,music-s3
-cristianpb.github.io,43,3,object-detection
+cristianpb.github.io,42,2,object-detection
 github.com,3,2,object-detection
-Google,1,1,rhasspy-handler
+Google,1,1,object-detection-frontend
+Google,2,2,rhasspy-handler
 Google,21,6,telegraf-influxdb-grafana-docker
