@@ -1,12 +1,10 @@
 referrer,count,uniques,repository
-github.com,3,1,analytics-google
 cristianpb.github.io,2,1,analytics-google
 Google,2,1,analytics-google
 project-awesome.org,1,1,analytics-google
 github.com,2,1,cristianpb
 github.com,9,4,cristianpb.github.io
-discourse.gohugo.io,4,1,dotfiles
-mopidy.com,7,3,muse
+mopidy.com,8,4,muse
 Google,4,1,muse
 search.nixos.org,3,1,muse
 github.com,1,1,muse
@@ -14,5 +12,5 @@ github.com,8,2,music-s3
 cristianpb.github.io,42,2,object-detection
 github.com,3,2,object-detection
 Google,1,1,object-detection-frontend
-Google,5,3,rhasspy-handler
+Google,7,3,rhasspy-handler
 Google,21,6,telegraf-influxdb-grafana-docker
