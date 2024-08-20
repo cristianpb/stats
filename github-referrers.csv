@@ -9,8 +9,8 @@ Google,4,1,muse
 search.nixos.org,3,1,muse
 github.com,1,1,muse
 github.com,8,2,music-s3
-cristianpb.github.io,42,2,object-detection
-github.com,3,2,object-detection
+cristianpb.github.io,34,2,object-detection
+github.com,2,2,object-detection
 Google,1,1,object-detection-frontend
 Google,7,3,rhasspy-handler
 Google,21,6,telegraf-influxdb-grafana-docker
