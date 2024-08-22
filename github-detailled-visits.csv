@@ -5,8 +5,8 @@ path,title,count,uniques,repository
 /cristianpb/cristianpb/actions,Workflow runs · cristianpb/cristianpb,1,1,cristianpb
 /cristianpb/cristianpb/actions/runs/10338273006,README build · cristianpb/cristianpb@63f8563,1,1,cristianpb
 /cristianpb/cristianpb/actions/runs/10338273006/job/28616134983,README build · cristianpb/cristianpb@63f8563,1,1,cristianpb
-/cristianpb/cristianpb.github.io,cristianpb/cristianpb.github.io: My website,5,4,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions,Workflow runs · cristianpb/cristianpb.github.io,5,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io,cristianpb/cristianpb.github.io: My website,3,2,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/10338191583/job/28615950862,pages build and deployment · cristianpb/cristianpb.github.io@f25c996,2,2,cristianpb.github.io
 /cristianpb/cristianpb.github.io/deployments/github-pages,Deployments · cristianpb/cristianpb.github.io,2,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/10338191583,pages build and deployment · cristianpb/cristianpb.github.io@f25c996,1,1,cristianpb.github.io
@@ -19,31 +19,31 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles · GitHub,4,1,dotfiles
 /cristianpb/dotfiles/tree/master/mutt,dotfiles/mutt at master · cristianpb/dotfiles · GitHub,4,1,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,4,1,dotfiles
-/cristianpb/dotfiles/tree/master,GitHub - cristianpb/dotfiles: My dotfiles,3,2,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands.py,dotfiles/ranger/.config/ranger/commands.py at master · cristianpb/dotfiles · ...,3,1,dotfiles
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/bash/.bashrc,dotfiles/bash/.bashrc at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/mutt/.mutt/account_gmail,dotfiles/mutt/.mutt/account_gmail at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/mutt/.mutt/certificates/ministere.crt,dotfiles/mutt/.mutt/certificates/ministere.crt at master · cristianpb/dotfile...,2,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,13,9,muse
+/cristianpb/dotfiles/blob/master/mutt/.mutt/mailcap,dotfiles/mutt/.mutt/mailcap at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,12,8,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse,3,1,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/issues/39,Add snapcast stream support · Issue #39 · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/issues/51,error connecting to mopidy · Issue #51 · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/releases/tag/v0.0.33,Release Release v0.0.33 · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/music-s3/actions,Workflow runs · cristianpb/music-s3 · GitHub,9,4,music-s3
-/cristianpb/music-s3,GitHub - cristianpb/music-s3,8,4,music-s3
-/cristianpb/music-s3/actions/runs/10293289748,Workflow · cristianpb/music-s3@107360f · GitHub,2,2,music-s3
+/cristianpb/music-s3/actions,Workflow runs · cristianpb/music-s3 · GitHub,8,3,music-s3
+/cristianpb/music-s3,GitHub - cristianpb/music-s3,7,3,music-s3
 /cristianpb/music-s3/actions/runs/10378789668/job/28735707906,Workflow · cristianpb/music-s3@107360f,2,2,music-s3
 /cristianpb/music-s3/actions/workflows/main.yaml,Workflow · Workflow runs · cristianpb/music-s3,2,1,music-s3
-/cristianpb/music-s3/actions/runs/10293289748/job/28489295184,Workflow · cristianpb/music-s3@107360f · GitHub,1,1,music-s3
+/cristianpb/music-s3/actions/runs/10293289748,Workflow · cristianpb/music-s3@107360f,1,1,music-s3
 /cristianpb/music-s3/actions/runs/10327050418,Workflow · cristianpb/music-s3@107360f,1,1,music-s3
 /cristianpb/music-s3/actions/runs/10327050418/job/28591583968,Workflow · cristianpb/music-s3@107360f,1,1,music-s3
 /cristianpb/music-s3/actions/runs/10343596384,Workflow · cristianpb/music-s3@107360f,1,1,music-s3
 /cristianpb/music-s3/actions/runs/10343596384/job/28627917375,Workflow · cristianpb/music-s3@107360f,1,1,music-s3
-/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,12,3,object-detection
+/cristianpb/music-s3/actions/runs/10360982641,Workflow · cristianpb/music-s3@107360f · GitHub,1,1,music-s3
+/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,10,3,object-detection
 /cristianpb/object-detection/tree/master/models/ssd_mobilenet,object-detection/models/ssd_mobilenet at master · cristianpb/object-detection,9,1,object-detection
-/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,7,2,object-detection
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,5,2,object-detection
 /cristianpb/object-detection/blob/master/models/ssd_mobilenet/ssd_mobilenet_v2_coco_2018_03_29.pbtxt,object-detection/models/ssd_mobilenet/ssd_mobilenet_v2_coco_2018_03_29.pbtxt ...,4,1,object-detection
 /cristianpb/object-detection/tree/master/models/cascade,object-detection/models/cascade at master · cristianpb/object-detection,4,1,object-detection
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",3,3,object-detection

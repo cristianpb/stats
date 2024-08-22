@@ -1,12 +1,12 @@
 referrer,count,uniques,repository
 project-awesome.org,1,1,analytics-google
 github.com,2,1,cristianpb
-github.com,9,4,cristianpb.github.io
-mopidy.com,8,4,muse
+github.com,7,2,cristianpb.github.io
+mopidy.com,7,3,muse
 Google,4,1,muse
 search.nixos.org,3,1,muse
 github.com,3,1,music-s3
-cristianpb.github.io,42,3,object-detection
+cristianpb.github.io,38,3,object-detection
 github.com,2,2,object-detection
 Google,1,1,object-detection-frontend
 Google,6,2,rhasspy-handler
