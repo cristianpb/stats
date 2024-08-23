@@ -20,12 +20,12 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/tree/master/mutt,dotfiles/mutt at master · cristianpb/dotfiles · GitHub,4,1,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,4,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands.py,dotfiles/ranger/.config/ranger/commands.py at master · cristianpb/dotfiles · ...,3,1,dotfiles
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/bash/.bashrc,dotfiles/bash/.bashrc at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/mutt/.mutt/account_gmail,dotfiles/mutt/.mutt/account_gmail at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/mutt/.mutt/certificates/ministere.crt,dotfiles/mutt/.mutt/certificates/ministere.crt at master · cristianpb/dotfile...,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/mutt/.mutt/mailcap,dotfiles/mutt/.mutt/mailcap at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,12,8,muse
+/cristianpb/dotfiles/blob/master/mutt/.muttrc,dotfiles/mutt/.muttrc at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,13,9,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse,3,1,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/issues/39,Add snapcast stream support · Issue #39 · cristianpb/muse · GitHub,1,1,muse
@@ -53,7 +53,7 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/blob/master/README.md,object-detection/README.md at master · cristianpb/object-detection · GitHub,2,1,object-detection
 /cristianpb/object-detection-frontend,cristianpb/object-detection-frontend: Frontend Angular application for object...,1,1,object-detection-frontend
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",6,2,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",5,5,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",4,4,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,4,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/dashboard.yaml,telegraf-influxdb-grafana-docker/docker/grafana/dashboard.yaml at master · cr...,2,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/datasource.yaml,telegraf-influxdb-grafana-docker/docker/grafana/datasource.yaml at master · c...,2,2,telegraf-influxdb-grafana-docker
@@ -61,3 +61,4 @@ path,title,count,uniques,repository
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/DashboardTelegraf.json,telegraf-influxdb-grafana-docker/docker/grafana/DashboardTelegraf.json at mas...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",1,1,telegraf-influxdb-grafana-docker
+/cristianpb/vimwiki,cristianpb/vimwiki: My vimwiki,1,1,vimwiki
