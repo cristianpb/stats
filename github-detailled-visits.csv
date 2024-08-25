@@ -1,20 +1,5 @@
 path,title,count,uniques,repository
 /cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,2,2,analytics-google
-/cristianpb/cristianpb,cristianpb/cristianpb,3,1,cristianpb
-/cristianpb/cristianpb/actions/workflows/main.yml,README build · Workflow runs · cristianpb/cristianpb,2,1,cristianpb
-/cristianpb/cristianpb/actions,Workflow runs · cristianpb/cristianpb,1,1,cristianpb
-/cristianpb/cristianpb/actions/runs/10338273006,README build · cristianpb/cristianpb@63f8563,1,1,cristianpb
-/cristianpb/cristianpb/actions/runs/10338273006/job/28616134983,README build · cristianpb/cristianpb@63f8563,1,1,cristianpb
-/cristianpb/cristianpb.github.io/actions,Workflow runs · cristianpb/cristianpb.github.io,5,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io,cristianpb/cristianpb.github.io: My website,3,2,cristianpb.github.io
-/cristianpb/cristianpb.github.io/actions/runs/10338191583/job/28615950862,pages build and deployment · cristianpb/cristianpb.github.io@f25c996,2,2,cristianpb.github.io
-/cristianpb/cristianpb.github.io/deployments/github-pages,Deployments · cristianpb/cristianpb.github.io,2,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io/actions/runs/10338191583,pages build and deployment · cristianpb/cristianpb.github.io@f25c996,1,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io/actions/runs/10338191635,✍ Add article about hackster amd contest · cristianpb/cristianpb.github.io@f2...,1,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io/actions/runs/10338191635/job/28615950967,✍ Add article about hackster amd contest · cristianpb/cristianpb.github.io@f2...,1,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io/actions/runs/10338207594,✍ Add article about hackster amd contest · cristianpb/cristianpb.github.io@d0...,1,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io/actions/runs/10338207594/job/28615988566,✍ Add article about hackster amd contest · cristianpb/cristianpb.github.io@d0...,1,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io/actions/runs/10338240141,✍ Add article about hackster amd contest · cristianpb/cristianpb.github.io@64...,1,1,cristianpb.github.io
 /cristianpb/dotfiles/tree/master/mutt/.mutt,dotfiles/mutt/.mutt at master · cristianpb/dotfiles · GitHub,10,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles · GitHub,4,1,dotfiles
 /cristianpb/dotfiles/tree/master/mutt,dotfiles/mutt at master · cristianpb/dotfiles · GitHub,4,1,dotfiles
@@ -44,22 +29,23 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,10,3,object-detection
 /cristianpb/object-detection/tree/master/models/ssd_mobilenet,object-detection/models/ssd_mobilenet at master · cristianpb/object-detection,9,1,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,5,2,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",4,4,object-detection
 /cristianpb/object-detection/blob/master/models/ssd_mobilenet/ssd_mobilenet_v2_coco_2018_03_29.pbtxt,object-detection/models/ssd_mobilenet/ssd_mobilenet_v2_coco_2018_03_29.pbtxt ...,4,1,object-detection
 /cristianpb/object-detection/tree/master/models/cascade,object-detection/models/cascade at master · cristianpb/object-detection,4,1,object-detection
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",2,2,object-detection
 /cristianpb/object-detection/blob/c2abea4ba28d37e2bc9b60416f5b9accdbc2b543/nginx/nginx.conf,object-detection/nginx/nginx.conf at c2abea4ba28d37e2bc9b60416f5b9accdbc2b543...,2,1,object-detection
 /cristianpb/object-detection/blob/master/backend/utils.py,object-detection/backend/utils.py at master · cristianpb/object-detection,2,1,object-detection
+/cristianpb/object-detection/blob/master/config.yml.sample,object-detection/config.yml.sample at master · cristianpb/object-detection,2,1,object-detection
 /cristianpb/object-detection/blob/master/models/ssd_mobilenet/labels.json,object-detection/models/ssd_mobilenet/labels.json at master · cristianpb/obje...,2,1,object-detection
-/cristianpb/object-detection/blob/master/README.md,object-detection/README.md at master · cristianpb/object-detection · GitHub,2,1,object-detection
 /cristianpb/object-detection-frontend,cristianpb/object-detection-frontend: Frontend Angular application for object...,1,1,object-detection-frontend
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",6,2,rhasspy-handler
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",4,4,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,4,2,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,4,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,4,2,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",3,3,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/tree/master,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",3,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/dashboard.yaml,telegraf-influxdb-grafana-docker/docker/grafana/dashboard.yaml at master · cr...,2,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/datasource.yaml,telegraf-influxdb-grafana-docker/docker/grafana/datasource.yaml at master · c...,2,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/0b7eb2c1e8cc8d5895cb1259bebcf130db393f29/.env_dist,telegraf-influxdb-grafana-docker/.env_dist at 0b7eb2c1e8cc8d5895cb1259bebcf13...,2,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/DashboardTelegraf.json,telegraf-influxdb-grafana-docker/docker/grafana/DashboardTelegraf.json at mas...,2,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,2,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/tree/master,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf.conf,telegraf-influxdb-grafana-docker/docker/telegraf/telegraf.conf at master · cr...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/vimwiki,cristianpb/vimwiki: My vimwiki,1,1,vimwiki
