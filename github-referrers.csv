@@ -1,10 +1,11 @@
 referrer,count,uniques,repository
 project-awesome.org,1,1,analytics-google
-mopidy.com,3,2,muse
+dotfiles.github.io,24,1,dotfiles
+mopidy.com,4,3,muse
 search.nixos.org,3,1,muse
 github.com,2,2,muse
 github.com,1,1,music-s3
-cristianpb.github.io,34,2,object-detection
+cristianpb.github.io,8,1,object-detection
 Google,2,1,object-detection
 github.com,1,1,object-detection
 Google,2,2,object-detection-frontend
