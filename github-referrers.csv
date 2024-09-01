@@ -1,12 +1,13 @@
 referrer,count,uniques,repository
-dotfiles.github.io,24,1,dotfiles
-mopidy.com,9,4,muse
+github.com,1,1,analytics-google
+dotfiles.github.io,25,2,dotfiles
+mopidy.com,10,4,muse
 cristianpb.github.io,4,1,muse
 search.nixos.org,2,2,muse
 github.com,2,2,muse
+github.com,9,1,object-detection
 cristianpb.github.io,8,1,object-detection
 Google,2,1,object-detection
-github.com,1,1,object-detection
 Google,1,1,object-detection-frontend
 Google,1,1,rhasspy-handler
 Google,11,1,telegraf-influxdb-grafana-docker
