@@ -3,8 +3,8 @@ path,title,count,uniques,repository
 /https/github.com/cristianpb/analytics-google/branches,Branches · cristianpb/analytics-google · GitHub,1,1,analytics-google
 /https/github.com/cristianpb/analytics-google/issues,Issues · cristianpb/analytics-google · GitHub,1,1,analytics-google
 /https/github.com/cristianpb/analytics-google/pulse,Pulse · cristianpb/analytics-google · GitHub,1,1,analytics-google
-/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,21,2,dotfiles
 /cristianpb/dotfiles/tree/master/bash,dotfiles/bash at master · cristianpb/dotfiles · GitHub,18,3,dotfiles
+/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,13,1,dotfiles
 /cristianpb/dotfiles/blob/master/bash/.bash_profile,dotfiles/bash/.bash_profile at master · cristianpb/dotfiles · GitHub,10,3,dotfiles
 /cristianpb/dotfiles/tree/master/nvim,dotfiles/nvim at master · cristianpb/dotfiles · GitHub,10,3,dotfiles
 /cristianpb/dotfiles/tree/master/nvim/.config/nvim,dotfiles/nvim/.config/nvim at master · cristianpb/dotfiles · GitHub,10,2,dotfiles
@@ -29,18 +29,19 @@ path,title,count,uniques,repository
 /cristianpb/music-s3/actions/runs/10651539807/job/29524213088,Workflow · cristianpb/music-s3@6559f27,2,1,music-s3
 /cristianpb/music-s3/actions/runs/10651577212/job/29524301714,Workflow · cristianpb/music-s3@6559f27,2,1,music-s3
 /cristianpb/music-s3/blob/master/Makefile,music-s3/Makefile at master · cristianpb/music-s3,2,1,music-s3
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,5,2,object-detection
 /cristianpb/object-detection/tree/master/imgs,object-detection/imgs at master · cristianpb/object-detection · GitHub,5,1,object-detection
 /cristianpb/object-detection/tree/c2abea4ba28d37e2bc9b60416f5b9accdbc2b543/backend,object-detection/backend at c2abea4ba28d37e2bc9b60416f5b9accdbc2b543 · cristi...,4,1,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,4,1,object-detection
+/cristianpb/object-detection/tree/master,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",3,2,object-detection
 /cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,3,1,object-detection
 /cristianpb/object-detection/tree/master/models/yolo,object-detection/models/yolo at master · cristianpb/object-detection · GitHub,3,1,object-detection
 /cristianpb/object-detection/blob/c2abea4ba28d37e2bc9b60416f5b9accdbc2b543/backend/utils.py,object-detection/backend/utils.py at c2abea4ba28d37e2bc9b60416f5b9accdbc2b543...,2,1,object-detection
 /cristianpb/object-detection/blob/c2abea4ba28d37e2bc9b60416f5b9accdbc2b543/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at c2abea4ba28d37e2bc9b60416f5b9ac...,2,1,object-detection
 /cristianpb/object-detection/blob/master/backend/motion.py,object-detection/backend/motion.py at master · cristianpb/object-detection · ...,2,1,object-detection
-/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,2,1,object-detection
-/cristianpb/object-detection/blob/master/models/yolo/labels.json,object-detection/models/yolo/labels.json at master · cristianpb/object-detect...,2,1,object-detection
-/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,3,3,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/.github/workflows,object-detection-frontend/.github/workflows at master · cristianpb/object-det...,3,1,object-detection-frontend
+/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,2,2,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/.github/workflows/nodejs.yml,object-detection-frontend/.github/workflows/nodejs.yml at master · cristianpb...,2,1,object-detection-frontend
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",2,2,rhasspy-handler
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",1,1,telegraf-influxdb-grafana-docker
 /cristianpb/temp-sigfox,GitHub - cristianpb/temp-sigfox: Micropython code to send data from the ESP82...,1,1,temp-sigfox
