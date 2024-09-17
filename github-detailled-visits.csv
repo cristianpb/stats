@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,6,5,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,3,3,analytics-google
 /cristianpb/analytics-google/blob/master/analytics.py,analytics-google/analytics.py at master · cristianpb/analytics-google · GitHub,2,2,analytics-google
 /cristianpb/cristianpb.github.io/tree/tailwind/_layouts,cristianpb.github.io/_layouts at tailwind · cristianpb/cristianpb.github.io ·...,3,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/blob/tailwind/_layouts/default.html,cristianpb.github.io/_layouts/default.html at tailwind · cristianpb/cristianp...,2,1,cristianpb.github.io
@@ -7,22 +7,16 @@ path,title,count,uniques,repository
 /cristianpb/cristianpb.github.io/commits/tailwind,Commits · cristianpb/cristianpb.github.io · GitHub,2,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/tree/tailwind,GitHub - cristianpb/cristianpb.github.io at tailwind,1,1,cristianpb.github.io
-/cristianpb/dotfiles/tree/master/nvim/.config/nvim,dotfiles/nvim/.config/nvim at master · cristianpb/dotfiles,8,1,dotfiles
-/cristianpb/dotfiles/tree/master/bash,dotfiles/bash at master · cristianpb/dotfiles,7,1,dotfiles
-/cristianpb/dotfiles/tree/master/git,dotfiles/git at master · cristianpb/dotfiles,7,1,dotfiles
-/cristianpb/dotfiles/tree/master/nvim,dotfiles/nvim at master · cristianpb/dotfiles,6,1,dotfiles
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,5,4,dotfiles
-/cristianpb/dotfiles/blob/master/git/.gitconfig,dotfiles/git/.gitconfig at master · cristianpb/dotfiles,4,1,dotfiles
-/cristianpb/dotfiles/tree/master/nvim/.config,dotfiles/nvim/.config at master · cristianpb/dotfiles,4,1,dotfiles
-/cristianpb/dotfiles/tree/master/vim,dotfiles/vim at master · cristianpb/dotfiles,4,1,dotfiles
-/cristianpb/dotfiles/blob/master/bash/.bash_profile,dotfiles/bash/.bash_profile at master · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/dotfiles/blob/master/bash/.bashrc,dotfiles/bash/.bashrc at master · cristianpb/dotfiles,2,1,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,3,2,dotfiles
+/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
+/cristianpb/dotfiles/tree/master/ranger/.config/rangerCommentsksyrx%20said%20about%205%20years%20agonice%20:)sharpicx%20said%20about%203%20years%20agoi%20love%20it,File not found · GitHub,2,1,dotfiles
+/cristianpb/dotfiles/tree/master,cristianpb/dotfiles: My dotfiles,1,1,dotfiles
 /cristianpb/hubot-ratp/blob/HEAD/src/ratp.coffee,hubot-ratp/src/ratp.coffee at e8728ad5b3082f07e02852fb0e793941262b049f · cris...,2,1,hubot-ratp
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,17,13,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,18,14,muse
 /cristianpb/muse/releases/tag/v0.0.33,Release Release v0.0.33 · cristianpb/muse,1,1,muse
+/cristianpb/music-s3,cristianpb/music-s3,4,1,music-s3
 /cristianpb/music-s3/actions,Workflow runs · cristianpb/music-s3,4,1,music-s3
 /cristianpb/music-s3/actions/runs/10781825754,Workflow · cristianpb/music-s3@d73b4c8,3,1,music-s3
-/cristianpb/music-s3,cristianpb/music-s3,2,1,music-s3
 /cristianpb/music-s3/actions/workflows/main.yaml,Workflow · Workflow runs · cristianpb/music-s3,2,1,music-s3
 /cristianpb/music-s3/actions/runs/10711141193,Workflow · cristianpb/music-s3@075d0c9,1,1,music-s3
 /cristianpb/music-s3/actions/runs/10711141193/job/29699252610,Workflow · cristianpb/music-s3@075d0c9,1,1,music-s3
@@ -50,7 +44,7 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/tree/master/imgs/webcam,object-detection/imgs/webcam at master · cristianpb/object-detection · GitHub,4,2,object-detection
 /cristianpb/object-detection/blob/master/backend/utils.py,object-detection/backend/utils.py at master · cristianpb/object-detection,4,1,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,4,1,object-detection
-/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,3,3,object-detection-frontend
+/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,2,2,object-detection-frontend
 /cristianpb/playlists/commit/abd160280afe38cd5e42304ad11c2cd59e2f5cf8,deploy: 8c3c87018beae9ab056bb142f0b67d9a5367d77b · cristianpb/playlists@abd1602,1,1,playlists
 /cristianpb/playlists/commit/d7e84883068b612e987685b104b527aaa08913fa,deploy: 8c3c87018beae9ab056bb142f0b67d9a5367d77b · cristianpb/playlists@d7e84...,1,1,playlists
 /cristianpb/playlists/commit/f0f644197b74a1c063c753305dbf5efd31bbb13a,deploy: 8c3c87018beae9ab056bb142f0b67d9a5367d77b · cristianpb/playlists@f0f64...,1,1,playlists
