@@ -7,14 +7,22 @@ path,title,count,uniques,repository
 /cristianpb/cristianpb.github.io/commits/tailwind,Commits · cristianpb/cristianpb.github.io · GitHub,2,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/tree/tailwind,GitHub - cristianpb/cristianpb.github.io at tailwind,1,1,cristianpb.github.io
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,2,2,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,4,4,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config/rangerCommentsksyrx%20said%20about%205%20years%20agonice%20:)sharpicx%20said%20about%203%20years%20agoi%20love%20it,File not found · GitHub,2,1,dotfiles
 /cristianpb/hubot-ratp/blob/HEAD/src/ratp.coffee,hubot-ratp/src/ratp.coffee at e8728ad5b3082f07e02852fb0e793941262b049f · cris...,2,1,hubot-ratp
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,18,14,muse
-/cristianpb/muse/releases/tag/v0.0.33,Release Release v0.0.33 · cristianpb/muse,1,1,muse
-/cristianpb/music-s3/actions,Workflow runs · cristianpb/music-s3,5,1,music-s3
-/cristianpb/music-s3,cristianpb/music-s3,4,1,music-s3
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,22,16,muse
+/cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse · GitHub,4,1,muse
+/cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,3,1,muse
+/cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse · GitHub,3,1,muse
+/cristianpb/muse/blob/master/cypress/integration/spec.js,muse/cypress/integration/spec.js at master · cristianpb/muse · GitHub,2,1,muse
+/cristianpb/muse/blob/master/mopidy_muse/__init__.py,muse/mopidy_muse/__init__.py at master · cristianpb/muse · GitHub,2,1,muse
+/cristianpb/muse/blob/master/src/global.css,muse/src/global.css at master · cristianpb/muse · GitHub,2,1,muse
+/cristianpb/muse/tree/master/cypress,muse/cypress at master · cristianpb/muse · GitHub,2,1,muse
+/cristianpb/muse/tree/master/cypress/fixtures,muse/cypress/fixtures at master · cristianpb/muse · GitHub,2,1,muse
+/cristianpb/muse/tree/master/cypress/integration,muse/cypress/integration at master · cristianpb/muse · GitHub,2,1,muse
+/cristianpb/music-s3/actions,Workflow runs · cristianpb/music-s3,6,1,music-s3
+/cristianpb/music-s3,cristianpb/music-s3,5,1,music-s3
 /cristianpb/music-s3/actions/runs/10781825754,Workflow · cristianpb/music-s3@d73b4c8,3,1,music-s3
 /cristianpb/music-s3/actions/workflows/main.yaml,Workflow · Workflow runs · cristianpb/music-s3,2,1,music-s3
 /cristianpb/music-s3/actions/runs/10711141193,Workflow · cristianpb/music-s3@075d0c9,1,1,music-s3
@@ -24,7 +32,7 @@ path,title,count,uniques,repository
 /cristianpb/music-s3/actions/runs/10781825754/job/29900568595,Workflow · cristianpb/music-s3@d73b4c8,1,1,music-s3
 /cristianpb/music-s3/actions/runs/10781825754/job/29900613167,Workflow · cristianpb/music-s3@d73b4c8,1,1,music-s3
 /cristianpb/nerf/actions,Workflow runs · cristianpb/nerf · GitHub,16,2,nerf
-/cristianpb/nerf,GitHub - cristianpb/nerf,14,2,nerf
+/cristianpb/nerf,GitHub - cristianpb/nerf,13,2,nerf
 /cristianpb/nerf/tree/gh-pages/css,nerf/css at gh-pages · cristianpb/nerf · GitHub,9,2,nerf
 /cristianpb/nerf/blob/gh-pages/index.html,nerf/index.html at gh-pages · cristianpb/nerf,9,1,nerf
 /cristianpb/nerf/tree/gh-pages,GitHub - cristianpb/nerf at gh-pages,8,2,nerf
@@ -38,11 +46,10 @@ path,title,count,uniques,repository
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",5,5,object-detection
 /cristianpb/object-detection/blob/master/backend/utils.py,object-detection/backend/utils.py at master · cristianpb/object-detection,4,1,object-detection
 /cristianpb/object-detection/tree/master/imgs,object-detection/imgs at master · cristianpb/object-detection,4,1,object-detection
-/cristianpb/object-detection/tree/master,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",3,2,object-detection
-/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,3,1,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,2,1,object-detection
 /cristianpb/object-detection/tree/master/imgs/pi,object-detection/imgs/pi at master · cristianpb/object-detection,2,1,object-detection
 /cristianpb/object-detection/tree/master/imgs/webcam,object-detection/imgs/webcam at master · cristianpb/object-detection,2,1,object-detection
+/cristianpb/object-detection/tree/master,"cristianpb/object-detection: Object detection on Jetson Nano, Raspberry Pi an...",1,1,object-detection
 /cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,2,2,object-detection-frontend
 /cristianpb/playlists/commit/abd160280afe38cd5e42304ad11c2cd59e2f5cf8,deploy: 8c3c87018beae9ab056bb142f0b67d9a5367d77b · cristianpb/playlists@abd1602,1,1,playlists
 /cristianpb/playlists/commit/d7e84883068b612e987685b104b527aaa08913fa,deploy: 8c3c87018beae9ab056bb142f0b67d9a5367d77b · cristianpb/playlists@d7e84...,1,1,playlists
