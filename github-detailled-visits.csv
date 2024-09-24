@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,5,5,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,4,4,analytics-google
 /cristianpb/cristianpb,GitHub - cristianpb/cristianpb,1,1,cristianpb
 /cristianpb/cristianpb.github.io/tree/tailwind/_layouts,cristianpb.github.io/_layouts at tailwind · cristianpb/cristianpb.github.io ·...,3,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,2,2,cristianpb.github.io
@@ -8,7 +8,7 @@ path,title,count,uniques,repository
 /cristianpb/cristianpb.github.io/commits/tailwind,Commits · cristianpb/cristianpb.github.io · GitHub,2,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/tree/tailwind,GitHub - cristianpb/cristianpb.github.io at tailwind,1,1,cristianpb.github.io
 /cristianpb/deces-ui,GitHub - cristianpb/deces-ui: Svelte port of search-ui like for people deaths...,1,1,deces-ui
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,7,7,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,6,6,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,4,1,dotfiles
 /cristianpb/dotfiles/blob/master/i3/.config/i3/config,dotfiles/i3/.config/i3/config at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/polybar/.config/polybar/config.ini,dotfiles/polybar/.config/polybar/config.ini at master · cristianpb/dotfiles ·...,2,1,dotfiles
@@ -20,20 +20,18 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/tree/master/polybar,dotfiles/polybar at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/enkontext,GitHub - cristianpb/enkontext,1,1,enkontext
 /cristianpb/hubot-ratp/blob/HEAD/src/ratp.coffee,hubot-ratp/src/ratp.coffee at e8728ad5b3082f07e02852fb0e793941262b049f · cris...,2,1,hubot-ratp
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,20,16,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,21,16,muse
 /cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse · GitHub,8,2,muse
+/cristianpb/muse/actions,Workflow runs · cristianpb/muse,7,2,muse
 /cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse · GitHub,7,2,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,6,3,muse
-/cristianpb/muse/actions,Workflow runs · cristianpb/muse,5,2,muse
 /cristianpb/muse/blob/master/src/global.css,muse/src/global.css at master · cristianpb/muse · GitHub,4,2,muse
+/cristianpb/muse/tree/master,muse/ at master · cristianpb/muse,4,2,muse
 /cristianpb/muse/tree/master/mopidy_muse/static,muse/mopidy_muse/static at master · cristianpb/muse · GitHub,4,2,muse
-/cristianpb/muse/tree/master,muse/ at master · cristianpb/muse,3,1,muse
 /cristianpb/muse/tree/master/src/lib,muse/src/lib at master · cristianpb/muse,3,1,muse
 /cristianpb/muse/tree/master/src/lib/components,muse/src/lib/components at master · cristianpb/muse,3,1,muse
 /cristianpb/music-s3,GitHub - cristianpb/music-s3,4,2,music-s3
-/cristianpb/music-s3/actions,Workflow runs · cristianpb/music-s3 · GitHub,4,2,music-s3
-/cristianpb/music-s3/actions/runs/10782975801,Workflow · cristianpb/music-s3@d73b4c8,1,1,music-s3
-/cristianpb/music-s3/actions/runs/10782975801/job/29903962616,Workflow · cristianpb/music-s3@d73b4c8,1,1,music-s3
+/cristianpb/music-s3/actions,Workflow runs · cristianpb/music-s3 · GitHub,3,2,music-s3
 /cristianpb/music-s3/actions/runs/10875196550,Workflow · cristianpb/music-s3@8f1014d,1,1,music-s3
 /cristianpb/music-s3/actions/runs/10875196550/job/30173332495,Workflow · cristianpb/music-s3@8f1014d,1,1,music-s3
 /cristianpb/music-s3/actions/runs/10893741317,Workflow · cristianpb/music-s3@936655e,1,1,music-s3
@@ -50,20 +48,16 @@ path,title,count,uniques,repository
 /cristianpb/nerf/tree/gh-pages/_app/immutable,nerf/_app/immutable at gh-pages · cristianpb/nerf · GitHub,3,1,nerf
 /cristianpb/nerf/tree/gh-pages/_app/immutable/assets,nerf/_app/immutable/assets at gh-pages · cristianpb/nerf · GitHub,3,1,nerf
 /cristianpb/nerf/tree/master/_app,File not found · GitHub,3,1,nerf
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",6,4,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",5,3,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,5,1,object-detection
-/cristianpb/object-detection/tree/master/imgs,object-detection/imgs at master · cristianpb/object-detection,4,1,object-detection
 /cristianpb/object-detection/tree/master/models/yolo,object-detection/models/yolo at master · cristianpb/object-detection · GitHub,4,1,object-detection
-/cristianpb/object-detection/blob/master/backend/motion.py,object-detection/backend/motion.py at master · cristianpb/object-detection,2,1,object-detection
-/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,2,1,object-detection
 /cristianpb/object-detection/blob/master/models/yolo/labels.json,object-detection/models/yolo/labels.json at master · cristianpb/object-detect...,2,1,object-detection
-/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection,2,1,object-detection
-/cristianpb/object-detection/tree/master/imgs/pi,object-detection/imgs/pi at master · cristianpb/object-detection,2,1,object-detection
-/cristianpb/object-detection/tree/master/imgs/webcam,object-detection/imgs/webcam at master · cristianpb/object-detection,2,1,object-detection
 /cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,4,3,object-detection-frontend
 /cristianpb/PresentationTechnique,GitHub - cristianpb/PresentationTechnique,1,1,PresentationTechnique
 /cristianpb/qrcode-reader,GitHub - cristianpb/qrcode-reader,1,1,qrcode-reader
-/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",2,2,rhasspy-handler
+/cristianpb/rhasspy-handler,cristianpb/rhasspy-handler: My voice assistant intent handler,1,1,rhasspy-handler
+/cristianpb/rhasspy-handler/actions,Workflow runs · cristianpb/rhasspy-handler,1,1,rhasspy-handler
+/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",1,1,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",2,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/0b7eb2c1e8cc8d5895cb1259bebcf130db393f29/.env_dist,telegraf-influxdb-grafana-docker/.env_dist at 0b7eb2c1e8cc8d5895cb1259bebcf13...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki,2,1,vimwiki
