@@ -23,8 +23,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/tree/master/i3/.config/i3,dotfiles/i3/.config/i3 at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/dotfiles/tree/master/polybar,dotfiles/polybar at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/enkontext,GitHub - cristianpb/enkontext,1,1,enkontext
-/cristianpb/hubot-ratp/blob/HEAD/src/ratp.coffee,hubot-ratp/src/ratp.coffee at e8728ad5b3082f07e02852fb0e793941262b049f · cris...,2,1,hubot-ratp
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,17,13,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,13,10,muse
 /cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse · GitHub,8,2,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,7,4,muse
 /cristianpb/muse/actions,Workflow runs · cristianpb/muse,7,2,muse
@@ -45,14 +44,14 @@ path,title,count,uniques,repository
 /cristianpb/music-s3/actions/runs/10950503707/job/30405849222,Workflow · cristianpb/music-s3@936655e · GitHub,1,1,music-s3
 /cristianpb/music-s3/actions/runs/10985282221/job/30496907609,Workflow · cristianpb/music-s3@936655e,1,1,music-s3
 /cristianpb/nerf/actions,Workflow runs · cristianpb/nerf · GitHub,9,2,nerf
-/cristianpb/nerf/tree/gh-pages/_app,nerf/_app at gh-pages · cristianpb/nerf · GitHub,7,1,nerf
-/cristianpb/nerf,GitHub - cristianpb/nerf,6,3,nerf
+/cristianpb/nerf/tree/gh-pages/_app,nerf/_app at gh-pages · cristianpb/nerf · GitHub,9,2,nerf
+/cristianpb/nerf/tree/gh-pages/_app/immutable/assets,nerf/_app/immutable/assets at gh-pages · cristianpb/nerf · GitHub,9,2,nerf
+/cristianpb/nerf/tree/gh-pages/_app/immutable,nerf/_app/immutable at gh-pages · cristianpb/nerf · GitHub,8,2,nerf
+/cristianpb/nerf,GitHub - cristianpb/nerf,7,3,nerf
 /cristianpb/nerf/tree/gh-pages/css,nerf/css at gh-pages · cristianpb/nerf · GitHub,5,2,nerf
-/cristianpb/nerf/actions/runs/10856712153,💄 Adapt components to flowbite and tailwind · cristianpb/nerf@54180c4,3,3,nerf
-/cristianpb/nerf/tree/gh-pages,GitHub - cristianpb/nerf at gh-pages,3,3,nerf
+/cristianpb/nerf/tree/gh-pages,GitHub - cristianpb/nerf at gh-pages,4,3,nerf
+/cristianpb/nerf/blob/gh-pages/_app/immutable/assets/0.DVIQobS5.css,nerf/_app/immutable/assets/0.DVIQobS5.css at gh-pages · cristianpb/nerf · Git...,4,2,nerf
 /cristianpb/nerf/actions/runs/10762100764,✍ Update content · cristianpb/nerf@5b0978a,3,1,nerf
-/cristianpb/nerf/tree/gh-pages/_app/immutable,nerf/_app/immutable at gh-pages · cristianpb/nerf · GitHub,3,1,nerf
-/cristianpb/nerf/tree/gh-pages/_app/immutable/assets,nerf/_app/immutable/assets at gh-pages · cristianpb/nerf · GitHub,3,1,nerf
 /cristianpb/nerf/tree/master/_app,File not found · GitHub,3,1,nerf
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",7,5,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,5,1,object-detection
@@ -61,12 +60,15 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/blob/master/models/yolo/labels.json,object-detection/models/yolo/labels.json at master · cristianpb/object-detect...,2,1,object-detection
 /cristianpb/object-detection/tree/master,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",1,1,object-detection
 /cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,2,1,object-detection-frontend
+/cristianpb/playlists,GitHub - cristianpb/playlists,1,1,playlists
 /cristianpb/PresentationTechnique,GitHub - cristianpb/PresentationTechnique,1,1,PresentationTechnique
 /cristianpb/qrcode-reader,GitHub - cristianpb/qrcode-reader,1,1,qrcode-reader
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",2,2,rhasspy-handler
 /cristianpb/rhasspy-handler,cristianpb/rhasspy-handler: My voice assistant intent handler,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/actions,Workflow runs · cristianpb/rhasspy-handler,1,1,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",2,2,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",4,3,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/0b7eb2c1e8cc8d5895cb1259bebcf130db393f29/.env_dist,telegraf-influxdb-grafana-docker/.env_dist at 0b7eb2c1e8cc8d5895cb1259bebcf13...,2,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/.env_dist,telegraf-influxdb-grafana-docker/.env_dist at master · cristianpb/telegraf-in...,2,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki,2,1,vimwiki
 /cristianpb/vimwiki,cristianpb/vimwiki: My vimwiki,1,1,vimwiki

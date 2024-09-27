@@ -7,10 +7,9 @@ github.com,1,1,deces-ui
 Bing,1,1,dotfiles
 dotfiles.github.io,1,1,dotfiles
 github.com,1,1,enkontext
-npmjs.com,2,1,hubot-ratp
 cristianpb.github.io,28,2,muse
-mopidy.com,8,8,muse
 github.com,6,1,muse
+mopidy.com,4,4,muse
 pypi.org,1,1,muse
 github.com,5,1,music-s3
 github.com,26,2,nerf
@@ -19,11 +18,12 @@ cristianpb.github.io,3,1,object-detection
 hackster.io,2,2,object-detection
 github.com,1,1,object-detection
 github.com,2,1,object-detection-frontend
+github.com,1,1,playlists
 github.com,1,1,PresentationTechnique
 github.com,1,1,qrcode-reader
 Google,2,2,rhasspy-handler
 github.com,2,1,rhasspy-handler
+Google,7,2,telegraf-influxdb-grafana-docker
 github.com,2,1,telegraf-influxdb-grafana-docker
-Google,1,1,telegraf-influxdb-grafana-docker
 medium.com,1,1,telegraf-influxdb-grafana-docker
 github.com,3,1,vimwiki
