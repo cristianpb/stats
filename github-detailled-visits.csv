@@ -3,7 +3,7 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google · GitHub,11,2,analytics-google
 /cristianpb/analytics-google/tree/master/src/lib/tools,analytics-google/src/lib/tools at master · cristianpb/analytics-google · GitHub,9,2,analytics-google
 /cristianpb/analytics-google/tree/master/src/lib/views,analytics-google/src/lib/views at master · cristianpb/analytics-google · GitHub,8,2,analytics-google
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,5,4,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,7,6,analytics-google
 /cristianpb/analytics-google/blob/master/src/lib/tools/stores.js,analytics-google/src/lib/tools/stores.js at master · cristianpb/analytics-goo...,5,2,analytics-google
 /cristianpb/analytics-google/blob/master/src/lib/index.js,analytics-google/src/lib/index.js at master · cristianpb/analytics-google · G...,3,2,analytics-google
 /cristianpb/analytics-google/blob/master/src/lib/tools/getData.js,analytics-google/src/lib/tools/getData.js at master · cristianpb/analytics-go...,3,2,analytics-google
@@ -12,7 +12,7 @@ path,title,count,uniques,repository
 /cristianpb/cristianpb,GitHub - cristianpb/cristianpb,1,1,cristianpb
 /cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,1,1,cristianpb.github.io
 /cristianpb/deces-ui,GitHub - cristianpb/deces-ui: Svelte port of search-ui like for people deaths...,1,1,deces-ui
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,6,6,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,4,4,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,4,1,dotfiles
 /cristianpb/dotfiles/blob/master/i3/.config/i3/config,dotfiles/i3/.config/i3/config at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/polybar/.config/polybar/config.ini,dotfiles/polybar/.config/polybar/config.ini at master · cristianpb/dotfiles ·...,2,1,dotfiles
@@ -23,22 +23,20 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/tree/master/i3/.config/i3,dotfiles/i3/.config/i3 at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/dotfiles/tree/master/polybar,dotfiles/polybar at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/enkontext,GitHub - cristianpb/enkontext,1,1,enkontext
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,12,9,muse
-/cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse · GitHub,8,2,muse
-/cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,7,4,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,9,8,muse
 /cristianpb/muse/actions,Workflow runs · cristianpb/muse,7,2,muse
-/cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse · GitHub,7,2,muse
-/cristianpb/muse/blob/master/src/global.css,muse/src/global.css at master · cristianpb/muse · GitHub,4,2,muse
+/cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,4,3,muse
 /cristianpb/muse/tree/master,muse/ at master · cristianpb/muse,4,2,muse
-/cristianpb/muse/tree/master/mopidy_muse/static,muse/mopidy_muse/static at master · cristianpb/muse · GitHub,4,2,muse
+/cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse,4,1,muse
+/cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse,4,1,muse
 /cristianpb/muse/tree/master/src/lib,muse/src/lib at master · cristianpb/muse,3,1,muse
 /cristianpb/muse/tree/master/src/lib/components,muse/src/lib/components at master · cristianpb/muse,3,1,muse
-/cristianpb/music-s3,GitHub - cristianpb/music-s3,3,2,music-s3
-/cristianpb/music-s3/actions,Workflow runs · cristianpb/music-s3 · GitHub,3,2,music-s3
+/cristianpb/muse/actions/runs/10975994960/job/30476275208,⬆ Update snapcast version · cristianpb/muse@6225252,2,2,muse
+/cristianpb/muse/actions/runs/10975994961/job/30476275210,⬆ Update snapcast version · cristianpb/muse@6225252 · GitHub,2,2,muse
 /cristianpb/music-s3/actions/runs/11061861389/job/30735260618,Workflow · cristianpb/music-s3@936655e,3,1,music-s3
+/cristianpb/music-s3,GitHub - cristianpb/music-s3,2,2,music-s3
+/cristianpb/music-s3/actions,Workflow runs · cristianpb/music-s3 · GitHub,2,2,music-s3
 /cristianpb/music-s3/actions/runs/10985282221,Workflow · cristianpb/music-s3@936655e,2,1,music-s3
-/cristianpb/music-s3/actions/runs/10893741317,Workflow · cristianpb/music-s3@936655e,1,1,music-s3
-/cristianpb/music-s3/actions/runs/10893741317/job/30229187388,Workflow · cristianpb/music-s3@936655e,1,1,music-s3
 /cristianpb/music-s3/actions/runs/10950503707,Workflow · cristianpb/music-s3@936655e · GitHub,1,1,music-s3
 /cristianpb/music-s3/actions/runs/10950503707/job/30405849222,Workflow · cristianpb/music-s3@936655e · GitHub,1,1,music-s3
 /cristianpb/music-s3/actions/runs/10985282221/job/30496907609,Workflow · cristianpb/music-s3@936655e,1,1,music-s3
