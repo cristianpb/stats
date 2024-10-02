@@ -12,18 +12,18 @@ path,title,count,uniques,repository
 /cristianpb/cristianpb,GitHub - cristianpb/cristianpb,1,1,cristianpb
 /cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,1,1,cristianpb.github.io
 /cristianpb/deces-ui,GitHub - cristianpb/deces-ui: Svelte port of search-ui like for people deaths...,1,1,deces-ui
+/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,5,2,dotfiles
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,4,4,dotfiles
-/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,4,1,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles · GitHub,3,2,dotfiles
 /cristianpb/dotfiles/blob/master/i3/.config/i3/config,dotfiles/i3/.config/i3/config at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/polybar/.config/polybar/config.ini,dotfiles/polybar/.config/polybar/config.ini at master · cristianpb/dotfiles ·...,2,1,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles · Git...,2,1,dotfiles
 /cristianpb/dotfiles/tree/master/bash,dotfiles/bash at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/dotfiles/tree/master/i3,dotfiles/i3 at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/dotfiles/tree/master/i3/.config/i3,dotfiles/i3/.config/i3 at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/dotfiles/tree/master/polybar,dotfiles/polybar at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/enkontext,GitHub - cristianpb/enkontext,1,1,enkontext
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,9,8,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,11,10,muse
 /cristianpb/muse/actions,Workflow runs · cristianpb/muse,7,2,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,4,3,muse
 /cristianpb/muse/tree/master,muse/ at master · cristianpb/muse,4,2,muse
@@ -51,21 +51,16 @@ path,title,count,uniques,repository
 /cristianpb/nerf/tree/gh-pages,GitHub - cristianpb/nerf at gh-pages,2,2,nerf
 /cristianpb/nerf/blob/gh-pages/_app/env.js,nerf/_app/env.js at gh-pages · cristianpb/nerf · GitHub,2,1,nerf
 /cristianpb/nerf/blob/gh-pages/_app/immutable/assets/_layout.7QZGVmFU.css,nerf/_app/immutable/assets/_layout.7QZGVmFU.css at gh-pages · cristianpb/nerf...,2,1,nerf
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",6,4,object-detection
-/cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,5,1,object-detection
-/cristianpb/object-detection/tree/master/models/yolo,object-detection/models/yolo at master · cristianpb/object-detection · GitHub,4,1,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",3,3,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,2,1,object-detection
-/cristianpb/object-detection/blob/master/models/yolo/labels.json,object-detection/models/yolo/labels.json at master · cristianpb/object-detect...,2,1,object-detection
 /cristianpb/object-detection/tree/master,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",1,1,object-detection
-/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,2,1,object-detection-frontend
 /cristianpb/playlists,GitHub - cristianpb/playlists,1,1,playlists
 /cristianpb/PresentationTechnique,GitHub - cristianpb/PresentationTechnique,1,1,PresentationTechnique
 /cristianpb/qrcode-reader,GitHub - cristianpb/qrcode-reader,1,1,qrcode-reader
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",2,2,rhasspy-handler
 /cristianpb/rhasspy-handler,cristianpb/rhasspy-handler: My voice assistant intent handler,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/actions,Workflow runs · cristianpb/rhasspy-handler,1,1,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",5,4,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/0b7eb2c1e8cc8d5895cb1259bebcf130db393f29/.env_dist,telegraf-influxdb-grafana-docker/.env_dist at 0b7eb2c1e8cc8d5895cb1259bebcf13...,2,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",4,3,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/.env_dist,telegraf-influxdb-grafana-docker/.env_dist at master · cristianpb/telegraf-in...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,1,1,telegraf-influxdb-grafana-docker
