@@ -8,6 +8,5 @@ github.com,4,1,music-s3
 cristianpb.github.io,3,3,object-detection
 Google,1,1,object-detection
 github.com,1,1,object-detection
-github.com,1,1,playlists
 Google,2,2,rhasspy-handler
-Google,43,6,telegraf-influxdb-grafana-docker
+Google,39,7,telegraf-influxdb-grafana-docker
