@@ -1,22 +1,32 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,7,6,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,5,5,analytics-google
 /cristianpb/analytics-google/blob/master/requirements.txt,analytics-google/requirements.txt at master · cristianpb/analytics-google · G...,1,1,analytics-google
-/cristianpb/analytics-google/blob/master/src/lib/index.js,analytics-google/src/lib/index.js at master · cristianpb/analytics-google,1,1,analytics-google
-/cristianpb/analytics-google/blob/master/src/lib/tools/getData.js,analytics-google/src/lib/tools/getData.js at master · cristianpb/analytics-go...,1,1,analytics-google
-/cristianpb/analytics-google/blob/master/src/lib/tools/stores.js,analytics-google/src/lib/tools/stores.js at master · cristianpb/analytics-goo...,1,1,analytics-google
-/cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google,1,1,analytics-google
-/cristianpb/analytics-google/tree/master/src/lib,analytics-google/src/lib at master · cristianpb/analytics-google,1,1,analytics-google
-/cristianpb/analytics-google/tree/master/src/lib/tools,analytics-google/src/lib/tools at master · cristianpb/analytics-google,1,1,analytics-google
-/cristianpb/analytics-google/tree/master/src/lib/views,analytics-google/src/lib/views at master · cristianpb/analytics-google,1,1,analytics-google
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,2,2,dotfiles
+/cristianpb/cristianpb/actions/workflows/main.yml,README build · Workflow runs · cristianpb/cristianpb,3,1,cristianpb
+/cristianpb/cristianpb,cristianpb/cristianpb,1,1,cristianpb
+/cristianpb/cristianpb/actions,Workflow runs · cristianpb/cristianpb,1,1,cristianpb
+/cristianpb/cristianpb/actions/runs/11274909779,README build · cristianpb/cristianpb@18e64d6,1,1,cristianpb
+/cristianpb/cristianpb/actions/runs/11274909779/job/31355121481,README build · cristianpb/cristianpb@18e64d6,1,1,cristianpb
+/cristianpb/cristianpb/blob/main/index.js,cristianpb/index.js at main · cristianpb/cristianpb,1,1,cristianpb
+/cristianpb/cristianpb/tree/main,cristianpb/cristianpb,1,1,cristianpb
+/cristianpb/cristianpb.github.io,cristianpb/cristianpb.github.io: My website,3,2,cristianpb.github.io
+/cristianpb/cristianpb.github.io/tree/master/jekyll_collections,cristianpb.github.io/jekyll_collections at master · cristianpb/cristianpb.git...,2,2,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/11274761832/job/31354701157,✍ Add application revenue prediction post · cristianpb/cristianpb.github.io@0...,2,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions,Workflow runs · cristianpb/cristianpb.github.io,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/11274761707,pages build and deployment · cristianpb/cristianpb.github.io@03eb075,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/blob/master/jekyll_collections/_api/github-pages.html,cristianpb.github.io/jekyll_collections/_api/github-pages.html at master · cr...,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/blob/master/jekyll_collections/_posts/2024-07-28-plant-care-information.md,cristianpb.github.io/jekyll_collections/_posts/2024-07-28-plant-care-informat...,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/tree/master/jekyll_collections/_api,cristianpb.github.io/jekyll_collections/_api at master · cristianpb/cristianp...,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/tree/master/jekyll_collections/_posts,cristianpb.github.io/jekyll_collections/_posts at master · cristianpb/cristia...,1,1,cristianpb.github.io
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,3,3,dotfiles
 /cristianpb/dotfiles/blob/master/git/.gitconfig,dotfiles/git/.gitconfig at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/msmtp/.msmtprc,dotfiles/msmtp/.msmtprc at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/ranger/.config/ranger/rifle.conf at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/git,dotfiles/git at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,9,9,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,10,9,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse,1,1,muse
+/cristianpb/muse/blob/master/README.md,muse/README.md at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/blob/master/vite.config.js,muse/vite.config.js at master · cristianpb/muse,1,1,muse
 /cristianpb/muse/issues/17,Mopidy Server connection does not seem to work · Issue #17 · cristianpb/muse ...,1,1,muse
 /cristianpb/music-s3,GitHub - cristianpb/music-s3,5,2,music-s3
@@ -29,19 +39,17 @@ path,title,count,uniques,repository
 /cristianpb/music-s3/actions/runs/11153215828,Workflow · cristianpb/music-s3@b0f0866 · GitHub,1,1,music-s3
 /cristianpb/music-s3/actions/runs/11153215828/job/31000297229,Workflow · cristianpb/music-s3@b0f0866 · GitHub,1,1,music-s3
 /cristianpb/music-s3/actions/runs/11225737594,Workflow · cristianpb/music-s3@b0f0866,1,1,music-s3
-/cristianpb/nerf,cristianpb/nerf,1,1,nerf
-/cristianpb/nerf/actions,Workflow runs · cristianpb/nerf,1,1,nerf
-/cristianpb/nerf/actions/runs/11081984140,🎨 Use enhanced image plugin · cristianpb/nerf@c07de8f,1,1,nerf
-/cristianpb/nerf/actions/runs/11081984140/job/30794397158,🎨 Use enhanced image plugin · cristianpb/nerf@c07de8f,1,1,nerf
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",3,3,object-detection
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,2,2,object-detection
 /cristianpb/object-detection/blob/master/backend/motion.py,object-detection/backend/motion.py at master · cristianpb/object-detection · ...,1,1,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,1,1,object-detection
 /cristianpb/object-detection/blob/master/backend/utils.py,object-detection/backend/utils.py at master · cristianpb/object-detection · G...,1,1,object-detection
-/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,1,1,object-detection
 /cristianpb/object-detection/blob/master/config.yml.sample,object-detection/config.yml.sample at master · cristianpb/object-detection · ...,1,1,object-detection
 /cristianpb/priceminister,GitHub - cristianpb/priceminister: Data science projet on nlp,1,1,priceminister
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",2,2,rhasspy-handler
 /cristianpb/rhasspy-handler/forks,Forks · cristianpb/rhasspy-handler · GitHub,1,1,rhasspy-handler
+/cristianpb/stats,GitHub - cristianpb/stats,1,1,stats
+/cristianpb/stats/blob/master/index.ts,stats/index.ts at master · cristianpb/stats · GitHub,1,1,stats
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",8,8,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,8,4,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",7,1,telegraf-influxdb-grafana-docker
