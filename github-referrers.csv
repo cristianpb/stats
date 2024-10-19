@@ -1,10 +1,10 @@
 referrer,count,uniques,repository
-Google,2,2,analytics-google
+Google,1,1,analytics-google
 github.com,4,1,cristianpb
-github.com,13,2,cristianpb.github.io
+github.com,14,3,cristianpb.github.io
 cristianpb.github.io,6,1,dotfiles
+dotfiles.github.io,5,3,dotfiles
 github.com,5,1,dotfiles
-dotfiles.github.io,4,2,dotfiles
 Google,1,1,dotfiles
 mopidy.com,2,2,muse
 cristianpb.github.io,2,1,muse
@@ -12,10 +12,9 @@ pypi.org,1,1,muse
 Google,1,1,muse
 search.brave.com,1,1,muse
 github.com,5,1,music-s3
-cristianpb.github.io,26,4,object-detection
+cristianpb.github.io,25,3,object-detection
 Google,2,2,object-detection
-github.com,1,1,object-detection
-Google,1,1,rhasspy-handler
-Google,29,9,telegraf-influxdb-grafana-docker
+github.com,2,2,object-detection
+Google,25,8,telegraf-influxdb-grafana-docker
 cristianpb.github.io,5,1,telegraf-influxdb-grafana-docker
 cristianpb.github.io,3,1,vimwiki
