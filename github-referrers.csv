@@ -11,11 +11,10 @@ mopidy.com,1,1,muse
 pypi.org,1,1,muse
 Google,1,1,muse
 search.brave.com,1,1,muse
-github.com,5,1,music-s3
 cristianpb.github.io,25,3,object-detection
 github.com,2,2,object-detection
 Google,1,1,object-detection
 Google,1,1,object-detection-frontend
-Google,23,6,telegraf-influxdb-grafana-docker
+Google,20,4,telegraf-influxdb-grafana-docker
 cristianpb.github.io,5,1,telegraf-influxdb-grafana-docker
 cristianpb.github.io,3,1,vimwiki
