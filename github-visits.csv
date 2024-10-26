@@ -1,6 +1,5 @@
 date,repository,clones,views
 2024-10-20,alchemy-machine,1,0
-2024-10-11,analytics-google,1,0
 2024-10-12,analytics-google,6,0
 2024-10-13,analytics-google,2,0
 2024-10-14,analytics-google,1,0
@@ -14,11 +13,13 @@ date,repository,clones,views
 2024-10-22,analytics-google,1,0
 2024-10-23,analytics-google,1,7
 2024-10-24,analytics-google,1,2
+2024-10-25,analytics-google,1,0
 2024-10-17,cristianpb,1,0
 2024-10-17,cristianpb.github.io,0,1
 2024-10-12,datalab.mi,1,0
 2024-10-24,deces-backend,1,0
 2024-10-21,dotfiles,2,0
+2024-10-25,dotfiles,1,14
 2024-10-12,dotfiles,0,5
 2024-10-14,dotfiles,0,7
 2024-10-16,dotfiles,0,3
@@ -30,11 +31,9 @@ date,repository,clones,views
 2024-10-22,mopidy.js,1,0
 2024-10-14,muse,1,2
 2024-10-21,muse,1,1
-2024-10-11,muse,0,1
 2024-10-13,muse,0,3
 2024-10-15,muse,0,1
 2024-10-19,muse,0,1
-2024-10-11,music-s3,1,0
 2024-10-12,music-s3,1,0
 2024-10-13,music-s3,1,0
 2024-10-14,music-s3,1,0
@@ -47,7 +46,9 @@ date,repository,clones,views
 2024-10-22,music-s3,2,0
 2024-10-23,music-s3,1,0
 2024-10-24,music-s3,1,0
+2024-10-25,music-s3,1,0
 2024-10-19,music-s3,0,7
+2024-10-25,mybottender,1,0
 2024-10-13,object-detection,0,4
 2024-10-14,object-detection,0,21
 2024-10-17,object-detection,0,2
@@ -57,11 +58,11 @@ date,repository,clones,views
 2024-10-24,object-detection,0,2
 2024-10-18,object-detection-frontend,0,1
 2024-10-21,piac-bot,2,0
-2024-10-11,playlists,4,0
 2024-10-18,playlists,3,0
 2024-10-20,playlists,1,0
 2024-10-21,playlists,1,0
 2024-10-23,playlists,1,0
+2024-10-25,playlists,3,0
 2024-10-21,priceminister,1,0
 2024-10-15,priceminister,0,1
 2024-10-14,qrcode-reader,1,0
@@ -69,7 +70,6 @@ date,repository,clones,views
 2024-10-21,rhasspy-handler,1,17
 2024-10-14,rhasspy-handler,0,1
 2024-10-15,rhasspy-handler,0,1
-2024-10-12,stats,3,0
 2024-10-13,stats,3,0
 2024-10-14,stats,3,0
 2024-10-15,stats,3,0
@@ -82,8 +82,8 @@ date,repository,clones,views
 2024-10-22,stats,4,0
 2024-10-23,stats,2,0
 2024-10-24,stats,2,0
+2024-10-25,stats,2,0
 2024-10-21,telegraf-influxdb-grafana-docker,1,0
-2024-10-11,telegraf-influxdb-grafana-docker,0,10
 2024-10-14,telegraf-influxdb-grafana-docker,0,1
 2024-10-16,telegraf-influxdb-grafana-docker,0,13
 2024-10-23,telegraf-influxdb-grafana-docker,0,9
