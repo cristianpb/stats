@@ -1,11 +1,9 @@
 referrer,count,uniques,repository
 github.com,1,1,analytics-google
-Google,1,1,dotfiles
 github.com,1,1,dotfiles
 mopidy.com,6,5,muse
 github.com,3,1,music-s3
 github.com,3,1,nerf
-cristianpb.github.io,1,1,object-detection
-Google,1,1,object-detection
+cristianpb.github.io,11,1,object-detection
 github.com,1,1,stats
 Google,13,2,telegraf-influxdb-grafana-docker
