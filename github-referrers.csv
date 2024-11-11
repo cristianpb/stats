@@ -3,8 +3,9 @@ Google,1,1,analytics-google
 github.com,1,1,analytics-google
 Bing,1,1,analytics-google
 dotshare.it,30,1,dotfiles
-github.com,1,1,dotfiles
-mopidy.com,6,5,muse
+mopidy.com,5,4,muse
+cristianpb.github.io,2,1,muse
+github.com,1,1,muse
 github.com,3,1,music-s3
 github.com,4,1,nerf
 cristianpb.github.io,18,2,object-detection
