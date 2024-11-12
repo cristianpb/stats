@@ -12,33 +12,41 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/checkmail.sh,dotfiles/checkmail.sh at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/compton/.compton.conf,dotfiles/compton/.compton.conf at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/cower/.config/cower/config,dotfiles/cower/.config/cower/config at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,9,7,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,11,9,muse
+/cristianpb/muse/blob/master/Dockerfile-snapserver,muse/Dockerfile-snapserver at master · cristianpb/muse · GitHub,2,1,muse
+/cristianpb/muse/stargazers,Stargazers · cristianpb/muse · GitHub,2,1,muse
+/cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/blob/master/pyproject.toml,muse/pyproject.toml at master · cristianpb/muse,1,1,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/music-s3/actions/runs/11763494014,🎨 Refactoring and add sync parameter · cristianpb/music-s3@ed7ff15 · GitHub,2,2,music-s3
+/cristianpb/music-s3/actions/runs/11763494014/job/32767541946,🎨 Refactoring and add sync parameter · cristianpb/music-s3@ed7ff15,2,2,music-s3
 /cristianpb/music-s3,cristianpb/music-s3,1,1,music-s3
+/cristianpb/music-s3/actions,Workflow runs · cristianpb/music-s3,1,1,music-s3
+/cristianpb/music-s3/actions/runs/11763695874,🎨 Refactoring and add sync parameter · cristianpb/music-s3@9615a96,1,1,music-s3
 /cristianpb/nerf,GitHub - cristianpb/nerf,2,2,nerf
 /cristianpb/nerf/actions/runs/11698980587/job/32580175280,Post · cristianpb/nerf@4e6d8f6,2,2,nerf
 /cristianpb/nerf/actions,Workflow runs · cristianpb/nerf · GitHub,1,1,nerf
 /cristianpb/nerf/actions/runs/11698980587,Post · cristianpb/nerf@4e6d8f6 · GitHub,1,1,nerf
+/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,5,3,object-detection
 /cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,4,2,object-detection
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",3,3,object-detection
-/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,3,2,object-detection
 /cristianpb/object-detection/tree/master/imgs,object-detection/imgs at master · cristianpb/object-detection,2,1,object-detection
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,1,1,object-detection
 /cristianpb/object-detection/blob/master/requirements.txt,object-detection/requirements.txt at master · cristianpb/object-detection · G...,1,1,object-detection
 /cristianpb/object-detection/blob/master/setup.py,object-detection/setup.py at master · cristianpb/object-detection,1,1,object-detection
 /cristianpb/object-detection/commit/3c0e84b0f2b7bf7d08031bf7ced4c8308bdd6348,Initial commit · cristianpb/object-detection@3c0e84b · GitHub,1,1,object-detection
 /cristianpb/object-detection/tree/master,"cristianpb/object-detection: Object detection on Jetson Nano, Raspberry Pi an...",1,1,object-detection
 /cristianpb/object-detection/tree/master/.github/workflows,object-detection/.github/workflows at master · cristianpb/object-detection,1,1,object-detection
-/cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/stats,GitHub - cristianpb/stats,1,1,stats
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,4,2,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",3,3,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/influxdb/influxdb.conf,telegraf-influxdb-grafana-docker/docker/influxdb/influxdb.conf at master · cr...,3,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/influxdb/types.db,telegraf-influxdb-grafana-docker/docker/influxdb/types.db at master · cristia...,2,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,telegraf-influxdb-grafana-docker/docker-compose-gpu.yml at master · cristianp...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/dashboard.yaml,telegraf-influxdb-grafana-docker/docker/grafana/dashboard.yaml at master · cr...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/datasource.yaml,telegraf-influxdb-grafana-docker/docker/grafana/datasource.yaml at master · c...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf.conf,telegraf-influxdb-grafana-docker/docker/telegraf/telegraf.conf at master · cr...,1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/.env_dist,telegraf-influxdb-grafana-docker/.env_dist at master · cristianpb/telegraf-in...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/README.md,telegraf-influxdb-grafana-docker/README.md at master · cristianpb/telegraf-in...,1,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/influxdb,telegraf-influxdb-grafana-docker/docker/influxdb at master · cristianpb/teleg...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/tkasme,cristianpb/tkasme: HTML static webpage,1,1,tkasme
