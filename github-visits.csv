@@ -1,5 +1,4 @@
 date,repository,clones,views
-2024-10-29,analytics-google,1,0
 2024-10-30,analytics-google,1,0
 2024-10-31,analytics-google,1,0
 2024-11-01,analytics-google,2,0
@@ -13,6 +12,7 @@ date,repository,clones,views
 2024-11-09,analytics-google,2,0
 2024-11-10,analytics-google,1,0
 2024-11-11,analytics-google,2,1
+2024-11-12,analytics-google,1,0
 2024-11-11,aws-lambda-cv,1,0
 2024-11-02,cristianpb,1,0
 2024-11-11,cristianpb,1,0
@@ -22,6 +22,7 @@ date,repository,clones,views
 2024-11-02,dotfiles,0,14
 2024-11-05,dotfiles,0,3
 2024-11-07,dotfiles,0,30
+2024-11-12,dotfiles,0,5
 2024-10-31,matchid-backend,1,0
 2024-11-01,muse,1,0
 2024-10-30,muse,0,3
@@ -42,6 +43,7 @@ date,repository,clones,views
 2024-11-09,nerf,1,0
 2024-11-10,nerf,1,0
 2024-11-11,nerf,1,0
+2024-11-12,nerf,1,0
 2024-11-01,object-detection,0,1
 2024-11-05,object-detection,0,11
 2024-11-07,object-detection,0,1
@@ -49,13 +51,13 @@ date,repository,clones,views
 2024-11-10,object-detection,0,3
 2024-11-04,object-detection-frontend,1,0
 2024-11-10,object-detection-frontend,1,0
+2024-11-12,object-detection-frontend,0,8
 2024-11-01,playlists,5,0
 2024-11-04,playlists,1,0
 2024-11-08,playlists,3,0
 2024-11-02,PresentationTechnique,1,0
 2024-11-10,PresentationTechnique,1,0
-2024-10-29,priceminister,1,0
-2024-10-30,stats,2,1
+2024-11-12,rhasspy-handler,1,1
 2024-10-31,stats,2,0
 2024-11-01,stats,2,0
 2024-11-02,stats,2,0
@@ -68,6 +70,8 @@ date,repository,clones,views
 2024-11-09,stats,3,0
 2024-11-10,stats,2,0
 2024-11-11,stats,4,0
+2024-11-12,stats,2,0
+2024-10-30,stats,0,1
 2024-11-11,telegraf-influxdb-grafana-docker,1,8
 2024-10-31,telegraf-influxdb-grafana-docker,0,2
 2024-11-02,telegraf-influxdb-grafana-docker,0,11
@@ -75,3 +79,4 @@ date,repository,clones,views
 2024-11-10,telegraf-influxdb-grafana-docker,0,6
 2024-10-31,tkasme,0,1
 2024-11-04,vimwiki,1,0
+2024-11-12,vimwiki,0,3
