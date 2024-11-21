@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,4,4,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,5,4,analytics-google
 /cristianpb/analytics-google/blob/b3c78072ac7faecf7a18d2cbcb4df12d7d677447/src/lib/views/Map.svelte,analytics-google/src/lib/views/Map.svelte at b3c78072ac7faecf7a18d2cbcb4df12d...,2,1,analytics-google
 /cristianpb/analytics-google/blob/b3c78072ac7faecf7a18d2cbcb4df12d7d677447/src/app.html,analytics-google/src/app.html at b3c78072ac7faecf7a18d2cbcb4df12d7d677447 · c...,1,1,analytics-google
 /cristianpb/analytics-google/blob/b3c78072ac7faecf7a18d2cbcb4df12d7d677447/src/lib/index.js,analytics-google/src/lib/index.js at b3c78072ac7faecf7a18d2cbcb4df12d7d677447...,1,1,analytics-google
@@ -9,16 +9,16 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/blob/b3c78072ac7faecf7a18d2cbcb4df12d7d677447/src/routes/%2Blayout.js,analytics-google/src/routes/+layout.js at b3c78072ac7faecf7a18d2cbcb4df12d7d6...,1,1,analytics-google
 /cristianpb/analytics-google/blob/b3c78072ac7faecf7a18d2cbcb4df12d7d677447/src/routes/%2Blayout.svelte,analytics-google/src/routes/+layout.svelte at b3c78072ac7faecf7a18d2cbcb4df12...,1,1,analytics-google
 /cristianpb/analytics-google/blob/b3c78072ac7faecf7a18d2cbcb4df12d7d677447/src/routes/%2Bpage.svelte,analytics-google/src/routes/+page.svelte at b3c78072ac7faecf7a18d2cbcb4df12d7...,1,1,analytics-google
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,11,4,dotfiles
-/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,5,4,dotfiles
-/cristianpb/dotfiles/blob/master/i3/.config/i3/config,dotfiles/i3/.config/i3/config at master · cristianpb/dotfiles · GitHub,4,4,dotfiles
-/cristianpb/dotfiles/tree/master/i3/.config/i3,dotfiles/i3/.config/i3 at master · cristianpb/dotfiles · GitHub,4,4,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,9,3,dotfiles
+/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,4,3,dotfiles
 /cristianpb/dotfiles/blob/master/st/.builds/st/config.h,dotfiles/st/.builds/st/config.h at master · cristianpb/dotfiles,4,2,dotfiles
 /cristianpb/dotfiles/tree/master/st/.builds/st,dotfiles/st/.builds/st at master · cristianpb/dotfiles,4,2,dotfiles
-/cristianpb/dotfiles/blob/master/watson_dmenu,dotfiles/watson_dmenu at master · cristianpb/dotfiles · GitHub,3,3,dotfiles
-/cristianpb/dotfiles/blob/master/watson_status.sh,dotfiles/watson_status.sh at master · cristianpb/dotfiles · GitHub,3,3,dotfiles
-/cristianpb/dotfiles/blob/master/new_mail.sh,dotfiles/new_mail.sh at master · cristianpb/dotfiles · GitHub,3,2,dotfiles
+/cristianpb/dotfiles/blob/master/i3/.config/i3/config,dotfiles/i3/.config/i3/config at master · cristianpb/dotfiles,3,3,dotfiles
+/cristianpb/dotfiles/tree/master/i3/.config/i3,dotfiles/i3/.config/i3 at master · cristianpb/dotfiles,3,3,dotfiles
 /cristianpb/dotfiles/tree/master,GitHub - cristianpb/dotfiles: My dotfiles,3,1,dotfiles
+/cristianpb/dotfiles/blob/master/watson_dmenu,dotfiles/watson_dmenu at master · cristianpb/dotfiles,2,2,dotfiles
+/cristianpb/dotfiles/blob/master/watson_status.sh,dotfiles/watson_status.sh at master · cristianpb/dotfiles,2,2,dotfiles
+/cristianpb/dotfiles/tree/master/i3,dotfiles/i3 at master · cristianpb/dotfiles,2,2,dotfiles
 /cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,15,8,muse
 /cristianpb/muse/blob/master/Dockerfile-snapserver,muse/Dockerfile-snapserver at master · cristianpb/muse · GitHub,2,1,muse
 /cristianpb/muse/stargazers,Stargazers · cristianpb/muse · GitHub,2,1,muse
@@ -29,11 +29,7 @@ path,title,count,uniques,repository
 /cristianpb/music-s3/actions/runs/11763494014/job/32767541946,🎨 Refactoring and add sync parameter · cristianpb/music-s3@ed7ff15,2,2,music-s3
 /cristianpb/music-s3/actions,Workflow runs · cristianpb/music-s3,1,1,music-s3
 /cristianpb/music-s3/actions/runs/11763695874,🎨 Refactoring and add sync parameter · cristianpb/music-s3@9615a96,1,1,music-s3
-/cristianpb/nerf/actions/runs/11698980587/job/32580175280,Post · cristianpb/nerf@4e6d8f6,2,2,nerf
-/cristianpb/nerf,GitHub - cristianpb/nerf,1,1,nerf
-/cristianpb/nerf/actions,Workflow runs · cristianpb/nerf · GitHub,1,1,nerf
-/cristianpb/nerf/actions/runs/11698980587,Post · cristianpb/nerf@4e6d8f6 · GitHub,1,1,nerf
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",11,6,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",10,5,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,4,3,object-detection
 /cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,3,2,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_trt_detection.py,object-detection/backend/ssd_trt_detection.py at master · cristianpb/object-d...,2,1,object-detection
@@ -47,8 +43,11 @@ path,title,count,uniques,repository
 /cristianpb/object-detection-frontend/tree/master/e2e,object-detection-frontend/e2e at master · cristianpb/object-detection-frontend,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/e2e/src,object-detection-frontend/e2e/src at master · cristianpb/object-detection-fro...,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/.github/workflows,object-detection-frontend/.github/workflows at master · cristianpb/object-det...,1,1,object-detection-frontend
+/cristianpb/playlists,cristianpb/playlists,4,1,playlists
+/cristianpb/playlists/blob/master/.github/workflows/build.yml,playlists/.github/workflows/build.yml at master · cristianpb/playlists,1,1,playlists
+/cristianpb/playlists/tree/master/.github/workflows,playlists/.github/workflows at master · cristianpb/playlists,1,1,playlists
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",1,1,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",7,4,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",9,6,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,4,3,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/influxdb/influxdb.conf,telegraf-influxdb-grafana-docker/docker/influxdb/influxdb.conf at master · cr...,3,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/.env_dist,telegraf-influxdb-grafana-docker/.env_dist at master · cristianpb/telegraf-in...,3,2,telegraf-influxdb-grafana-docker
