@@ -1,5 +1,4 @@
 date,repository,clones,views
-2024-11-09,analytics-google,2,0
 2024-11-10,analytics-google,1,0
 2024-11-11,analytics-google,2,1
 2024-11-12,analytics-google,1,0
@@ -13,6 +12,7 @@ date,repository,clones,views
 2024-11-20,analytics-google,1,0
 2024-11-21,analytics-google,2,0
 2024-11-22,analytics-google,2,1
+2024-11-23,analytics-google,2,0
 2024-11-11,aws-lambda-cv,1,0
 2024-11-11,cristianpb,1,0
 2024-11-14,dataiku-dss-docker,1,0
@@ -21,13 +21,13 @@ date,repository,clones,views
 2024-11-16,dotfiles,0,6
 2024-11-17,dotfiles,0,38
 2024-11-20,dotfiles,0,26
+2024-11-23,dotfiles,0,1
 2024-11-19,gswsr,1,0
 2024-11-17,hubot-velib,1,0
 2024-11-19,infolettre-lab-ia,1,0
 2024-11-21,judilibre-stats,1,0
 2024-11-18,muse,4,1
 2024-11-21,muse,5,2
-2024-11-09,muse,0,2
 2024-11-10,muse,0,8
 2024-11-11,muse,0,4
 2024-11-15,muse,0,2
@@ -35,9 +35,8 @@ date,repository,clones,views
 2024-11-19,muse,0,1
 2024-11-20,muse,0,1
 2024-11-22,muse,0,96
-2024-11-23,muse,0,21
+2024-11-23,muse,0,73
 2024-11-10,music-s3,6,6
-2024-11-09,nerf,1,0
 2024-11-10,nerf,1,0
 2024-11-11,nerf,1,0
 2024-11-12,nerf,1,0
@@ -51,6 +50,7 @@ date,repository,clones,views
 2024-11-20,nerf,1,0
 2024-11-21,nerf,1,0
 2024-11-22,nerf,1,0
+2024-11-23,nerf,1,0
 2024-11-20,object-detection,1,0
 2024-11-10,object-detection,0,3
 2024-11-13,object-detection,0,5
@@ -59,7 +59,6 @@ date,repository,clones,views
 2024-11-16,object-detection,0,1
 2024-11-18,object-detection,0,1
 2024-11-22,object-detection,0,2
-2024-11-10,object-detection-frontend,1,0
 2024-11-12,object-detection-frontend,0,8
 2024-11-15,playlists,3,0
 2024-11-21,playlists,4,10
@@ -68,7 +67,6 @@ date,repository,clones,views
 2024-11-10,PresentationTechnique,1,0
 2024-11-17,recettes,1,0
 2024-11-12,rhasspy-handler,1,1
-2024-11-10,stats,2,0
 2024-11-11,stats,4,0
 2024-11-12,stats,2,0
 2024-11-13,stats,2,0
@@ -81,12 +79,14 @@ date,repository,clones,views
 2024-11-20,stats,2,0
 2024-11-21,stats,2,0
 2024-11-22,stats,2,0
+2024-11-23,stats,2,0
 2024-11-11,telegraf-influxdb-grafana-docker,1,8
-2024-11-10,telegraf-influxdb-grafana-docker,0,6
+2024-11-10,telegraf-influxdb-grafana-docker,0,5
 2024-11-16,telegraf-influxdb-grafana-docker,0,15
 2024-11-19,telegraf-influxdb-grafana-docker,0,2
 2024-11-21,telegraf-influxdb-grafana-docker,0,12
 2024-11-22,telegraf-influxdb-grafana-docker,0,7
+2024-11-23,telegraf-influxdb-grafana-docker,0,1
 2024-11-13,temp-sigfox,1,0
 2024-11-14,temp-sigfox,1,0
 2024-11-12,vimwiki,0,3
