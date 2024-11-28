@@ -1,5 +1,4 @@
 date,repository,clones,views
-2024-11-13,analytics-google,1,0
 2024-11-14,analytics-google,1,1
 2024-11-15,analytics-google,1,0
 2024-11-16,analytics-google,1,0
@@ -13,6 +12,7 @@ date,repository,clones,views
 2024-11-24,analytics-google,1,0
 2024-11-25,analytics-google,4,2
 2024-11-26,analytics-google,1,10
+2024-11-27,analytics-google,3,7
 2024-11-14,dataiku-dss-docker,1,0
 2024-11-15,dotfiles,0,1
 2024-11-16,dotfiles,0,6
@@ -23,6 +23,7 @@ date,repository,clones,views
 2024-11-25,dotfiles,0,12
 2024-11-26,dotfiles,0,2
 2024-11-19,gswsr,1,0
+2024-11-27,hubot-ratp,1,0
 2024-11-17,hubot-velib,1,0
 2024-11-19,infolettre-lab-ia,1,0
 2024-11-21,judilibre-stats,1,0
@@ -37,8 +38,7 @@ date,repository,clones,views
 2024-11-20,muse,0,1
 2024-11-22,muse,0,96
 2024-11-23,muse,0,73
-2024-11-27,muse,0,5
-2024-11-13,nerf,1,0
+2024-11-27,muse,0,32
 2024-11-14,nerf,1,0
 2024-11-15,nerf,1,0
 2024-11-16,nerf,1,0
@@ -52,11 +52,11 @@ date,repository,clones,views
 2024-11-24,nerf,2,0
 2024-11-25,nerf,1,0
 2024-11-26,nerf,1,0
+2024-11-27,nerf,1,0
 2024-11-24,newsapp,1,0
 2024-11-26,ngTwitterApp,1,0
 2024-11-20,object-detection,1,0
-2024-11-13,object-detection,0,5
-2024-11-14,object-detection,0,2
+2024-11-14,object-detection,0,1
 2024-11-15,object-detection,0,3
 2024-11-16,object-detection,0,1
 2024-11-18,object-detection,0,1
@@ -66,8 +66,9 @@ date,repository,clones,views
 2024-11-21,playlists,4,10
 2024-11-22,playlists,4,0
 2024-11-19,playlists,0,8
+2024-11-27,playlists,0,3
 2024-11-17,recettes,1,0
-2024-11-14,stats,2,0
+2024-11-27,rhasspy-handler,1,0
 2024-11-15,stats,3,0
 2024-11-16,stats,2,0
 2024-11-17,stats,3,0
@@ -80,13 +81,13 @@ date,repository,clones,views
 2024-11-24,stats,2,0
 2024-11-25,stats,3,0
 2024-11-26,stats,2,0
+2024-11-27,stats,3,0
 2024-11-16,telegraf-influxdb-grafana-docker,0,15
 2024-11-19,telegraf-influxdb-grafana-docker,0,2
 2024-11-21,telegraf-influxdb-grafana-docker,0,12
 2024-11-22,telegraf-influxdb-grafana-docker,0,7
 2024-11-23,telegraf-influxdb-grafana-docker,0,1
 2024-11-25,telegraf-influxdb-grafana-docker,0,3
-2024-11-13,temp-sigfox,1,0
 2024-11-14,temp-sigfox,1,0
 2024-11-25,tkasme,1,0
 2024-11-26,velo.club,1,0

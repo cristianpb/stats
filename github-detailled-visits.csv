@@ -9,7 +9,7 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/blob/b3c78072ac7faecf7a18d2cbcb4df12d7d677447/src/routes/%2Blayout.js,analytics-google/src/routes/+layout.js at b3c78072ac7faecf7a18d2cbcb4df12d7d6...,1,1,analytics-google
 /cristianpb/analytics-google/blob/b3c78072ac7faecf7a18d2cbcb4df12d7d677447/src/routes/%2Blayout.svelte,analytics-google/src/routes/+layout.svelte at b3c78072ac7faecf7a18d2cbcb4df12...,1,1,analytics-google
 /cristianpb/analytics-google/blob/b3c78072ac7faecf7a18d2cbcb4df12d7d677447/src/routes/%2Bpage.svelte,analytics-google/src/routes/+page.svelte at b3c78072ac7faecf7a18d2cbcb4df12d7...,1,1,analytics-google
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,30,3,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,32,5,dotfiles
 /cristianpb/dotfiles/tree/master/i3/.config/i3,dotfiles/i3/.config/i3 at master · cristianpb/dotfiles · GitHub,11,3,dotfiles
 /cristianpb/dotfiles/commits/master,Commits · cristianpb/dotfiles · GitHub,11,2,dotfiles
 /cristianpb/dotfiles/tree/a138ec3195f33fdc64dc5c2b3383a977d0f75d81,GitHub - cristianpb/dotfiles at a138ec3195f33fdc64dc5c2b3383a977d0f75d81,11,1,dotfiles
@@ -19,17 +19,17 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/tree/master,GitHub - cristianpb/dotfiles: My dotfiles,5,2,dotfiles
 /cristianpb/dotfiles/tree/master/st/.builds/st,dotfiles/st/.builds/st at master · cristianpb/dotfiles · GitHub,5,2,dotfiles
 /cristianpb/dotfiles/tree/5e115064b5fcf5928d46f39861368f13ea493813,GitHub - cristianpb/dotfiles at 5e115064b5fcf5928d46f39861368f13ea493813,5,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,27,14,muse
-/cristianpb/muse/actions,Workflow runs · cristianpb/muse · GitHub,27,2,muse
-/cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse · GitHub,12,3,muse
-/cristianpb/muse/tree/master/src/routes,muse/src/routes at master · cristianpb/muse · GitHub,11,2,muse
-/cristianpb/muse/blob/master/src/lib/tools/mopidyTools.js,muse/src/lib/tools/mopidyTools.js at master · cristianpb/muse · GitHub,10,2,muse
-/cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse,9,1,muse
-/cristianpb/muse/tree/master/src/lib,muse/src/lib at master · cristianpb/muse · GitHub,8,2,muse
-/cristianpb/muse/tree/master/src/lib/tools,muse/src/lib/tools at master · cristianpb/muse · GitHub,8,2,muse
-/cristianpb/muse/blob/master/package.json,muse/package.json at master · cristianpb/muse,7,1,muse
-/cristianpb/muse/blob/master/pyproject.toml,muse/pyproject.toml at master · cristianpb/muse,7,1,muse
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",9,5,object-detection
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,34,15,muse
+/cristianpb/muse/actions,Workflow runs · cristianpb/muse · GitHub,29,2,muse
+/cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse · GitHub,16,3,muse
+/cristianpb/muse/tree/master/src/routes,muse/src/routes at master · cristianpb/muse · GitHub,15,2,muse
+/cristianpb/muse/blob/master/src/lib/tools/mopidyTools.js,muse/src/lib/tools/mopidyTools.js at master · cristianpb/muse · GitHub,12,2,muse
+/cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse,12,1,muse
+/cristianpb/muse/blob/master/Makefile,muse/Makefile at master · cristianpb/muse · GitHub,11,2,muse
+/cristianpb/muse/blob/master/pyproject.toml,muse/pyproject.toml at master · cristianpb/muse,11,1,muse
+/cristianpb/muse/blob/master/package.json,muse/package.json at master · cristianpb/muse,9,1,muse
+/cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse · GitHub,8,2,muse
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",7,4,object-detection
 /cristianpb/playlists,cristianpb/playlists,8,1,playlists
 /cristianpb/playlists/actions,Workflow runs · cristianpb/playlists,1,1,playlists
 /cristianpb/playlists/actions/runs/11962572900,🍱 Update dependencies · cristianpb/playlists@b083964,1,1,playlists
