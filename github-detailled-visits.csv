@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,5,4,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,6,5,analytics-google
 /cristianpb/analytics-google/blob/b3c78072ac7faecf7a18d2cbcb4df12d7d677447/src/lib/views/Map.svelte,analytics-google/src/lib/views/Map.svelte at b3c78072ac7faecf7a18d2cbcb4df12d...,2,1,analytics-google
 /cristianpb/analytics-google/blob/b3c78072ac7faecf7a18d2cbcb4df12d7d677447/src/app.html,analytics-google/src/app.html at b3c78072ac7faecf7a18d2cbcb4df12d7d677447 · c...,1,1,analytics-google
 /cristianpb/analytics-google/blob/b3c78072ac7faecf7a18d2cbcb4df12d7d677447/src/lib/index.js,analytics-google/src/lib/index.js at b3c78072ac7faecf7a18d2cbcb4df12d7d677447...,1,1,analytics-google
@@ -19,26 +19,27 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/tree/master,GitHub - cristianpb/dotfiles: My dotfiles,5,2,dotfiles
 /cristianpb/dotfiles/tree/master/st/.builds/st,dotfiles/st/.builds/st at master · cristianpb/dotfiles · GitHub,5,2,dotfiles
 /cristianpb/dotfiles/tree/5e115064b5fcf5928d46f39861368f13ea493813,GitHub - cristianpb/dotfiles at 5e115064b5fcf5928d46f39861368f13ea493813,5,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,34,15,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,33,14,muse
 /cristianpb/muse/actions,Workflow runs · cristianpb/muse · GitHub,29,2,muse
-/cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse · GitHub,16,3,muse
-/cristianpb/muse/tree/master/src/routes,muse/src/routes at master · cristianpb/muse · GitHub,15,2,muse
-/cristianpb/muse/blob/master/src/lib/tools/mopidyTools.js,muse/src/lib/tools/mopidyTools.js at master · cristianpb/muse · GitHub,12,2,muse
-/cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse,12,1,muse
+/cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse · GitHub,21,3,muse
+/cristianpb/muse/tree/master/src/routes,muse/src/routes at master · cristianpb/muse · GitHub,19,2,muse
+/cristianpb/muse/blob/master/src/lib/tools/mopidyTools.js,muse/src/lib/tools/mopidyTools.js at master · cristianpb/muse · GitHub,14,2,muse
+/cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse,13,1,muse
 /cristianpb/muse/blob/master/Makefile,muse/Makefile at master · cristianpb/muse · GitHub,11,2,muse
+/cristianpb/muse/tree/master/src/lib,muse/src/lib at master · cristianpb/muse · GitHub,11,2,muse
+/cristianpb/muse/tree/master/src/lib/tools,muse/src/lib/tools at master · cristianpb/muse · GitHub,11,2,muse
 /cristianpb/muse/blob/master/pyproject.toml,muse/pyproject.toml at master · cristianpb/muse,11,1,muse
-/cristianpb/muse/blob/master/package.json,muse/package.json at master · cristianpb/muse,9,1,muse
-/cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse · GitHub,8,2,muse
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",7,4,object-detection
-/cristianpb/playlists,cristianpb/playlists,8,1,playlists
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",4,4,object-detection
+/cristianpb/playlists,GitHub - cristianpb/playlists,9,2,playlists
+/cristianpb/playlists/tree/master/.github/workflows,playlists/.github/workflows at master · cristianpb/playlists · GitHub,2,2,playlists
 /cristianpb/playlists/actions,Workflow runs · cristianpb/playlists,1,1,playlists
 /cristianpb/playlists/actions/runs/11962572900,🍱 Update dependencies · cristianpb/playlists@b083964,1,1,playlists
 /cristianpb/playlists/actions/runs/11962572900/job/33351273830,🍱 Update dependencies · cristianpb/playlists@b083964,1,1,playlists
 /cristianpb/playlists/actions/runs/11962572921,🍱 Update dependencies · cristianpb/playlists@b083964,1,1,playlists
+/cristianpb/playlists/blob/master/download.py,playlists/download.py at master · cristianpb/playlists · GitHub,1,1,playlists
 /cristianpb/playlists/blob/master/.github/workflows/build.yml,playlists/.github/workflows/build.yml at master · cristianpb/playlists,1,1,playlists
 /cristianpb/playlists/deployments/github-pages,Deployments · cristianpb/playlists,1,1,playlists
 /cristianpb/playlists/issues,Issues · cristianpb/playlists,1,1,playlists
-/cristianpb/playlists/tree/master/.github/workflows,playlists/.github/workflows at master · cristianpb/playlists,1,1,playlists
 /cristianpb/telegraf-influxdb-grafana-docker,"cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and grafana m...",9,7,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/.env_dist,telegraf-influxdb-grafana-docker/.env_dist at master · cristianpb/telegraf-in...,4,3,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,4,3,telegraf-influxdb-grafana-docker
