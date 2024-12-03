@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,6,5,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,4,4,analytics-google
 /cristianpb/analytics-google/blob/master/jsconfig.json,analytics-google/jsconfig.json at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/Makefile,analytics-google/Makefile at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/package.json,analytics-google/package.json at master · cristianpb/analytics-google,1,1,analytics-google
@@ -32,7 +32,7 @@ path,title,count,uniques,repository
 /cristianpb/muse/blob/master/pyproject.toml,muse/pyproject.toml at master · cristianpb/muse,11,1,muse
 /cristianpb/music-s3,GitHub - cristianpb/music-s3,2,1,music-s3
 /cristianpb/music-s3/blob/master/download.py,music-s3/download.py at master · cristianpb/music-s3 · GitHub,2,1,music-s3
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",5,4,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",6,5,object-detection
 /cristianpb/object-detection/blob/master/tests/test_detection.py,object-detection/tests/test_detection.py at master · cristianpb/object-detect...,2,1,object-detection
 /cristianpb/object-detection/blob/master/backend/camera.py,object-detection/backend/camera.py at master · cristianpb/object-detection · ...,1,1,object-detection
 /cristianpb/object-detection/blob/master/backend/cascade.py,object-detection/backend/cascade.py at master · cristianpb/object-detection ·...,1,1,object-detection
@@ -43,17 +43,17 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,1,1,object-detection
 /cristianpb/object-detection/blob/master/runtime.txt,object-detection/runtime.txt at master · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/object-detection-frontend,cristianpb/object-detection-frontend: Frontend Angular application for object...,1,1,object-detection-frontend
-/cristianpb/playlists,GitHub - cristianpb/playlists,11,3,playlists
-/cristianpb/playlists/tree/master/.github/workflows,playlists/.github/workflows at master · cristianpb/playlists · GitHub,3,3,playlists
-/cristianpb/playlists/blob/master/.github/workflows/build.yml,playlists/.github/workflows/build.yml at master · cristianpb/playlists · GitHub,2,2,playlists
+/cristianpb/playlists,GitHub - cristianpb/playlists,8,4,playlists
+/cristianpb/playlists/tree/master/.github/workflows,playlists/.github/workflows at master · cristianpb/playlists · GitHub,2,2,playlists
 /cristianpb/playlists/blob/master/download.py,playlists/download.py at master · cristianpb/playlists · GitHub,2,1,playlists
 /cristianpb/playlists/tree/master,GitHub - cristianpb/playlists,2,1,playlists
 /cristianpb/playlists/actions,Workflow runs · cristianpb/playlists,1,1,playlists
 /cristianpb/playlists/actions/runs/11962572900,🍱 Update dependencies · cristianpb/playlists@b083964,1,1,playlists
 /cristianpb/playlists/actions/runs/11962572900/job/33351273830,🍱 Update dependencies · cristianpb/playlists@b083964,1,1,playlists
 /cristianpb/playlists/actions/runs/11962572921,🍱 Update dependencies · cristianpb/playlists@b083964,1,1,playlists
-/cristianpb/playlists/blob/master/.github/workflows/data.yml,playlists/.github/workflows/data.yml at master · cristianpb/playlists · GitHub,1,1,playlists
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",8,8,telegraf-influxdb-grafana-docker
+/cristianpb/playlists/blob/data/data.csv,playlists/data.csv at data · cristianpb/playlists · GitHub,1,1,playlists
+/cristianpb/playlists/blob/master/.github/workflows/build.yml,playlists/.github/workflows/build.yml at master · cristianpb/playlists · GitHub,1,1,playlists
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",7,7,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master,"cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and grafana m...",5,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,3,3,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/.env_dist,telegraf-influxdb-grafana-docker/.env_dist at master · cristianpb/telegraf-in...,2,2,telegraf-influxdb-grafana-docker
