@@ -4,11 +4,13 @@ Google,1,1,analytics-google
 Google,60,2,dotfiles
 github.com,20,1,dotfiles
 dotfiles.github.io,2,2,dotfiles
-mopidy.com,248,6,muse
+mopidy.com,247,5,muse
 github.com,19,2,muse
 cristianpb.github.io,1,1,muse
 programcreek.com,15,1,object-detection
 github.com,3,3,object-detection
+cristianpb.github.io,1,1,object-detection
 Google,1,1,object-detection-frontend
 cristianpb.github.io,5,1,playlists
-Google,26,6,telegraf-influxdb-grafana-docker
+github.com,2,1,rhasspy-handler
+Google,14,4,telegraf-influxdb-grafana-docker
