@@ -1,6 +1,5 @@
 date,repository,clones,views
-2024-11-21,analytics-google,2,0
-2024-11-22,analytics-google,2,1
+2024-11-22,analytics-google,2,0
 2024-11-23,analytics-google,2,0
 2024-11-24,analytics-google,1,0
 2024-11-25,analytics-google,4,2
@@ -13,6 +12,8 @@ date,repository,clones,views
 2024-12-02,analytics-google,3,0
 2024-12-03,analytics-google,1,0
 2024-12-04,analytics-google,2,1
+2024-12-05,analytics-google,1,15
+2024-12-06,analytics-google,1,0
 2024-11-30,cristianpb.github.io,0,1
 2024-11-28,datalab.mi,1,0
 2024-11-29,dotfiles,1,1
@@ -21,14 +22,13 @@ date,repository,clones,views
 2024-11-25,dotfiles,0,12
 2024-11-26,dotfiles,0,2
 2024-11-27,hubot-ratp,1,0
-2024-11-21,judilibre-stats,1,0
-2024-11-21,muse,5,2
 2024-11-24,muse,56,88
 2024-11-25,muse,25,44
 2024-11-26,muse,14,110
 2024-11-30,muse,2,0
 2024-12-02,muse,1,0
 2024-12-04,muse,11,8
+2024-12-05,muse,1,1
 2024-11-22,muse,0,96
 2024-11-23,muse,0,73
 2024-11-27,muse,0,32
@@ -36,7 +36,6 @@ date,repository,clones,views
 2024-12-01,muse,0,1
 2024-11-28,music-s3,0,4
 2024-12-03,music-s3,0,2
-2024-11-21,nerf,1,0
 2024-11-22,nerf,1,0
 2024-11-23,nerf,1,0
 2024-11-24,nerf,2,0
@@ -50,6 +49,7 @@ date,repository,clones,views
 2024-12-02,nerf,1,0
 2024-12-03,nerf,1,0
 2024-12-04,nerf,1,0
+2024-12-05,nerf,1,2
 2024-11-24,newsapp,1,0
 2024-11-26,ngTwitterApp,1,0
 2024-11-29,object-detection,1,1
@@ -61,17 +61,17 @@ date,repository,clones,views
 2024-12-03,object-detection,0,1
 2024-11-28,object-detection-frontend,0,1
 2024-11-25,piac-bot,1,0
-2024-11-21,playlists,4,10
 2024-11-22,playlists,4,0
 2024-11-29,playlists,4,0
 2024-12-02,playlists,5,1
 2024-11-27,playlists,0,3
 2024-11-28,playlists,0,8
 2024-12-01,playlists,0,3
+2024-12-05,playlists,0,2
 2024-11-30,qrcode-reader,1,0
 2024-11-27,rhasspy-handler,1,0
 2024-12-03,rhasspy-handler,0,2
-2024-11-22,stats,2,0
+2024-12-05,simple-streaming-gateway,1,0
 2024-11-23,stats,2,0
 2024-11-24,stats,2,0
 2024-11-25,stats,3,0
@@ -84,7 +84,7 @@ date,repository,clones,views
 2024-12-02,stats,3,0
 2024-12-03,stats,2,0
 2024-12-04,stats,3,0
-2024-11-21,telegraf-influxdb-grafana-docker,0,12
+2024-12-05,stats,3,0
 2024-11-22,telegraf-influxdb-grafana-docker,0,7
 2024-11-23,telegraf-influxdb-grafana-docker,0,1
 2024-11-25,telegraf-influxdb-grafana-docker,0,3
