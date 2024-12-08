@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,6,5,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,7,6,analytics-google
 /cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google,4,2,analytics-google
 /cristianpb/analytics-google/tree/master/src/lib,analytics-google/src/lib at master · cristianpb/analytics-google,3,2,analytics-google
 /cristianpb/analytics-google/tree/master/src/lib/views,analytics-google/src/lib/views at master · cristianpb/analytics-google,2,2,analytics-google
@@ -10,21 +10,19 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/blob/master/package.json,analytics-google/package.json at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/requirements.txt,analytics-google/requirements.txt at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,1,1,cristianpb.github.io
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,22,4,dotfiles
-/cristianpb/dotfiles/commits/master,Commits · cristianpb/dotfiles · GitHub,11,2,dotfiles
-/cristianpb/dotfiles/tree/a138ec3195f33fdc64dc5c2b3383a977d0f75d81,GitHub - cristianpb/dotfiles at a138ec3195f33fdc64dc5c2b3383a977d0f75d81,8,1,dotfiles
-/cristianpb/dotfiles/tree/5e115064b5fcf5928d46f39861368f13ea493813,GitHub - cristianpb/dotfiles at 5e115064b5fcf5928d46f39861368f13ea493813,5,1,dotfiles
-/cristianpb/dotfiles/commit/a138ec3195f33fdc64dc5c2b3383a977d0f75d81,Use stow structure for simlink dotfiles · cristianpb/dotfiles@a138ec3 · GitHub,4,1,dotfiles
-/cristianpb/dotfiles/tree/a138ec3195f33fdc64dc5c2b3383a977d0f75d81/i3/.config/i3,dotfiles/i3/.config/i3 at a138ec3195f33fdc64dc5c2b3383a977d0f75d81 · cristian...,4,1,dotfiles
-/cristianpb/dotfiles/tree/master/bash,dotfiles/bash at master · cristianpb/dotfiles · GitHub,4,1,dotfiles
-/cristianpb/dotfiles/tree/master/polybar/.config/polybar,dotfiles/polybar/.config/polybar at master · cristianpb/dotfiles · GitHub,4,1,dotfiles
-/cristianpb/dotfiles/blob/5e115064b5fcf5928d46f39861368f13ea493813/polybar/.config/polybar/config.ini,dotfiles/polybar/.config/polybar/config.ini at 5e115064b5fcf5928d46f39861368f...,3,1,dotfiles
-/cristianpb/dotfiles/blob/a138ec3195f33fdc64dc5c2b3383a977d0f75d81/i3/.config/i3/config,dotfiles/i3/.config/i3/config at a138ec3195f33fdc64dc5c2b3383a977d0f75d81 · c...,3,1,dotfiles
-/cristianpb/muse/actions,Workflow runs · cristianpb/muse · GitHub,29,2,muse
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,27,11,muse
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,8,3,dotfiles
+/cristianpb/dotfiles/blob/master/checkmail.sh,dotfiles/checkmail.sh at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/blob/master/msmtp/.msmtprc,dotfiles/msmtp/.msmtprc at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/blob/master/polybar/.config/polybar/config.ini,dotfiles/polybar/.config/polybar/config.ini at master · cristianpb/dotfiles ·...,1,1,dotfiles
+/cristianpb/dotfiles/tree/master,dotfiles/ at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/tree/master/bash,dotfiles/bash at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/tree/master/msmtp,dotfiles/msmtp at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/tree/master/polybar/.config/polybar,dotfiles/polybar/.config/polybar at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/muse,cristianpb/muse: Mopidy web client with Snapcast support,17,10,muse
 /cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse · GitHub,12,3,muse
 /cristianpb/muse/tree/master/src/routes,muse/src/routes at master · cristianpb/muse · GitHub,11,3,muse
 /cristianpb/muse/blob/master/Makefile,muse/Makefile at master · cristianpb/muse,9,1,muse
+/cristianpb/muse/actions,Workflow runs · cristianpb/muse · GitHub,8,2,muse
 /cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse,7,1,muse
 /cristianpb/muse/blob/master/src/lib/tools/mopidyTools.js,muse/src/lib/tools/mopidyTools.js at master · cristianpb/muse · GitHub,6,2,muse
 /cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse,5,2,muse
