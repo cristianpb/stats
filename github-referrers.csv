@@ -1,11 +1,10 @@
 referrer,count,uniques,repository
 chatgpt.com,14,1,analytics-google
-github.com,12,3,analytics-google
+github.com,2,2,analytics-google
 Google,1,1,analytics-google
-dotfiles.github.io,3,3,dotfiles
 Google,1,1,dotfiles
-mopidy.com,101,5,muse
-github.com,5,1,muse
+dotfiles.github.io,1,1,dotfiles
+mopidy.com,26,5,muse
 programcreek.com,15,1,object-detection
 github.com,3,3,object-detection
 cristianpb.github.io,1,1,object-detection
@@ -13,4 +12,4 @@ Google,1,1,object-detection
 Google,1,1,object-detection-frontend
 cristianpb.github.io,5,1,playlists
 github.com,2,1,rhasspy-handler
-Google,3,1,telegraf-influxdb-grafana-docker
+Google,4,2,telegraf-influxdb-grafana-docker

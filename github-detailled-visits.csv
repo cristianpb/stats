@@ -1,26 +1,26 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,7,6,analytics-google
-/cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google,4,2,analytics-google
-/cristianpb/analytics-google/tree/master/src/lib,analytics-google/src/lib at master · cristianpb/analytics-google,3,2,analytics-google
-/cristianpb/analytics-google/tree/master/src/lib/views,analytics-google/src/lib/views at master · cristianpb/analytics-google,2,2,analytics-google
-/cristianpb/analytics-google/tree/master/src/routes,analytics-google/src/routes at master · cristianpb/analytics-google,2,2,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,6,5,analytics-google
+/cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google,3,1,analytics-google
+/cristianpb/analytics-google/tree/master/src/lib,analytics-google/src/lib at master · cristianpb/analytics-google,2,1,analytics-google
 /cristianpb/analytics-google/blob/b3c78072ac7faecf7a18d2cbcb4df12d7d677447/src/lib/views/Visits.svelte,analytics-google/src/lib/views/Visits.svelte at b3c78072ac7faecf7a18d2cbcb4df...,1,1,analytics-google
-/cristianpb/analytics-google/blob/master/jsconfig.json,analytics-google/jsconfig.json at master · cristianpb/analytics-google,1,1,analytics-google
-/cristianpb/analytics-google/blob/master/Makefile,analytics-google/Makefile at master · cristianpb/analytics-google,1,1,analytics-google
-/cristianpb/analytics-google/blob/master/package.json,analytics-google/package.json at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/requirements.txt,analytics-google/requirements.txt at master · cristianpb/analytics-google,1,1,analytics-google
+/cristianpb/analytics-google/commits,Commits · cristianpb/analytics-google,1,1,analytics-google
+/cristianpb/analytics-google/tree/data,GitHub - cristianpb/analytics-google at data,1,1,analytics-google
+/cristianpb/analytics-google/tree/dependabot/npm_and_yarn/postcss-8.4.31,GitHub - cristianpb/analytics-google at dependabot/npm_and_yarn/postcss-8.4.31,1,1,analytics-google
+/cristianpb/analytics-google/tree/gh-pages,GitHub - cristianpb/analytics-google at gh-pages,1,1,analytics-google
+/cristianpb/analytics-google/tree/gh-pages/_app,analytics-google/_app at gh-pages · cristianpb/analytics-google · GitHub,1,1,analytics-google
 /cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,1,1,cristianpb.github.io
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,4,4,dotfiles
-/cristianpb/muse,cristianpb/muse: Mopidy web client with Snapcast support,13,8,muse
-/cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse,11,2,muse
-/cristianpb/muse/tree/master/src/routes,muse/src/routes at master · cristianpb/muse,10,2,muse
-/cristianpb/muse/blob/master/Makefile,muse/Makefile at master · cristianpb/muse,9,1,muse
-/cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse,7,1,muse
-/cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse,5,2,muse
-/cristianpb/muse/tree/master/static,muse/static at master · cristianpb/muse,5,1,muse
-/cristianpb/muse/actions/runs/12020601232,🎨 Add track length in playlists page · cristianpb/muse@592e38b,4,1,muse
-/cristianpb/muse/blob/master/pyproject.toml,muse/pyproject.toml at master · cristianpb/muse,4,1,muse
-/cristianpb/muse/blob/master/src/lib/tools/mopidyTools.js,muse/src/lib/tools/mopidyTools.js at master · cristianpb/muse,4,1,muse
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,2,2,dotfiles
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,9,7,muse
+/cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse,7,2,muse
+/cristianpb/muse/tree/master/src/routes,muse/src/routes at master · cristianpb/muse,6,2,muse
+/cristianpb/muse/tree/master/src/lib,muse/src/lib at master · cristianpb/muse,3,1,muse
+/cristianpb/muse/tree/master/src/lib/tools,muse/src/lib/tools at master · cristianpb/muse,3,1,muse
+/cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse,2,2,muse
+/cristianpb/muse/blob/master/src/lib/tools/mopidyTools.js,muse/src/lib/tools/mopidyTools.js at master · cristianpb/muse,2,1,muse
+/cristianpb/muse/blob/master/src/lib/tools/stores.js,muse/src/lib/tools/stores.js at master · cristianpb/muse,2,1,muse
+/cristianpb/muse/blob/master/src/routes/Nav.svelte,muse/src/routes/Nav.svelte at master · cristianpb/muse,2,1,muse
+/cristianpb/muse/tree/master/src/lib/components,muse/src/lib/components at master · cristianpb/muse,2,1,muse
 /cristianpb/music-s3,GitHub - cristianpb/music-s3,3,1,music-s3
 /cristianpb/music-s3/blob/master/download.py,music-s3/download.py at master · cristianpb/music-s3 · GitHub,3,1,music-s3
 /cristianpb/nerf,GitHub - cristianpb/nerf,1,1,nerf
@@ -47,6 +47,6 @@ path,title,count,uniques,repository
 /cristianpb/playlists/tree/data,GitHub - cristianpb/playlists at data,1,1,playlists
 /cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/tree/master/rhasspy/.config/rhasspy/profiles/es,rhasspy-handler/rhasspy/.config/rhasspy/profiles/es at master · cristianpb/rh...,1,1,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",3,3,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",4,4,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master,"cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and grafana m...",1,1,telegraf-influxdb-grafana-docker
