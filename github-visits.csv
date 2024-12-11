@@ -1,5 +1,4 @@
 date,repository,clones,views
-2024-11-26,analytics-google,1,10
 2024-11-27,analytics-google,3,7
 2024-11-28,analytics-google,1,0
 2024-11-29,analytics-google,1,0
@@ -13,18 +12,18 @@ date,repository,clones,views
 2024-12-07,analytics-google,1,0
 2024-12-08,analytics-google,2,0
 2024-12-09,analytics-google,1,0
+2024-12-10,analytics-google,1,0
+2024-12-10,aws-lambda-cv,1,0
 2024-11-30,cristianpb.github.io,0,1
 2024-11-28,datalab.mi,1,0
 2024-11-29,dotfiles,1,1
-2024-11-26,dotfiles,0,2
+2024-12-10,dotfiles,1,20
 2024-12-07,dotfiles,0,1
 2024-12-09,dotfiles,0,14
-2024-12-10,dotfiles,0,12
 2024-12-06,goaccess,1,0
 2024-11-27,hubot-ratp,1,0
 2024-12-09,judilibre-stats,1,0
 2024-12-06,mask-detection,1,0
-2024-11-26,muse,13,110
 2024-11-30,muse,2,0
 2024-12-02,muse,1,0
 2024-12-04,muse,11,8
@@ -32,13 +31,12 @@ date,repository,clones,views
 2024-12-07,muse,1,0
 2024-12-08,muse,1,3
 2024-12-09,muse,2,1
-2024-11-27,muse,0,32
+2024-11-27,muse,0,18
 2024-11-28,muse,0,4
 2024-12-01,muse,0,1
 2024-12-10,muse,0,1
 2024-11-28,music-s3,0,4
 2024-12-03,music-s3,0,2
-2024-11-26,nerf,1,0
 2024-11-27,nerf,1,0
 2024-11-28,nerf,1,0
 2024-11-29,nerf,1,0
@@ -52,6 +50,7 @@ date,repository,clones,views
 2024-12-07,nerf,1,0
 2024-12-08,nerf,1,0
 2024-12-09,nerf,1,0
+2024-12-10,nerf,1,0
 2024-11-29,object-detection,1,1
 2024-12-08,object-detection,1,0
 2024-11-28,object-detection,0,13
@@ -70,9 +69,9 @@ date,repository,clones,views
 2024-12-05,playlists,0,2
 2024-11-30,qrcode-reader,1,0
 2024-11-27,rhasspy-handler,1,0
+2024-12-10,rhasspy-handler,1,0
 2024-12-03,rhasspy-handler,0,2
 2024-12-05,simple-streaming-gateway,1,0
-2024-11-27,stats,3,0
 2024-11-28,stats,2,0
 2024-11-29,stats,3,0
 2024-11-30,stats,3,0
@@ -85,6 +84,7 @@ date,repository,clones,views
 2024-12-07,stats,5,0
 2024-12-08,stats,2,0
 2024-12-09,stats,3,0
+2024-12-10,stats,2,0
 2024-11-28,telegraf-influxdb-grafana-docker,0,3
 2024-11-30,telegraf-influxdb-grafana-docker,0,1
 2024-12-01,telegraf-influxdb-grafana-docker,0,1
@@ -92,4 +92,3 @@ date,repository,clones,views
 2024-12-09,telegraf-influxdb-grafana-docker,0,7
 2024-12-02,temp-sigfox,1,0
 2024-12-05,tkasme,1,0
-2024-11-26,velo.club,1,0

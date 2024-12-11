@@ -1,26 +1,33 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,6,5,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,5,4,analytics-google
 /cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google,3,1,analytics-google
 /cristianpb/analytics-google/tree/master/src/lib,analytics-google/src/lib at master · cristianpb/analytics-google,2,1,analytics-google
 /cristianpb/analytics-google/blob/b3c78072ac7faecf7a18d2cbcb4df12d7d677447/src/lib/views/Visits.svelte,analytics-google/src/lib/views/Visits.svelte at b3c78072ac7faecf7a18d2cbcb4df...,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/requirements.txt,analytics-google/requirements.txt at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/analytics-google/commits,Commits · cristianpb/analytics-google,1,1,analytics-google
-/cristianpb/analytics-google/tree/data,GitHub - cristianpb/analytics-google at data,1,1,analytics-google
-/cristianpb/analytics-google/tree/dependabot/npm_and_yarn/postcss-8.4.31,GitHub - cristianpb/analytics-google at dependabot/npm_and_yarn/postcss-8.4.31,1,1,analytics-google
-/cristianpb/analytics-google/tree/gh-pages,GitHub - cristianpb/analytics-google at gh-pages,1,1,analytics-google
-/cristianpb/analytics-google/tree/gh-pages/_app,analytics-google/_app at gh-pages · cristianpb/analytics-google · GitHub,1,1,analytics-google
+/cristianpb/analytics-google/tree/master,cristianpb/analytics-google: Google analytics from cristianpb.github.io,1,1,analytics-google
+/cristianpb/analytics-google/tree/master/src/lib/tools,analytics-google/src/lib/tools at master · cristianpb/analytics-google,1,1,analytics-google
+/cristianpb/analytics-google/tree/master/src/lib/views,analytics-google/src/lib/views at master · cristianpb/analytics-google,1,1,analytics-google
+/cristianpb/analytics-google/tree/master/src/routes,analytics-google/src/routes at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,1,1,cristianpb.github.io
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,2,2,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,4,4,dotfiles
+/cristianpb/dotfiles/tree/master/i3/.config/i3,dotfiles/i3/.config/i3 at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
+/cristianpb/dotfiles/blob/master/bash/.bashrc,dotfiles/bash/.bashrc at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/blob/master/bash/.shell_prompt.sh,dotfiles/bash/.shell_prompt.sh at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/blob/master/i3/.config/i3/config,dotfiles/i3/.config/i3/config at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/blob/master/i3/.config/i3/rofi_powermenu.sh,dotfiles/i3/.config/i3/rofi_powermenu.sh at master · cristianpb/dotfiles · Gi...,1,1,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/tree/master,dotfiles/ at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/tree/master/bash,dotfiles/bash at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/tree/master/ranger,dotfiles/ranger at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,9,7,muse
-/cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse,7,2,muse
-/cristianpb/muse/tree/master/src/routes,muse/src/routes at master · cristianpb/muse,6,2,muse
-/cristianpb/muse/tree/master/src/lib,muse/src/lib at master · cristianpb/muse,3,1,muse
-/cristianpb/muse/tree/master/src/lib/tools,muse/src/lib/tools at master · cristianpb/muse,3,1,muse
-/cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse,2,2,muse
-/cristianpb/muse/blob/master/src/lib/tools/mopidyTools.js,muse/src/lib/tools/mopidyTools.js at master · cristianpb/muse,2,1,muse
-/cristianpb/muse/blob/master/src/lib/tools/stores.js,muse/src/lib/tools/stores.js at master · cristianpb/muse,2,1,muse
-/cristianpb/muse/blob/master/src/routes/Nav.svelte,muse/src/routes/Nav.svelte at master · cristianpb/muse,2,1,muse
-/cristianpb/muse/tree/master/src/lib/components,muse/src/lib/components at master · cristianpb/muse,2,1,muse
+/cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse,2,2,muse
+/cristianpb/muse/tree/master/src/routes,muse/src/routes at master · cristianpb/muse,2,2,muse
+/cristianpb/muse/blob/master/src/routes/browse/%2Bpage.svelte,muse/src/routes/browse/+page.svelte at master · cristianpb/muse,1,1,muse
+/cristianpb/muse/tree/master/cypress,muse/cypress at master · cristianpb/muse,1,1,muse
+/cristianpb/muse/tree/master/cypress/fixtures,muse/cypress/fixtures at master · cristianpb/muse,1,1,muse
+/cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse,1,1,muse
+/cristianpb/muse/tree/master/src/routes/browse,muse/src/routes/browse at master · cristianpb/muse,1,1,muse
 /cristianpb/music-s3,GitHub - cristianpb/music-s3,3,1,music-s3
 /cristianpb/music-s3/blob/master/download.py,music-s3/download.py at master · cristianpb/music-s3 · GitHub,3,1,music-s3
 /cristianpb/nerf,GitHub - cristianpb/nerf,1,1,nerf
@@ -36,17 +43,22 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,1,1,object-detection
 /cristianpb/object-detection/blob/master/config.yml.sample,object-detection/config.yml.sample at master · cristianpb/object-detection · ...,1,1,object-detection
 /cristianpb/object-detection-frontend,cristianpb/object-detection-frontend: Frontend Angular application for object...,1,1,object-detection-frontend
-/cristianpb/playlists,GitHub - cristianpb/playlists,6,3,playlists
-/cristianpb/playlists/tree/master/.github/workflows,playlists/.github/workflows at master · cristianpb/playlists · GitHub,2,2,playlists
-/cristianpb/playlists/blob/master/download.py,playlists/download.py at master · cristianpb/playlists · GitHub,2,1,playlists
+/cristianpb/playlists,GitHub - cristianpb/playlists,5,3,playlists
 /cristianpb/playlists/tree/master,GitHub - cristianpb/playlists,2,1,playlists
 /cristianpb/playlists/blob/data/data.csv,playlists/data.csv at data · cristianpb/playlists · GitHub,1,1,playlists
+/cristianpb/playlists/blob/master/download.py,playlists/download.py at master · cristianpb/playlists · GitHub,1,1,playlists
 /cristianpb/playlists/blob/master/fetch.py,playlists/fetch.py at master · cristianpb/playlists · GitHub,1,1,playlists
 /cristianpb/playlists/blob/master/.github/workflows/build.yml,playlists/.github/workflows/build.yml at master · cristianpb/playlists · GitHub,1,1,playlists
 /cristianpb/playlists/blob/master/.github/workflows/data.yml,playlists/.github/workflows/data.yml at master · cristianpb/playlists · GitHub,1,1,playlists
 /cristianpb/playlists/tree/data,GitHub - cristianpb/playlists at data,1,1,playlists
+/cristianpb/playlists/tree/master/.github/workflows,playlists/.github/workflows at master · cristianpb/playlists · GitHub,1,1,playlists
 /cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/tree/master/rhasspy/.config/rhasspy/profiles/es,rhasspy-handler/rhasspy/.config/rhasspy/profiles/es at master · cristianpb/rh...,1,1,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",4,4,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",5,5,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/dashboard.yaml,telegraf-influxdb-grafana-docker/docker/grafana/dashboard.yaml at master · cr...,2,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/DashboardTelegraf.json,telegraf-influxdb-grafana-docker/docker/grafana/DashboardTelegraf.json at mas...,1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/.env_dist,telegraf-influxdb-grafana-docker/.env_dist at master · cristianpb/telegraf-in...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master,"cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and grafana m...",1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,1,1,telegraf-influxdb-grafana-docker
