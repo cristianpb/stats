@@ -2,11 +2,11 @@ referrer,count,uniques,repository
 chatgpt.com,14,1,analytics-google
 Google,2,2,analytics-google
 github.com,2,2,analytics-google
+Google,19,2,dotfiles
 github.com,14,3,dotfiles
-Google,13,2,dotfiles
-dotfiles.github.io,1,1,dotfiles
+dotfiles.github.io,4,2,dotfiles
 mopidy.com,13,6,muse
-github.com,3,3,object-detection
+github.com,2,2,object-detection
 cristianpb.github.io,1,1,object-detection
 programcreek.com,1,1,object-detection
 Google,1,1,object-detection

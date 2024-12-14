@@ -1,9 +1,9 @@
 nomRepo,url,updated,size,stars,watchers,forks,views,viewsUniques,clones,clonesUniques
-analytics-google,https://github.com/cristianpb/analytics-google,2024-10-09T06:58:41Z,6792,15,15,4,19,6,25,12
+analytics-google,https://github.com/cristianpb/analytics-google,2024-10-09T06:58:41Z,6794,15,15,4,19,6,25,12
 aws-lambda-cv,https://github.com/cristianpb/aws-lambda-cv,2019-12-12T19:19:50Z,62,0,0,0,0,0,1,1
 cristianpb,https://github.com/cristianpb/cristianpb,2024-10-10T13:20:57Z,9,0,0,0,0,0,1,1
 cristianpb.github.io,https://github.com/cristianpb/cristianpb.github.io,2024-10-10T13:12:13Z,105958,0,0,2,1,1,0,0
-dotfiles,https://github.com/cristianpb/dotfiles,2024-11-12T04:48:25Z,403,25,25,8,61,8,3,3
+dotfiles,https://github.com/cristianpb/dotfiles,2024-11-12T04:48:25Z,403,25,25,8,69,9,2,2
 goaccess,https://github.com/cristianpb/goaccess,2023-02-03T17:33:53Z,6831,0,0,0,0,0,1,1
 judilibre-stats,https://github.com/cristianpb/judilibre-stats,2021-10-21T22:47:08Z,1832,0,0,0,0,0,1,1
 mask-detection,https://github.com/cristianpb/mask-detection,2020-05-05T21:36:36Z,40800,0,0,1,0,0,1,1
@@ -12,12 +12,12 @@ music-s3,https://github.com/cristianpb/music-s3,2024-11-10T08:48:27Z,54,0,0,0,2,
 myhubot,https://github.com/cristianpb/myhubot,2018-08-31T07:01:26Z,35,0,0,0,0,0,1,1
 nerf,https://github.com/cristianpb/nerf,2024-11-04T06:55:11Z,36393,0,0,0,2,1,14,1
 newsapp,https://github.com/cristianpb/newsapp,2018-11-21T21:36:30Z,753,0,0,0,0,0,1,1
-object-detection,https://github.com/cristianpb/object-detection,2024-11-03T02:54:04Z,744,54,54,17,9,8,2,2
-playlists,https://github.com/cristianpb/playlists,2024-12-02T21:05:19Z,16298,0,0,0,6,1,17,8
+object-detection,https://github.com/cristianpb/object-detection,2024-11-03T02:54:04Z,744,54,54,17,11,10,1,1
+playlists,https://github.com/cristianpb/playlists,2024-12-02T21:05:19Z,16786,0,0,0,6,1,16,7
 qrcode-reader,https://github.com/cristianpb/qrcode-reader,2023-07-30T21:08:20Z,287,0,0,0,0,0,1,1
 rhasspy-handler,https://github.com/cristianpb/rhasspy-handler,2024-09-22T17:03:37Z,814,6,6,1,2,1,1,1
 simple-streaming-gateway,https://github.com/cristianpb/simple-streaming-gateway,2021-04-23T20:15:18Z,31837,0,0,0,0,0,1,1
-stats,https://github.com/cristianpb/stats,2023-10-01T10:25:43Z,2238,0,0,0,0,0,38,13
+stats,https://github.com/cristianpb/stats,2023-10-01T10:25:43Z,2239,0,0,0,0,0,40,14
 telegraf-influxdb-grafana-docker,https://github.com/cristianpb/telegraf-influxdb-grafana-docker,2024-11-25T22:35:11Z,242,19,19,22,11,6,0,0
 temp-sigfox,https://github.com/cristianpb/temp-sigfox,2021-05-17T21:06:24Z,122,1,1,1,0,0,1,1
 tkasme,https://github.com/cristianpb/tkasme,2020-09-03T19:59:44Z,126031,0,0,0,0,0,1,1
