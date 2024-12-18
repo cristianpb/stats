@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,4,3,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,3,2,analytics-google
 /cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google,3,1,analytics-google
 /cristianpb/analytics-google/tree/master/src/lib,analytics-google/src/lib at master · cristianpb/analytics-google,2,1,analytics-google
 /cristianpb/analytics-google/blob/b3c78072ac7faecf7a18d2cbcb4df12d7d677447/src/lib/views/Visits.svelte,analytics-google/src/lib/views/Visits.svelte at b3c78072ac7faecf7a18d2cbcb4df...,1,1,analytics-google
@@ -9,6 +9,14 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/tree/master,cristianpb/analytics-google: Google analytics from cristianpb.github.io,1,1,analytics-google
 /cristianpb/analytics-google/tree/master/src/lib/tools,analytics-google/src/lib/tools at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/analytics-google/tree/master/src/lib/views,analytics-google/src/lib/views at master · cristianpb/analytics-google,1,1,analytics-google
+/cristianpb/cristianpb,cristianpb/cristianpb,4,2,cristianpb
+/cristianpb/cristianpb/actions/workflows/main.yml,README build · Workflow runs · cristianpb/cristianpb,2,1,cristianpb
+/cristianpb/cristianpb/actions,Workflow runs · cristianpb/cristianpb,1,1,cristianpb
+/cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions,Workflow runs · cristianpb/cristianpb.github.io · GitHub,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/12347552661/job/34454836235,pages build and deployment · cristianpb/cristianpb.github.io@f44b4af · GitHub,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/12347552661/job/34454853415,pages build and deployment · cristianpb/cristianpb.github.io@f44b4af · GitHub,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/12347552661/job/34454853416,pages build and deployment · cristianpb/cristianpb.github.io@f44b4af · GitHub,1,1,cristianpb.github.io
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,17,7,dotfiles
 /cristianpb/dotfiles/tree/master/bash,dotfiles/bash at master · cristianpb/dotfiles · GitHub,6,4,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles · GitHub,4,4,dotfiles
@@ -19,17 +27,12 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/tree/master/i3/.config/i3,dotfiles/i3/.config/i3 at master · cristianpb/dotfiles · GitHub,4,3,dotfiles
 /cristianpb/dotfiles/blob/master/i3/.config/i3/config,dotfiles/i3/.config/i3/config at master · cristianpb/dotfiles · GitHub,3,3,dotfiles
 /cristianpb/dotfiles/tree/master/ranger,dotfiles/ranger at master · cristianpb/dotfiles · GitHub,3,3,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,12,9,muse
-/cristianpb/muse/tree/master/cypress,muse/cypress at master · cristianpb/muse,1,1,muse
-/cristianpb/muse/tree/master/cypress/fixtures,muse/cypress/fixtures at master · cristianpb/muse,1,1,muse
-/cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse,1,1,muse
-/cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse,1,1,muse
-/cristianpb/muse/tree/master/src/routes,muse/src/routes at master · cristianpb/muse,1,1,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,10,8,muse
 /cristianpb/nerf,GitHub - cristianpb/nerf,1,1,nerf
 /cristianpb/nerf/actions,Workflow runs · cristianpb/nerf · GitHub,1,1,nerf
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",3,3,object-detection
+/cristianpb/object-detection/blob/master/config.yml.sample,object-detection/config.yml.sample at master · cristianpb/object-detection · ...,2,2,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,2,1,object-detection
-/cristianpb/object-detection/blob/master/config.yml.sample,object-detection/config.yml.sample at master · cristianpb/object-detection · ...,1,1,object-detection
 /cristianpb/object-detection/forks,Forks · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/playlists,GitHub - cristianpb/playlists,1,1,playlists
 /cristianpb/playlists/blob/master/fetch.py,playlists/fetch.py at master · cristianpb/playlists · GitHub,1,1,playlists
