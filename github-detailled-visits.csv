@@ -1,15 +1,14 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/country.csv,analytics-google/country.csv at master · cristianpb/analytics-google · GitHub,1,1,analytics-google
 /cristianpb/cristianpb,cristianpb/cristianpb,4,2,cristianpb
 /cristianpb/cristianpb/actions/workflows/main.yml,README build · Workflow runs · cristianpb/cristianpb,2,1,cristianpb
 /cristianpb/cristianpb/actions,Workflow runs · cristianpb/cristianpb,1,1,cristianpb
-/cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,2,2,cristianpb.github.io
+/cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,3,2,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions,Workflow runs · cristianpb/cristianpb.github.io · GitHub,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/12347552661/job/34454836235,pages build and deployment · cristianpb/cristianpb.github.io@f44b4af · GitHub,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/12347552661/job/34454853415,pages build and deployment · cristianpb/cristianpb.github.io@f44b4af · GitHub,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/12347552661/job/34454853416,pages build and deployment · cristianpb/cristianpb.github.io@f44b4af · GitHub,1,1,cristianpb.github.io
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,17,7,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,18,8,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles · GitHub,6,4,dotfiles
 /cristianpb/dotfiles/tree/master/bash,dotfiles/bash at master · cristianpb/dotfiles · GitHub,6,4,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,5,4,dotfiles
@@ -20,7 +19,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/ranger/.config/ranger/rifle.conf at master · cristianpb/dotfiles · G...,4,2,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles · Git...,4,2,dotfiles
 /cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,11,8,muse
-/cristianpb/muse/blob/master/pyproject.toml,muse/pyproject.toml at master · cristianpb/muse,1,1,muse
+/cristianpb/muse/blob/master/pyproject.toml,muse/pyproject.toml at master · cristianpb/muse,2,1,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",5,5,object-detection
 /cristianpb/object-detection/blob/master/config.yml.sample,object-detection/config.yml.sample at master · cristianpb/object-detection · ...,2,2,object-detection
