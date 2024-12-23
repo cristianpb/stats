@@ -1,5 +1,4 @@
 date,repository,clones,views
-2024-12-08,analytics-google,2,0
 2024-12-09,analytics-google,1,0
 2024-12-10,analytics-google,1,0
 2024-12-11,analytics-google,3,1
@@ -13,6 +12,7 @@ date,repository,clones,views
 2024-12-19,analytics-google,2,2
 2024-12-20,analytics-google,1,1
 2024-12-21,analytics-google,2,1
+2024-12-22,analytics-google,2,0
 2024-12-10,aws-lambda-cv,1,0
 2024-12-11,cristianpb,1,0
 2024-12-16,cristianpb,1,7
@@ -25,7 +25,7 @@ date,repository,clones,views
 2024-12-10,dotfiles,1,20
 2024-12-11,dotfiles,1,14
 2024-12-20,dotfiles,1,6
-2024-12-09,dotfiles,0,14
+2024-12-09,dotfiles,0,8
 2024-12-12,dotfiles,0,11
 2024-12-13,dotfiles,0,9
 2024-12-14,dotfiles,0,9
@@ -33,9 +33,9 @@ date,repository,clones,views
 2024-12-18,dotfiles,0,1
 2024-12-19,hubot-ratp,1,0
 2024-12-09,judilibre-stats,1,0
-2024-12-08,muse,1,3
 2024-12-09,muse,2,1
 2024-12-11,muse,1,2
+2024-12-22,muse,1,5
 2024-12-10,muse,0,1
 2024-12-15,muse,0,1
 2024-12-16,muse,0,1
@@ -45,7 +45,6 @@ date,repository,clones,views
 2024-12-20,muse,0,1
 2024-12-21,muse,0,1
 2024-12-11,myhubot,1,0
-2024-12-08,nerf,1,0
 2024-12-09,nerf,1,0
 2024-12-10,nerf,1,0
 2024-12-11,nerf,1,0
@@ -59,8 +58,8 @@ date,repository,clones,views
 2024-12-19,nerf,1,0
 2024-12-20,nerf,1,0
 2024-12-21,nerf,1,0
+2024-12-22,nerf,1,0
 2024-12-11,newsapp,1,0
-2024-12-08,object-detection,1,0
 2024-12-12,object-detection,0,2
 2024-12-13,object-detection,0,3
 2024-12-16,object-detection,0,1
@@ -75,7 +74,7 @@ date,repository,clones,views
 2024-12-10,rhasspy-handler,1,0
 2024-12-15,rhasspy-handler,0,1
 2024-12-17,rhasspy-handler,0,1
-2024-12-09,stats,3,0
+2024-12-09,stats,1,0
 2024-12-10,stats,2,0
 2024-12-11,stats,4,0
 2024-12-12,stats,2,0
@@ -88,7 +87,7 @@ date,repository,clones,views
 2024-12-19,stats,2,0
 2024-12-20,stats,2,0
 2024-12-21,stats,3,0
-2024-12-08,telegraf-influxdb-grafana-docker,0,1
+2024-12-22,stats,3,0
 2024-12-09,telegraf-influxdb-grafana-docker,0,7
 2024-12-11,telegraf-influxdb-grafana-docker,0,1
 2024-12-15,telegraf-influxdb-grafana-docker,0,1
