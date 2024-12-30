@@ -1,12 +1,12 @@
 nomRepo,url,updated,size,stars,watchers,forks,views,viewsUniques,clones,clonesUniques
-analytics-google,https://github.com/cristianpb/analytics-google,2024-10-09T06:58:41Z,6779,15,15,4,4,3,26,9
+analytics-google,https://github.com/cristianpb/analytics-google,2024-10-09T06:58:41Z,6779,15,15,4,4,3,25,8
 cristianpb,https://github.com/cristianpb/cristianpb,2024-12-16T07:06:01Z,10,0,0,0,7,2,2,2
 cristianpb.github.io,https://github.com/cristianpb/cristianpb.github.io,2024-12-16T07:01:35Z,106895,0,0,2,7,2,6,3
 datalab.mi,https://github.com/cristianpb/datalab.mi,2020-02-14T16:45:11Z,31047,0,0,2,1,1,0,0
-dotfiles,https://github.com/cristianpb/dotfiles,2024-11-12T04:48:25Z,403,25,25,8,25,5,1,1
+dotfiles,https://github.com/cristianpb/dotfiles,2024-11-12T04:48:25Z,403,25,25,8,29,6,1,1
 hubot-ratp,https://github.com/cristianpb/hubot-ratp,2018-01-18T21:38:00Z,95,0,0,0,0,0,1,1
 hubot-velib,https://github.com/cristianpb/hubot-velib,2018-01-15T10:32:59Z,43,0,0,0,0,0,1,1
-muse,https://github.com/cristianpb/muse,2024-12-04T22:12:53Z,987,35,35,6,69,10,1,1
+muse,https://github.com/cristianpb/muse,2024-12-04T22:12:53Z,987,35,35,6,68,9,1,1
 music-s3,https://github.com/cristianpb/music-s3,2024-11-10T08:48:27Z,54,0,0,0,0,0,1,1
 mybottender,https://github.com/cristianpb/mybottender,2018-11-19T22:49:21Z,66,0,0,0,0,0,1,1
 nerf,https://github.com/cristianpb/nerf,2024-11-04T06:55:11Z,36393,0,0,0,2,2,14,1
@@ -14,5 +14,5 @@ object-detection,https://github.com/cristianpb/object-detection,2024-11-03T02:54
 playlists,https://github.com/cristianpb/playlists,2024-12-02T21:05:19Z,17854,0,0,0,0,0,14,8
 recettes,https://github.com/cristianpb/recettes,2018-12-08T21:52:43Z,154,0,0,0,0,0,1,1
 rhasspy-handler,https://github.com/cristianpb/rhasspy-handler,2024-09-22T17:03:37Z,814,6,6,1,13,3,1,1
-stats,https://github.com/cristianpb/stats,2023-10-01T10:25:43Z,2266,0,0,0,0,0,35,7
-telegraf-influxdb-grafana-docker,https://github.com/cristianpb/telegraf-influxdb-grafana-docker,2024-11-25T22:35:11Z,242,19,19,22,7,4,0,0
+stats,https://github.com/cristianpb/stats,2023-10-01T10:25:43Z,2267,0,0,0,0,0,36,8
+telegraf-influxdb-grafana-docker,https://github.com/cristianpb/telegraf-influxdb-grafana-docker,2024-11-25T22:35:11Z,242,19,19,22,6,3,0,0
