@@ -1,34 +1,23 @@
 path,title,count,uniques,repository
 /cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,5,4,analytics-google
-/cristianpb/analytics-google/blob/master/analytics.py,analytics-google/analytics.py at master · cristianpb/analytics-google · GitHub,1,1,analytics-google
+/cristianpb/cristianpb.github.io/blob/f44b4afa8479dfd683dbf3d58a2e8e56c79b90bc/jekyll_collections/_posts/2023-09-03-fluentbit-elasticsearch-kibana.md,cristianpb.github.io/jekyll_collections/_posts/2023-09-03-fluentbit-elasticse...,1,1,cristianpb.github.io
 /cristianpb/datalab.mi,GitHub - cristianpb/datalab.mi,1,1,datalab.mi
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,4,3,dotfiles
+/cristianpb/dotfiles/tree/osx,GitHub - cristianpb/dotfiles at osx,3,1,dotfiles
 /cristianpb/dotfiles/tree/master,dotfiles/ at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
 /cristianpb/dotfiles/tree/master/ranger,dotfiles/ranger at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config,dotfiles/ranger/.config at master · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/dotfiles/tree/osx,GitHub - cristianpb/dotfiles at osx,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/ranger/.config/ranger/rifle.conf at master · cristianpb/dotfiles · G...,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles · Git...,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim/.vimrc at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,18,13,muse
-/cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse · GitHub,4,2,muse
-/cristianpb/muse/blob/master/Makefile,muse/Makefile at master · cristianpb/muse,4,1,muse
-/cristianpb/muse/tree/master,cristianpb/muse: Mopidy web client with Snapcast support,4,1,muse
-/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse,3,1,muse
-/cristianpb/muse/blob/master/pyproject.toml,muse/pyproject.toml at master · cristianpb/muse,3,1,muse
-/cristianpb/muse/blob/master/src/routes/browse/%2Bpage.svelte,muse/src/routes/browse/+page.svelte at master · cristianpb/muse,3,1,muse
-/cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse,3,1,muse
-/cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse,3,1,muse
-/cristianpb/muse/tree/master/src/routes/browse,muse/src/routes/browse at master · cristianpb/muse,3,1,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,17,13,muse
+/cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/stargazers,Stargazers · cristianpb/muse,1,1,muse
 /cristianpb/nerf/actions/workflows/posts.yml,Post · Workflow runs · cristianpb/nerf · GitHub,2,2,nerf
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",7,4,object-detection
-/cristianpb/object-detection/blob/master/backend/app.py,object-detection/backend/app.py at master · cristianpb/object-detection · Git...,1,1,object-detection
-/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,1,1,object-detection
-/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,1,1,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",5,3,object-detection
 /cristianpb/object-detection/blob/master/requirements.txt,object-detection/requirements.txt at master · cristianpb/object-detection,1,1,object-detection
-/cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/rhasspy-handler,cristianpb/rhasspy-handler: My voice assistant intent handler,2,2,rhasspy-handler
 /cristianpb/rhasspy-handler/blob/master/rhasspy/.config/rhasspy/profiles/es/profile.json,rhasspy-handler/rhasspy/.config/rhasspy/profiles/es/profile.json at master · ...,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/blob/master/rhasspy/.config/rhasspy/profiles/es/sentences.ini,rhasspy-handler/rhasspy/.config/rhasspy/profiles/es/sentences.ini at master ·...,1,1,rhasspy-handler
