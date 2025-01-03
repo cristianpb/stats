@@ -1,5 +1,4 @@
 date,repository,clones,views
-2024-12-19,analytics-google,2,2
 2024-12-20,analytics-google,1,1
 2024-12-21,analytics-google,2,1
 2024-12-22,analytics-google,2,0
@@ -13,6 +12,7 @@ date,repository,clones,views
 2024-12-30,analytics-google,2,0
 2024-12-31,analytics-google,1,2
 2025-01-01,analytics-google,1,1
+2025-01-02,analytics-google,2,0
 2024-12-30,cristianpb,1,0
 2025-01-01,cristianpb,1,0
 2024-12-21,cristianpb.github.io,1,0
@@ -23,10 +23,9 @@ date,repository,clones,views
 2024-12-27,dotfiles,0,4
 2024-12-29,dotfiles,0,4
 2024-12-31,dotfiles,0,1
-2024-12-19,hubot-ratp,1,0
+2025-01-02,dotfiles,0,1
 2024-12-24,hubot-velib,1,0
 2024-12-22,muse,1,5
-2024-12-19,muse,0,51
 2024-12-20,muse,0,1
 2024-12-21,muse,0,1
 2024-12-26,muse,0,2
@@ -37,7 +36,6 @@ date,repository,clones,views
 2025-01-01,muse,0,1
 2024-12-28,music-s3,1,0
 2024-12-25,mybottender,1,0
-2024-12-19,nerf,1,0
 2024-12-20,nerf,1,0
 2024-12-21,nerf,1,0
 2024-12-22,nerf,1,0
@@ -51,7 +49,7 @@ date,repository,clones,views
 2024-12-30,nerf,1,0
 2024-12-31,nerf,1,0
 2025-01-01,nerf,1,0
-2024-12-19,object-detection,0,6
+2025-01-02,nerf,1,0
 2024-12-20,object-detection,0,2
 2024-12-25,object-detection,0,1
 2024-12-26,object-detection,0,3
@@ -61,7 +59,7 @@ date,repository,clones,views
 2024-12-23,recettes,1,0
 2024-12-26,rhasspy-handler,1,0
 2024-12-27,rhasspy-handler,0,12
-2024-12-20,stats,2,0
+2025-01-02,rhasspy-handler,0,1
 2024-12-21,stats,3,0
 2024-12-22,stats,3,0
 2024-12-23,stats,3,0
@@ -74,5 +72,6 @@ date,repository,clones,views
 2024-12-30,stats,2,0
 2024-12-31,stats,4,0
 2025-01-01,stats,3,0
+2025-01-02,stats,3,0
 2024-12-20,telegraf-influxdb-grafana-docker,0,3
 2024-12-30,telegraf-influxdb-grafana-docker,0,1
