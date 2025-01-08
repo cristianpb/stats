@@ -13,7 +13,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/osx/tag-zsh/zshenv,dotfiles/tag-zsh/zshenv at osx · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/osx/tag-zsh/zshrc,dotfiles/tag-zsh/zshrc at osx · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/tree/master,dotfiles/ at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,15,11,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,17,13,muse
 /cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse · GitHub,2,1,muse
 /cristianpb/muse/blob/master/package.json,muse/package.json at master · cristianpb/muse · GitHub,2,1,muse
 /cristianpb/muse/blob/master/Makefile,muse/Makefile at master · cristianpb/muse · GitHub,1,1,muse
@@ -24,7 +24,7 @@ path,title,count,uniques,repository
 /cristianpb/muse/tree/master/src/lib,muse/src/lib at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/tree/master/src/lib/tools,muse/src/lib/tools at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/nerf/actions/workflows/posts.yml,Post · Workflow runs · cristianpb/nerf · GitHub,2,2,nerf
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",4,3,object-detection
+/cristianpb/object-detection,"cristianpb/object-detection: Object detection on Jetson Nano, Raspberry Pi an...",3,2,object-detection
 /cristianpb/object-detection/blob/master/requirements.txt,object-detection/requirements.txt at master · cristianpb/object-detection,1,1,object-detection
 /cristianpb/rhasspy-handler,cristianpb/rhasspy-handler: My voice assistant intent handler,2,2,rhasspy-handler
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",2,2,rhasspy-handler
