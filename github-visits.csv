@@ -1,6 +1,5 @@
 date,repository,clones,views
 2025-01-10,alchemy-machine,1,0
-2025-01-02,analytics-google,2,0
 2025-01-03,analytics-google,1,2
 2025-01-04,analytics-google,2,0
 2025-01-05,analytics-google,2,0
@@ -14,6 +13,7 @@ date,repository,clones,views
 2025-01-13,analytics-google,1,0
 2025-01-14,analytics-google,1,4
 2025-01-15,analytics-google,3,0
+2025-01-16,analytics-google,1,0
 2025-01-09,cristianpb,1,0
 2025-01-11,cristianpb,1,0
 2025-01-04,cristianpb.github.io,1,0
@@ -26,7 +26,6 @@ date,repository,clones,views
 2025-01-04,dotfiles,1,1
 2025-01-12,dotfiles,1,7
 2025-01-13,dotfiles,1,0
-2025-01-02,dotfiles,0,1
 2025-01-07,dotfiles,0,3
 2025-01-08,dotfiles,0,6
 2025-01-09,dotfiles,0,5
@@ -47,9 +46,9 @@ date,repository,clones,views
 2025-01-04,muse,0,1
 2025-01-05,muse,0,2
 2025-01-08,muse,0,3
+2025-01-16,muse,0,1
 2025-01-03,music-s3,1,0
 2025-01-11,myhubot,1,0
-2025-01-02,nerf,1,0
 2025-01-03,nerf,1,0
 2025-01-05,nerf,1,0
 2025-01-12,newsapp,1,0
@@ -68,12 +67,10 @@ date,repository,clones,views
 2025-01-13,priceminister,1,0
 2025-01-12,recettes,1,0
 2025-01-08,rhasspy-handler,1,0
-2025-01-02,rhasspy-handler,0,1
 2025-01-04,rhasspy-handler,0,1
 2025-01-09,rhasspy-handler,0,1
 2025-01-12,rhasspy-handler,0,1
 2025-01-13,simple-streaming-gateway,1,0
-2025-01-03,stats,3,0
 2025-01-04,stats,2,0
 2025-01-05,stats,2,0
 2025-01-06,stats,3,0
@@ -86,6 +83,7 @@ date,repository,clones,views
 2025-01-13,stats,4,0
 2025-01-14,stats,2,0
 2025-01-15,stats,2,0
+2025-01-16,stats,2,0
 2025-01-14,telegraf-influxdb-grafana-docker,1,0
 2025-01-03,telegraf-influxdb-grafana-docker,0,3
 2025-01-04,telegraf-influxdb-grafana-docker,0,9
