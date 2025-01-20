@@ -13,11 +13,21 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/tree/osx/tag-notmuch,dotfiles/tag-notmuch at osx · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,7,6,muse
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",2,2,object-detection
-/cristianpb/object-detection/blob/master/backend/motion.py,object-detection/backend/motion.py at master · cristianpb/object-detection · ...,1,1,object-detection
+/cristianpb/object-detection/blob/master/backend/motion.py,object-detection/backend/motion.py at master · cristianpb/object-detection · ...,2,2,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,1,1,object-detection
 /cristianpb/object-detection/tree/master/imgs,object-detection/imgs at master · cristianpb/object-detection,1,1,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection,1,1,object-detection
-/cristianpb/playlists,GitHub - cristianpb/playlists,1,1,playlists
+/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,1,1,object-detection-frontend
+/cristianpb/playlists/actions,Workflow runs · cristianpb/playlists,6,2,playlists
+/cristianpb/playlists,GitHub - cristianpb/playlists,5,3,playlists
+/cristianpb/playlists/actions/runs/12857337453,🎨 Use svelte and observable plots · cristianpb/playlists@663285b · GitHub,2,2,playlists
+/cristianpb/playlists/actions/runs/12857337453/job/35845076370,🎨 Use svelte and observable plots · cristianpb/playlists@663285b · GitHub,2,2,playlists
+/cristianpb/playlists/actions/runs/12857386486,🎨 Use svelte and observable plots · cristianpb/playlists@f2b7458,1,1,playlists
+/cristianpb/playlists/actions/runs/12857386486/job/35845166822,🎨 Use svelte and observable plots · cristianpb/playlists@f2b7458,1,1,playlists
+/cristianpb/playlists/actions/runs/12857414282,🎨 Use svelte and observable plots · cristianpb/playlists@07232ec,1,1,playlists
+/cristianpb/playlists/actions/runs/12857414282/job/35845228854,🎨 Use svelte and observable plots · cristianpb/playlists@07232ec,1,1,playlists
+/cristianpb/playlists/actions/runs/12857432852,🎨 Use svelte and observable plots · cristianpb/playlists@ac861a4,1,1,playlists
+/cristianpb/playlists/actions/runs/12857432852/job/35845274043,🎨 Use svelte and observable plots · cristianpb/playlists@ac861a4,1,1,playlists
 /cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",1,1,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",2,2,telegraf-influxdb-grafana-docker
