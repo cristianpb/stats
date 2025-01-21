@@ -1,14 +1,14 @@
 referrer,count,uniques,repository
 Google,4,2,analytics-google
 Google,3,1,dotfiles
-dotfiles.github.io,2,2,dotfiles
+dotfiles.github.io,1,1,dotfiles
 mopidy.com,2,2,muse
 Google,1,1,muse
 news.ycombinator.com,1,1,muse
 cristianpb.github.io,4,3,object-detection
 programcreek.com,3,1,object-detection
 Google,1,1,object-detection-frontend
-github.com,1,1,playlists
+github.com,6,2,playlists
 Google,1,1,rhasspy-handler
 github.com,1,1,rhasspy-handler
 Google,3,2,telegraf-influxdb-grafana-docker
