@@ -2,21 +2,22 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,6,6,analytics-google
 /cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google · GitHub,1,1,analytics-google
 /cristianpb/analytics-google/tree/master/src/lib,analytics-google/src/lib at master · cristianpb/analytics-google · GitHub,1,1,analytics-google
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,5,4,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,6,5,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles,4,2,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/ranger/.config/ranger/rifle.conf at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config,dotfiles/ranger/.config at master · cristianpb/dotfiles,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,11,8,muse
+/cristianpb/dotfiles/tree/ubuntu,GitHub - cristianpb/dotfiles at ubuntu,1,1,dotfiles
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,14,10,muse
+/cristianpb/muse/issues,GitHub · Where software is built,6,2,muse
 /cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse · GitHub,4,1,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,3,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/ext.conf,muse/mopidy_muse/ext.conf at master · cristianpb/muse · GitHub,2,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/mopidy.conf,muse/mopidy_muse/mopidy.conf at master · cristianpb/muse · GitHub,2,1,muse
-/cristianpb/muse/issues,GitHub · Where software is built,2,1,muse
+/cristianpb/muse/pulls,Pull requests · cristianpb/muse · GitHub,2,1,muse
+/cristianpb/muse/actions/runs/8542533004/job/23404376729,Bump vite from 5.1.1 to 5.1.7 · cristianpb/muse@20f698c · GitHub,1,1,muse
 /cristianpb/muse/blob/master/Makefile,muse/Makefile at master · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/muse/tree/master,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,1,1,muse
-/cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/muse/tree/master/static,muse/static at master · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/issues/19,Option to shutdown or restart in settings · Issue #19 · cristianpb/muse,1,1,muse
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",4,4,object-detection
 /cristianpb/object-detection/blob/master/backend/motion.py,object-detection/backend/motion.py at master · cristianpb/object-detection · ...,2,2,object-detection
 /cristianpb/object-detection/blob/master/backend/app.py,object-detection/backend/app.py at master · cristianpb/object-detection · Git...,1,1,object-detection
@@ -24,8 +25,7 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,1,1,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,1,1,object-detection
 /cristianpb/object-detection/blob/master/setup.py,object-detection/setup.py at master · cristianpb/object-detection · GitHub,1,1,object-detection
-/cristianpb/object-detection/tree/master/imgs,object-detection/imgs at master · cristianpb/object-detection,1,1,object-detection
-/cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection,1,1,object-detection
+/cristianpb/object-detection/tree/master/systemd,object-detection/systemd at master · cristianpb/object-detection,1,1,object-detection
 /cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,1,1,object-detection-frontend
 /cristianpb/playlists,GitHub - cristianpb/playlists,6,2,playlists
 /cristianpb/playlists/actions,Workflow runs · cristianpb/playlists,6,2,playlists
@@ -37,6 +37,6 @@ path,title,count,uniques,repository
 /cristianpb/playlists/actions/runs/12857414282/job/35845228854,🎨 Use svelte and observable plots · cristianpb/playlists@07232ec,1,1,playlists
 /cristianpb/playlists/actions/runs/12857432852,🎨 Use svelte and observable plots · cristianpb/playlists@ac861a4,1,1,playlists
 /cristianpb/playlists/actions/runs/12857432852/job/35845274043,🎨 Use svelte and observable plots · cristianpb/playlists@ac861a4,1,1,playlists
-/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",1,1,rhasspy-handler
+/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",2,2,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,2,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",1,1,telegraf-influxdb-grafana-docker
