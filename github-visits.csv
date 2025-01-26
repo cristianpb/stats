@@ -1,5 +1,4 @@
 date,repository,clones,views
-2025-01-11,analytics-google,2,0
 2025-01-12,analytics-google,1,2
 2025-01-13,analytics-google,1,0
 2025-01-14,analytics-google,1,4
@@ -13,10 +12,10 @@ date,repository,clones,views
 2025-01-22,analytics-google,2,1
 2025-01-23,analytics-google,1,0
 2025-01-24,analytics-google,1,0
-2025-01-11,cristianpb,1,0
+2025-01-25,analytics-google,2,0
+2025-01-25,cristianpb,1,0
 2025-01-15,dataiku-dss-docker,1,0
 2025-01-13,datalab.mi,1,0
-2025-01-12,deces-backend,1,0
 2025-01-21,deces-dataprep,1,0
 2025-01-13,deces-ui,1,0
 2025-01-12,dotfiles,1,7
@@ -27,7 +26,6 @@ date,repository,clones,views
 2025-01-23,dotfiles,0,2
 2025-01-24,dotfiles,0,3
 2025-01-13,enkontext,1,0
-2025-01-11,gswsr,5,0
 2025-01-13,gswsr,1,0
 2025-01-12,hubot-ratp,1,0
 2025-01-12,hubot-velib,1,0
@@ -36,7 +34,6 @@ date,repository,clones,views
 2025-01-13,infolettre-lab-ia,1,0
 2025-01-12,mask-detection,1,0
 2025-01-23,mask-detection,1,0
-2025-01-11,mopidy.js,1,0
 2025-01-13,muse,1,0
 2025-01-21,muse,1,2
 2025-01-16,muse,0,1
@@ -46,20 +43,19 @@ date,repository,clones,views
 2025-01-22,muse,0,5
 2025-01-23,muse,0,16
 2025-01-24,muse,0,4
+2025-01-25,muse,0,2
 2025-01-18,music-s3,1,0
-2025-01-11,myhubot,1,0
 2025-01-22,nerf,1,0
 2025-01-12,newsapp,1,0
 2025-01-15,ngTwitterApp,1,0
 2025-01-17,object-detection,1,0
 2025-01-20,object-detection,1,1
-2025-01-11,object-detection,0,3
 2025-01-13,object-detection,0,2
 2025-01-18,object-detection,0,1
 2025-01-21,object-detection,0,1
 2025-01-22,object-detection,0,5
 2025-01-23,object-detection,0,2
-2025-01-11,object-detection-frontend,1,0
+2025-01-25,object-detection,0,3
 2025-01-20,object-detection-frontend,1,0
 2025-01-18,object-detection-frontend,0,1
 2025-01-13,piac-bot,1,0
@@ -76,7 +72,6 @@ date,repository,clones,views
 2025-01-12,rhasspy-handler,0,1
 2025-01-23,rhasspy-handler,0,1
 2025-01-13,simple-streaming-gateway,1,0
-2025-01-12,stats,2,0
 2025-01-13,stats,4,0
 2025-01-14,stats,2,0
 2025-01-15,stats,2,0
@@ -89,6 +84,7 @@ date,repository,clones,views
 2025-01-22,stats,2,0
 2025-01-23,stats,2,0
 2025-01-24,stats,2,0
+2025-01-25,stats,2,0
 2025-01-14,telegraf-influxdb-grafana-docker,1,0
 2025-01-12,telegraf-influxdb-grafana-docker,0,1
 2025-01-21,telegraf-influxdb-grafana-docker,0,2
