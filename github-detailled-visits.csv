@@ -1,14 +1,12 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,4,4,analytics-google
-/cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google · GitHub,1,1,analytics-google
-/cristianpb/analytics-google/tree/master/src/lib,analytics-google/src/lib at master · cristianpb/analytics-google · GitHub,1,1,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,2,2,analytics-google
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,6,4,dotfiles
 /cristianpb/dotfiles/blob/master/i3/.config/i3/config,dotfiles/i3/.config/i3/config at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/ranger/.config/ranger/rifle.conf at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/i3/.config/i3,dotfiles/i3/.config/i3 at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/tree/ubuntu,GitHub - cristianpb/dotfiles at ubuntu,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,19,12,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,21,14,muse
 /cristianpb/muse/issues,GitHub · Where software is built,6,2,muse
 /cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse · GitHub,4,1,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,3,1,muse
