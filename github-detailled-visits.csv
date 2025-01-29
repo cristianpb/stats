@@ -6,7 +6,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/tree/master/i3/.config/i3,dotfiles/i3/.config/i3 at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/tree/ubuntu,GitHub - cristianpb/dotfiles at ubuntu,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,21,14,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,22,15,muse
 /cristianpb/muse/issues,GitHub · Where software is built,6,2,muse
 /cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse · GitHub,4,1,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,3,1,muse
@@ -26,16 +26,16 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/tree/master/systemd,object-detection/systemd at master · cristianpb/object-detection,1,1,object-detection
 /cristianpb/object-detection/tree/master/tests,object-detection/tests at master · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,1,1,object-detection-frontend
-/cristianpb/playlists,GitHub - cristianpb/playlists,6,2,playlists
+/cristianpb/playlists,GitHub - cristianpb/playlists,7,3,playlists
 /cristianpb/playlists/actions,Workflow runs · cristianpb/playlists,6,2,playlists
+/cristianpb/playlists/tree/master/docs,playlists/docs at master · cristianpb/playlists · GitHub,4,1,playlists
 /cristianpb/playlists/actions/runs/12857337453,🎨 Use svelte and observable plots · cristianpb/playlists@663285b · GitHub,2,2,playlists
 /cristianpb/playlists/actions/runs/12857337453/job/35845076370,🎨 Use svelte and observable plots · cristianpb/playlists@663285b · GitHub,2,2,playlists
+/cristianpb/playlists/blob/master/docs/data/bestArtists.csv.py,playlists/docs/data/bestArtists.csv.py at master · cristianpb/playlists · Git...,2,2,playlists
+/cristianpb/playlists/tree/master/docs/components,playlists/docs/components at master · cristianpb/playlists · GitHub,2,2,playlists
+/cristianpb/playlists/blob/master/docs/index.md,playlists/docs/index.md at master · cristianpb/playlists · GitHub,2,1,playlists
 /cristianpb/playlists/actions/runs/12857386486,🎨 Use svelte and observable plots · cristianpb/playlists@f2b7458,1,1,playlists
 /cristianpb/playlists/actions/runs/12857386486/job/35845166822,🎨 Use svelte and observable plots · cristianpb/playlists@f2b7458,1,1,playlists
-/cristianpb/playlists/actions/runs/12857414282,🎨 Use svelte and observable plots · cristianpb/playlists@07232ec,1,1,playlists
-/cristianpb/playlists/actions/runs/12857414282/job/35845228854,🎨 Use svelte and observable plots · cristianpb/playlists@07232ec,1,1,playlists
-/cristianpb/playlists/actions/runs/12857432852,🎨 Use svelte and observable plots · cristianpb/playlists@ac861a4,1,1,playlists
-/cristianpb/playlists/actions/runs/12857432852/job/35845274043,🎨 Use svelte and observable plots · cristianpb/playlists@ac861a4,1,1,playlists
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",1,1,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",2,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,1,1,telegraf-influxdb-grafana-docker

@@ -1,6 +1,5 @@
 date,repository,clones,views
 2025-01-26,alchemy-machine,1,0
-2025-01-14,analytics-google,1,4
 2025-01-15,analytics-google,3,0
 2025-01-16,analytics-google,1,0
 2025-01-17,analytics-google,1,0
@@ -14,14 +13,17 @@ date,repository,clones,views
 2025-01-25,analytics-google,2,0
 2025-01-26,analytics-google,3,0
 2025-01-27,analytics-google,2,0
+2025-01-28,analytics-google,1,0
 2025-01-25,cristianpb,1,0
 2025-01-15,dataiku-dss-docker,1,0
+2025-01-28,datalab.mi,1,0
 2025-01-21,deces-dataprep,1,0
 2025-01-20,dotfiles,0,1
 2025-01-21,dotfiles,0,1
 2025-01-22,dotfiles,0,4
 2025-01-23,dotfiles,0,2
 2025-01-24,dotfiles,0,3
+2025-01-28,hubot-ratp,1,0
 2025-01-24,hubot-velib,1,0
 2025-01-23,mask-detection,1,0
 2025-01-21,muse,1,2
@@ -35,6 +37,7 @@ date,repository,clones,views
 2025-01-25,muse,0,2
 2025-01-26,muse,0,2
 2025-01-27,muse,0,1
+2025-01-28,muse,0,11
 2025-01-18,music-s3,1,0
 2025-01-22,nerf,1,0
 2025-01-15,ngTwitterApp,1,0
@@ -46,6 +49,7 @@ date,repository,clones,views
 2025-01-22,object-detection,0,5
 2025-01-23,object-detection,0,2
 2025-01-25,object-detection,0,3
+2025-01-28,object-detection,0,2
 2025-01-20,object-detection-frontend,1,0
 2025-01-27,object-detection-frontend,2,0
 2025-01-18,object-detection-frontend,0,1
@@ -59,7 +63,6 @@ date,repository,clones,views
 2025-01-27,playlists,0,13
 2025-01-20,PresentationTechnique,1,0
 2025-01-23,rhasspy-handler,0,1
-2025-01-15,stats,2,0
 2025-01-16,stats,2,0
 2025-01-17,stats,2,0
 2025-01-18,stats,3,0
@@ -72,7 +75,8 @@ date,repository,clones,views
 2025-01-25,stats,2,0
 2025-01-26,stats,3,0
 2025-01-27,stats,4,0
-2025-01-14,telegraf-influxdb-grafana-docker,1,0
+2025-01-28,stats,3,0
 2025-01-21,telegraf-influxdb-grafana-docker,0,2
 2025-01-24,telegraf-influxdb-grafana-docker,0,1
+2025-01-28,telegraf-influxdb-grafana-docker,0,1
 2025-01-20,temp-sigfox,1,0
