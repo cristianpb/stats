@@ -18,26 +18,26 @@ path,title,count,uniques,repository
 /cristianpb/muse/blob/master/mopidy_muse/ext.conf,muse/mopidy_muse/ext.conf at master · cristianpb/muse · GitHub,2,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/mopidy.conf,muse/mopidy_muse/mopidy.conf at master · cristianpb/muse · GitHub,2,1,muse
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",8,7,object-detection
-/cristianpb/object-detection/blob/master/backend/motion.py,object-detection/backend/motion.py at master · cristianpb/object-detection · ...,4,2,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,3,2,object-detection
 /cristianpb/object-detection/blob/master/backend/camera.py,object-detection/backend/camera.py at master · cristianpb/object-detection · ...,3,1,object-detection
+/cristianpb/object-detection/blob/master/backend/motion.py,object-detection/backend/motion.py at master · cristianpb/object-detection · ...,3,1,object-detection
 /cristianpb/object-detection/blob/master/setup.py,object-detection/setup.py at master · cristianpb/object-detection · GitHub,3,1,object-detection
 /cristianpb/object-detection/blob/master/backend/app.py,object-detection/backend/app.py at master · cristianpb/object-detection · Git...,2,1,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_trt_detection.py,object-detection/backend/ssd_trt_detection.py at master · cristianpb/object-d...,2,1,object-detection
 /cristianpb/object-detection/blob/master/backend/utils.py,object-detection/backend/utils.py at master · cristianpb/object-detection · G...,2,1,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,2,1,object-detection
 /cristianpb/object-detection/blob/master/backend/base_camera.py,object-detection/backend/base_camera.py at master · cristianpb/object-detecti...,1,1,object-detection
-/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,2,2,object-detection-frontend
-/cristianpb/playlists,GitHub - cristianpb/playlists,7,3,playlists
+/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,1,1,object-detection-frontend
+/cristianpb/playlists,GitHub - cristianpb/playlists,6,3,playlists
 /cristianpb/playlists/actions,Workflow runs · cristianpb/playlists,6,2,playlists
 /cristianpb/playlists/tree/master/docs,playlists/docs at master · cristianpb/playlists · GitHub,4,1,playlists
 /cristianpb/playlists/actions/runs/12857337453,🎨 Use svelte and observable plots · cristianpb/playlists@663285b · GitHub,2,2,playlists
 /cristianpb/playlists/actions/runs/12857337453/job/35845076370,🎨 Use svelte and observable plots · cristianpb/playlists@663285b · GitHub,2,2,playlists
-/cristianpb/playlists/blob/master/docs/data/bestArtists.csv.py,playlists/docs/data/bestArtists.csv.py at master · cristianpb/playlists · Git...,2,2,playlists
-/cristianpb/playlists/tree/master/docs/components,playlists/docs/components at master · cristianpb/playlists · GitHub,2,2,playlists
 /cristianpb/playlists/blob/master/docs/index.md,playlists/docs/index.md at master · cristianpb/playlists · GitHub,2,1,playlists
 /cristianpb/playlists/actions/runs/12857386486,🎨 Use svelte and observable plots · cristianpb/playlists@f2b7458,1,1,playlists
 /cristianpb/playlists/actions/runs/12857386486/job/35845166822,🎨 Use svelte and observable plots · cristianpb/playlists@f2b7458,1,1,playlists
+/cristianpb/playlists/actions/runs/12857414282,🎨 Use svelte and observable plots · cristianpb/playlists@07232ec,1,1,playlists
+/cristianpb/playlists/actions/runs/12857414282/job/35845228854,🎨 Use svelte and observable plots · cristianpb/playlists@07232ec,1,1,playlists
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",1,1,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",3,3,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,1,1,telegraf-influxdb-grafana-docker
