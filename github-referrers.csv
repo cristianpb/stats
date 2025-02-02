@@ -3,13 +3,12 @@ Google,1,1,analytics-google
 Google,6,2,dotfiles
 github.com,3,1,dotfiles
 dotfiles.github.io,2,2,dotfiles
-mopidy.com,11,9,muse
-pypi.org,10,1,muse
+mopidy.com,12,10,muse
+pypi.org,11,2,muse
 cristianpb.github.io,3,1,muse
 cristianpb.github.io,29,3,object-detection
 Google,4,3,object-detection
 github.com,1,1,object-detection
 Google,1,1,object-detection-frontend
-github.com,5,1,playlists
 Google,1,1,rhasspy-handler
 Google,3,3,telegraf-influxdb-grafana-docker
