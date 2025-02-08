@@ -1,9 +1,10 @@
 path,title,count,uniques,repository
 /cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,2,2,analytics-google
-/cristianpb/dotfiles,cristianpb/dotfiles: My dotfiles,4,3,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,5,4,dotfiles
 /cristianpb/dotfiles/blob/master/README.md,dotfiles/README.md at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/git/.gitconfig,dotfiles/git/.gitconfig at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/new_mail.sh,dotfiles/new_mail.sh at master · cristianpb/dotfiles,1,1,dotfiles
+/cristianpb/dotfiles/tree/master/bash,dotfiles/bash at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,16,15,muse
 /cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse · GitHub,2,2,muse
 /cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse · GitHub,2,1,muse
@@ -14,7 +15,7 @@ path,title,count,uniques,repository
 /cristianpb/muse/pulls,Pull requests · cristianpb/muse,1,1,muse
 /cristianpb/muse/releases,Releases · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/tree/master,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,1,1,muse
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",6,5,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",5,4,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,4,2,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,3,2,object-detection
 /cristianpb/object-detection/blob/master/backend/motion.py,object-detection/backend/motion.py at master · cristianpb/object-detection · ...,3,1,object-detection
@@ -34,9 +35,10 @@ path,title,count,uniques,repository
 /cristianpb/playlists/tree/master/docs/data,playlists/docs/data at master · cristianpb/playlists · GitHub,1,1,playlists
 /cristianpb/playlists/tree/master/src,playlists/src at master · cristianpb/playlists · GitHub,1,1,playlists
 /cristianpb/playlists/tree/master/src/routes,playlists/src/routes at master · cristianpb/playlists · GitHub,1,1,playlists
+/cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",1,1,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker,"cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and grafana m...",1,1,telegraf-influxdb-grafana-docker
-/cristianpb/vimwiki,cristianpb/vimwiki at jekyll-themes.com,1,1,vimwiki
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",2,2,telegraf-influxdb-grafana-docker
+/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,2,2,vimwiki
 /cristianpb/vimwiki/blob/master/content/ESP32.md,vimwiki/content/ESP32.md at master · cristianpb/vimwiki,1,1,vimwiki
 /cristianpb/vimwiki/blob/master/content/remote.it,vimwiki/content/remote.it at master · cristianpb/vimwiki,1,1,vimwiki
 /cristianpb/vimwiki/blob/master/content/samba.md,vimwiki/content/samba.md at master · cristianpb/vimwiki,1,1,vimwiki
