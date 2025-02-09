@@ -2,7 +2,7 @@ referrer,count,uniques,repository
 Google,1,1,analytics-google
 dotfiles.github.io,6,2,dotfiles
 pypi.org,11,2,muse
-mopidy.com,5,5,muse
+mopidy.com,4,4,muse
 search.nixos.org,2,1,muse
 cristianpb.github.io,1,1,muse
 cristianpb.github.io,27,3,object-detection
@@ -11,3 +11,4 @@ github.com,1,1,object-detection
 Google,1,1,object-detection-frontend
 Google,1,1,rhasspy-handler
 Google,2,2,telegraf-influxdb-grafana-docker
+search.brave.com,1,1,telegraf-influxdb-grafana-docker
