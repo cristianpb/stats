@@ -1,8 +1,8 @@
 referrer,count,uniques,repository
-Google,1,1,analytics-google
+Google,2,2,analytics-google
 dotfiles.github.io,6,2,dotfiles
 pypi.org,11,2,muse
-mopidy.com,4,4,muse
+mopidy.com,3,3,muse
 search.nixos.org,2,1,muse
 cristianpb.github.io,1,1,muse
 cristianpb.github.io,27,3,object-detection
