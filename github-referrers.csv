@@ -7,13 +7,13 @@ dotfiles.github.io,6,2,dotfiles
 mopidy.com,9,4,muse
 search.brave.com,9,1,muse
 pypi.org,5,1,muse
+cristianpb.github.io,3,2,muse
+Google,3,2,muse
 search.nixos.org,2,1,muse
-Google,2,1,muse
-cristianpb.github.io,1,1,muse
 cristianpb.github.io,6,2,object-detection
 Google,2,2,object-detection
-github.com,1,1,object-detection
+github.com,2,1,object-detection
 qwant.com,1,1,object-detection
 Google,1,1,rhasspy-handler
-Google,1,1,telegraf-influxdb-grafana-docker
+Google,2,2,telegraf-influxdb-grafana-docker
 search.brave.com,1,1,telegraf-influxdb-grafana-docker
