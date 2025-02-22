@@ -1,6 +1,5 @@
 referrer,count,uniques,repository
 github.com,10,3,analytics-google
-Google,1,1,analytics-google
 Google,20,3,dotfiles
 github.com,7,1,dotfiles
 search.brave.com,19,1,muse
