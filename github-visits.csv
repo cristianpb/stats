@@ -1,6 +1,5 @@
 date,repository,clones,views
 2025-02-14,alchemy-machine,1,0
-2025-02-10,analytics-google,2,0
 2025-02-11,analytics-google,2,0
 2025-02-12,analytics-google,4,0
 2025-02-13,analytics-google,2,14
@@ -14,22 +13,22 @@ date,repository,clones,views
 2025-02-21,analytics-google,2,1
 2025-02-22,analytics-google,4,0
 2025-02-23,analytics-google,2,0
+2025-02-24,analytics-google,2,0
 2025-02-22,cristianpb,1,0
-2025-02-10,cristianpb.github.io,2,0
 2025-02-13,cristianpb.github.io,1,0
 2025-02-15,cristianpb.github.io,10,0
 2025-02-16,dataiku-dss-docker,1,0
-2025-02-10,deces-backend,1,0
 2025-02-13,deces-backend,1,0
 2025-02-23,deces-dataprep,1,0
-2025-02-10,dotfiles,1,1
 2025-02-11,dotfiles,1,17
 2025-02-13,dotfiles,1,11
 2025-02-17,dotfiles,1,1
 2025-02-12,dotfiles,0,1
 2025-02-18,dotfiles,0,4
 2025-02-19,dotfiles,0,2
+2025-02-24,dotfiles,0,1
 2025-02-14,enkontext,1,0
+2025-02-24,enkontext,1,0
 2025-02-13,goaccess,1,0
 2025-02-23,goaccess,1,0
 2025-02-14,gswsr,1,0
@@ -40,12 +39,12 @@ date,repository,clones,views
 2025-02-17,judilibre-stats,1,0
 2025-02-14,mask-detection,1,0
 2025-02-16,mask-detection,1,0
-2025-02-10,matchid-backend,1,0
 2025-02-12,matchid-backend,1,0
 2025-02-19,matchid-backend,1,0
 2025-02-20,matchid-backend,1,0
 2025-02-17,mopidy.js,1,0
 2025-02-20,muse,1,0
+2025-02-24,muse,1,0
 2025-02-12,muse,0,11
 2025-02-13,muse,0,27
 2025-02-14,muse,0,7
@@ -65,6 +64,7 @@ date,repository,clones,views
 2025-02-18,object-detection,1,0
 2025-02-20,object-detection,1,0
 2025-02-21,object-detection,1,0
+2025-02-24,object-detection,1,3
 2025-02-11,object-detection,0,1
 2025-02-12,object-detection,0,1
 2025-02-13,object-detection,0,3
@@ -87,7 +87,6 @@ date,repository,clones,views
 2025-02-16,rhasspy-handler,0,1
 2025-02-17,rhasspy-handler,0,3
 2025-02-12,simple-streaming-gateway,1,0
-2025-02-11,stats,6,0
 2025-02-12,stats,3,0
 2025-02-13,stats,5,0
 2025-02-14,stats,3,0
@@ -100,6 +99,7 @@ date,repository,clones,views
 2025-02-21,stats,3,0
 2025-02-22,stats,5,0
 2025-02-23,stats,4,0
+2025-02-24,stats,5,0
 2025-02-12,telegraf-influxdb-grafana-docker,1,0
 2025-02-23,telegraf-influxdb-grafana-docker,2,2
 2025-02-14,telegraf-influxdb-grafana-docker,0,1
@@ -113,3 +113,4 @@ date,repository,clones,views
 2025-02-15,velo.club,1,0
 2025-02-23,velo.club,1,0
 2025-02-17,vimwiki,2,0
+2025-02-24,vimwiki,1,0
