@@ -16,18 +16,18 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/bash,dotfiles/bash at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/R,dotfiles/R at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,38,19,muse
-/cristianpb/muse/blob/master/mopidy_muse/mopidy.conf,muse/mopidy_muse/mopidy.conf at master · cristianpb/muse,5,1,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,32,18,muse
 /cristianpb/muse/releases,Releases · cristianpb/muse · GitHub,4,3,muse
 /cristianpb/muse/issues/37,Option to search for artists · Issue #37 · cristianpb/muse,4,1,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,3,2,muse
-/cristianpb/muse/blob/master/mopidy_muse/ext.conf,muse/mopidy_muse/ext.conf at master · cristianpb/muse,3,1,muse
-/cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse,3,1,muse
+/cristianpb/muse/blob/master/mopidy_muse/mopidy.conf,muse/mopidy_muse/mopidy.conf at master · cristianpb/muse,3,1,muse
+/cristianpb/muse/blob/master/mopidy_muse/ext.conf,muse/mopidy_muse/ext.conf at master · cristianpb/muse,2,1,muse
 /cristianpb/muse/pulls,Pull requests · cristianpb/muse,2,1,muse
 /cristianpb/muse/releases/tag/v0.0.41,Release Release v0.0.41 · cristianpb/muse,2,1,muse
 /cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse,2,1,muse
+/cristianpb/muse/tree/master/src/lib,muse/src/lib at master · cristianpb/muse,2,1,muse
 /cristianpb/ngTwitterApp/blob/8502be9ccfa45640ab30bfd78600c028ad32f015/server/src/tweet-server.ts,ngTwitterApp/server/src/tweet-server.ts at 8502be9ccfa45640ab30bfd78600c028ad...,1,1,ngTwitterApp
-/cristianpb/object-detection,"cristianpb/object-detection: Object detection on Jetson Nano, Raspberry Pi an...",5,4,object-detection
+/cristianpb/object-detection,"cristianpb/object-detection: Object detection on Jetson Nano, Raspberry Pi an...",7,4,object-detection
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",3,2,rhasspy-handler
 /cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,1,1,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",7,6,telegraf-influxdb-grafana-docker
