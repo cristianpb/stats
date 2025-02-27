@@ -1,33 +1,22 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,5,5,analytics-google
-/cristianpb/analytics-google/tree/master/.github/workflows,analytics-google/.github/workflows at master · cristianpb/analytics-google,5,1,analytics-google
-/cristianpb/analytics-google/blob/master/.github/workflows/build.yml,analytics-google/.github/workflows/build.yml at master · cristianpb/analytics...,2,1,analytics-google
-/cristianpb/analytics-google/blob/master/.github/workflows/data.yml,analytics-google/.github/workflows/data.yml at master · cristianpb/analytics-...,2,1,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,2,2,analytics-google
 /cristianpb/analytics-google/blob/master/analytics.py,analytics-google/analytics.py at master · cristianpb/analytics-google · GitHub,1,1,analytics-google
-/cristianpb/analytics-google/tree/master,cristianpb/analytics-google: Google analytics from cristianpb.github.io,1,1,analytics-google
-/cristianpb/analytics-google/tree/master/.github,analytics-google/.github at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,5,4,dotfiles
-/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,3,2,dotfiles
-/cristianpb/dotfiles/blob/master/bash/.bash_profile,dotfiles/bash/.bash_profile at master · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/dotfiles/tree/master/i3/.config/i3,dotfiles/i3/.config/i3 at master · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/dotfiles/blob/master/bash/.bashrc,dotfiles/bash/.bashrc at master · cristianpb/dotfiles,1,1,dotfiles
-/cristianpb/dotfiles/blob/master/i3/.config/i3/config,dotfiles/i3/.config/i3/config at master · cristianpb/dotfiles,1,1,dotfiles
+/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands.py,dotfiles/ranger/.config/ranger/commands.py at master · cristianpb/dotfiles · ...,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
-/cristianpb/dotfiles/tree/master/bash,dotfiles/bash at master · cristianpb/dotfiles,1,1,dotfiles
-/cristianpb/dotfiles/tree/master/R,dotfiles/R at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,32,18,muse
-/cristianpb/muse/releases,Releases · cristianpb/muse · GitHub,4,3,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,23,15,muse
 /cristianpb/muse/issues/37,Option to search for artists · Issue #37 · cristianpb/muse,4,1,muse
-/cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,3,2,muse
-/cristianpb/muse/blob/master/mopidy_muse/mopidy.conf,muse/mopidy_muse/mopidy.conf at master · cristianpb/muse,3,1,muse
-/cristianpb/muse/blob/master/mopidy_muse/ext.conf,muse/mopidy_muse/ext.conf at master · cristianpb/muse,2,1,muse
+/cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,2,2,muse
+/cristianpb/muse/releases,Releases · cristianpb/muse · GitHub,2,2,muse
 /cristianpb/muse/pulls,Pull requests · cristianpb/muse,2,1,muse
-/cristianpb/muse/releases/tag/v0.0.41,Release Release v0.0.41 · cristianpb/muse,2,1,muse
-/cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse,2,1,muse
-/cristianpb/muse/tree/master/src/lib,muse/src/lib at master · cristianpb/muse,2,1,muse
+/cristianpb/muse/actions,Workflow runs · cristianpb/muse,1,1,muse
+/cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/blob/master/README.md,muse/README.md at master · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/blob/master/src/global.css,muse/src/global.css at master · cristianpb/muse,1,1,muse
+/cristianpb/muse/commit/81b0af89209b9584f460946c3a7b625c9dd10102,🎨 Install conditionally snapweb · cristianpb/muse@81b0af8,1,1,muse
 /cristianpb/ngTwitterApp/blob/8502be9ccfa45640ab30bfd78600c028ad32f015/server/src/tweet-server.ts,ngTwitterApp/server/src/tweet-server.ts at 8502be9ccfa45640ab30bfd78600c028ad...,1,1,ngTwitterApp
-/cristianpb/object-detection,"cristianpb/object-detection: Object detection on Jetson Nano, Raspberry Pi an...",7,4,object-detection
+/cristianpb/object-detection,"cristianpb/object-detection: Object detection on Jetson Nano, Raspberry Pi an...",4,2,object-detection
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",3,2,rhasspy-handler
 /cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,1,1,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",7,6,telegraf-influxdb-grafana-docker
