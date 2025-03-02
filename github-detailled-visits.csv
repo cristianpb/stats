@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,3,3,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,4,4,analytics-google
 /cristianpb/analytics-google/blob/master/analytics.py,analytics-google/analytics.py at master · cristianpb/analytics-google · GitHub,1,1,analytics-google
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,6,5,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,5,2,dotfiles
@@ -10,21 +10,23 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/tmux/.tmux.conf,dotfiles/tmux/.tmux.conf at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/ranger/.config/ranger/rifle.conf at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/tmux/.tmux.theme,dotfiles/tmux/.tmux.theme at master · cristianpb/dotfiles,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,28,13,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,24,10,muse
 /cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse · GitHub,5,1,muse
 /cristianpb/muse/issues/37,Option to search for artists · Issue #37 · cristianpb/muse,4,1,muse
-/cristianpb/muse/tree/master/src/routes,muse/src/routes at master · cristianpb/muse · GitHub,3,2,muse
-/cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,2,2,muse
-/cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse · GitHub,2,2,muse
-/cristianpb/muse/pulls,Pull requests · cristianpb/muse,2,1,muse
+/cristianpb/muse/tree/master/src/routes,muse/src/routes at master · cristianpb/muse · GitHub,2,1,muse
 /cristianpb/muse/tree/master/src/routes/search,muse/src/routes/search at master · cristianpb/muse · GitHub,2,1,muse
-/cristianpb/muse/actions,Workflow runs · cristianpb/muse,1,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/ext.conf,muse/mopidy_muse/ext.conf at master · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/blob/master/mopidy_muse/__init__.py,muse/mopidy_muse/__init__.py at master · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/blob/master/mopidy_muse/mopidy.conf,muse/mopidy_muse/mopidy.conf at master · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/blob/master/README.md,muse/README.md at master · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/blob/master/src/routes/search/%2Bpage.svelte,muse/src/routes/search/+page.svelte at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/ngTwitterApp/blob/8502be9ccfa45640ab30bfd78600c028ad32f015/server/src/tweet-server.ts,ngTwitterApp/server/src/tweet-server.ts at 8502be9ccfa45640ab30bfd78600c028ad...,1,1,ngTwitterApp
 /cristianpb/object-detection,"cristianpb/object-detection: Object detection on Jetson Nano, Raspberry Pi an...",4,2,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,1,1,object-detection
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,1,1,object-detection
+/cristianpb/object-detection/tree/master,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",1,1,object-detection
 /cristianpb/object-detection-frontend,cristianpb/object-detection-frontend: Frontend Angular application for object...,1,1,object-detection-frontend
-/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",3,2,rhasspy-handler
+/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",2,1,rhasspy-handler
 /cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,1,1,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",5,5,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/DashboardTelegraf.json,telegraf-influxdb-grafana-docker/docker/grafana/DashboardTelegraf.json at mas...,1,1,telegraf-influxdb-grafana-docker
