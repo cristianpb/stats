@@ -13,7 +13,5 @@ Google,2,1,object-detection
 cristianpb.github.io,1,1,object-detection
 chatgpt.com,1,1,object-detection
 Google,1,1,object-detection-frontend
-Google,2,1,rhasspy-handler
-Google,6,3,telegraf-influxdb-grafana-docker
-cristianpb.github.io,1,1,telegraf-influxdb-grafana-docker
+Google,3,3,telegraf-influxdb-grafana-docker
 hackster.io,3,1,temp-sigfox
