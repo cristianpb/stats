@@ -1,7 +1,6 @@
 date,repository,clones,views
 2025-03-02,alchemy-machine,2,0
 2025-03-06,alchemy-machine,2,0
-2025-02-25,analytics-google,3,0
 2025-02-26,analytics-google,4,1
 2025-02-27,analytics-google,5,0
 2025-02-28,analytics-google,3,1
@@ -15,6 +14,7 @@ date,repository,clones,views
 2025-03-08,analytics-google,6,0
 2025-03-09,analytics-google,4,0
 2025-03-10,analytics-google,4,0
+2025-03-11,analytics-google,3,0
 2025-03-07,aws-lambda-cv,1,0
 2025-03-01,cristianpb,1,0
 2025-03-02,cristianpb,1,0
@@ -34,10 +34,8 @@ date,repository,clones,views
 2025-03-09,deces-backend,2,0
 2025-03-03,deces-dataprep,1,0
 2025-03-05,deces-dataprep,1,0
-2025-02-25,deces-ui,1,0
 2025-03-02,deces-ui,1,0
 2025-03-07,deces-ui,1,0
-2025-02-25,dotfiles,1,1
 2025-03-02,dotfiles,1,0
 2025-03-03,dotfiles,2,2
 2025-03-05,dotfiles,1,0
@@ -75,6 +73,7 @@ date,repository,clones,views
 2025-03-05,muse,2,1
 2025-03-07,muse,1,1
 2025-03-08,muse,1,0
+2025-03-11,muse,3,0
 2025-02-27,muse,0,18
 2025-03-06,music-s3,1,0
 2025-03-07,music-s3,1,0
@@ -85,13 +84,13 @@ date,repository,clones,views
 2025-03-08,mybottender,1,0
 2025-03-01,myhubot,1,0
 2025-03-05,myhubot,1,0
-2025-02-25,nerf,1,0
 2025-03-06,nerf,1,0
 2025-02-26,newsapp,1,0
 2025-02-28,newsapp,1,0
 2025-03-06,newsapp,1,0
 2025-02-28,ngTwitterApp,1,0
 2025-03-07,ngTwitterApp,1,0
+2025-03-11,ngTwitterApp,1,0
 2025-02-27,object-detection,1,2
 2025-03-01,object-detection,4,0
 2025-03-02,object-detection,1,0
@@ -102,10 +101,9 @@ date,repository,clones,views
 2025-03-05,object-detection,0,1
 2025-03-07,object-detection,0,1
 2025-03-09,object-detection,0,1
+2025-03-11,object-detection,0,1
 2025-03-04,object-detection-frontend,2,0
 2025-03-06,object-detection-frontend,1,0
-2025-02-26,object-detection-frontend,0,1
-2025-02-25,piac-bot,1,0
 2025-03-02,piac-bot,1,0
 2025-03-06,piac-bot,1,0
 2025-02-26,playlists,1,0
@@ -113,7 +111,6 @@ date,repository,clones,views
 2025-03-04,playlists,2,0
 2025-03-07,playlists,8,0
 2025-03-10,playlists,1,0
-2025-02-25,PresentationTechnique,1,0
 2025-03-03,PresentationTechnique,1,0
 2025-03-04,PresentationTechnique,1,0
 2025-03-06,PresentationTechnique,1,0
@@ -122,13 +119,12 @@ date,repository,clones,views
 2025-03-08,qrcode-reader,1,0
 2025-03-02,recettes,1,0
 2025-03-10,recettes,1,0
-2025-02-25,rhasspy-handler,1,0
 2025-03-04,rhasspy-handler,1,0
 2025-03-07,rhasspy-handler,1,1
 2025-03-09,rhasspy-handler,1,0
+2025-03-11,rhasspy-handler,1,0
 2025-03-09,simple-streaming-gateway,1,0
-2025-02-25,stats,1,0
-2025-02-26,stats,8,0
+2025-02-26,stats,2,0
 2025-02-27,stats,5,0
 2025-02-28,stats,5,0
 2025-03-01,stats,6,0
@@ -141,6 +137,7 @@ date,repository,clones,views
 2025-03-08,stats,4,0
 2025-03-09,stats,3,0
 2025-03-10,stats,3,0
+2025-03-11,stats,3,0
 2025-03-02,telegraf-influxdb-grafana-docker,1,1
 2025-03-05,telegraf-influxdb-grafana-docker,1,0
 2025-03-10,telegraf-influxdb-grafana-docker,1,1
@@ -148,6 +145,7 @@ date,repository,clones,views
 2025-03-03,telegraf-influxdb-grafana-docker,0,5
 2025-03-06,telegraf-influxdb-grafana-docker,0,1
 2025-03-09,telegraf-influxdb-grafana-docker,0,1
+2025-03-11,telegraf-influxdb-grafana-docker,0,2
 2025-03-09,temp-sigfox,1,0
 2025-03-01,tkasme,3,0
 2025-03-02,tkasme,2,0
