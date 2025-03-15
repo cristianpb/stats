@@ -1,11 +1,11 @@
 path,title,count,uniques,repository
 /cristianpb/analytics-google,cristianpb/analytics-google: Google analytics from cristianpb.github.io,1,1,analytics-google
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,2,2,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,3,3,dotfiles
+/cristianpb/dotfiles/blob/master/tmux/.tmux.theme,dotfiles/tmux/.tmux.theme at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/new_mail.sh,dotfiles/new_mail.sh at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/systemd/.config/systemd/user/checkmail.service,dotfiles/systemd/.config/systemd/user/checkmail.service at master · cristianp...,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/systemd/.config/systemd/user/checkmail.timer,dotfiles/systemd/.config/systemd/user/checkmail.timer at master · cristianpb/...,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/systemd/.config/systemd/user/grafana.service,dotfiles/systemd/.config/systemd/user/grafana.service at master · cristianpb/...,1,1,dotfiles
-/cristianpb/dotfiles/blob/master/tmux/.tmux.theme,dotfiles/tmux/.tmux.theme at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim/.vimrc at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/bash,dotfiles/bash at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/systemd,dotfiles/systemd at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
@@ -13,8 +13,8 @@ path,title,count,uniques,repository
 /cristianpb/hubot-ratp,GitHub - cristianpb/hubot-ratp: A hubot script to obtain Paris transport time...,1,1,hubot-ratp
 /cristianpb/hubot-ratp/blob/master/src/ratp.coffee,hubot-ratp/src/ratp.coffee at master · cristianpb/hubot-ratp · GitHub,1,1,hubot-ratp
 /cristianpb/hubot-ratp/tree/master/src,hubot-ratp/src at master · cristianpb/hubot-ratp · GitHub,1,1,hubot-ratp
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,7,6,muse
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",3,3,object-detection
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,5,5,muse
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",4,4,object-detection
 /cristianpb/object-detection/blob/c2abea4ba28d37e2bc9b60416f5b9accdbc2b543/backend/utils.py,object-detection/backend/utils.py at c2abea4ba28d37e2bc9b60416f5b9accdbc2b543...,1,1,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,1,1,object-detection
 /cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,2,2,rhasspy-handler
@@ -24,4 +24,4 @@ path,title,count,uniques,repository
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,telegraf-influxdb-grafana-docker/docker-compose-gpu.yml at master · cristianp...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/README.md,telegraf-influxdb-grafana-docker/README.md at master · cristianpb/telegraf-in...,1,1,telegraf-influxdb-grafana-docker
-/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,1,1,vimwiki
+/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,2,2,vimwiki
