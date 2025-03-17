@@ -1,8 +1,8 @@
 path,title,count,uniques,repository
 /cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,2,2,analytics-google
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,3,3,dotfiles
 /cristianpb/dotfiles/blob/master/README.md,dotfiles/README.md at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/tmux/.tmux.theme,dotfiles/tmux/.tmux.theme at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
+/cristianpb/dotfiles,cristianpb/dotfiles: My dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/new_mail.sh,dotfiles/new_mail.sh at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/systemd/.config/systemd/user/checkmail.service,dotfiles/systemd/.config/systemd/user/checkmail.service at master · cristianp...,1,1,dotfiles
@@ -13,7 +13,7 @@ path,title,count,uniques,repository
 /cristianpb/hubot-ratp,GitHub - cristianpb/hubot-ratp: A hubot script to obtain Paris transport time...,1,1,hubot-ratp
 /cristianpb/hubot-ratp/blob/master/src/ratp.coffee,hubot-ratp/src/ratp.coffee at master · cristianpb/hubot-ratp · GitHub,1,1,hubot-ratp
 /cristianpb/hubot-ratp/tree/master/src,hubot-ratp/src at master · cristianpb/hubot-ratp · GitHub,1,1,hubot-ratp
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,11,8,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,10,7,muse
 /cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse,3,1,muse
 /cristianpb/muse/tree/master,cristianpb/muse: Mopidy web client with Snapcast support,2,1,muse
 /cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse,2,1,muse
@@ -29,8 +29,5 @@ path,title,count,uniques,repository
 /cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,2,2,rhasspy-handler
 /cristianpb/rhasspy-handler/blob/master/src/index.ts,rhasspy-handler/src/index.ts at master · cristianpb/rhasspy-handler,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/tree/master/src,rhasspy-handler/src at master · cristianpb/rhasspy-handler,1,1,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",10,10,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,telegraf-influxdb-grafana-docker/docker-compose-gpu.yml at master · cristianp...,1,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,1,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/README.md,telegraf-influxdb-grafana-docker/README.md at master · cristianpb/telegraf-in...,1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",8,8,telegraf-influxdb-grafana-docker
 /cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,2,2,vimwiki
