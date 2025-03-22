@@ -2,8 +2,8 @@ referrer,count,uniques,repository
 cristianpb.github.io,3,1,analytics-google
 Google,2,2,analytics-google
 discourse.gohugo.io,12,2,dotfiles
+dotfiles.github.io,4,2,dotfiles
 Google,1,1,dotfiles
-dotfiles.github.io,1,1,dotfiles
 mopidy.com,43,7,muse
 Google,9,1,muse
 DuckDuckGo,1,1,muse
@@ -12,5 +12,5 @@ github.com,3,3,object-detection
 Google,1,1,object-detection
 chatgpt.com,1,1,object-detection
 cristianpb.github.io,3,1,rhasspy-handler
-Google,13,9,telegraf-influxdb-grafana-docker
+Google,15,10,telegraf-influxdb-grafana-docker
 cristianpb.github.io,2,2,vimwiki

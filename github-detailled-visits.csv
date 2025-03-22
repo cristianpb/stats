@@ -8,8 +8,9 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/blob/master/static/favicon.png,analytics-google/static/favicon.png at master · cristianpb/analytics-google ·...,1,1,analytics-google
 /cristianpb/analytics-google/tree/master/.github/workflows,analytics-google/.github/workflows at master · cristianpb/analytics-google · ...,1,1,analytics-google
 /cristianpb/analytics-google/tree/master/src/lib,analytics-google/src/lib at master · cristianpb/analytics-google,1,1,analytics-google
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,3,3,dotfiles
 /cristianpb/dotfiles/blob/master/tmux/.tmux.theme,dotfiles/tmux/.tmux.theme at master · cristianpb/dotfiles · GitHub,3,2,dotfiles
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,2,2,dotfiles
+/cristianpb/dotfiles/blob/master/.gitignore,dotfiles/.gitignore at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/README.md,dotfiles/README.md at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/new_mail.sh,dotfiles/new_mail.sh at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles,1,1,dotfiles
@@ -17,7 +18,6 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/systemd/.config/systemd/user/checkmail.timer,dotfiles/systemd/.config/systemd/user/checkmail.timer at master · cristianpb/...,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/systemd/.config/systemd/user/grafana.service,dotfiles/systemd/.config/systemd/user/grafana.service at master · cristianpb/...,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim/.vimrc at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
-/cristianpb/dotfiles/tree/master/bash,dotfiles/bash at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/hubot-ratp,GitHub - cristianpb/hubot-ratp: A hubot script to obtain Paris transport time...,1,1,hubot-ratp
 /cristianpb/hubot-ratp/blob/master/src/ratp.coffee,hubot-ratp/src/ratp.coffee at master · cristianpb/hubot-ratp · GitHub,1,1,hubot-ratp
 /cristianpb/hubot-ratp/tree/master/src,hubot-ratp/src at master · cristianpb/hubot-ratp · GitHub,1,1,hubot-ratp
@@ -31,7 +31,7 @@ path,title,count,uniques,repository
 /cristianpb/muse/pulls,Pull requests · cristianpb/muse · GitHub,2,2,muse
 /cristianpb/muse/tree/master,cristianpb/muse: Mopidy web client with Snapcast support,2,1,muse
 /cristianpb/muse/tree/master/src/lib,muse/src/lib at master · cristianpb/muse,2,1,muse
-/cristianpb/nerf/commits,Commits · cristianpb/nerf,2,1,nerf
+/cristianpb/nerf/commits,Commits · cristianpb/nerf,3,1,nerf
 /cristianpb/nerf/tree/master/src,nerf/src at master · cristianpb/nerf,2,1,nerf
 /cristianpb/nerf,cristianpb/nerf,1,1,nerf
 /cristianpb/nerf/commit/4e6d8f6e8ec1c539c118da3819580f1d29348225,🚧 Pull artifacts automatically every morning · cristianpb/nerf@4e6d8f6,1,1,nerf
@@ -41,11 +41,19 @@ path,title,count,uniques,repository
 /cristianpb/nerf/tree/master/src/routes/api/posts/count,nerf/src/routes/api/posts/count at master · cristianpb/nerf,1,1,nerf
 /cristianpb/nerf/tree/master/src/routes/api/posts.json,nerf/src/routes/api/posts.json at master · cristianpb/nerf,1,1,nerf
 /cristianpb/nerf/tree/master/src/routes/contact,nerf/src/routes/contact at master · cristianpb/nerf,1,1,nerf
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",5,5,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",6,6,object-detection
+/cristianpb/object-detection/blob/master/imgs/image_box.jpg,object-detection/imgs/image_box.jpg at master · cristianpb/object-detection,1,1,object-detection
+/cristianpb/object-detection/blob/master/tests/test_detection.py,object-detection/tests/test_detection.py at master · cristianpb/object-detect...,1,1,object-detection
+/cristianpb/object-detection/tree/master/imgs,object-detection/imgs at master · cristianpb/object-detection,1,1,object-detection
+/cristianpb/object-detection/tree/master/tests,object-detection/tests at master · cristianpb/object-detection,1,1,object-detection
+/cristianpb/playlists,GitHub - cristianpb/playlists,1,1,playlists
+/cristianpb/playlists/blob/data/data.csv,playlists/data.csv at data · cristianpb/playlists · GitHub,1,1,playlists
+/cristianpb/playlists/blob/master/download.py,playlists/download.py at master · cristianpb/playlists · GitHub,1,1,playlists
+/cristianpb/playlists/tree/master/src,playlists/src at master · cristianpb/playlists · GitHub,1,1,playlists
 /cristianpb/rhasspy-handler,cristianpb/rhasspy-handler: My voice assistant intent handler,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/blob/master/src/index.ts,rhasspy-handler/src/index.ts at master · cristianpb/rhasspy-handler,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/tree/master/src,rhasspy-handler/src at master · cristianpb/rhasspy-handler,1,1,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",9,9,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",11,10,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,1,1,telegraf-influxdb-grafana-docker
