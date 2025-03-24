@@ -1,27 +1,22 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,7,6,analytics-google
-/cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google · GitHub,2,2,analytics-google
-/cristianpb/analytics-google/tree/master/static,analytics-google/static at master · cristianpb/analytics-google · GitHub,2,1,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,9,8,analytics-google
+/cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google · GitHub,3,3,analytics-google
+/cristianpb/analytics-google/tree/master/static,analytics-google/static at master · cristianpb/analytics-google · GitHub,3,2,analytics-google
+/cristianpb/analytics-google/tree/master/src/lib,analytics-google/src/lib at master · cristianpb/analytics-google,2,2,analytics-google
 /cristianpb/analytics-google/blob/master/.github/workflows/build.yml,analytics-google/.github/workflows/build.yml at master · cristianpb/analytics...,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/.github/workflows/data.yml,analytics-google/.github/workflows/data.yml at master · cristianpb/analytics-...,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/Makefile,analytics-google/Makefile at master · cristianpb/analytics-google · GitHub,1,1,analytics-google
-/cristianpb/analytics-google/blob/master/static/favicon.png,analytics-google/static/favicon.png at master · cristianpb/analytics-google ·...,1,1,analytics-google
-/cristianpb/analytics-google/tree/master/.github/workflows,analytics-google/.github/workflows at master · cristianpb/analytics-google · ...,1,1,analytics-google
-/cristianpb/analytics-google/tree/master/src/lib,analytics-google/src/lib at master · cristianpb/analytics-google,1,1,analytics-google
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,7,5,dotfiles
-/cristianpb/dotfiles/blob/master/tmux/.tmux.theme,dotfiles/tmux/.tmux.theme at master · cristianpb/dotfiles · GitHub,3,2,dotfiles
+/cristianpb/analytics-google/blob/master/src/app.html,analytics-google/src/app.html at master · cristianpb/analytics-google,1,1,analytics-google
+/cristianpb/analytics-google/blob/master/src/app.postcss,analytics-google/src/app.postcss at master · cristianpb/analytics-google,1,1,analytics-google
+/cristianpb/analytics-google/blob/master/src/lib/tools/getData.js,analytics-google/src/lib/tools/getData.js at master · cristianpb/analytics-go...,1,1,analytics-google
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,8,6,dotfiles
+/cristianpb/dotfiles/blob/master/tmux/.tmux.theme,dotfiles/tmux/.tmux.theme at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/.gitignore,dotfiles/.gitignore at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/README.md,dotfiles/README.md at master · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/dotfiles/blob/master/new_mail.sh,dotfiles/new_mail.sh at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles,1,1,dotfiles
-/cristianpb/dotfiles/blob/master/systemd/.config/systemd/user/checkmail.service,dotfiles/systemd/.config/systemd/user/checkmail.service at master · cristianp...,1,1,dotfiles
-/cristianpb/dotfiles/blob/master/systemd/.config/systemd/user/checkmail.timer,dotfiles/systemd/.config/systemd/user/checkmail.timer at master · cristianpb/...,1,1,dotfiles
-/cristianpb/dotfiles/blob/master/systemd/.config/systemd/user/grafana.service,dotfiles/systemd/.config/systemd/user/grafana.service at master · cristianpb/...,1,1,dotfiles
-/cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim/.vimrc at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
-/cristianpb/hubot-ratp,GitHub - cristianpb/hubot-ratp: A hubot script to obtain Paris transport time...,1,1,hubot-ratp
-/cristianpb/hubot-ratp/blob/master/src/ratp.coffee,hubot-ratp/src/ratp.coffee at master · cristianpb/hubot-ratp · GitHub,1,1,hubot-ratp
-/cristianpb/hubot-ratp/tree/master/src,hubot-ratp/src at master · cristianpb/hubot-ratp · GitHub,1,1,hubot-ratp
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,23,11,muse
+/cristianpb/dotfiles/blob/master/wiki2html.sh,dotfiles/wiki2html.sh at master · cristianpb/dotfiles,1,1,dotfiles
+/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles,1,1,dotfiles
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,24,12,muse
 /cristianpb/muse/issues,Repo Issues · GitHub,6,3,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,6,2,muse
 /cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse · GitHub,3,2,muse
@@ -60,8 +55,8 @@ path,title,count,uniques,repository
 /cristianpb/rhasspy-handler/tree/master/src,rhasspy-handler/src at master · cristianpb/rhasspy-handler,1,1,rhasspy-handler
 /cristianpb/SubMusic,cristianpb/SubMusic: Sync music and podcasts to your Garmin watch from your o...,1,1,SubMusic
 /cristianpb/SubMusic/blob/master/manifest.xml,SubMusic/manifest.xml at master · cristianpb/SubMusic,1,1,SubMusic
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",12,11,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",11,10,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,1,1,telegraf-influxdb-grafana-docker
-/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,3,3,vimwiki
+/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,2,2,vimwiki
