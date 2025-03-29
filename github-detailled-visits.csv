@@ -19,16 +19,16 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/i3/.config/i3/rofi_powermenu.sh,dotfiles/i3/.config/i3/rofi_powermenu.sh at master · cristianpb/dotfiles · Gi...,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/watson_dmenu,dotfiles/watson_dmenu at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/dotfiles/tree/master/i3,dotfiles/i3 at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,28,13,muse
-/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,7,3,muse
-/cristianpb/muse/issues,Repo Issues · GitHub,6,3,muse
-/cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse · GitHub,3,2,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,22,10,muse
+/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,6,2,muse
+/cristianpb/muse/issues,Repo Issues · GitHub,5,2,muse
 /cristianpb/muse/blob/master/Makefile,muse/Makefile at master · cristianpb/muse · GitHub,3,1,muse
-/cristianpb/muse/tree/master/src,muse/src at master · cristianpb/muse,3,1,muse
-/cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse · GitHub,2,2,muse
-/cristianpb/muse/pulls,Pull requests · cristianpb/muse · GitHub,2,2,muse
-/cristianpb/muse/tree/master,cristianpb/muse: Mopidy web client with Snapcast support,2,1,muse
-/cristianpb/muse/tree/master/src/lib,muse/src/lib at master · cristianpb/muse,2,1,muse
+/cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/issues/17,Mopidy Server connection does not seem to work · Issue #17 · cristianpb/muse,1,1,muse
+/cristianpb/muse/issues/51,error connecting to mopidy · Issue #51 · cristianpb/muse,1,1,muse
+/cristianpb/muse/pulls,Pull requests · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/releases,Releases · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/nerf/commits,Commits · cristianpb/nerf,3,1,nerf
 /cristianpb/nerf/tree/master/src,nerf/src at master · cristianpb/nerf,2,1,nerf
 /cristianpb/nerf,cristianpb/nerf,1,1,nerf
@@ -39,23 +39,23 @@ path,title,count,uniques,repository
 /cristianpb/nerf/tree/master/src/routes/api/posts/count,nerf/src/routes/api/posts/count at master · cristianpb/nerf,1,1,nerf
 /cristianpb/nerf/tree/master/src/routes/api/posts.json,nerf/src/routes/api/posts.json at master · cristianpb/nerf,1,1,nerf
 /cristianpb/nerf/tree/master/src/routes/contact,nerf/src/routes/contact at master · cristianpb/nerf,1,1,nerf
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",5,4,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",6,5,object-detection
 /cristianpb/object-detection/blob/master/backend/app.py,object-detection/backend/app.py at master · cristianpb/object-detection,1,1,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,1,1,object-detection
 /cristianpb/object-detection/blob/master/imgs/image_box.jpg,object-detection/imgs/image_box.jpg at master · cristianpb/object-detection,1,1,object-detection
 /cristianpb/object-detection/blob/master/models/ssd_mobilenet/ssd_mobilenet_v2_coco_2018_03_29.pbtxt,object-detection/models/ssd_mobilenet/ssd_mobilenet_v2_coco_2018_03_29.pbtxt ...,1,1,object-detection
+/cristianpb/object-detection/blob/master/runtime.txt,object-detection/runtime.txt at master · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/object-detection/blob/master/tests/test_detection.py,object-detection/tests/test_detection.py at master · cristianpb/object-detect...,1,1,object-detection
+/cristianpb/object-detection/tree/master,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",1,1,object-detection
 /cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection,1,1,object-detection
 /cristianpb/object-detection/tree/master/imgs,object-detection/imgs at master · cristianpb/object-detection,1,1,object-detection
-/cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection,1,1,object-detection
-/cristianpb/object-detection/tree/master/models/ssd_mobilenet,object-detection/models/ssd_mobilenet at master · cristianpb/object-detection,1,1,object-detection
 /cristianpb/playlists,GitHub - cristianpb/playlists,1,1,playlists
 /cristianpb/playlists/blob/data/data.csv,playlists/data.csv at data · cristianpb/playlists · GitHub,1,1,playlists
 /cristianpb/playlists/blob/master/download.py,playlists/download.py at master · cristianpb/playlists · GitHub,1,1,playlists
 /cristianpb/playlists/tree/master/src,playlists/src at master · cristianpb/playlists · GitHub,1,1,playlists
 /cristianpb/SubMusic,cristianpb/SubMusic: Sync music and podcasts to your Garmin watch from your o...,1,1,SubMusic
 /cristianpb/SubMusic/blob/master/manifest.xml,SubMusic/manifest.xml at master · cristianpb/SubMusic,1,1,SubMusic
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",8,7,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",7,6,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,3,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,1,1,telegraf-influxdb-grafana-docker
