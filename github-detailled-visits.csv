@@ -1,14 +1,14 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,10,9,analytics-google
-/cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google · GitHub,3,3,analytics-google
-/cristianpb/analytics-google/tree/master/static,analytics-google/static at master · cristianpb/analytics-google · GitHub,3,2,analytics-google
-/cristianpb/analytics-google/tree/master/src/lib,analytics-google/src/lib at master · cristianpb/analytics-google,2,2,analytics-google
-/cristianpb/analytics-google/blob/master/.github/workflows/build.yml,analytics-google/.github/workflows/build.yml at master · cristianpb/analytics...,1,1,analytics-google
-/cristianpb/analytics-google/blob/master/.github/workflows/data.yml,analytics-google/.github/workflows/data.yml at master · cristianpb/analytics-...,1,1,analytics-google
-/cristianpb/analytics-google/blob/master/Makefile,analytics-google/Makefile at master · cristianpb/analytics-google · GitHub,1,1,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,6,6,analytics-google
 /cristianpb/analytics-google/blob/master/src/app.html,analytics-google/src/app.html at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/src/app.postcss,analytics-google/src/app.postcss at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/src/lib/tools/getData.js,analytics-google/src/lib/tools/getData.js at master · cristianpb/analytics-go...,1,1,analytics-google
+/cristianpb/analytics-google/blob/master/src/lib/tools/stores.js,analytics-google/src/lib/tools/stores.js at master · cristianpb/analytics-goo...,1,1,analytics-google
+/cristianpb/analytics-google/blob/master/src/lib/views/Github.svelte,analytics-google/src/lib/views/Github.svelte at master · cristianpb/analytics...,1,1,analytics-google
+/cristianpb/analytics-google/blob/master/src/routes/algolia/%2Bpage.svelte,analytics-google/src/routes/algolia/+page.svelte at master · cristianpb/analy...,1,1,analytics-google
+/cristianpb/analytics-google/blob/master/src/routes/github/%2Bpage.svelte,analytics-google/src/routes/github/+page.svelte at master · cristianpb/analyt...,1,1,analytics-google
+/cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google,1,1,analytics-google
+/cristianpb/analytics-google/tree/master/src/lib,analytics-google/src/lib at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,10,6,dotfiles
 /cristianpb/dotfiles/tree/master/i3/.config/i3,dotfiles/i3/.config/i3 at master · cristianpb/dotfiles · GitHub,5,1,dotfiles
 /cristianpb/dotfiles/tree/master,GitHub - cristianpb/dotfiles: My dotfiles,4,1,dotfiles
@@ -19,16 +19,12 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/i3/.config/i3/rofi_powermenu.sh,dotfiles/i3/.config/i3/rofi_powermenu.sh at master · cristianpb/dotfiles · Gi...,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/watson_dmenu,dotfiles/watson_dmenu at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/dotfiles/tree/master/i3,dotfiles/i3 at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,22,10,muse
-/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,6,2,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,19,10,muse
 /cristianpb/muse/issues,Repo Issues · GitHub,5,2,muse
-/cristianpb/muse/blob/master/Makefile,muse/Makefile at master · cristianpb/muse · GitHub,3,1,muse
-/cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/issues/17,Mopidy Server connection does not seem to work · Issue #17 · cristianpb/muse,1,1,muse
 /cristianpb/muse/issues/51,error connecting to mopidy · Issue #51 · cristianpb/muse,1,1,muse
 /cristianpb/muse/pulls,Pull requests · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/muse/releases,Releases · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/nerf/commits,Commits · cristianpb/nerf,3,1,nerf
 /cristianpb/nerf/tree/master/src,nerf/src at master · cristianpb/nerf,2,1,nerf
 /cristianpb/nerf,cristianpb/nerf,1,1,nerf
@@ -39,7 +35,7 @@ path,title,count,uniques,repository
 /cristianpb/nerf/tree/master/src/routes/api/posts/count,nerf/src/routes/api/posts/count at master · cristianpb/nerf,1,1,nerf
 /cristianpb/nerf/tree/master/src/routes/api/posts.json,nerf/src/routes/api/posts.json at master · cristianpb/nerf,1,1,nerf
 /cristianpb/nerf/tree/master/src/routes/contact,nerf/src/routes/contact at master · cristianpb/nerf,1,1,nerf
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",6,5,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",7,6,object-detection
 /cristianpb/object-detection/blob/master/backend/app.py,object-detection/backend/app.py at master · cristianpb/object-detection,1,1,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,1,1,object-detection
 /cristianpb/object-detection/blob/master/imgs/image_box.jpg,object-detection/imgs/image_box.jpg at master · cristianpb/object-detection,1,1,object-detection
@@ -53,10 +49,16 @@ path,title,count,uniques,repository
 /cristianpb/playlists/blob/data/data.csv,playlists/data.csv at data · cristianpb/playlists · GitHub,1,1,playlists
 /cristianpb/playlists/blob/master/download.py,playlists/download.py at master · cristianpb/playlists · GitHub,1,1,playlists
 /cristianpb/playlists/tree/master/src,playlists/src at master · cristianpb/playlists · GitHub,1,1,playlists
+/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",1,1,rhasspy-handler
 /cristianpb/SubMusic,cristianpb/SubMusic: Sync music and podcasts to your Garmin watch from your o...,1,1,SubMusic
 /cristianpb/SubMusic/blob/master/manifest.xml,SubMusic/manifest.xml at master · cristianpb/SubMusic,1,1,SubMusic
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",7,6,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",6,5,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,3,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,1,1,telegraf-influxdb-grafana-docker
+/cristianpb/temp-sigfox,cristianpb/temp-sigfox: Micropython code to send data from the ESP8266 using ...,1,1,temp-sigfox
+/cristianpb/temp-sigfox/blob/master/arduino/temp_onewire_sigfox.ino,temp-sigfox/arduino/temp_onewire_sigfox.ino at master · cristianpb/temp-sigfox,1,1,temp-sigfox
+/cristianpb/temp-sigfox/blob/master/micropython/boot.py,temp-sigfox/micropython/boot.py at master · cristianpb/temp-sigfox,1,1,temp-sigfox
+/cristianpb/temp-sigfox/tree/master/arduino,temp-sigfox/arduino at master · cristianpb/temp-sigfox,1,1,temp-sigfox
+/cristianpb/temp-sigfox/tree/master/micropython,temp-sigfox/micropython at master · cristianpb/temp-sigfox,1,1,temp-sigfox
 /cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,1,1,vimwiki
