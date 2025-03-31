@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,6,6,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,5,5,analytics-google
 /cristianpb/analytics-google/blob/master/src/app.html,analytics-google/src/app.html at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/src/app.postcss,analytics-google/src/app.postcss at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/src/lib/tools/getData.js,analytics-google/src/lib/tools/getData.js at master · cristianpb/analytics-go...,1,1,analytics-google
@@ -52,13 +52,11 @@ path,title,count,uniques,repository
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",1,1,rhasspy-handler
 /cristianpb/SubMusic,cristianpb/SubMusic: Sync music and podcasts to your Garmin watch from your o...,1,1,SubMusic
 /cristianpb/SubMusic/blob/master/manifest.xml,SubMusic/manifest.xml at master · cristianpb/SubMusic,1,1,SubMusic
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",6,5,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,3,2,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,1,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",5,4,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/temp-sigfox,cristianpb/temp-sigfox: Micropython code to send data from the ESP8266 using ...,1,1,temp-sigfox
 /cristianpb/temp-sigfox/blob/master/arduino/temp_onewire_sigfox.ino,temp-sigfox/arduino/temp_onewire_sigfox.ino at master · cristianpb/temp-sigfox,1,1,temp-sigfox
 /cristianpb/temp-sigfox/blob/master/micropython/boot.py,temp-sigfox/micropython/boot.py at master · cristianpb/temp-sigfox,1,1,temp-sigfox
 /cristianpb/temp-sigfox/tree/master/arduino,temp-sigfox/arduino at master · cristianpb/temp-sigfox,1,1,temp-sigfox
 /cristianpb/temp-sigfox/tree/master/micropython,temp-sigfox/micropython at master · cristianpb/temp-sigfox,1,1,temp-sigfox
-/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,1,1,vimwiki
+/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,2,2,vimwiki
