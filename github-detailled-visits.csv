@@ -1,15 +1,15 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,5,5,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,6,6,analytics-google
+/cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google,3,2,analytics-google
+/cristianpb/analytics-google/tree/master/src/lib,analytics-google/src/lib at master · cristianpb/analytics-google,3,2,analytics-google
+/cristianpb/analytics-google/blob/master/src/lib/tools/getData.js,analytics-google/src/lib/tools/getData.js at master · cristianpb/analytics-go...,2,2,analytics-google
+/cristianpb/analytics-google/tree/master/src/lib/tools,analytics-google/src/lib/tools at master · cristianpb/analytics-google,2,2,analytics-google
+/cristianpb/analytics-google/tree/master/src/routes,analytics-google/src/routes at master · cristianpb/analytics-google,2,2,analytics-google
 /cristianpb/analytics-google/blob/master/src/app.html,analytics-google/src/app.html at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/src/app.postcss,analytics-google/src/app.postcss at master · cristianpb/analytics-google,1,1,analytics-google
-/cristianpb/analytics-google/blob/master/src/lib/tools/getData.js,analytics-google/src/lib/tools/getData.js at master · cristianpb/analytics-go...,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/src/lib/tools/stores.js,analytics-google/src/lib/tools/stores.js at master · cristianpb/analytics-goo...,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/src/lib/views/Github.svelte,analytics-google/src/lib/views/Github.svelte at master · cristianpb/analytics...,1,1,analytics-google
-/cristianpb/analytics-google/blob/master/src/routes/algolia/%2Bpage.svelte,analytics-google/src/routes/algolia/+page.svelte at master · cristianpb/analy...,1,1,analytics-google
-/cristianpb/analytics-google/blob/master/src/routes/github/%2Bpage.svelte,analytics-google/src/routes/github/+page.svelte at master · cristianpb/analyt...,1,1,analytics-google
-/cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google,1,1,analytics-google
-/cristianpb/analytics-google/tree/master/src/lib,analytics-google/src/lib at master · cristianpb/analytics-google,1,1,analytics-google
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,10,6,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,9,5,dotfiles
 /cristianpb/dotfiles/tree/master/i3/.config/i3,dotfiles/i3/.config/i3 at master · cristianpb/dotfiles · GitHub,5,1,dotfiles
 /cristianpb/dotfiles/tree/master,GitHub - cristianpb/dotfiles: My dotfiles,4,1,dotfiles
 /cristianpb/dotfiles/blob/master/.gitignore,dotfiles/.gitignore at master · cristianpb/dotfiles,3,1,dotfiles
@@ -19,18 +19,9 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/i3/.config/i3/rofi_powermenu.sh,dotfiles/i3/.config/i3/rofi_powermenu.sh at master · cristianpb/dotfiles · Gi...,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/watson_dmenu,dotfiles/watson_dmenu at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
 /cristianpb/dotfiles/tree/master/i3,dotfiles/i3 at master · cristianpb/dotfiles · GitHub,2,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,11,9,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,10,9,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/nerf/commits,Commits · cristianpb/nerf,3,1,nerf
-/cristianpb/nerf/tree/master/src,nerf/src at master · cristianpb/nerf,2,1,nerf
-/cristianpb/nerf,cristianpb/nerf,1,1,nerf
-/cristianpb/nerf/commit/4e6d8f6e8ec1c539c118da3819580f1d29348225,🚧 Pull artifacts automatically every morning · cristianpb/nerf@4e6d8f6,1,1,nerf
-/cristianpb/nerf/tree/master/src/routes,nerf/src/routes at master · cristianpb/nerf,1,1,nerf
-/cristianpb/nerf/tree/master/src/routes/api,nerf/src/routes/api at master · cristianpb/nerf,1,1,nerf
-/cristianpb/nerf/tree/master/src/routes/api/posts,nerf/src/routes/api/posts at master · cristianpb/nerf,1,1,nerf
-/cristianpb/nerf/tree/master/src/routes/api/posts/count,nerf/src/routes/api/posts/count at master · cristianpb/nerf,1,1,nerf
-/cristianpb/nerf/tree/master/src/routes/api/posts.json,nerf/src/routes/api/posts.json at master · cristianpb/nerf,1,1,nerf
-/cristianpb/nerf/tree/master/src/routes/contact,nerf/src/routes/contact at master · cristianpb/nerf,1,1,nerf
+/cristianpb/nerf/commits,Commits · cristianpb/nerf,1,1,nerf
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",7,6,object-detection
 /cristianpb/object-detection/blob/master/backend/app.py,object-detection/backend/app.py at master · cristianpb/object-detection,1,1,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,1,1,object-detection
