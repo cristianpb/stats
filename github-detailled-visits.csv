@@ -1,11 +1,11 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,5,5,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,4,4,analytics-google
 /cristianpb/analytics-google/tree/master/src,analytics-google/src at master · cristianpb/analytics-google,2,1,analytics-google
 /cristianpb/analytics-google/tree/master/src/lib,analytics-google/src/lib at master · cristianpb/analytics-google,2,1,analytics-google
 /cristianpb/analytics-google/blob/master/src/lib/tools/getData.js,analytics-google/src/lib/tools/getData.js at master · cristianpb/analytics-go...,1,1,analytics-google
 /cristianpb/analytics-google/tree/master/src/lib/tools,analytics-google/src/lib/tools at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/analytics-google/tree/master/src/routes,analytics-google/src/routes at master · cristianpb/analytics-google,1,1,analytics-google
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,5,3,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,6,4,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,3,2,dotfiles
 /cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim/.vimrc at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/git/.gitconfig,dotfiles/git/.gitconfig at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
@@ -25,15 +25,17 @@ path,title,count,uniques,repository
 /cristianpb/muse/issues/28,"""undefined"" song titles in playlist · Issue #28 · cristianpb/muse",1,1,muse
 /cristianpb/muse/releases,Releases · cristianpb/muse,1,1,muse
 /cristianpb/muse/releases/tag/v0.0.41,Release Release v0.0.41 · cristianpb/muse,1,1,muse
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",3,3,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",2,2,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,1,1,object-detection
-/cristianpb/object-detection/blob/master/runtime.txt,object-detection/runtime.txt at master · cristianpb/object-detection · GitHub,1,1,object-detection
-/cristianpb/object-detection/tree/master,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",1,1,object-detection
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",2,2,rhasspy-handler
+/cristianpb/telegraf-influxdb-grafana-docker,"cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and grafana m...",2,2,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,2,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,telegraf-influxdb-grafana-docker/docker-compose-gpu.yml at master · cristianp...,2,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker,"cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and grafana m...",1,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf.conf,telegraf-influxdb-grafana-docker/docker/telegraf/telegraf.conf at master · cr...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master,"cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and grafana m...",1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/telegraf,telegraf-influxdb-grafana-docker/docker/telegraf at master · cristianpb/teleg...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/temp-sigfox,cristianpb/temp-sigfox: Micropython code to send data from the ESP8266 using ...,1,1,temp-sigfox
 /cristianpb/temp-sigfox/blob/master/arduino/temp_onewire_sigfox.ino,temp-sigfox/arduino/temp_onewire_sigfox.ino at master · cristianpb/temp-sigfox,1,1,temp-sigfox
 /cristianpb/temp-sigfox/blob/master/micropython/boot.py,temp-sigfox/micropython/boot.py at master · cristianpb/temp-sigfox,1,1,temp-sigfox
