@@ -4,7 +4,7 @@ github.com,1,1,analytics-google
 dotfiles.github.io,12,4,dotfiles
 discourse.gohugo.io,3,2,dotfiles
 Google,1,1,hubot-velib
-mopidy.com,21,4,muse
+mopidy.com,26,4,muse
 cristianpb.github.io,4,1,muse
 site1.bmoh.portae.org,3,1,muse
 github.com,2,2,muse
@@ -16,6 +16,7 @@ Google,11,1,object-detection-frontend
 Google,1,1,rhasspy-handler
 github.com,1,1,rhasspy-handler
 github.com,1,1,stats
+cristianpb.github.io,14,1,telegraf-influxdb-grafana-docker
 DuckDuckGo,6,1,telegraf-influxdb-grafana-docker
-Google,4,1,telegraf-influxdb-grafana-docker
+Google,5,2,telegraf-influxdb-grafana-docker
 discourse.gohugo.io,12,1,vimwiki
