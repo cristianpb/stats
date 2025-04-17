@@ -3,15 +3,13 @@ Google,2,2,analytics-google
 github.com,1,1,analytics-google
 dotfiles.github.io,12,4,dotfiles
 dotshare.it,10,1,dotfiles
-discourse.gohugo.io,3,2,dotfiles
 Google,1,1,dotfiles
-Google,1,1,hubot-velib
-mopidy.com,28,4,muse
+discourse.gohugo.io,1,1,dotfiles
+mopidy.com,27,4,muse
 cristianpb.github.io,4,1,muse
-site1.bmoh.portae.org,3,1,muse
-github.com,2,2,muse
 music.fcisler.info,1,1,muse
 Google,1,1,muse
+github.com,1,1,muse
 github.com,3,3,object-detection
 cristianpb.github.io,1,1,object-detection
 Google,11,1,object-detection-frontend
@@ -21,7 +19,6 @@ github.com,1,1,stats
 github.com,1,1,SubMusic
 cristianpb.github.io,14,1,telegraf-influxdb-grafana-docker
 DuckDuckGo,6,1,telegraf-influxdb-grafana-docker
-Google,5,2,telegraf-influxdb-grafana-docker
 medium.com,3,1,telegraf-influxdb-grafana-docker
-discourse.gohugo.io,12,1,vimwiki
+Google,1,1,telegraf-influxdb-grafana-docker
 Google,1,1,vimwiki
