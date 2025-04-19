@@ -2,10 +2,9 @@ referrer,count,uniques,repository
 Google,2,2,analytics-google
 github.com,1,1,analytics-google
 dotshare.it,10,1,dotfiles
-dotfiles.github.io,7,4,dotfiles
+dotfiles.github.io,6,3,dotfiles
 Google,1,1,dotfiles
-discourse.gohugo.io,1,1,dotfiles
-mopidy.com,31,6,muse
+mopidy.com,32,6,muse
 cristianpb.github.io,4,1,muse
 music.fcisler.info,1,1,muse
 Google,1,1,muse
@@ -20,3 +19,4 @@ DuckDuckGo,6,1,telegraf-influxdb-grafana-docker
 medium.com,3,1,telegraf-influxdb-grafana-docker
 Google,1,1,telegraf-influxdb-grafana-docker
 Google,1,1,vimwiki
+github.com,1,1,vimwiki
