@@ -2,11 +2,10 @@ referrer,count,uniques,repository
 Google,1,1,analytics-google
 github.com,1,1,analytics-google
 dotshare.it,10,1,dotfiles
-dotfiles.github.io,6,3,dotfiles
+dotfiles.github.io,3,2,dotfiles
 Google,1,1,dotfiles
-mopidy.com,32,6,muse
+mopidy.com,36,7,muse
 cristianpb.github.io,4,1,muse
-Google,1,1,muse
 github.com,3,3,object-detection
 Google,11,1,object-detection-frontend
 github.com,1,1,rhasspy-handler
