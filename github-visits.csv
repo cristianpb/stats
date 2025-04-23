@@ -1,5 +1,4 @@
 date,repository,clones,views
-2025-04-08,analytics-google,2,0
 2025-04-09,analytics-google,3,3
 2025-04-10,analytics-google,3,0
 2025-04-11,analytics-google,2,2
@@ -13,7 +12,7 @@ date,repository,clones,views
 2025-04-19,analytics-google,4,0
 2025-04-20,analytics-google,2,0
 2025-04-21,analytics-google,2,0
-2025-04-08,cristianpb,1,0
+2025-04-22,analytics-google,2,1
 2025-04-16,cristianpb,1,0
 2025-04-09,cristianpb.github.io,1,0
 2025-04-12,cristianpb.github.io,1,0
@@ -24,15 +23,15 @@ date,repository,clones,views
 2025-04-10,dotfiles,1,1
 2025-04-15,dotfiles,1,0
 2025-04-20,dotfiles,1,0
-2025-04-08,dotfiles,0,1
 2025-04-13,dotfiles,0,1
 2025-04-14,dotfiles,0,10
 2025-04-16,dotfiles,0,2
+2025-04-22,dotfiles,0,1
 2025-04-19,goaccess,1,0
+2025-04-22,goaccess,1,0
 2025-04-16,gswsr,1,0
 2025-04-19,infolettre-lab-ia,1,0
 2025-04-19,judilibre-stats,1,0
-2025-04-08,muse,2,0
 2025-04-09,muse,2,23
 2025-04-10,muse,1,20
 2025-04-14,muse,1,3
@@ -43,6 +42,7 @@ date,repository,clones,views
 2025-04-16,muse,0,5
 2025-04-17,muse,0,1
 2025-04-19,muse,0,6
+2025-04-22,muse,0,27
 2025-04-15,music-s3,1,0
 2025-04-19,music-s3,1,0
 2025-04-14,nerf,1,0
@@ -58,7 +58,6 @@ date,repository,clones,views
 2025-04-18,playlists,7,0
 2025-04-09,rhasspy-handler,1,1
 2025-04-17,rhasspy-handler,1,0
-2025-04-09,stats,3,1
 2025-04-10,stats,3,0
 2025-04-11,stats,5,0
 2025-04-12,stats,3,0
@@ -71,12 +70,13 @@ date,repository,clones,views
 2025-04-19,stats,5,0
 2025-04-20,stats,3,0
 2025-04-21,stats,5,0
+2025-04-22,stats,3,0
+2025-04-09,stats,0,1
 2025-04-11,SubMusic,1,0
 2025-04-14,SubMusic,1,0
 2025-04-18,SubMusic,2,0
 2025-04-12,SubMusic,0,1
 2025-04-09,telegraf-influxdb-grafana-docker,1,0
-2025-04-08,telegraf-influxdb-grafana-docker,0,6
 2025-04-11,telegraf-influxdb-grafana-docker,0,15
 2025-04-14,telegraf-influxdb-grafana-docker,0,3
 2025-04-14,temp-sigfox,1,0

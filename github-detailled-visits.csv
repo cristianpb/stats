@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,5,5,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,2,2,analytics-google
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,5,4,dotfiles
 /cristianpb/dotfiles/tree/master/polybar/.config/polybar,dotfiles/polybar/.config/polybar at master · cristianpb/dotfiles,3,1,dotfiles
 /cristianpb/dotfiles/tree/master/polybar/.config/polybar/scripts,dotfiles/polybar/.config/polybar/scripts at master · cristianpb/dotfiles,2,1,dotfiles
@@ -7,29 +7,18 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/polybar/.config/polybar/scripts/cpu.sh,dotfiles/polybar/.config/polybar/scripts/cpu.sh at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/polybar,dotfiles/polybar at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/polybar/.config,dotfiles/polybar/.config at master · cristianpb/dotfiles,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,34,12,muse
-/cristianpb/muse/issues,Repo Issues,8,4,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,32,12,muse
+/cristianpb/muse/issues,Repo Issues,6,3,muse
 /cristianpb/muse/issues/51,error connecting to mopidy · Issue #51 · cristianpb/muse,5,2,muse
-/cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse · GitHub,5,1,muse
-/cristianpb/muse/blob/master/mopidy_muse/mopidy.conf,muse/mopidy_muse/mopidy.conf at master · cristianpb/muse · GitHub,4,1,muse
-/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,2,1,muse
-/cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse · GitHub,2,1,muse
-/cristianpb/muse/blob/master/mopidy_muse/ext.conf,muse/mopidy_muse/ext.conf at master · cristianpb/muse · GitHub,2,1,muse
 /cristianpb/muse/blob/master/src/routes/_error.svelte,muse/src/routes/_error.svelte at master · cristianpb/muse,2,1,muse
 /cristianpb/muse/actions,Workflow runs · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",7,7,object-detection
-/cristianpb/object-detection-frontend,cristianpb/object-detection-frontend: Frontend Angular application for object...,2,1,object-detection-frontend
-/cristianpb/object-detection-frontend/blob/master/src/app/photos/photos.component.html,object-detection-frontend/src/app/photos/photos.component.html at master · cr...,2,1,object-detection-frontend
-/cristianpb/object-detection-frontend/blob/master/src/app/single/single.component.ts,object-detection-frontend/src/app/single/single.component.ts at master · cris...,2,1,object-detection-frontend
-/cristianpb/object-detection-frontend/blob/master/src/app/photos/photos.component.scss,object-detection-frontend/src/app/photos/photos.component.scss at master · cr...,1,1,object-detection-frontend
-/cristianpb/object-detection-frontend/blob/master/src/app/workers/workers.component.ts,object-detection-frontend/src/app/workers/workers.component.ts at master · cr...,1,1,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master,cristianpb/object-detection-frontend: Frontend Angular application for object...,1,1,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/src,object-detection-frontend/src at master · cristianpb/object-detection-frontend,1,1,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/src/app,object-detection-frontend/src/app at master · cristianpb/object-detection-fro...,1,1,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/src/app/photos,object-detection-frontend/src/app/photos at master · cristianpb/object-detect...,1,1,object-detection-frontend
-/cristianpb/object-detection-frontend/tree/master/src/app/single,object-detection-frontend/src/app/single at master · cristianpb/object-detect...,1,1,object-detection-frontend
-/cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,1,1,rhasspy-handler
-/cristianpb/stats,GitHub - cristianpb/stats,1,1,stats
+/cristianpb/muse/branches,Branches · cristianpb/muse,1,1,muse
+/cristianpb/muse/commit/ff56101cf1ae14961ceddab05c62adbfca3bbce5,🐛 Fix #24 · cristianpb/muse@ff56101,1,1,muse
+/cristianpb/muse/issues/15,Snapcast server settings are not stored · Issue #15 · cristianpb/muse,1,1,muse
+/cristianpb/muse/issues/42,Searching all backends returns no result · Issue #42 · cristianpb/muse,1,1,muse
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",6,6,object-detection
+/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,1,1,object-detection
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,1,1,object-detection
 /cristianpb/SubMusic,GitHub - cristianpb/SubMusic: Sync music and podcasts to your Garmin watch fr...,1,1,SubMusic
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,3,3,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",2,2,telegraf-influxdb-grafana-docker
