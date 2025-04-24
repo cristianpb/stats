@@ -1,21 +1,23 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,2,2,analytics-google
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,5,4,dotfiles
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,3,3,analytics-google
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,4,3,dotfiles
 /cristianpb/dotfiles/tree/master/polybar/.config/polybar,dotfiles/polybar/.config/polybar at master · cristianpb/dotfiles,3,1,dotfiles
 /cristianpb/dotfiles/tree/master/polybar/.config/polybar/scripts,dotfiles/polybar/.config/polybar/scripts at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/polybar/.config/polybar/config.ini,dotfiles/polybar/.config/polybar/config.ini at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/polybar/.config/polybar/scripts/cpu.sh,dotfiles/polybar/.config/polybar/scripts/cpu.sh at master · cristianpb/dotfiles,1,1,dotfiles
+/cristianpb/dotfiles/blob/master/tmux/.tmux.theme,dotfiles/tmux/.tmux.theme at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/polybar,dotfiles/polybar at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/polybar/.config,dotfiles/polybar/.config at master · cristianpb/dotfiles,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,32,12,muse
-/cristianpb/muse/issues,Repo Issues,6,3,muse
-/cristianpb/muse/issues/51,error connecting to mopidy · Issue #51 · cristianpb/muse,5,2,muse
-/cristianpb/muse/blob/master/src/routes/_error.svelte,muse/src/routes/_error.svelte at master · cristianpb/muse,2,1,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,26,11,muse
+/cristianpb/muse/blob/v0.0.36/Dockerfile,muse/Dockerfile at v0.0.36 · cristianpb/muse,5,1,muse
+/cristianpb/muse/blob/v0.0.36/Makefile,muse/Makefile at v0.0.36 · cristianpb/muse,4,1,muse
+/cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,3,3,muse
+/cristianpb/muse/issues/51,error connecting to mopidy · Issue #51 · cristianpb/muse,3,2,muse
+/cristianpb/muse/tree/v0.0.36,cristianpb/muse at v0.0.36,3,1,muse
+/cristianpb/muse/blob/v0.0.36/docker-compose.yml,muse/docker-compose.yml at v0.0.36 · cristianpb/muse,2,1,muse
 /cristianpb/muse/actions,Workflow runs · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/muse/branches,Branches · cristianpb/muse,1,1,muse
-/cristianpb/muse/commit/ff56101cf1ae14961ceddab05c62adbfca3bbce5,🐛 Fix #24 · cristianpb/muse@ff56101,1,1,muse
-/cristianpb/muse/issues/15,Snapcast server settings are not stored · Issue #15 · cristianpb/muse,1,1,muse
-/cristianpb/muse/issues/42,Searching all backends returns no result · Issue #42 · cristianpb/muse,1,1,muse
+/cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse,1,1,muse
+/cristianpb/muse/blob/master/.github/workflows/mopidy-base.yml,muse/.github/workflows/mopidy-base.yml at master · cristianpb/muse,1,1,muse
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",6,6,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,1,1,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,1,1,object-detection
