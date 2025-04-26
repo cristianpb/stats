@@ -8,20 +8,20 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/tmux/.tmux.theme,dotfiles/tmux/.tmux.theme at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/polybar,dotfiles/polybar at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/polybar/.config,dotfiles/polybar/.config at master · cristianpb/dotfiles,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,31,11,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,31,12,muse
 /cristianpb/muse/blob/v0.0.36/Dockerfile,muse/Dockerfile at v0.0.36 · cristianpb/muse,6,1,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,5,3,muse
-/cristianpb/muse/actions,Workflow runs · cristianpb/muse · GitHub,4,2,muse
 /cristianpb/muse/tree/master/.github/workflows,muse/.github/workflows at master · cristianpb/muse,4,2,muse
 /cristianpb/muse/blob/v0.0.36/Makefile,muse/Makefile at v0.0.36 · cristianpb/muse,4,1,muse
+/cristianpb/muse/actions,Workflow runs · cristianpb/muse,3,1,muse
 /cristianpb/muse/actions/runs/12169177260,🎨 Add loading message for playlist page · cristianpb/muse@195d536,3,1,muse
 /cristianpb/muse/tree/master,muse/ at master · cristianpb/muse · GitHub,3,1,muse
 /cristianpb/muse/tree/v0.0.36,cristianpb/muse at v0.0.36,3,1,muse
 /cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse · GitHub,2,2,muse
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",7,7,object-detection
-/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,1,1,object-detection
-/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,1,1,object-detection
-/cristianpb/SubMusic,GitHub - cristianpb/SubMusic: Sync music and podcasts to your Garmin watch fr...,1,1,SubMusic
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",6,6,object-detection
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,3,3,object-detection
+/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,2,2,object-detection
+/cristianpb/object-detection/tree/master,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",1,1,object-detection
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,telegraf-influxdb-grafana-docker/docker-compose-gpu.yml at master · cristianp...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,1,1,telegraf-influxdb-grafana-docker
