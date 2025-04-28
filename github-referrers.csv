@@ -1,13 +1,11 @@
 referrer,count,uniques,repository
-dotshare.it,10,1,dotfiles
 dotfiles.github.io,2,1,dotfiles
 discourse.gohugo.io,1,1,dotfiles
 github.com,25,2,muse
-mopidy.com,14,7,muse
+mopidy.com,15,9,muse
 pypi.org,13,1,muse
 search.nixos.org,1,1,muse
-cristianpb.github.io,4,2,object-detection
-github.com,3,3,object-detection
+cristianpb.github.io,6,2,object-detection
 Google,2,1,object-detection
-medium.com,3,1,telegraf-influxdb-grafana-docker
+github.com,1,1,object-detection
 github.com,1,1,vimwiki
