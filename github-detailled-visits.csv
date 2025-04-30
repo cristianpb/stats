@@ -1,10 +1,9 @@
 path,title,count,uniques,repository
 /cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,2,2,analytics-google
-/cristianpb/dotfiles,cristianpb/dotfiles: My dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/tmux/.tmux.theme,dotfiles/tmux/.tmux.theme at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,27,13,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,23,11,muse
 /cristianpb/muse/blob/v0.0.36/Dockerfile,muse/Dockerfile at v0.0.36 · cristianpb/muse,6,1,muse
-/cristianpb/muse/issues,Issues · cristianpb/muse · GitHub,5,3,muse
+/cristianpb/muse/issues,GitHub · Where software is built,4,2,muse
 /cristianpb/muse/tree/master/.github/workflows,muse/.github/workflows at master · cristianpb/muse,4,2,muse
 /cristianpb/muse/blob/v0.0.36/Makefile,muse/Makefile at v0.0.36 · cristianpb/muse,4,1,muse
 /cristianpb/muse/actions,Workflow runs · cristianpb/muse,3,1,muse
@@ -12,8 +11,9 @@ path,title,count,uniques,repository
 /cristianpb/muse/tree/master,muse/ at master · cristianpb/muse · GitHub,3,1,muse
 /cristianpb/muse/tree/v0.0.36,cristianpb/muse at v0.0.36,3,1,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,2,2,muse
-/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,4,3,object-detection
-/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,3,2,object-detection
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,5,4,object-detection
+/cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,4,3,object-detection
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",2,2,object-detection
+/cristianpb/object-detection/blob/master/README.md,object-detection/README.md at master · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/object-detection/tree/master,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",1,1,object-detection
 /cristianpb/vimwiki/blob/8689457a50b7d8caf842d7ac15b5bd063b6c5d9c/content/st.md,vimwiki/content/st.md at 8689457a50b7d8caf842d7ac15b5bd063b6c5d9c · cristianp...,1,1,vimwiki
