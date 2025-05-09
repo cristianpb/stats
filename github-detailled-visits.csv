@@ -2,17 +2,17 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,3,3,analytics-google
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,4,3,dotfiles
 /cristianpb/dotfiles/blob/master/tmux/.tmux.theme,dotfiles/tmux/.tmux.theme at master · cristianpb/dotfiles · GitHub,4,2,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
-/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
-/cristianpb/dotfiles/blob/master/nvim/.config/nvim/coc-settings.json,dotfiles/nvim/.config/nvim/coc-settings.json at master · cristianpb/dotfiles,1,1,dotfiles
-/cristianpb/dotfiles/blob/master/nvim/.config/nvim/init.vim,dotfiles/nvim/.config/nvim/init.vim at master · cristianpb/dotfiles,1,1,dotfiles
+/cristianpb/dotfiles/tree/master/nvim/.config/nvim,dotfiles/nvim/.config/nvim at master · cristianpb/dotfiles · GitHub,4,2,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles · GitHub,3,3,dotfiles
+/cristianpb/dotfiles/tree/master,GitHub - cristianpb/dotfiles: My dotfiles,3,3,dotfiles
+/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,3,3,dotfiles
+/cristianpb/dotfiles/blob/master/nvim/.config/nvim/init.vim,dotfiles/nvim/.config/nvim/init.vim at master · cristianpb/dotfiles · GitHub,3,2,dotfiles
+/cristianpb/dotfiles/blob/master/nvim/.config/nvim/coc-settings.json,dotfiles/nvim/.config/nvim/coc-settings.json at master · cristianpb/dotfiles ...,2,2,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles · Git...,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands_full.py,dotfiles/ranger/.config/ranger/commands_full.py at master · cristianpb/dotfil...,1,1,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands.py,dotfiles/ranger/.config/ranger/commands.py at master · cristianpb/dotfiles · ...,1,1,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rifle.conf,dotfiles/ranger/.config/ranger/rifle.conf at master · cristianpb/dotfiles · G...,1,1,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles · Git...,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,10,9,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,7,7,muse
 /cristianpb/muse/branches,Branches · cristianpb/muse,3,1,muse
-/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,2,2,muse
+/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse,1,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/ext.conf,muse/mopidy_muse/ext.conf at master · cristianpb/muse,1,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/__init__.py,muse/mopidy_muse/__init__.py at master · cristianpb/muse,1,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/mopidy.conf,muse/mopidy_muse/mopidy.conf at master · cristianpb/muse,1,1,muse
