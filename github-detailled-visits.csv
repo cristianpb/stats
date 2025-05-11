@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,3,3,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,2,2,analytics-google
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,4,3,dotfiles
 /cristianpb/dotfiles/blob/master/tmux/.tmux.theme,dotfiles/tmux/.tmux.theme at master · cristianpb/dotfiles · GitHub,4,2,dotfiles
 /cristianpb/dotfiles/tree/master/nvim/.config/nvim,dotfiles/nvim/.config/nvim at master · cristianpb/dotfiles · GitHub,4,2,dotfiles
@@ -10,17 +10,18 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/nvim/.config/nvim/coc-settings.json,dotfiles/nvim/.config/nvim/coc-settings.json at master · cristianpb/dotfiles ...,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles · Git...,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/commands_full.py,dotfiles/ranger/.config/ranger/commands_full.py at master · cristianpb/dotfil...,1,1,dotfiles
+/cristianpb/hubot-ratp,cristianpb/hubot-ratp: A hubot script to obtain Paris transport times of RATP...,1,1,hubot-ratp
 /cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,7,6,muse
+/cristianpb/muse/blob/master/mopidy_muse/mopidy.conf,muse/mopidy_muse/mopidy.conf at master · cristianpb/muse · GitHub,3,2,muse
 /cristianpb/muse/branches,Branches · cristianpb/muse,3,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/ext.conf,muse/mopidy_muse/ext.conf at master · cristianpb/muse · GitHub,2,2,muse
-/cristianpb/muse/blob/master/mopidy_muse/mopidy.conf,muse/mopidy_muse/mopidy.conf at master · cristianpb/muse · GitHub,2,2,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse,1,1,muse
 /cristianpb/muse/blob/master/LICENSE,muse/LICENSE at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/__init__.py,muse/mopidy_muse/__init__.py at master · cristianpb/muse,1,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/Podcasts.opml,muse/mopidy_muse/Podcasts.opml at master · cristianpb/muse,1,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/static/.gitignore,muse/mopidy_muse/static/.gitignore at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/branches/active,Branches · cristianpb/muse,1,1,muse
-/cristianpb/object-detection,"cristianpb/object-detection: Object detection on Jetson Nano, Raspberry Pi an...",4,4,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",5,5,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,4,3,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,3,2,object-detection
 /cristianpb/object-detection/blob/master/backend/app.py,object-detection/backend/app.py at master · cristianpb/object-detection · Git...,1,1,object-detection
