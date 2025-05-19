@@ -1,33 +1,33 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,3,3,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,2,2,analytics-google
 /cristianpb/dataiku-dss-docker,cristianpb/dataiku-dss-docker,2,1,dataiku-dss-docker
 /cristianpb/dataiku-dss-docker/blob/master/docker-compose.yml,dataiku-dss-docker/docker-compose.yml at master · cristianpb/dataiku-dss-docker,2,1,dataiku-dss-docker
 /cristianpb/dataiku-dss-docker/blob/master/requirements.txt,dataiku-dss-docker/requirements.txt at master · cristianpb/dataiku-dss-docker,1,1,dataiku-dss-docker
 /cristianpb/datalab.mi,cristianpb/datalab.mi,1,1,datalab.mi
 /cristianpb/deces-ui,cristianpb/deces-ui: Svelte port of search-ui like for people deaths search,1,1,deces-ui
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,4,3,dotfiles
 /cristianpb/dotfiles/tree/master/nvim/.config/nvim,dotfiles/nvim/.config/nvim at master · cristianpb/dotfiles · GitHub,4,2,dotfiles
 /cristianpb/dotfiles/tree/master,GitHub - cristianpb/dotfiles: My dotfiles,3,3,dotfiles
 /cristianpb/dotfiles/blob/master/nvim/.config/nvim/init.vim,dotfiles/nvim/.config/nvim/init.vim at master · cristianpb/dotfiles · GitHub,3,2,dotfiles
+/cristianpb/dotfiles,dotfiles/nvim/.config/nvim at master · cristianpb/dotfiles,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/nvim/.config/nvim/coc-settings.json,dotfiles/nvim/.config/nvim/coc-settings.json at master · cristianpb/dotfiles ...,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
-/cristianpb/dotfiles/blob/master/tmux/.tmux.theme,dotfiles/tmux/.tmux.theme at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles · Git...,1,1,dotfiles
+/cristianpb/dotfiles/blob/master/tmux/.tmux.theme,dotfiles/tmux/.tmux.theme at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim/.vimrc at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/hubot-ratp,cristianpb/hubot-ratp: A hubot script to obtain Paris transport times of RATP...,1,1,hubot-ratp
 /cristianpb/mopidy.js,cristianpb/mopidy.js: JavaScript library for controlling a Mopidy music serve...,1,1,mopidy.js
 /cristianpb/mopidy.js/tree/master/examples,mopidy.js/examples at master · cristianpb/mopidy.js,1,1,mopidy.js
-/cristianpb/muse,cristianpb/muse: Mopidy web client with Snapcast support,6,5,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,7,6,muse
 /cristianpb/muse/blob/master/mopidy_muse/mopidy.conf,muse/mopidy_muse/mopidy.conf at master · cristianpb/muse · GitHub,2,2,muse
+/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse,2,1,muse
 /cristianpb/muse/blob/master/LICENSE,muse/LICENSE at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/blob/master/Makefile,muse/Makefile at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/ext.conf,muse/mopidy_muse/ext.conf at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/static/.gitignore,muse/mopidy_muse/static/.gitignore at master · cristianpb/muse · GitHub,1,1,muse
+/cristianpb/muse/blob/master/pyproject.toml,muse/pyproject.toml at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/commit/98d831408c1a9944c012e796f31a8244b9f7bc75,⬆ Upgrade package version files · cristianpb/muse@98d8314,1,1,muse
 /cristianpb/muse/commits/master,Commits · cristianpb/muse,1,1,muse
-/cristianpb/muse/tags,Tags · cristianpb/muse,1,1,muse
-/cristianpb/muse/tree/master/src/lib,muse/src/lib at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/music-s3/blob/master/cookies.txt.gpg,music-s3/cookies.txt.gpg at master · cristianpb/music-s3,2,1,music-s3
 /cristianpb/music-s3/blob/master/decrypt_secret.sh,music-s3/decrypt_secret.sh at master · cristianpb/music-s3,2,1,music-s3
 /cristianpb/music-s3/blob/master/download.py,music-s3/download.py at master · cristianpb/music-s3,2,1,music-s3
@@ -50,19 +50,21 @@ path,title,count,uniques,repository
 /cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,2,1,object-detection-frontend
 /cristianpb/priceminister,cristianpb/priceminister: Data science projet on nlp,1,1,priceminister
 /cristianpb/rhasspy-handler,cristianpb/rhasspy-handler: My voice assistant intent handler,1,1,rhasspy-handler
+/cristianpb/rhasspy-handler/forks,Forks · cristianpb/rhasspy-handler · GitHub,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/tree/master/src,rhasspy-handler/src at master · cristianpb/rhasspy-handler,1,1,rhasspy-handler
 /cristianpb/SubMusic,cristianpb/SubMusic: Sync music and podcasts to your Garmin watch from your o...,1,1,SubMusic
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/Makefile,telegraf-influxdb-grafana-docker/Makefile at master · cristianpb/telegraf-inf...,4,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/Makefile,telegraf-influxdb-grafana-docker/Makefile at master · cristianpb/telegraf-inf...,5,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,4,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,2,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,telegraf-influxdb-grafana-docker/docker-compose-gpu.yml at master · cristianp...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/.env_dist,telegraf-influxdb-grafana-docker/.env_dist at master · cristianpb/telegraf-in...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/DashboardTelegraf.json,telegraf-influxdb-grafana-docker/docker/grafana/DashboardTelegraf.json at mas...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/dashboard.yaml,telegraf-influxdb-grafana-docker/docker/grafana/dashboard.yaml at master · cr...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/temp-sigfox,cristianpb/temp-sigfox: Micropython code to send data from the ESP8266 using ...,1,1,temp-sigfox
 /cristianpb/temp-sigfox/fork,Fork cristianpb/temp-sigfox,1,1,temp-sigfox
 /cristianpb/velo.club,cristianpb/velo.club,1,1,velo.club
 /cristianpb/velo.club/tree/master/src,velo.club/src at master · cristianpb/velo.club,1,1,velo.club
+/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,1,1,vimwiki
