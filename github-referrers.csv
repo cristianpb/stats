@@ -12,10 +12,10 @@ Google,3,1,muse
 mopidy.com,2,2,muse
 github.com,21,1,music-s3
 cristianpb.github.io,7,1,object-detection
-Google,2,2,object-detection
+Google,3,3,object-detection
 Google,2,1,object-detection-frontend
 github.com,1,1,priceminister
-github.com,2,1,rhasspy-handler
+github.com,3,2,rhasspy-handler
 github.com,1,1,SubMusic
 github.com,23,2,telegraf-influxdb-grafana-docker
 github.com,2,1,temp-sigfox
