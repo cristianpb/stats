@@ -3,13 +3,14 @@ Google,1,1,analytics-google
 github.com,5,1,dataiku-dss-docker
 github.com,1,1,datalab.mi
 github.com,1,1,deces-ui
-discourse.gohugo.io,2,2,dotfiles
 Google,1,1,dotfiles
+discourse.gohugo.io,1,1,dotfiles
 github.com,1,1,dotfiles
 github.com,2,1,mopidy.js
+mopidy.com,7,4,muse
 cristianpb.github.io,4,1,muse
-mopidy.com,3,3,muse
 Google,3,1,muse
+pypi.org,2,1,muse
 mopidy.int.kirkmanhome.com,1,1,muse
 github.com,21,1,music-s3
 cristianpb.github.io,7,1,object-detection
@@ -18,7 +19,7 @@ Google,2,1,object-detection-frontend
 github.com,1,1,priceminister
 github.com,3,2,rhasspy-handler
 github.com,1,1,SubMusic
-github.com,23,2,telegraf-influxdb-grafana-docker
+github.com,1,1,telegraf-influxdb-grafana-docker
 github.com,2,1,temp-sigfox
 github.com,2,1,velo.club
 github.com,1,1,vimwiki
