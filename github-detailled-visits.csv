@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,2,2,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/README.md,analytics-google/README.md at master · cristianpb/analytics-google · GitHub,1,1,analytics-google
 /cristianpb/dataiku-dss-docker,cristianpb/dataiku-dss-docker,2,1,dataiku-dss-docker
 /cristianpb/dataiku-dss-docker/blob/master/docker-compose.yml,dataiku-dss-docker/docker-compose.yml at master · cristianpb/dataiku-dss-docker,2,1,dataiku-dss-docker
@@ -13,8 +13,8 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/mopidy.js,cristianpb/mopidy.js: JavaScript library for controlling a Mopidy music serve...,1,1,mopidy.js
 /cristianpb/mopidy.js/tree/master/examples,mopidy.js/examples at master · cristianpb/mopidy.js,1,1,mopidy.js
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,18,11,muse
-/cristianpb/muse/issues,Issues · cristianpb/muse,5,5,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,24,12,muse
+/cristianpb/muse/issues,Issues · cristianpb/muse,6,6,muse
 /cristianpb/muse/blob/master/pyproject.toml,muse/pyproject.toml at master · cristianpb/muse · GitHub,2,2,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse,2,1,muse
 /cristianpb/muse/blob/master/.github/workflows/publish.yml,muse/.github/workflows/publish.yml at master · cristianpb/muse · GitHub,1,1,muse

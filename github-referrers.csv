@@ -1,5 +1,4 @@
 referrer,count,uniques,repository
-Google,1,1,analytics-google
 github.com,5,1,dataiku-dss-docker
 github.com,1,1,datalab.mi
 github.com,1,1,deces-ui
@@ -7,7 +6,7 @@ Google,1,1,dotfiles
 discourse.gohugo.io,1,1,dotfiles
 github.com,1,1,dotfiles
 github.com,2,1,mopidy.js
-mopidy.com,15,6,muse
+mopidy.com,19,7,muse
 cristianpb.github.io,4,1,muse
 Google,3,1,muse
 pypi.org,2,1,muse
