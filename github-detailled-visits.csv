@@ -7,22 +7,23 @@ path,title,count,uniques,repository
 /cristianpb/datalab.mi,cristianpb/datalab.mi,1,1,datalab.mi
 /cristianpb/deces-ui,cristianpb/deces-ui: Svelte port of search-ui like for people deaths search,1,1,deces-ui
 /cristianpb/dotfiles/blob/master/msmtp/.msmtprc,dotfiles/msmtp/.msmtprc at master · cristianpb/dotfiles · GitHub,3,2,dotfiles
+/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,3,2,dotfiles
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,2,2,dotfiles
-/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/rc.conf,dotfiles/ranger/.config/ranger/rc.conf at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
+/cristianpb/dotfiles/blob/master/ranger/.config/ranger/scope.sh,dotfiles/ranger/.config/ranger/scope.sh at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/tmux/.tmux.theme,dotfiles/tmux/.tmux.theme at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
-/cristianpb/dotfiles/tree/master/ranger/.config/ranger,dotfiles/ranger/.config/ranger at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/mopidy.js,cristianpb/mopidy.js: JavaScript library for controlling a Mopidy music serve...,1,1,mopidy.js
 /cristianpb/mopidy.js/tree/master/examples,mopidy.js/examples at master · cristianpb/mopidy.js,1,1,mopidy.js
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,24,12,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,23,10,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse,6,6,muse
+/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,3,2,muse
 /cristianpb/muse/blob/master/pyproject.toml,muse/pyproject.toml at master · cristianpb/muse · GitHub,2,2,muse
-/cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse,2,1,muse
 /cristianpb/muse/blob/master/.github/workflows/publish.yml,muse/.github/workflows/publish.yml at master · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/muse/blob/master/Makefile,muse/Makefile at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/commit/98d831408c1a9944c012e796f31a8244b9f7bc75,⬆ Upgrade package version files · cristianpb/muse@98d8314,1,1,muse
 /cristianpb/muse/commits/master,Commits · cristianpb/muse,1,1,muse
 /cristianpb/muse/issues/42,Searching all backends returns no result · Issue #42 · cristianpb/muse,1,1,muse
 /cristianpb/muse/issues/51,error connecting to mopidy · Issue #51 · cristianpb/muse,1,1,muse
+/cristianpb/muse/tags,Tags · cristianpb/muse,1,1,muse
 /cristianpb/music-s3/blob/master/cookies.txt.gpg,music-s3/cookies.txt.gpg at master · cristianpb/music-s3,2,1,music-s3
 /cristianpb/music-s3/blob/master/decrypt_secret.sh,music-s3/decrypt_secret.sh at master · cristianpb/music-s3,2,1,music-s3
 /cristianpb/music-s3/blob/master/download.py,music-s3/download.py at master · cristianpb/music-s3,2,1,music-s3
@@ -35,12 +36,12 @@ path,title,count,uniques,repository
 /cristianpb/music-s3/blob/proxy/.github/workflows/main.yaml,music-s3/.github/workflows/main.yaml at proxy · cristianpb/music-s3,1,1,music-s3
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,4,3,object-detection
 /cristianpb/object-detection/blob/master/config.yml.sample,object-detection/config.yml.sample at master · cristianpb/object-detection · ...,3,3,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",1,1,object-detection
 /cristianpb/object-detection/blob/master/backend/centroidtracker.py,object-detection/backend/centroidtracker.py at master · cristianpb/object-det...,1,1,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,1,1,object-detection
 /cristianpb/object-detection/fork,Fork cristianpb/object-detection,1,1,object-detection
 /cristianpb/object-detection/tree/master,"cristianpb/object-detection: Object detection on Jetson Nano, Raspberry Pi an...",1,1,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection,1,1,object-detection
-/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,2,1,object-detection-frontend
 /cristianpb/priceminister,cristianpb/priceminister: Data science projet on nlp,1,1,priceminister
 /cristianpb/rhasspy-handler,GitHub - cristianpb/rhasspy-handler: My voice assistant intent handler,2,2,rhasspy-handler
 /cristianpb/rhasspy-handler/forks,Forks · cristianpb/rhasspy-handler · GitHub,1,1,rhasspy-handler
@@ -56,4 +57,4 @@ path,title,count,uniques,repository
 /cristianpb/temp-sigfox/fork,Fork cristianpb/temp-sigfox,1,1,temp-sigfox
 /cristianpb/velo.club,cristianpb/velo.club,1,1,velo.club
 /cristianpb/velo.club/tree/master/src,velo.club/src at master · cristianpb/velo.club,1,1,velo.club
-/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,1,1,vimwiki
+/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,2,2,vimwiki
