@@ -1,5 +1,4 @@
 date,repository,clones,views
-2025-05-15,analytics-google,2,0
 2025-05-16,analytics-google,2,0
 2025-05-17,analytics-google,4,0
 2025-05-18,analytics-google,2,0
@@ -13,8 +12,7 @@ date,repository,clones,views
 2025-05-26,analytics-google,2,0
 2025-05-27,analytics-google,2,0
 2025-05-28,analytics-google,2,1
-2025-05-15,aws-lambda-cv,1,0
-2025-05-15,cristianpb,1,0
+2025-05-29,analytics-google,4,0
 2025-05-25,dataiku-dss-docker,1,0
 2025-05-18,datalab.mi,1,0
 2025-05-26,deces-dataprep,1,0
@@ -27,7 +25,6 @@ date,repository,clones,views
 2025-05-18,hubot-ratp,1,0
 2025-05-22,hubot-ratp,1,0
 2025-05-20,hubot-velib,1,0
-2025-05-15,mopidy.js,1,0
 2025-05-19,muse,1,3
 2025-05-20,muse,1,1
 2025-05-16,muse,0,4
@@ -42,17 +39,16 @@ date,repository,clones,views
 2025-05-27,muse,0,1
 2025-05-28,muse,0,1
 2025-05-20,myhubot,1,0
-2025-05-15,ngTwitterApp,1,0
 2025-05-16,object-detection,2,0
 2025-05-17,object-detection,1,0
 2025-05-18,object-detection,1,0
-2025-05-15,object-detection,0,2
 2025-05-19,object-detection,0,2
 2025-05-20,object-detection,0,1
 2025-05-25,object-detection,0,1
 2025-05-26,object-detection,0,1
 2025-05-27,object-detection,0,2
 2025-05-28,object-detection,0,10
+2025-05-30,object-detection,0,1
 2025-05-22,object-detection-frontend,1,0
 2025-05-16,playlists,5,0
 2025-05-23,playlists,8,0
@@ -63,7 +59,7 @@ date,repository,clones,views
 2025-05-19,rhasspy-handler,1,1
 2025-05-20,rhasspy-handler,1,0
 2025-05-17,rhasspy-handler,0,1
-2025-05-16,stats,4,0
+2025-05-16,stats,1,0
 2025-05-17,stats,3,0
 2025-05-18,stats,1,6
 2025-05-19,stats,4,0
@@ -76,6 +72,7 @@ date,repository,clones,views
 2025-05-26,stats,3,0
 2025-05-27,stats,5,0
 2025-05-28,stats,3,0
+2025-05-29,stats,4,0
 2025-05-16,telegraf-influxdb-grafana-docker,0,1
 2025-05-18,telegraf-influxdb-grafana-docker,0,1
 2025-05-21,telegraf-influxdb-grafana-docker,0,1
