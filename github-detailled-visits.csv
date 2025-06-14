@@ -1,16 +1,16 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,1,1,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,2,2,analytics-google
 /cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website,1,1,cristianpb.github.io
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,1,1,dotfiles
 /cristianpb/hubot-velib,cristianpb/hubot-velib: A hubot script to search for velibs bikes in Paris,2,1,hubot-velib
 /cristianpb/hubot-velib/blob/master/src/velib.coffee,hubot-velib/src/velib.coffee at master · cristianpb/hubot-velib,1,1,hubot-velib
 /cristianpb/hubot-velib/tree/master/script,hubot-velib/script at master · cristianpb/hubot-velib,1,1,hubot-velib
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,17,15,muse
-/cristianpb/muse/issues,Issues · cristianpb/muse,4,4,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,11,10,muse
 /cristianpb/muse/blob/master/README.md,muse/README.md at master · cristianpb/muse,1,1,muse
 /cristianpb/muse/commit/d3375958c6cded4fb48d0b4d7361dc8e1e53eec1,📝 Update README · cristianpb/muse@d337595,1,1,muse
 /cristianpb/muse/commits/master,Commits · cristianpb/muse,1,1,muse
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",9,4,object-detection
+/cristianpb/muse/issues,Issues · cristianpb/muse,1,1,muse
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",10,5,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,2,2,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,2,2,object-detection
 /cristianpb/object-detection/blob/master/.env.sample,object-detection/.env.sample at master · cristianpb/object-detection · GitHub,1,1,object-detection
