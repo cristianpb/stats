@@ -5,12 +5,12 @@ path,title,count,uniques,repository
 /cristianpb/hubot-velib,cristianpb/hubot-velib: A hubot script to search for velibs bikes in Paris,2,1,hubot-velib
 /cristianpb/hubot-velib/blob/master/src/velib.coffee,hubot-velib/src/velib.coffee at master · cristianpb/hubot-velib,1,1,hubot-velib
 /cristianpb/hubot-velib/tree/master/script,hubot-velib/script at master · cristianpb/hubot-velib,1,1,hubot-velib
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,11,10,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,10,9,muse
 /cristianpb/muse/blob/master/README.md,muse/README.md at master · cristianpb/muse,1,1,muse
 /cristianpb/muse/commit/d3375958c6cded4fb48d0b4d7361dc8e1e53eec1,📝 Update README · cristianpb/muse@d337595,1,1,muse
 /cristianpb/muse/commits/master,Commits · cristianpb/muse,1,1,muse
 /cristianpb/muse/issues,Issues · cristianpb/muse,1,1,muse
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",10,5,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",11,5,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,2,2,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,2,2,object-detection
 /cristianpb/object-detection/blob/master/.env.sample,object-detection/.env.sample at master · cristianpb/object-detection · GitHub,1,1,object-detection
@@ -22,13 +22,12 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/tree/master/.github/workflows,object-detection/.github/workflows at master · cristianpb/object-detection,1,1,object-detection
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",2,2,rhasspy-handler
 /cristianpb/SubMusic,GitHub - cristianpb/SubMusic: Sync music and podcasts to your Garmin watch fr...,1,1,SubMusic
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,10,6,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,4,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf.conf,telegraf-influxdb-grafana-docker/docker/telegraf/telegraf.conf at master · cr...,3,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",2,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/datasource.yaml,telegraf-influxdb-grafana-docker/docker/grafana/datasource.yaml at master · c...,2,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and grafana m...",1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/influxdb/influxdb.conf,telegraf-influxdb-grafana-docker/docker/influxdb/influxdb.conf at master · cr...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/influxdb/types.db,telegraf-influxdb-grafana-docker/docker/influxdb/types.db at master · cristia...,1,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/Makefile,telegraf-influxdb-grafana-docker/Makefile at master · cristianpb/telegraf-inf...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/README.md,telegraf-influxdb-grafana-docker/README.md at master · cristianpb/telegraf-in...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/vimwiki,cristianpb/vimwiki: My vimwiki,1,1,vimwiki
