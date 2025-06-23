@@ -6,7 +6,7 @@ path,title,count,uniques,repository
 /cristianpb/hubot-velib,cristianpb/hubot-velib: A hubot script to search for velibs bikes in Paris,2,1,hubot-velib
 /cristianpb/hubot-velib/blob/master/src/velib.coffee,hubot-velib/src/velib.coffee at master · cristianpb/hubot-velib,1,1,hubot-velib
 /cristianpb/hubot-velib/tree/master/script,hubot-velib/script at master · cristianpb/hubot-velib,1,1,hubot-velib
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,11,8,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,8,6,muse
 /cristianpb/muse/issues,GitHub · Where software is built,1,1,muse
 /cristianpb/muse/issues/51,error connecting to mopidy · Issue #51 · cristianpb/muse,1,1,muse
 /cristianpb/nerf,cristianpb/nerf,1,1,nerf
@@ -22,6 +22,6 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/tree/master/tests,object-detection/tests at master · cristianpb/object-detection · GitHub,2,1,object-detection
 /cristianpb/object-detection/blob/master/Aptfile,object-detection/Aptfile at master · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/object-detection/blob/master/backend/app.py,object-detection/backend/app.py at master · cristianpb/object-detection · Git...,1,1,object-detection
-/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/stargazers,Stargazers · cristianpb/rhasspy-handler · GitHub,1,1,rhasspy-handler
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",1,1,telegraf-influxdb-grafana-docker
 /cristianpb/vimwiki,cristianpb/vimwiki: My vimwiki,1,1,vimwiki
