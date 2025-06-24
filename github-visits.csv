@@ -1,7 +1,6 @@
 date,repository,clones,views
 2025-06-18,alchemy-machine,1,0
 2025-06-19,alchemy-machine,1,0
-2025-06-09,analytics-google,2,0
 2025-06-10,analytics-google,2,0
 2025-06-11,analytics-google,2,0
 2025-06-12,analytics-google,5,1
@@ -15,9 +14,11 @@ date,repository,clones,views
 2025-06-20,analytics-google,2,0
 2025-06-21,analytics-google,3,0
 2025-06-22,analytics-google,3,0
+2025-06-23,analytics-google,4,0
 2025-06-17,aws-lambda-cv,1,0
 2025-06-18,aws-lambda-cv,1,0
 2025-06-13,cristianpb,1,0
+2025-06-23,cristianpb,1,0
 2025-06-19,cristianpb,0,2
 2025-06-17,cristianpb.github.io,2,0
 2025-06-20,dataiku-dss-docker,1,0
@@ -50,9 +51,9 @@ date,repository,clones,views
 2025-06-17,muse,2,4
 2025-06-19,muse,1,2
 2025-06-22,muse,1,2
-2025-06-09,muse,0,3
 2025-06-18,muse,0,2
 2025-06-20,muse,0,1
+2025-06-23,muse,0,2
 2025-06-14,music-s3,1,0
 2025-06-20,mybottender,1,0
 2025-06-21,myhubot,1,0
@@ -72,6 +73,7 @@ date,repository,clones,views
 2025-06-22,object-detection,0,10
 2025-06-13,object-detection-frontend,1,0
 2025-06-16,object-detection-frontend,2,0
+2025-06-23,object-detection-frontend,0,3
 2025-06-19,piac-bot,1,0
 2025-06-20,piac-bot,1,0
 2025-06-13,playlists,7,0
@@ -85,9 +87,8 @@ date,repository,clones,views
 2025-06-18,recettes,1,0
 2025-06-14,rhasspy-handler,2,0
 2025-06-18,rhasspy-handler,1,1
-2025-06-09,rhasspy-handler,0,1
 2025-06-21,simple-streaming-gateway,1,0
-2025-06-10,stats,4,0
+2025-06-10,stats,1,0
 2025-06-11,stats,4,0
 2025-06-12,stats,3,0
 2025-06-13,stats,5,0
@@ -100,6 +101,7 @@ date,repository,clones,views
 2025-06-20,stats,5,0
 2025-06-21,stats,3,0
 2025-06-22,stats,3,0
+2025-06-23,stats,3,0
 2025-06-11,SubMusic,2,0
 2025-06-18,SubMusic,1,0
 2025-06-16,telegraf-influxdb-grafana-docker,1,0
