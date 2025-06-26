@@ -1,9 +1,9 @@
 referrer,count,uniques,repository
-Google,3,1,analytics-google
+Google,2,1,analytics-google
 github.com,1,1,analytics-google
 Google,2,2,dotfiles
 dotfiles.github.io,1,1,dotfiles
-mopidy.com,9,5,muse
+mopidy.com,14,5,muse
 github.com,3,1,nerf
 search.brave.com,26,1,object-detection
 cristianpb.github.io,11,4,object-detection
