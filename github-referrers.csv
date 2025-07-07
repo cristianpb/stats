@@ -3,11 +3,10 @@ github.com,1,1,analytics-google
 github.com,4,1,cristianpb.github.io
 Google,2,2,dotfiles
 dotfiles.github.io,1,1,dotfiles
-mopidy.com,9,3,muse
+mopidy.com,7,3,muse
 Google,3,1,muse
 cristianpb.github.io,3,3,object-detection
 github.com,1,1,object-detection
-Google,3,1,object-detection-frontend
 cristianpb.github.io,1,1,playlists
 priceminister.readthedocs.io,2,1,priceminister
 Google,3,2,telegraf-influxdb-grafana-docker
