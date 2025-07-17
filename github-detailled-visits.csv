@@ -9,17 +9,12 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,4,4,dotfiles
 /cristianpb/dotfiles/blob/master/bash/.bash_profile,dotfiles/bash/.bash_profile at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/bash/.bashrc,dotfiles/bash/.bashrc at master · cristianpb/dotfiles,1,1,dotfiles
-/cristianpb/dotfiles/blob/master/msmtp/.msmtprc,dotfiles/msmtp/.msmtprc at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/tmux/.tmux.conf,dotfiles/tmux/.tmux.conf at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/tmux/.tmux.theme,dotfiles/tmux/.tmux.theme at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/bash,dotfiles/bash at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/hubot-ratp,GitHub - cristianpb/hubot-ratp: A hubot script to obtain Paris transport time...,1,1,hubot-ratp
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,3,3,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,2,2,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",1,1,object-detection
-/cristianpb/object-detection/blob/master/backend/motion.py,object-detection/backend/motion.py at master · cristianpb/object-detection,1,1,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,1,1,object-detection
 /cristianpb/playlists,GitHub - cristianpb/playlists,1,1,playlists
-/cristianpb/priceminister/blob/master/docs/model.rst,priceminister/docs/model.rst at master · cristianpb/priceminister,1,1,priceminister
-/cristianpb/priceminister/tree/master,cristianpb/priceminister: Data science projet on nlp,1,1,priceminister
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",3,3,telegraf-influxdb-grafana-docker
