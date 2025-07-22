@@ -1,7 +1,6 @@
 path,title,count,uniques,repository
 /cristianpb/analytics-google,cristianpb/analytics-google: Google analytics from cristianpb.github.io,2,1,analytics-google
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,3,3,dotfiles
-/cristianpb/hubot-ratp,GitHub - cristianpb/hubot-ratp: A hubot script to obtain Paris transport time...,1,1,hubot-ratp
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,2,2,dotfiles
 /cristianpb/hubot-velib,GitHub - cristianpb/hubot-velib: A hubot script to search for velibs bikes in...,1,1,hubot-velib
 /cristianpb/hubot-velib/blob/master/src/velib.coffee,hubot-velib/src/velib.coffee at master · cristianpb/hubot-velib · GitHub,1,1,hubot-velib
 /cristianpb/hubot-velib/tree/master/src,hubot-velib/src at master · cristianpb/hubot-velib · GitHub,1,1,hubot-velib
