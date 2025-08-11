@@ -1,15 +1,19 @@
 path,title,count,uniques,repository
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,5,4,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,7,6,dotfiles
 /cristianpb/dotfiles/blob/master/wiki2html.sh,dotfiles/wiki2html.sh at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim/.vimrc at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/xorg/.Xresources,dotfiles/xorg/.Xresources at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/xorg/.Xresources.dark,dotfiles/xorg/.Xresources.dark at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/blob/ubuntu/i3/.config/i3/config,dotfiles/i3/.config/i3/config at ubuntu · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/commit/f9dc51a00e545d5525bac3f904e87be2f9c7ee4c,🎨 Dont sign commits by default · cristianpb/dotfiles@f9dc51a · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/xorg,dotfiles/xorg at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/tree/ubuntu,GitHub - cristianpb/dotfiles at ubuntu,1,1,dotfiles
+/cristianpb/dotfiles/tree/ubuntu/i3/.config/i3,dotfiles/i3/.config/i3 at ubuntu · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,10,8,muse
 /cristianpb/muse/issues,GitHub · Where software is built,2,2,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/stargazers,Stargazers · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",7,5,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",6,4,object-detection
 /cristianpb/object-detection-frontend,cristianpb/object-detection-frontend: Frontend Angular application for object...,1,1,object-detection-frontend
 /cristianpb/SubMusic/blob/master/source/View/SubMusicMenu.mc,SubMusic/source/View/SubMusicMenu.mc at master · cristianpb/SubMusic · GitHub,2,1,SubMusic
 /cristianpb/SubMusic/commits/master,Commits · cristianpb/SubMusic · GitHub,2,1,SubMusic
