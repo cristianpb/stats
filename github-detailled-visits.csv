@@ -1,7 +1,6 @@
 path,title,count,uniques,repository
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,7,6,dotfiles
 /cristianpb/dotfiles/blob/master/wiki2html.sh,dotfiles/wiki2html.sh at master · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim/.vimrc at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/xorg/.Xresources,dotfiles/xorg/.Xresources at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/xorg/.Xresources.dark,dotfiles/xorg/.Xresources.dark at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/ubuntu/i3/.config/i3/config,dotfiles/i3/.config/i3/config at ubuntu · cristianpb/dotfiles · GitHub,1,1,dotfiles
@@ -12,7 +11,6 @@ path,title,count,uniques,repository
 /cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,10,8,muse
 /cristianpb/muse/issues,GitHub · Where software is built,2,2,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,1,1,muse
-/cristianpb/muse/stargazers,Stargazers · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",6,4,object-detection
 /cristianpb/object-detection-frontend,cristianpb/object-detection-frontend: Frontend Angular application for object...,1,1,object-detection-frontend
 /cristianpb/SubMusic/blob/master/source/View/SubMusicMenu.mc,SubMusic/source/View/SubMusicMenu.mc at master · cristianpb/SubMusic · GitHub,2,1,SubMusic
@@ -25,7 +23,7 @@ path,title,count,uniques,repository
 /cristianpb/SubMusic/blob/master/resources/settings.xml,SubMusic/resources/settings.xml at master · cristianpb/SubMusic,1,1,SubMusic
 /cristianpb/SubMusic/blob/master/source/Api/PlexAPI.mc,SubMusic/source/Api/PlexAPI.mc at master · cristianpb/SubMusic · GitHub,1,1,SubMusic
 /cristianpb/SubMusic/blob/master/source/Sync/PodcastSync.mc,SubMusic/source/Sync/PodcastSync.mc at master · cristianpb/SubMusic · GitHub,1,1,SubMusic
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",4,4,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",3,3,telegraf-influxdb-grafana-docker
 /cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,1,1,vimwiki
 /cristianpb/vimwiki/blob/master/content/_index.md,vimwiki/content/_index.md at master · cristianpb/vimwiki · GitHub,1,1,vimwiki
 /cristianpb/vimwiki/blob/master/content/keyboard.md,vimwiki/content/keyboard.md at master · cristianpb/vimwiki · GitHub,1,1,vimwiki
