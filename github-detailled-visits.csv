@@ -1,6 +1,6 @@
 path,title,count,uniques,repository
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,7,6,dotfiles
-/cristianpb/dotfiles/blob/master/wiki2html.sh,dotfiles/wiki2html.sh at master · cristianpb/dotfiles,2,1,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,8,6,dotfiles
+/cristianpb/dotfiles/blob/master/wiki2html.sh,dotfiles/wiki2html.sh at master · cristianpb/dotfiles,3,1,dotfiles
 /cristianpb/dotfiles/blob/master/xorg/.Xresources,dotfiles/xorg/.Xresources at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/xorg/.Xresources.dark,dotfiles/xorg/.Xresources.dark at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/ubuntu/i3/.config/i3/config,dotfiles/i3/.config/i3/config at ubuntu · cristianpb/dotfiles · GitHub,1,1,dotfiles
@@ -8,7 +8,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/tree/master/xorg,dotfiles/xorg at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/tree/ubuntu,GitHub - cristianpb/dotfiles at ubuntu,1,1,dotfiles
 /cristianpb/dotfiles/tree/ubuntu/i3/.config/i3,dotfiles/i3/.config/i3 at ubuntu · cristianpb/dotfiles · GitHub,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,10,8,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,9,7,muse
 /cristianpb/muse/issues,GitHub · Where software is built,2,2,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",6,4,object-detection
