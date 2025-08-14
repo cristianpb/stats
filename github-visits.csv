@@ -1,7 +1,6 @@
 date,repository,clones,views
 2025-08-10,alchemy-machine,1,0
 2025-08-11,alchemy-machine,1,0
-2025-07-30,analytics-google,3,0
 2025-07-31,analytics-google,2,0
 2025-08-01,analytics-google,2,0
 2025-08-02,analytics-google,2,0
@@ -15,6 +14,7 @@ date,repository,clones,views
 2025-08-10,analytics-google,2,0
 2025-08-11,analytics-google,2,0
 2025-08-12,analytics-google,5,0
+2025-08-13,analytics-google,2,0
 2025-08-12,aws-lambda-cv,1,0
 2025-08-12,cristianpb,1,0
 2025-08-03,cristianpb.github.io,2,0
@@ -45,12 +45,12 @@ date,repository,clones,views
 2025-08-05,muse,0,2
 2025-08-06,muse,0,2
 2025-08-08,muse,0,2
+2025-08-13,muse,0,7
 2025-08-03,music-s3,1,0
 2025-08-06,music-s3,1,0
 2025-08-10,myhubot,1,0
 2025-08-11,myhubot,1,0
 2025-08-04,nerf,1,0
-2025-07-30,object-detection,1,0
 2025-08-01,object-detection,1,0
 2025-08-03,object-detection,1,1
 2025-08-07,object-detection,1,0
@@ -62,7 +62,6 @@ date,repository,clones,views
 2025-08-02,object-detection-frontend,2,0
 2025-08-08,object-detection-frontend,1,0
 2025-08-04,object-detection-frontend,0,1
-2025-07-30,playlists,1,0
 2025-08-01,playlists,5,0
 2025-08-03,playlists,2,0
 2025-08-08,playlists,7,0
@@ -70,7 +69,7 @@ date,repository,clones,views
 2025-08-08,priceminister,1,0
 2025-08-01,rhasspy-handler,1,0
 2025-08-04,rhasspy-handler,1,0
-2025-07-31,stats,4,0
+2025-08-13,rhasspy-handler,1,0
 2025-08-01,stats,4,0
 2025-08-02,stats,4,0
 2025-08-03,stats,4,0
@@ -83,6 +82,7 @@ date,repository,clones,views
 2025-08-10,stats,4,0
 2025-08-11,stats,4,0
 2025-08-12,stats,5,0
+2025-08-13,stats,4,0
 2025-08-05,SubMusic,1,0
 2025-08-04,SubMusic,0,19
 2025-08-08,SubMusic,0,1
@@ -91,5 +91,6 @@ date,repository,clones,views
 2025-08-03,temp-sigfox,1,0
 2025-08-06,temp-sigfox,1,0
 2025-08-12,temp-sigfox,1,0
+2025-08-13,temp-sigfox,1,0
 2025-08-10,velo.club,1,0
 2025-08-07,vimwiki,0,9
