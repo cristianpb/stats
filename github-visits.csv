@@ -1,7 +1,6 @@
 date,repository,clones,views
 2025-08-10,alchemy-machine,1,0
 2025-08-11,alchemy-machine,1,0
-2025-08-01,analytics-google,2,0
 2025-08-02,analytics-google,2,0
 2025-08-03,analytics-google,2,0
 2025-08-04,analytics-google,2,0
@@ -35,11 +34,9 @@ date,repository,clones,views
 2025-08-03,hubot-velib,1,0
 2025-08-04,hubot-velib,1,0
 2025-08-11,hubot-velib,1,0
-2025-08-01,mopidy.js,1,0
 2025-08-02,muse,4,1
 2025-08-04,muse,1,0
 2025-08-12,muse,1,0
-2025-08-01,muse,0,2
 2025-08-05,muse,0,2
 2025-08-06,muse,0,2
 2025-08-08,muse,0,2
@@ -49,7 +46,6 @@ date,repository,clones,views
 2025-08-10,myhubot,1,0
 2025-08-11,myhubot,1,0
 2025-08-04,nerf,1,0
-2025-08-01,object-detection,1,0
 2025-08-03,object-detection,1,1
 2025-08-07,object-detection,1,0
 2025-08-04,object-detection,0,1
@@ -59,17 +55,13 @@ date,repository,clones,views
 2025-08-02,object-detection-frontend,2,0
 2025-08-08,object-detection-frontend,1,0
 2025-08-04,object-detection-frontend,0,1
-2025-08-01,playlists,5,0
 2025-08-03,playlists,2,0
 2025-08-08,playlists,7,0
 2025-08-14,PresentationTechnique,1,0
 2025-08-03,priceminister,1,0
 2025-08-08,priceminister,1,0
-2025-08-01,rhasspy-handler,1,0
 2025-08-04,rhasspy-handler,1,0
 2025-08-13,rhasspy-handler,1,0
-2025-08-01,stats,4,0
-2025-08-02,stats,4,0
 2025-08-03,stats,4,0
 2025-08-04,stats,3,0
 2025-08-05,stats,3,0
