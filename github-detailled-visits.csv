@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,8,6,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,7,5,dotfiles
 /cristianpb/dotfiles/blob/master/wiki2html.sh,dotfiles/wiki2html.sh at master · cristianpb/dotfiles,3,1,dotfiles
 /cristianpb/dotfiles/blob/master/xorg/.Xresources,dotfiles/xorg/.Xresources at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/xorg/.Xresources.dark,dotfiles/xorg/.Xresources.dark at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
@@ -13,18 +13,8 @@ path,title,count,uniques,repository
 /cristianpb/muse/issues/51,error connecting to mopidy · Issue #51 · cristianpb/muse,2,1,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/issues/39,Add snapcast stream support · Issue #39 · cristianpb/muse,1,1,muse
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",4,3,object-detection
-/cristianpb/object-detection-frontend,cristianpb/object-detection-frontend: Frontend Angular application for object...,1,1,object-detection-frontend
-/cristianpb/SubMusic/blob/master/source/View/SubMusicMenu.mc,SubMusic/source/View/SubMusicMenu.mc at master · cristianpb/SubMusic · GitHub,2,1,SubMusic
-/cristianpb/SubMusic/commits/master,Commits · cristianpb/SubMusic · GitHub,2,1,SubMusic
-/cristianpb/SubMusic,cristianpb/SubMusic: Sync music and podcasts to your Garmin watch from your o...,1,1,SubMusic
-/cristianpb/SubMusic/blob/master/LICENSE,SubMusic/LICENSE at master · cristianpb/SubMusic · GitHub,1,1,SubMusic
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",3,3,object-detection
 /cristianpb/SubMusic/blob/master/manifest.xml,SubMusic/manifest.xml at master · cristianpb/SubMusic · GitHub,1,1,SubMusic
-/cristianpb/SubMusic/blob/master/.project,SubMusic/.project at master · cristianpb/SubMusic · GitHub,1,1,SubMusic
-/cristianpb/SubMusic/blob/master/README.md,SubMusic/README.md at master · cristianpb/SubMusic · GitHub,1,1,SubMusic
-/cristianpb/SubMusic/blob/master/resources/settings.xml,SubMusic/resources/settings.xml at master · cristianpb/SubMusic,1,1,SubMusic
-/cristianpb/SubMusic/blob/master/source/Api/PlexAPI.mc,SubMusic/source/Api/PlexAPI.mc at master · cristianpb/SubMusic · GitHub,1,1,SubMusic
-/cristianpb/SubMusic/blob/master/source/Sync/PodcastSync.mc,SubMusic/source/Sync/PodcastSync.mc at master · cristianpb/SubMusic · GitHub,1,1,SubMusic
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",2,2,telegraf-influxdb-grafana-docker
 /cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,1,1,vimwiki
 /cristianpb/vimwiki/blob/master/content/_index.md,vimwiki/content/_index.md at master · cristianpb/vimwiki · GitHub,1,1,vimwiki
