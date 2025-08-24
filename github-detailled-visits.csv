@@ -1,10 +1,6 @@
 path,title,count,uniques,repository
-/cristianpb/dotfiles,cristianpb/dotfiles: My dotfiles,3,3,dotfiles
+/cristianpb/dotfiles,cristianpb/dotfiles: My dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/wiki2html.sh,dotfiles/wiki2html.sh at master · cristianpb/dotfiles,1,1,dotfiles
-/cristianpb/dotfiles/blob/ubuntu/i3/.config/i3/config,dotfiles/i3/.config/i3/config at ubuntu · cristianpb/dotfiles · GitHub,1,1,dotfiles
-/cristianpb/dotfiles/commit/f9dc51a00e545d5525bac3f904e87be2f9c7ee4c,🎨 Dont sign commits by default · cristianpb/dotfiles@f9dc51a · GitHub,1,1,dotfiles
-/cristianpb/dotfiles/tree/ubuntu,GitHub - cristianpb/dotfiles at ubuntu,1,1,dotfiles
-/cristianpb/dotfiles/tree/ubuntu/i3/.config/i3,dotfiles/i3/.config/i3 at ubuntu · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,2,1,muse
 /cristianpb/muse/issues,GitHub · Where software is built,2,1,muse
 /cristianpb/muse/issues/51,error connecting to mopidy · Issue #51 · cristianpb/muse,2,1,muse
