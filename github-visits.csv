@@ -1,7 +1,6 @@
 date,repository,clones,views
 2025-08-15,alchemy-machine,1,0
 2025-08-19,alchemy-machine,1,0
-2025-08-12,analytics-google,5,0
 2025-08-13,analytics-google,2,0
 2025-08-14,analytics-google,3,0
 2025-08-15,analytics-google,2,0
@@ -15,11 +14,10 @@ date,repository,clones,views
 2025-08-23,analytics-google,2,0
 2025-08-24,analytics-google,2,0
 2025-08-25,analytics-google,3,0
-2025-08-12,aws-lambda-cv,1,0
+2025-08-26,analytics-google,2,1
 2025-08-18,aws-lambda-cv,2,0
 2025-08-19,aws-lambda-cv,1,0
 2025-08-20,aws-lambda-cv,1,0
-2025-08-12,cristianpb,1,0
 2025-08-19,cristianpb,1,0
 2025-08-24,cristianpb,1,0
 2025-08-14,cristianpb.github.io,1,0
@@ -37,6 +35,7 @@ date,repository,clones,views
 2025-08-23,dotfiles,1,0
 2025-08-24,dotfiles,21,5
 2025-08-25,dotfiles,3,5
+2025-08-26,dotfiles,1,14
 2025-08-16,dotfiles,0,1
 2025-08-17,dotfiles,0,1
 2025-08-21,dotfiles,0,2
@@ -44,9 +43,9 @@ date,repository,clones,views
 2025-08-19,enkontext,1,0
 2025-08-20,enkontext,1,0
 2025-08-24,enkontext,1,0
+2025-08-26,goaccess,1,0
 2025-08-15,gswsr,1,0
 2025-08-19,gswsr,1,0
-2025-08-13,hubot-ratp,1,0
 2025-08-14,hubot-ratp,1,0
 2025-08-16,hubot-ratp,1,0
 2025-08-19,hubot-ratp,1,0
@@ -61,7 +60,6 @@ date,repository,clones,views
 2025-08-20,mask-detection,1,0
 2025-08-20,matchid-backend,1,0
 2025-08-24,mopidy.js,1,0
-2025-08-12,muse,1,0
 2025-08-18,muse,1,6
 2025-08-19,muse,1,1
 2025-08-25,muse,1,4
@@ -85,6 +83,7 @@ date,repository,clones,views
 2025-08-18,object-detection,1,0
 2025-08-19,object-detection,1,0
 2025-08-23,object-detection,1,1
+2025-08-26,object-detection,2,0
 2025-08-22,object-detection,0,1
 2025-08-19,object-detection-frontend,1,0
 2025-08-19,piac-bot,1,0
@@ -93,6 +92,7 @@ date,repository,clones,views
 2025-08-19,playlists,12,10
 2025-08-22,playlists,5,6
 2025-08-24,playlists,6,0
+2025-08-26,playlists,2,0
 2025-08-20,playlists,0,1
 2025-08-14,PresentationTechnique,1,0
 2025-08-15,PresentationTechnique,1,0
@@ -109,7 +109,6 @@ date,repository,clones,views
 2025-08-16,rhasspy-handler,1,0
 2025-08-19,rhasspy-handler,1,0
 2025-08-21,simple-streaming-gateway,1,0
-2025-08-13,stats,4,0
 2025-08-14,stats,3,0
 2025-08-15,stats,3,0
 2025-08-16,stats,3,0
@@ -122,11 +121,12 @@ date,repository,clones,views
 2025-08-23,stats,3,0
 2025-08-24,stats,6,0
 2025-08-25,stats,4,0
+2025-08-26,stats,3,0
 2025-08-16,SubMusic,2,0
 2025-08-24,telegraf-influxdb-grafana-docker,1,0
 2025-08-25,telegraf-influxdb-grafana-docker,2,11
+2025-08-26,telegraf-influxdb-grafana-docker,1,0
 2025-08-20,telegraf-influxdb-grafana-docker,0,1
-2025-08-12,temp-sigfox,1,0
 2025-08-13,temp-sigfox,1,0
 2025-08-19,temp-sigfox,1,0
 2025-08-21,temp-sigfox,1,0
