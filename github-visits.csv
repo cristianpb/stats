@@ -1,5 +1,4 @@
 date,repository,clones,views
-2025-09-04,analytics-google,3,0
 2025-09-05,analytics-google,2,0
 2025-09-06,analytics-google,2,0
 2025-09-07,analytics-google,5,0
@@ -13,6 +12,7 @@ date,repository,clones,views
 2025-09-15,analytics-google,2,0
 2025-09-16,analytics-google,4,1
 2025-09-17,analytics-google,6,0
+2025-09-18,analytics-google,4,0
 2025-09-13,aws-lambda-cv,1,0
 2025-09-15,aws-lambda-cv,2,0
 2025-09-13,cristianpb,1,0
@@ -25,6 +25,7 @@ date,repository,clones,views
 2025-09-16,dataiku-dss-docker,1,0
 2025-09-13,datalab.mi,1,0
 2025-09-17,deces-backend,1,0
+2025-09-18,deces-dataprep,1,0
 2025-09-07,deces-ui,1,0
 2025-09-13,deces-ui,1,0
 2025-09-16,deces-ui,1,0
@@ -47,9 +48,8 @@ date,repository,clones,views
 2025-09-08,gswsr,1,0
 2025-09-10,gswsr,1,0
 2025-09-17,gswsr,1,0
-2025-09-04,hubot-ratp,1,0
 2025-09-13,hubot-ratp,1,0
-2025-09-04,hubot-velib,3,0
+2025-09-18,hubot-ratp,1,0
 2025-09-10,hubot-velib,1,0
 2025-09-15,hubot-velib,2,0
 2025-09-17,infolettre-lab-ia,1,0
@@ -62,10 +62,10 @@ date,repository,clones,views
 2025-09-13,matchid-backend,1,0
 2025-09-16,matchid-backend,1,0
 2025-09-17,mopidy.js,1,0
-2025-09-04,muse,1,18
 2025-09-08,muse,1,0
 2025-09-12,muse,2,0
 2025-09-14,muse,1,2
+2025-09-18,muse,2,8
 2025-09-11,muse,0,2
 2025-09-13,muse,0,4
 2025-09-17,muse,0,1
@@ -74,7 +74,6 @@ date,repository,clones,views
 2025-09-08,mybottender,1,0
 2025-09-14,mybottender,1,0
 2025-09-17,mybottender,1,0
-2025-09-04,myhubot,1,0
 2025-09-08,myhubot,1,0
 2025-09-09,myhubot,1,0
 2025-09-17,myhubot,1,0
@@ -85,16 +84,17 @@ date,repository,clones,views
 2025-09-05,ngTwitterApp,1,0
 2025-09-10,ngTwitterApp,3,0
 2025-09-15,ngTwitterApp,1,0
-2025-09-04,object-detection,1,1
 2025-09-09,object-detection,1,0
 2025-09-11,object-detection,1,0
 2025-09-13,object-detection,1,0
 2025-09-15,object-detection,1,0
 2025-09-16,object-detection,1,0
+2025-09-18,object-detection,2,0
 2025-09-08,object-detection,0,1
 2025-09-17,object-detection,0,1
 2025-09-11,object-detection-frontend,1,0
 2025-09-12,object-detection-frontend,1,0
+2025-09-18,object-detection-frontend,1,0
 2025-09-10,piac-bot,2,0
 2025-09-17,piac-bot,1,0
 2025-09-05,playlists,7,7
@@ -102,7 +102,6 @@ date,repository,clones,views
 2025-09-12,playlists,7,1
 2025-09-16,playlists,1,0
 2025-09-07,PresentationTechnique,1,0
-2025-09-04,priceminister,1,0
 2025-09-08,priceminister,1,0
 2025-09-10,qrcode-reader,2,0
 2025-09-17,qrcode-reader,1,0
@@ -114,8 +113,6 @@ date,repository,clones,views
 2025-09-16,rhasspy-handler,1,0
 2025-09-13,simple-streaming-gateway,1,1
 2025-09-16,simple-streaming-gateway,1,0
-2025-09-04,stats,1,0
-2025-09-05,stats,4,0
 2025-09-06,stats,4,0
 2025-09-07,stats,4,0
 2025-09-08,stats,3,0
@@ -128,6 +125,7 @@ date,repository,clones,views
 2025-09-15,stats,6,0
 2025-09-16,stats,8,0
 2025-09-17,stats,6,0
+2025-09-18,stats,7,0
 2025-09-10,SubMusic,0,3
 2025-09-05,telegraf-influxdb-grafana-docker,1,0
 2025-09-07,telegraf-influxdb-grafana-docker,1,0
@@ -135,9 +133,12 @@ date,repository,clones,views
 2025-09-09,telegraf-influxdb-grafana-docker,1,0
 2025-09-10,telegraf-influxdb-grafana-docker,1,0
 2025-09-12,telegraf-influxdb-grafana-docker,1,0
+2025-09-18,telegraf-influxdb-grafana-docker,1,0
 2025-09-11,temp-sigfox,1,0
+2025-09-18,temp-sigfox,1,0
 2025-09-06,tkasme,1,0
 2025-09-11,velo.club,1,0
 2025-09-13,velo.club,1,0
 2025-09-06,vimwiki,1,0
 2025-09-07,vimwiki,1,0
+2025-09-18,vimwiki,1,0
