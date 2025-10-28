@@ -2,7 +2,6 @@ date,repository,clones,views
 2025-10-18,alchemy-machine,1,0
 2025-10-19,alchemy-machine,1,0
 2025-10-23,alchemy-machine,1,0
-2025-10-13,analytics-google,3,0
 2025-10-14,analytics-google,4,0
 2025-10-15,analytics-google,6,0
 2025-10-16,analytics-google,4,0
@@ -16,6 +15,7 @@ date,repository,clones,views
 2025-10-24,analytics-google,2,0
 2025-10-25,analytics-google,2,0
 2025-10-26,analytics-google,2,0
+2025-10-27,analytics-google,6,0
 2025-10-24,aws-lambda-cv,1,0
 2025-10-25,aws-lambda-cv,1,0
 2025-10-19,cristianpb,1,0
@@ -41,7 +41,7 @@ date,repository,clones,views
 2025-10-23,dotfiles,1,0
 2025-10-24,dotfiles,1,0
 2025-10-26,dotfiles,8,0
-2025-10-13,dotfiles,0,1
+2025-10-27,dotfiles,2,0
 2025-10-17,dotfiles,0,1
 2025-10-20,dotfiles,0,5
 2025-10-21,dotfiles,0,1
@@ -52,8 +52,6 @@ date,repository,clones,views
 2025-10-16,goaccess,1,0
 2025-10-22,goaccess,1,0
 2025-10-23,goaccess,1,0
-2025-10-13,gswsr,1,0
-2025-10-14,gswsr,1,0
 2025-10-19,gswsr,2,0
 2025-10-23,gswsr,1,0
 2025-10-18,hubot-ratp,1,0
@@ -74,7 +72,6 @@ date,repository,clones,views
 2025-10-21,matchid-backend,1,0
 2025-10-25,matchid-backend,1,0
 2025-10-22,mopidy.js,1,0
-2025-10-13,muse,1,0
 2025-10-15,muse,1,1
 2025-10-18,muse,3,1
 2025-10-19,muse,1,0
@@ -86,6 +83,7 @@ date,repository,clones,views
 2025-10-22,muse,0,1
 2025-10-25,muse,0,1
 2025-10-26,muse,0,2
+2025-10-27,muse,0,1
 2025-10-17,music-s3,1,0
 2025-10-18,music-s3,1,0
 2025-10-19,music-s3,1,0
@@ -115,11 +113,10 @@ date,repository,clones,views
 2025-10-21,object-detection,1,0
 2025-10-22,object-detection,4,0
 2025-10-23,object-detection,1,0
-2025-10-13,object-detection,0,1
+2025-10-27,object-detection,1,4
 2025-10-18,object-detection,0,2
 2025-10-25,object-detection,0,2
 2025-10-26,object-detection,0,16
-2025-10-27,object-detection,0,1
 2025-10-19,object-detection-frontend,1,0
 2025-10-20,object-detection-frontend,1,0
 2025-10-23,object-detection-frontend,1,0
@@ -130,6 +127,7 @@ date,repository,clones,views
 2025-10-17,playlists,5,0
 2025-10-19,playlists,1,0
 2025-10-24,playlists,12,0
+2025-10-27,playlists,4,0
 2025-10-26,playlists,0,2
 2025-10-17,PresentationTechnique,1,0
 2025-10-19,PresentationTechnique,1,0
@@ -156,7 +154,8 @@ date,repository,clones,views
 2025-10-20,rhasspy-handler,0,1
 2025-10-21,simple-streaming-gateway,1,0
 2025-10-24,simple-streaming-gateway,1,0
-2025-10-14,stats,9,0
+2025-10-27,simple-streaming-gateway,1,0
+2025-10-14,stats,6,0
 2025-10-15,stats,3,0
 2025-10-16,stats,5,0
 2025-10-17,stats,5,0
@@ -169,11 +168,13 @@ date,repository,clones,views
 2025-10-24,stats,5,0
 2025-10-25,stats,6,0
 2025-10-26,stats,7,0
+2025-10-27,stats,7,0
 2025-10-21,SubMusic,1,0
 2025-10-25,SubMusic,1,0
 2025-10-22,telegraf-influxdb-grafana-docker,1,0
 2025-10-24,telegraf-influxdb-grafana-docker,3,1
 2025-10-25,telegraf-influxdb-grafana-docker,1,0
+2025-10-27,telegraf-influxdb-grafana-docker,2,0
 2025-10-16,telegraf-influxdb-grafana-docker,0,5
 2025-10-20,telegraf-influxdb-grafana-docker,0,2
 2025-10-16,temp-sigfox,1,0
@@ -181,6 +182,7 @@ date,repository,clones,views
 2025-10-19,temp-sigfox,2,0
 2025-10-23,temp-sigfox,1,0
 2025-10-24,temp-sigfox,1,0
+2025-10-27,temp-sigfox,1,0
 2025-10-19,tkasme,1,0
 2025-10-20,tkasme,1,0
 2025-10-22,tkasme,1,0
@@ -190,3 +192,4 @@ date,repository,clones,views
 2025-10-18,vimwiki,4,0
 2025-10-19,vimwiki,1,0
 2025-10-21,vimwiki,1,0
+2025-10-27,vimwiki,1,0
