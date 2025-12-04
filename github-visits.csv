@@ -1,7 +1,6 @@
 date,repository,clones,views
 2025-11-26,alchemy-machine,1,0
 2025-11-29,alchemy-machine,2,0
-2025-11-19,analytics-google,3,0
 2025-11-20,analytics-google,3,0
 2025-11-21,analytics-google,3,0
 2025-11-22,analytics-google,3,0
@@ -15,6 +14,7 @@ date,repository,clones,views
 2025-11-30,analytics-google,3,3
 2025-12-01,analytics-google,23,1
 2025-12-02,analytics-google,14,1
+2025-12-03,analytics-google,51,0
 2025-11-23,aws-lambda-cv,1,0
 2025-11-29,aws-lambda-cv,1,0
 2025-12-01,aws-lambda-cv,1,0
@@ -31,6 +31,7 @@ date,repository,clones,views
 2025-11-24,deces-backend,1,0
 2025-11-28,deces-backend,1,0
 2025-12-01,deces-backend,1,0
+2025-12-03,deces-backend,1,0
 2025-11-30,deces-ui,1,0
 2025-12-01,deces-ui,1,0
 2025-11-25,dotfiles,1,0
@@ -38,6 +39,7 @@ date,repository,clones,views
 2025-11-28,dotfiles,1,0
 2025-11-29,dotfiles,1,0
 2025-12-02,dotfiles,1,0
+2025-12-03,dotfiles,2,3
 2025-11-20,dotfiles,0,1
 2025-11-21,dotfiles,0,3
 2025-11-22,dotfiles,0,1
@@ -45,6 +47,7 @@ date,repository,clones,views
 2025-11-25,enkontext,1,0
 2025-11-28,enkontext,1,0
 2025-11-29,enkontext,1,0
+2025-12-03,enkontext,1,0
 2025-12-03,goaccess,1,0
 2025-11-20,goaccess,0,1
 2025-11-29,gswsr,1,0
@@ -52,8 +55,10 @@ date,repository,clones,views
 2025-11-29,hubot-ratp,1,0
 2025-11-30,hubot-ratp,1,0
 2025-12-02,hubot-ratp,1,0
+2025-12-03,hubot-ratp,1,0
 2025-11-27,hubot-ratp,0,2
 2025-11-29,hubot-velib,2,0
+2025-12-03,hubot-velib,1,0
 2025-11-26,judilibre-stats,0,1
 2025-11-29,mask-detection,1,0
 2025-11-30,mask-detection,1,0
@@ -72,6 +77,7 @@ date,repository,clones,views
 2025-11-26,muse,0,1
 2025-11-28,muse,0,1
 2025-11-30,muse,0,2
+2025-12-03,muse,0,5
 2025-11-22,music-s3,1,0
 2025-11-27,music-s3,1,0
 2025-11-29,music-s3,1,0
@@ -80,8 +86,7 @@ date,repository,clones,views
 2025-11-20,myhubot,1,0
 2025-11-29,myhubot,1,0
 2025-12-02,myhubot,2,0
-2025-11-19,nerf,1,0
-2025-11-20,nerf,2,0
+2025-11-20,nerf,1,0
 2025-11-29,nerf,1,0
 2025-11-30,nerf,1,0
 2025-11-24,nerf,0,1
@@ -93,7 +98,6 @@ date,repository,clones,views
 2025-11-25,object-detection,1,0
 2025-11-29,object-detection,2,0
 2025-12-02,object-detection,3,1
-2025-11-19,object-detection,0,1
 2025-11-22,object-detection,0,1
 2025-11-26,object-detection,0,3
 2025-11-28,object-detection,0,1
@@ -101,15 +105,19 @@ date,repository,clones,views
 2025-11-22,object-detection-frontend,1,0
 2025-11-29,object-detection-frontend,1,0
 2025-11-30,object-detection-frontend,1,0
+2025-12-03,object-detection-frontend,1,0
 2025-11-29,piac-bot,1,0
 2025-12-01,piac-bot,1,0
+2025-12-03,piac-bot,2,0
 2025-11-21,playlists,9,0
 2025-11-28,playlists,9,0
 2025-11-29,playlists,20,0
 2025-11-30,playlists,17,0
 2025-12-01,playlists,14,0
 2025-12-02,playlists,10,0
+2025-12-03,playlists,30,0
 2025-11-29,PresentationTechnique,1,0
+2025-12-03,PresentationTechnique,1,0
 2025-11-27,priceminister,1,0
 2025-11-29,priceminister,1,0
 2025-12-02,priceminister,3,0
@@ -119,12 +127,9 @@ date,repository,clones,views
 2025-11-28,recettes,2,0
 2025-11-29,recettes,1,0
 2025-12-01,recettes,1,0
-2025-11-19,rhasspy-handler,1,0
 2025-11-20,rhasspy-handler,1,0
 2025-11-29,rhasspy-handler,2,1
 2025-11-29,simple-streaming-gateway,2,0
-2025-11-19,stats,2,0
-2025-11-20,stats,6,0
 2025-11-21,stats,4,0
 2025-11-22,stats,4,0
 2025-11-23,stats,4,0
@@ -137,7 +142,9 @@ date,repository,clones,views
 2025-11-30,stats,7,0
 2025-12-01,stats,15,0
 2025-12-02,stats,20,0
+2025-12-03,stats,36,0
 2025-11-29,SubMusic,1,0
+2025-12-03,SubMusic,0,2
 2025-11-20,telegraf-influxdb-grafana-docker,1,0
 2025-11-22,telegraf-influxdb-grafana-docker,0,2
 2025-11-25,telegraf-influxdb-grafana-docker,0,1
