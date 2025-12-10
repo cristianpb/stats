@@ -1,7 +1,6 @@
 date,repository,clones,views
 2025-11-26,alchemy-machine,1,0
 2025-11-29,alchemy-machine,2,0
-2025-11-25,analytics-google,5,0
 2025-11-26,analytics-google,3,0
 2025-11-27,analytics-google,4,1
 2025-11-28,analytics-google,3,1
@@ -15,6 +14,7 @@ date,repository,clones,views
 2025-12-06,analytics-google,8,0
 2025-12-07,analytics-google,5,0
 2025-12-08,analytics-google,4,1
+2025-12-09,analytics-google,10,2
 2025-11-29,aws-lambda-cv,1,0
 2025-12-01,aws-lambda-cv,1,0
 2025-12-07,aws-lambda-cv,1,0
@@ -24,6 +24,7 @@ date,repository,clones,views
 2025-11-29,cristianpb.github.io,2,0
 2025-12-07,cristianpb.github.io,3,0
 2025-12-08,cristianpb.github.io,2,0
+2025-12-09,cristianpb.github.io,2,0
 2025-12-02,dataiku-dss-docker,1,0
 2025-12-05,dataiku-dss-docker,1,0
 2025-11-29,datalab.mi,1,0
@@ -34,10 +35,10 @@ date,repository,clones,views
 2025-12-07,deces-backend,1,0
 2025-12-04,deces-dataprep,1,0
 2025-12-06,deces-dataprep,1,0
+2025-12-09,deces-dataprep,1,0
 2025-11-30,deces-ui,1,0
 2025-12-01,deces-ui,1,0
-2025-11-25,dotfiles,1,0
-2025-11-26,dotfiles,1,0
+2025-12-09,deces-ui,1,0
 2025-11-28,dotfiles,1,0
 2025-11-29,dotfiles,1,0
 2025-12-02,dotfiles,1,0
@@ -45,7 +46,7 @@ date,repository,clones,views
 2025-12-05,dotfiles,1,1
 2025-12-06,dotfiles,1,0
 2025-12-08,dotfiles,1,0
-2025-11-25,enkontext,1,0
+2025-12-09,dotfiles,5,0
 2025-11-28,enkontext,1,0
 2025-11-29,enkontext,1,0
 2025-12-03,enkontext,1,0
@@ -54,6 +55,7 @@ date,repository,clones,views
 2025-12-06,goaccess,1,0
 2025-11-29,gswsr,1,0
 2025-12-02,gswsr,1,0
+2025-12-09,gswsr,1,0
 2025-11-29,hubot-ratp,1,0
 2025-11-30,hubot-ratp,1,0
 2025-12-02,hubot-ratp,1,0
@@ -66,6 +68,7 @@ date,repository,clones,views
 2025-12-04,hubot-velib,1,0
 2025-12-06,hubot-velib,1,0
 2025-12-07,hubot-velib,1,0
+2025-12-09,hubot-velib,1,0
 2025-12-06,infolettre-lab-ia,1,0
 2025-12-07,infolettre-lab-ia,1,0
 2025-11-26,judilibre-stats,0,1
@@ -79,7 +82,7 @@ date,repository,clones,views
 2025-12-05,muse,1,2
 2025-12-07,muse,1,1
 2025-12-08,muse,2,1
-2025-11-25,muse,0,1
+2025-12-09,muse,4,1
 2025-11-26,muse,0,1
 2025-11-28,muse,0,1
 2025-11-30,muse,0,2
@@ -88,6 +91,7 @@ date,repository,clones,views
 2025-12-06,muse,0,4
 2025-11-27,music-s3,1,0
 2025-11-29,music-s3,1,0
+2025-12-09,music-s3,1,0
 2025-11-26,mybottender,1,0
 2025-11-29,mybottender,1,0
 2025-12-06,mybottender,1,0
@@ -100,12 +104,11 @@ date,repository,clones,views
 2025-11-29,nerf,1,0
 2025-11-30,nerf,1,0
 2025-12-08,nerf,1,0
-2025-11-25,newsapp,1,0
 2025-11-29,newsapp,1,0
 2025-12-05,newsapp,1,0
 2025-11-29,ngTwitterApp,1,0
 2025-12-06,ngTwitterApp,1,0
-2025-11-25,object-detection,1,0
+2025-12-09,ngTwitterApp,1,0
 2025-11-29,object-detection,2,0
 2025-12-02,object-detection,3,1
 2025-12-05,object-detection,2,0
@@ -154,10 +157,10 @@ date,repository,clones,views
 2025-12-04,rhasspy-handler,1,0
 2025-12-07,rhasspy-handler,1,0
 2025-12-08,rhasspy-handler,1,0
+2025-12-09,rhasspy-handler,2,0
 2025-11-29,simple-streaming-gateway,2,0
 2025-12-07,simple-streaming-gateway,1,0
 2025-12-08,simple-streaming-gateway,1,0
-2025-11-26,stats,4,0
 2025-11-27,stats,4,0
 2025-11-28,stats,6,0
 2025-11-29,stats,7,0
@@ -170,18 +173,20 @@ date,repository,clones,views
 2025-12-06,stats,10,0
 2025-12-07,stats,6,0
 2025-12-08,stats,8,0
+2025-12-09,stats,6,0
 2025-11-29,SubMusic,1,0
 2025-12-04,SubMusic,1,0
 2025-12-08,SubMusic,1,0
 2025-12-03,SubMusic,0,2
 2025-12-08,telegraf-influxdb-grafana-docker,1,0
-2025-11-25,telegraf-influxdb-grafana-docker,0,1
+2025-12-09,telegraf-influxdb-grafana-docker,2,0
 2025-11-26,telegraf-influxdb-grafana-docker,0,2
 2025-11-29,temp-sigfox,1,0
 2025-12-01,temp-sigfox,1,0
 2025-12-04,temp-sigfox,1,0
 2025-12-05,temp-sigfox,1,0
 2025-12-08,temp-sigfox,1,0
+2025-12-09,temp-sigfox,2,0
 2025-11-29,tkasme,1,0
 2025-12-01,tkasme,1,0
 2025-12-05,tkasme,1,0
@@ -193,3 +198,4 @@ date,repository,clones,views
 2025-11-28,vimwiki,1,0
 2025-11-29,vimwiki,1,0
 2025-12-06,vimwiki,1,0
+2025-12-09,vimwiki,2,0
