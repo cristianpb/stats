@@ -1,6 +1,6 @@
 nomRepo,url,updated,size,stars,watchers,forks,views,viewsUniques,clones,clonesUniques
 alchemy-machine,https://github.com/cristianpb/alchemy-machine,2023-01-28T17:10:10Z,297,0,0,0,0,0,5,4
-analytics-google,https://github.com/cristianpb/analytics-google,2025-10-06T09:28:55Z,7007,16,16,4,7,3,88,61
+analytics-google,https://github.com/cristianpb/analytics-google,2025-10-06T09:28:55Z,7008,16,16,4,7,3,88,61
 aws-lambda-cv,https://github.com/cristianpb/aws-lambda-cv,2019-12-12T19:19:50Z,62,0,0,0,0,0,3,3
 cristianpb,https://github.com/cristianpb/cristianpb,2024-12-16T07:06:01Z,10,0,0,0,1,1,3,3
 cristianpb.github.io,https://github.com/cristianpb/cristianpb.github.io,2025-06-25T07:53:59Z,106898,0,0,2,0,0,11,11
@@ -11,9 +11,10 @@ deces-dataprep,https://github.com/cristianpb/deces-dataprep,2020-04-25T10:17:47Z
 deces-ui,https://github.com/cristianpb/deces-ui,2020-03-22T16:05:54Z,368,0,0,0,0,0,4,4
 dotfiles,https://github.com/cristianpb/dotfiles,2025-11-24T08:16:04Z,406,25,25,7,9,5,10,8
 enkontext,https://github.com/cristianpb/enkontext,2020-05-07T20:15:04Z,9452,0,0,0,1,1,3,3
-gswsr,https://github.com/cristianpb/gswsr,2023-07-30T21:07:38Z,3573,0,0,0,0,0,4,4
+goaccess,https://github.com/cristianpb/goaccess,2023-02-03T17:33:53Z,6831,0,0,0,0,0,1,1
+gswsr,https://github.com/cristianpb/gswsr,2023-07-30T21:07:38Z,3573,0,0,0,0,0,3,3
 hubot-ratp,https://github.com/cristianpb/hubot-ratp,2018-01-18T21:38:00Z,95,0,0,0,0,0,5,5
-hubot-velib,https://github.com/cristianpb/hubot-velib,2018-01-15T10:32:59Z,43,0,0,0,0,0,5,5
+hubot-velib,https://github.com/cristianpb/hubot-velib,2018-01-15T10:32:59Z,43,0,0,0,0,0,6,6
 infolettre-lab-ia,https://github.com/cristianpb/infolettre-lab-ia,2021-11-08T09:35:21Z,17219,0,0,0,0,0,1,1
 judilibre-stats,https://github.com/cristianpb/judilibre-stats,2021-10-21T22:47:08Z,1832,0,0,0,0,0,5,5
 mask-detection,https://github.com/cristianpb/mask-detection,2020-05-05T21:36:36Z,40800,0,0,1,0,0,4,4
@@ -36,7 +37,7 @@ qrcode-reader,https://github.com/cristianpb/qrcode-reader,2023-07-30T21:08:20Z,2
 recettes,https://github.com/cristianpb/recettes,2018-12-08T21:52:43Z,154,0,0,0,0,0,4,4
 rhasspy-handler,https://github.com/cristianpb/rhasspy-handler,2024-09-22T17:03:37Z,814,6,6,1,0,0,7,7
 simple-streaming-gateway,https://github.com/cristianpb/simple-streaming-gateway,2021-04-23T20:15:18Z,31837,0,0,0,0,0,2,2
-stats,https://github.com/cristianpb/stats,2023-10-01T10:25:43Z,2671,0,0,0,0,0,101,61
+stats,https://github.com/cristianpb/stats,2023-10-01T10:25:43Z,2682,0,0,0,0,0,107,64
 SubMusic,https://github.com/cristianpb/SubMusic,2025-03-18T22:36:09Z,852,0,0,0,1,1,3,2
 telegraf-influxdb-grafana-docker,https://github.com/cristianpb/telegraf-influxdb-grafana-docker,2025-05-10T10:44:30Z,242,20,20,22,5,1,9,8
 temp-sigfox,https://github.com/cristianpb/temp-sigfox,2021-05-17T21:06:24Z,122,1,1,2,0,0,6,6

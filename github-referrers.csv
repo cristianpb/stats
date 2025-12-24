@@ -1,2 +1,15 @@
 referrer,count,uniques,repository
-
+dotfiles.github.io,3,2,dotfiles
+github.com,2,2,dotfiles
+github.com,1,1,enkontext
+mopidy.com,10,6,muse
+github.com,4,1,muse
+DuckDuckGo,2,1,muse
+Google,2,1,muse
+pypi.org,2,1,muse
+ecosia.org,1,1,muse
+pimusic.home,1,1,muse
+cristianpb.github.io,9,1,object-detection
+github.com,2,2,object-detection
+github.com,1,1,playlists
+medium.com,4,1,telegraf-influxdb-grafana-docker
