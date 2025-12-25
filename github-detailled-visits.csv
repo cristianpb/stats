@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,3,3,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,1,1,analytics-google
 /cristianpb/analytics-google/actions,Workflow runs · cristianpb/analytics-google · GitHub,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/.eslintrc.cjs,analytics-google/.eslintrc.cjs at master · cristianpb/analytics-google · GitHub,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/jsconfig.json,analytics-google/jsconfig.json at master · cristianpb/analytics-google · GitHub,1,1,analytics-google
@@ -11,9 +11,9 @@ path,title,count,uniques,repository
 /cristianpb/enkontext,cristianpb/enkontext,1,1,enkontext
 /cristianpb/muse,cristianpb/muse: Mopidy web client with Snapcast support,22,15,muse
 /cristianpb/muse/commit/4903cc9af9e7a23fdb6c6352b9db74f143d40c0f,⬆️ Update snapserver version · cristianpb/muse@4903cc9 · GitHub,3,1,muse
-/cristianpb/muse/actions,Workflow runs · cristianpb/muse · GitHub,2,2,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,2,2,muse
 /cristianpb/muse/commits/master,Commits · cristianpb/muse · GitHub,2,1,muse
+/cristianpb/muse/actions,Workflow runs · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/blob/master/Dockerfile-snapserver,muse/Dockerfile-snapserver at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/blob/master/README.md,muse/README.md at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/blob/master/pyproject.toml,muse/pyproject.toml at master · cristianpb/muse,1,1,muse
