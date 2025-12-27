@@ -1,10 +1,7 @@
 path,title,count,uniques,repository
 /cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,1,1,analytics-google
-/cristianpb/analytics-google/actions,Workflow runs · cristianpb/analytics-google · GitHub,1,1,analytics-google
-/cristianpb/analytics-google/blob/master/.eslintrc.cjs,analytics-google/.eslintrc.cjs at master · cristianpb/analytics-google · GitHub,1,1,analytics-google
-/cristianpb/analytics-google/blob/master/jsconfig.json,analytics-google/jsconfig.json at master · cristianpb/analytics-google · GitHub,1,1,analytics-google
 /cristianpb/cristianpb,GitHub - cristianpb/cristianpb,1,1,cristianpb
-/cristianpb/dotfiles,cristianpb/dotfiles: My dotfiles,5,5,dotfiles
+/cristianpb/dotfiles,cristianpb/dotfiles: My dotfiles,6,5,dotfiles
 /cristianpb/dotfiles/tree/master/nvim/.config/nvim,dotfiles/nvim/.config/nvim at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/nvim/.config/nvim/init.lua,dotfiles/nvim/.config/nvim/init.lua at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/enkontext,cristianpb/enkontext,1,1,enkontext
@@ -16,7 +13,7 @@ path,title,count,uniques,repository
 /cristianpb/muse/blob/master/README.md,muse/README.md at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/blob/master/pyproject.toml,muse/pyproject.toml at master · cristianpb/muse,1,1,muse
-/cristianpb/object-detection/tree/master/models/yolo,object-detection/models/yolo at master · cristianpb/object-detection · GitHub,6,1,object-detection
+/cristianpb/object-detection/tree/master/models/yolo,object-detection/models/yolo at master · cristianpb/object-detection · GitHub,5,1,object-detection
 /cristianpb/object-detection,"cristianpb/object-detection: Object detection on Jetson Nano, Raspberry Pi an...",4,4,object-detection
 /cristianpb/object-detection/tree/master/backend,object-detection/backend at master · cristianpb/object-detection,2,1,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,object-detection/backend/ssd_detection.py at master · cristianpb/object-detec...,1,1,object-detection
@@ -26,13 +23,10 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/pulls,Pull requests · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/object-detection/tree/master,"cristianpb/object-detection: Object detection on Jetson Nano, Raspberry Pi an...",1,1,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection,1,1,object-detection
-/cristianpb/piac-bot,GitHub - cristianpb/piac-bot,1,1,piac-bot
 /cristianpb/playlists/actions/runs/20359853528,Get data from GA · cristianpb/playlists@cb2a593 · GitHub,3,3,playlists
 /cristianpb/playlists,GitHub - cristianpb/playlists,3,1,playlists
 /cristianpb/playlists/actions,Workflow runs · cristianpb/playlists · GitHub,1,1,playlists
 /cristianpb/playlists/actions/runs/20156322653,Get data from GA · cristianpb/playlists@cb2a593 · GitHub,1,1,playlists
 /cristianpb/playlists/actions/runs/20156322653/job/57862096007,Get data from GA · cristianpb/playlists@cb2a593 · GitHub,1,1,playlists
 /cristianpb/playlists/actions/runs/20359853528/job/58505322816,Get data from GA · cristianpb/playlists@cb2a593,1,1,playlists
-/cristianpb/SubMusic,GitHub - cristianpb/SubMusic: Sync music and podcasts to your Garmin watch fr...,1,1,SubMusic
 /cristianpb/vimwiki/forks,Forks · cristianpb/vimwiki · GitHub,1,1,vimwiki
-/cristianpb/vimwiki/releases,Releases · cristianpb/vimwiki,1,1,vimwiki
