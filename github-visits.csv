@@ -1,5 +1,4 @@
 date,repository,clones,views
-2025-12-14,alchemy-machine,0,0
 2025-12-15,alchemy-machine,0,0
 2025-12-16,alchemy-machine,0,0
 2025-12-17,alchemy-machine,1,0
@@ -13,7 +12,7 @@ date,repository,clones,views
 2025-12-25,alchemy-machine,1,0
 2025-12-26,alchemy-machine,0,0
 2025-12-27,alchemy-machine,1,0
-2025-12-14,analytics-google,6,1
+2025-12-28,alchemy-machine,1,0
 2025-12-15,analytics-google,8,0
 2025-12-16,analytics-google,8,0
 2025-12-17,analytics-google,7,0
@@ -27,7 +26,7 @@ date,repository,clones,views
 2025-12-25,analytics-google,6,0
 2025-12-26,analytics-google,5,0
 2025-12-27,analytics-google,6,0
-2025-12-14,aws-lambda-cv,0,0
+2025-12-28,analytics-google,10,0
 2025-12-15,aws-lambda-cv,0,0
 2025-12-16,aws-lambda-cv,0,0
 2025-12-17,aws-lambda-cv,0,0
@@ -41,7 +40,7 @@ date,repository,clones,views
 2025-12-25,aws-lambda-cv,0,0
 2025-12-26,aws-lambda-cv,0,0
 2025-12-27,aws-lambda-cv,0,0
-2025-12-14,cristianpb,0,1
+2025-12-28,aws-lambda-cv,0,0
 2025-12-15,cristianpb,0,0
 2025-12-16,cristianpb,1,0
 2025-12-17,cristianpb,0,0
@@ -55,7 +54,7 @@ date,repository,clones,views
 2025-12-25,cristianpb,1,0
 2025-12-26,cristianpb,0,0
 2025-12-27,cristianpb,0,0
-2025-12-14,cristianpb.github.io,2,0
+2025-12-28,cristianpb,1,0
 2025-12-15,cristianpb.github.io,0,0
 2025-12-16,cristianpb.github.io,0,0
 2025-12-17,cristianpb.github.io,1,0
@@ -69,7 +68,7 @@ date,repository,clones,views
 2025-12-25,cristianpb.github.io,0,0
 2025-12-26,cristianpb.github.io,1,0
 2025-12-27,cristianpb.github.io,0,0
-2025-12-14,dataiku-dss-docker,0,0
+2025-12-28,cristianpb.github.io,0,0
 2025-12-15,dataiku-dss-docker,0,0
 2025-12-16,dataiku-dss-docker,1,0
 2025-12-17,dataiku-dss-docker,1,0
@@ -83,7 +82,7 @@ date,repository,clones,views
 2025-12-25,dataiku-dss-docker,0,0
 2025-12-26,dataiku-dss-docker,0,0
 2025-12-27,dataiku-dss-docker,0,0
-2025-12-14,datalab.mi,0,0
+2025-12-28,dataiku-dss-docker,0,0
 2025-12-15,datalab.mi,1,0
 2025-12-16,datalab.mi,0,0
 2025-12-17,datalab.mi,1,0
@@ -97,7 +96,7 @@ date,repository,clones,views
 2025-12-25,datalab.mi,0,0
 2025-12-26,datalab.mi,0,0
 2025-12-27,datalab.mi,1,0
-2025-12-14,deces-backend,0,0
+2025-12-28,datalab.mi,0,0
 2025-12-15,deces-backend,0,0
 2025-12-16,deces-backend,0,0
 2025-12-17,deces-backend,0,0
@@ -111,7 +110,7 @@ date,repository,clones,views
 2025-12-25,deces-backend,0,0
 2025-12-26,deces-backend,0,0
 2025-12-27,deces-backend,1,0
-2025-12-14,deces-dataprep,0,0
+2025-12-28,deces-backend,0,0
 2025-12-15,deces-dataprep,0,0
 2025-12-16,deces-dataprep,0,0
 2025-12-17,deces-dataprep,0,0
@@ -125,7 +124,7 @@ date,repository,clones,views
 2025-12-25,deces-dataprep,0,0
 2025-12-26,deces-dataprep,0,0
 2025-12-27,deces-dataprep,0,0
-2025-12-14,deces-ui,0,0
+2025-12-28,deces-dataprep,0,0
 2025-12-15,deces-ui,0,0
 2025-12-16,deces-ui,0,0
 2025-12-17,deces-ui,0,0
@@ -139,7 +138,7 @@ date,repository,clones,views
 2025-12-25,deces-ui,0,0
 2025-12-26,deces-ui,0,0
 2025-12-27,deces-ui,0,0
-2025-12-14,dotfiles,0,0
+2025-12-28,deces-ui,1,0
 2025-12-15,dotfiles,0,4
 2025-12-16,dotfiles,2,0
 2025-12-17,dotfiles,0,2
@@ -153,7 +152,7 @@ date,repository,clones,views
 2025-12-25,dotfiles,1,1
 2025-12-26,dotfiles,0,0
 2025-12-27,dotfiles,0,1
-2025-12-14,enkontext,0,0
+2025-12-28,dotfiles,0,0
 2025-12-15,enkontext,0,0
 2025-12-16,enkontext,0,0
 2025-12-17,enkontext,0,1
@@ -167,7 +166,7 @@ date,repository,clones,views
 2025-12-25,enkontext,0,0
 2025-12-26,enkontext,0,0
 2025-12-27,enkontext,0,0
-2025-12-14,goaccess,0,0
+2025-12-28,enkontext,0,0
 2025-12-15,goaccess,0,0
 2025-12-16,goaccess,0,0
 2025-12-17,goaccess,0,0
@@ -181,7 +180,7 @@ date,repository,clones,views
 2025-12-25,goaccess,0,0
 2025-12-26,goaccess,1,0
 2025-12-27,goaccess,0,0
-2025-12-14,gswsr,0,0
+2025-12-28,goaccess,0,0
 2025-12-15,gswsr,0,0
 2025-12-16,gswsr,0,0
 2025-12-17,gswsr,0,0
@@ -195,8 +194,7 @@ date,repository,clones,views
 2025-12-25,gswsr,1,0
 2025-12-26,gswsr,0,0
 2025-12-27,gswsr,0,0
-2025-12-13,hubot-ratp,1,0
-2025-12-14,hubot-ratp,0,0
+2025-12-28,gswsr,0,0
 2025-12-15,hubot-ratp,0,0
 2025-12-16,hubot-ratp,0,0
 2025-12-17,hubot-ratp,1,0
@@ -209,7 +207,8 @@ date,repository,clones,views
 2025-12-24,hubot-ratp,0,0
 2025-12-25,hubot-ratp,0,0
 2025-12-26,hubot-ratp,0,0
-2025-12-14,hubot-velib,0,0
+2025-12-27,hubot-ratp,0,0
+2025-12-28,hubot-ratp,1,0
 2025-12-15,hubot-velib,0,0
 2025-12-16,hubot-velib,0,0
 2025-12-17,hubot-velib,1,0
@@ -223,7 +222,7 @@ date,repository,clones,views
 2025-12-25,hubot-velib,0,0
 2025-12-26,hubot-velib,0,0
 2025-12-27,hubot-velib,0,0
-2025-12-14,infolettre-lab-ia,0,0
+2025-12-28,hubot-velib,0,0
 2025-12-15,infolettre-lab-ia,0,0
 2025-12-16,infolettre-lab-ia,0,0
 2025-12-17,infolettre-lab-ia,0,0
@@ -237,7 +236,7 @@ date,repository,clones,views
 2025-12-25,infolettre-lab-ia,0,0
 2025-12-26,infolettre-lab-ia,0,0
 2025-12-27,infolettre-lab-ia,0,0
-2025-12-14,judilibre-stats,0,0
+2025-12-28,infolettre-lab-ia,0,0
 2025-12-15,judilibre-stats,0,0
 2025-12-16,judilibre-stats,0,0
 2025-12-17,judilibre-stats,0,0
@@ -251,6 +250,7 @@ date,repository,clones,views
 2025-12-25,judilibre-stats,0,0
 2025-12-26,judilibre-stats,0,0
 2025-12-27,judilibre-stats,1,0
+2025-12-28,judilibre-stats,0,0
 2025-12-14,mask-detection,0,0
 2025-12-15,mask-detection,0,0
 2025-12-16,mask-detection,0,0
@@ -265,7 +265,6 @@ date,repository,clones,views
 2025-12-25,mask-detection,0,0
 2025-12-26,mask-detection,0,0
 2025-12-27,mask-detection,0,0
-2025-12-14,matchid-backend,0,0
 2025-12-15,matchid-backend,0,0
 2025-12-16,matchid-backend,0,0
 2025-12-17,matchid-backend,0,0
@@ -279,7 +278,7 @@ date,repository,clones,views
 2025-12-25,matchid-backend,0,0
 2025-12-26,matchid-backend,1,0
 2025-12-27,matchid-backend,0,0
-2025-12-14,mopidy.js,0,0
+2025-12-28,matchid-backend,0,0
 2025-12-15,mopidy.js,1,0
 2025-12-16,mopidy.js,0,0
 2025-12-17,mopidy.js,0,0
@@ -293,7 +292,7 @@ date,repository,clones,views
 2025-12-25,mopidy.js,0,0
 2025-12-26,mopidy.js,0,0
 2025-12-27,mopidy.js,1,0
-2025-12-14,muse,1,0
+2025-12-28,mopidy.js,0,0
 2025-12-15,muse,0,1
 2025-12-16,muse,2,3
 2025-12-17,muse,0,1
@@ -307,7 +306,7 @@ date,repository,clones,views
 2025-12-25,muse,1,1
 2025-12-26,muse,0,3
 2025-12-27,muse,0,1
-2025-12-14,music-s3,0,0
+2025-12-28,muse,0,3
 2025-12-15,music-s3,0,0
 2025-12-16,music-s3,0,0
 2025-12-17,music-s3,0,0
@@ -321,7 +320,7 @@ date,repository,clones,views
 2025-12-25,music-s3,1,0
 2025-12-26,music-s3,0,0
 2025-12-27,music-s3,0,0
-2025-12-14,mybottender,0,0
+2025-12-28,music-s3,0,0
 2025-12-15,mybottender,0,0
 2025-12-16,mybottender,0,0
 2025-12-17,mybottender,2,0
@@ -335,7 +334,7 @@ date,repository,clones,views
 2025-12-25,mybottender,1,0
 2025-12-26,mybottender,0,0
 2025-12-27,mybottender,0,0
-2025-12-14,myhubot,0,0
+2025-12-28,mybottender,0,0
 2025-12-15,myhubot,0,0
 2025-12-16,myhubot,0,0
 2025-12-17,myhubot,1,0
@@ -349,7 +348,7 @@ date,repository,clones,views
 2025-12-25,myhubot,0,0
 2025-12-26,myhubot,0,0
 2025-12-27,myhubot,1,0
-2025-12-14,nerf,0,0
+2025-12-28,myhubot,0,0
 2025-12-15,nerf,0,0
 2025-12-16,nerf,0,0
 2025-12-17,nerf,1,0
@@ -363,7 +362,7 @@ date,repository,clones,views
 2025-12-25,nerf,0,0
 2025-12-26,nerf,0,0
 2025-12-27,nerf,0,0
-2025-12-14,newsapp,0,0
+2025-12-28,nerf,1,0
 2025-12-15,newsapp,0,0
 2025-12-16,newsapp,0,0
 2025-12-17,newsapp,1,0
@@ -377,7 +376,7 @@ date,repository,clones,views
 2025-12-25,newsapp,0,0
 2025-12-26,newsapp,0,0
 2025-12-27,newsapp,1,0
-2025-12-14,ngTwitterApp,0,0
+2025-12-28,newsapp,0,0
 2025-12-15,ngTwitterApp,0,0
 2025-12-16,ngTwitterApp,0,0
 2025-12-17,ngTwitterApp,2,0
@@ -391,7 +390,7 @@ date,repository,clones,views
 2025-12-25,ngTwitterApp,1,0
 2025-12-26,ngTwitterApp,0,0
 2025-12-27,ngTwitterApp,0,0
-2025-12-14,object-detection,0,11
+2025-12-28,ngTwitterApp,0,0
 2025-12-15,object-detection,0,0
 2025-12-16,object-detection,1,2
 2025-12-17,object-detection,0,1
@@ -405,7 +404,7 @@ date,repository,clones,views
 2025-12-25,object-detection,0,1
 2025-12-26,object-detection,1,0
 2025-12-27,object-detection,1,0
-2025-12-14,object-detection-frontend,0,0
+2025-12-28,object-detection,1,0
 2025-12-15,object-detection-frontend,0,0
 2025-12-16,object-detection-frontend,0,0
 2025-12-17,object-detection-frontend,0,0
@@ -419,7 +418,7 @@ date,repository,clones,views
 2025-12-25,object-detection-frontend,0,0
 2025-12-26,object-detection-frontend,0,0
 2025-12-27,object-detection-frontend,0,0
-2025-12-14,piac-bot,0,0
+2025-12-28,object-detection-frontend,0,0
 2025-12-15,piac-bot,0,0
 2025-12-16,piac-bot,0,0
 2025-12-17,piac-bot,0,0
@@ -433,7 +432,7 @@ date,repository,clones,views
 2025-12-25,piac-bot,0,0
 2025-12-26,piac-bot,0,0
 2025-12-27,piac-bot,0,0
-2025-12-14,playlists,1,0
+2025-12-28,piac-bot,0,0
 2025-12-15,playlists,0,0
 2025-12-16,playlists,0,0
 2025-12-17,playlists,0,0
@@ -447,6 +446,7 @@ date,repository,clones,views
 2025-12-25,playlists,0,0
 2025-12-26,playlists,15,0
 2025-12-27,playlists,1,0
+2025-12-28,playlists,2,0
 2025-12-14,PresentationTechnique,0,0
 2025-12-15,PresentationTechnique,0,0
 2025-12-16,PresentationTechnique,1,0
@@ -461,7 +461,6 @@ date,repository,clones,views
 2025-12-25,PresentationTechnique,0,0
 2025-12-26,PresentationTechnique,0,0
 2025-12-27,PresentationTechnique,0,0
-2025-12-14,priceminister,0,0
 2025-12-15,priceminister,0,0
 2025-12-16,priceminister,0,0
 2025-12-17,priceminister,1,0
@@ -475,7 +474,7 @@ date,repository,clones,views
 2025-12-25,priceminister,0,0
 2025-12-26,priceminister,0,1
 2025-12-27,priceminister,0,0
-2025-12-14,qrcode-reader,0,0
+2025-12-28,priceminister,0,0
 2025-12-15,qrcode-reader,0,0
 2025-12-16,qrcode-reader,0,0
 2025-12-17,qrcode-reader,1,0
@@ -489,7 +488,7 @@ date,repository,clones,views
 2025-12-25,qrcode-reader,0,0
 2025-12-26,qrcode-reader,0,0
 2025-12-27,qrcode-reader,0,0
-2025-12-14,recettes,0,0
+2025-12-28,qrcode-reader,0,0
 2025-12-15,recettes,0,0
 2025-12-16,recettes,0,0
 2025-12-17,recettes,1,0
@@ -503,7 +502,7 @@ date,repository,clones,views
 2025-12-25,recettes,2,0
 2025-12-26,recettes,0,0
 2025-12-27,recettes,0,0
-2025-12-14,rhasspy-handler,0,0
+2025-12-28,recettes,0,0
 2025-12-15,rhasspy-handler,1,0
 2025-12-16,rhasspy-handler,0,0
 2025-12-17,rhasspy-handler,1,0
@@ -517,7 +516,7 @@ date,repository,clones,views
 2025-12-25,rhasspy-handler,2,0
 2025-12-26,rhasspy-handler,1,0
 2025-12-27,rhasspy-handler,2,0
-2025-12-14,simple-streaming-gateway,0,0
+2025-12-28,rhasspy-handler,0,0
 2025-12-15,simple-streaming-gateway,0,0
 2025-12-16,simple-streaming-gateway,0,0
 2025-12-17,simple-streaming-gateway,0,0
@@ -531,7 +530,7 @@ date,repository,clones,views
 2025-12-25,simple-streaming-gateway,0,0
 2025-12-26,simple-streaming-gateway,0,0
 2025-12-27,simple-streaming-gateway,0,0
-2025-12-14,stats,7,0
+2025-12-28,simple-streaming-gateway,0,0
 2025-12-15,stats,10,0
 2025-12-16,stats,7,0
 2025-12-17,stats,9,0
@@ -545,7 +544,7 @@ date,repository,clones,views
 2025-12-25,stats,11,0
 2025-12-26,stats,9,0
 2025-12-27,stats,5,0
-2025-12-14,SubMusic,1,0
+2025-12-28,stats,10,0
 2025-12-15,SubMusic,0,0
 2025-12-16,SubMusic,0,0
 2025-12-17,SubMusic,0,0
@@ -559,7 +558,7 @@ date,repository,clones,views
 2025-12-25,SubMusic,0,0
 2025-12-26,SubMusic,1,0
 2025-12-27,SubMusic,0,0
-2025-12-14,telegraf-influxdb-grafana-docker,0,0
+2025-12-28,SubMusic,1,0
 2025-12-15,telegraf-influxdb-grafana-docker,1,0
 2025-12-16,telegraf-influxdb-grafana-docker,0,0
 2025-12-17,telegraf-influxdb-grafana-docker,1,0
@@ -573,7 +572,7 @@ date,repository,clones,views
 2025-12-25,telegraf-influxdb-grafana-docker,0,0
 2025-12-26,telegraf-influxdb-grafana-docker,0,0
 2025-12-27,telegraf-influxdb-grafana-docker,0,0
-2025-12-14,temp-sigfox,0,0
+2025-12-28,telegraf-influxdb-grafana-docker,0,0
 2025-12-15,temp-sigfox,0,0
 2025-12-16,temp-sigfox,0,0
 2025-12-17,temp-sigfox,0,0
@@ -587,7 +586,7 @@ date,repository,clones,views
 2025-12-25,temp-sigfox,0,0
 2025-12-26,temp-sigfox,0,0
 2025-12-27,temp-sigfox,0,0
-2025-12-14,tkasme,0,0
+2025-12-28,temp-sigfox,0,0
 2025-12-15,tkasme,0,0
 2025-12-16,tkasme,1,0
 2025-12-17,tkasme,0,0
@@ -601,7 +600,7 @@ date,repository,clones,views
 2025-12-25,tkasme,1,0
 2025-12-26,tkasme,0,0
 2025-12-27,tkasme,0,0
-2025-12-14,velo.club,0,0
+2025-12-28,tkasme,0,0
 2025-12-15,velo.club,0,0
 2025-12-16,velo.club,0,0
 2025-12-17,velo.club,0,0
@@ -615,7 +614,7 @@ date,repository,clones,views
 2025-12-25,velo.club,0,0
 2025-12-26,velo.club,0,0
 2025-12-27,velo.club,1,0
-2025-12-14,vimwiki,0,0
+2025-12-28,velo.club,0,0
 2025-12-15,vimwiki,0,0
 2025-12-16,vimwiki,0,0
 2025-12-17,vimwiki,1,0
@@ -629,3 +628,4 @@ date,repository,clones,views
 2025-12-25,vimwiki,0,0
 2025-12-26,vimwiki,0,0
 2025-12-27,vimwiki,0,0
+2025-12-28,vimwiki,0,3
