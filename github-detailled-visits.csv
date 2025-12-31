@@ -1,9 +1,8 @@
 path,title,count,uniques,repository
-/cristianpb/dotfiles,cristianpb/dotfiles: My dotfiles,6,6,dotfiles
-/cristianpb/dotfiles/tree/master/nvim/.config/nvim,dotfiles/nvim/.config/nvim at master · cristianpb/dotfiles,2,1,dotfiles
-/cristianpb/dotfiles/blob/master/nvim/.config/nvim/init.lua,dotfiles/nvim/.config/nvim/init.lua at master · cristianpb/dotfiles,1,1,dotfiles
+/cristianpb/dotfiles,cristianpb/dotfiles: My dotfiles,5,5,dotfiles
+/cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim/.vimrc at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/enkontext,cristianpb/enkontext,1,1,enkontext
-/cristianpb/muse,cristianpb/muse: Mopidy web client with Snapcast support,26,18,muse
+/cristianpb/muse,cristianpb/muse: Mopidy web client with Snapcast support,25,17,muse
 /cristianpb/muse/commit/4903cc9af9e7a23fdb6c6352b9db74f143d40c0f,⬆️ Update snapserver version · cristianpb/muse@4903cc9 · GitHub,3,1,muse
 /cristianpb/muse/commits/master,Commits · cristianpb/muse · GitHub,2,1,muse
 /cristianpb/muse/blob/master/Dockerfile-snapserver,muse/Dockerfile-snapserver at master · cristianpb/muse · GitHub,1,1,muse
@@ -11,11 +10,12 @@ path,title,count,uniques,repository
 /cristianpb/muse/blob/master/docker-compose.yml,muse/docker-compose.yml at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/blob/master/pyproject.toml,muse/pyproject.toml at master · cristianpb/muse,1,1,muse
 /cristianpb/object-detection/tree/master/models/yolo,object-detection/models/yolo at master · cristianpb/object-detection · GitHub,4,1,object-detection
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",2,2,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",3,3,object-detection
+/cristianpb/object-detection/issues,Issues · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/playlists/actions/runs/20359853528,Get data from GA · cristianpb/playlists@cb2a593 · GitHub,3,3,playlists
 /cristianpb/playlists/actions/runs/20359853528/job/58505322816,Get data from GA · cristianpb/playlists@cb2a593,1,1,playlists
 /cristianpb/priceminister,GitHub - cristianpb/priceminister: Data science projet on nlp,1,1,priceminister
-/cristianpb/vimwiki,cristianpb/vimwiki: My vimwiki,1,1,vimwiki
+/cristianpb/vimwiki,cristianpb/vimwiki: My vimwiki,2,1,vimwiki
 /cristianpb/vimwiki/blob/master/content/JetsonNano.md,vimwiki/content/JetsonNano.md at master · cristianpb/vimwiki,1,1,vimwiki
 /cristianpb/vimwiki/forks,Forks · cristianpb/vimwiki · GitHub,1,1,vimwiki
 /cristianpb/vimwiki/tree/master/content,vimwiki/content at master · cristianpb/vimwiki,1,1,vimwiki
