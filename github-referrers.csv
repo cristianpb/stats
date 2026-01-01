@@ -1,15 +1,15 @@
 referrer,count,uniques,repository
+Google,1,1,analytics-google
 dotfiles.github.io,2,2,dotfiles
 discourse.gohugo.io,1,1,dotfiles
 github.com,1,1,dotfiles
 github.com,1,1,enkontext
-mopidy.com,14,10,muse
+mopidy.com,12,9,muse
 github.com,4,1,muse
 DuckDuckGo,2,1,muse
 pypi.org,2,1,muse
 ecosia.org,1,1,muse
 pimusic.home,1,1,muse
 chatgpt.com,1,1,object-detection
-github.com,1,1,object-detection
 github.com,1,1,playlists
 Google,4,1,vimwiki
