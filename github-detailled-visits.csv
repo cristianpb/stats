@@ -1,28 +1,33 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,1,1,analytics-google
+/cristianpb/analytics-google,cristianpb/analytics-google: Google analytics from cristianpb.github.io,3,3,analytics-google
+/cristianpb/analytics-google/tree/master/src,cristianpb/analytics-google: Google analytics from cristianpb.github.io,2,1,analytics-google
 /cristianpb/analytics-google/blob/master/package-lock.json,analytics-google/package-lock.json at master · cristianpb/analytics-google,1,1,analytics-google
+/cristianpb/analytics-google/blob/master/src/lib/tools/getData.js,analytics-google/src/lib/tools at master · cristianpb/analytics-google,1,1,analytics-google
+/cristianpb/analytics-google/blob/master/src/lib/tools/stores.js,analytics-google/src/lib/views at master · cristianpb/analytics-google,1,1,analytics-google
+/cristianpb/analytics-google/tree/master/src/lib,analytics-google/src at master · cristianpb/analytics-google,1,1,analytics-google
+/cristianpb/analytics-google/tree/master/src/lib/tools,analytics-google/src/lib at master · cristianpb/analytics-google,1,1,analytics-google
+/cristianpb/analytics-google/tree/master/src/lib/views,analytics-google/src/lib/tools/getData.js at master · cristianpb/analytics-go...,1,1,analytics-google
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,5,3,dotfiles
 /cristianpb/dotfiles/blob/master/i3/.config/i3/config,dotfiles/i3/.config/i3/config at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/nsxiv/.config/nsxiv/exec/key-handler,dotfiles/nsxiv/.config/nsxiv/exec/key-handler at master · cristianpb/dotfiles...,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/st/.builds/st/config.h,dotfiles/st/.builds/st/config.h at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
-/cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim/.vimrc at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/xorg/.Xresources.light,dotfiles/xorg/.Xresources.light at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/xorg/.xinitrc,dotfiles/xorg/.xinitrc at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/git,dotfiles/git at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/i3/.config/i3,dotfiles/i3/.config/i3 at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/ncmpcpp/.ncmpcpp,dotfiles/ncmpcpp/.ncmpcpp at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles/tree/master/nsxiv/.config/nsxiv/exec,dotfiles/nsxiv/.config/nsxiv/exec at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/hubot-velib/pulls,Pull requests · cristianpb/hubot-velib · GitHub,1,1,hubot-velib
-/cristianpb/muse,cristianpb/muse: Mopidy web client with Snapcast support,6,5,muse
+/cristianpb/muse,cristianpb/muse: Mopidy web client with Snapcast support,7,6,muse
 /cristianpb/muse/issues,GitHub · Where software is built,1,1,muse
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",2,2,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",1,1,object-detection
 /cristianpb/object-detection/blob/master/models/cascade/facial_recognition_model.xml,object-detection/models/cascade/facial_recognition_model.xml at master · cris...,1,1,object-detection
-/cristianpb/object-detection/issues,Issues · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/object-detection/pulls,Pull requests · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/object-detection/tree/master/models,object-detection/models at master · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/object-detection/tree/master/models/cascade,object-detection/models/cascade at master · cristianpb/object-detection · Git...,1,1,object-detection
 /cristianpb/object-detection/tree/master/models/yolo,object-detection/models/yolo at master · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/playlists/actions/runs/20841334361,Get data from GA · cristianpb/playlists@d54a340 · GitHub,1,1,playlists
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,9,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker,"cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and grafana m...",1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and grafana m...",2,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,telegraf-influxdb-grafana-docker/docker-compose-gpu.yml at master · cristianp...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/vimwiki,cristianpb/vimwiki: My vimwiki,2,2,vimwiki
