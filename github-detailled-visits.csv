@@ -6,7 +6,8 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/tree/master/src/lib,analytics-google/src at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/analytics-google/tree/master/src/lib/tools,analytics-google/src/lib at master · cristianpb/analytics-google,1,1,analytics-google
 /cristianpb/analytics-google/tree/master/src/lib/views,analytics-google/src/lib/tools/getData.js at master · cristianpb/analytics-go...,1,1,analytics-google
-/cristianpb/dotfiles,cristianpb/dotfiles: My dotfiles,7,6,dotfiles
+/cristianpb/cristianpb.github.io/pull/24,Bump addressable from 2.7.0 to 2.8.0 by dependabot[bot] · Pull Request #24 · ...,1,1,cristianpb.github.io
+/cristianpb/dotfiles,cristianpb/dotfiles: My dotfiles,9,6,dotfiles
 /cristianpb/dotfiles/blob/master/i3/.config/i3/config,dotfiles/i3/.config/i3/config at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/nsxiv/.config/nsxiv/exec/key-handler,dotfiles/nsxiv/.config/nsxiv/exec/key-handler at master · cristianpb/dotfiles...,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/st/.builds/st/config.h,dotfiles/st/.builds/st/config.h at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
@@ -30,6 +31,6 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/tree/master/models/yolo,object-detection/models/yolo at master · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/playlists/actions/runs/20841334361,Get data from GA · cristianpb/playlists@d54a340 · GitHub,1,1,playlists
 /cristianpb/priceminister/pull/1/commits,Bump nltk from 3.2.5 to 3.4.5 by dependabot[bot] · Pull Request #1 · cristian...,1,1,priceminister
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,6,2,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,3,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",1,1,telegraf-influxdb-grafana-docker
-/cristianpb/vimwiki,cristianpb/vimwiki: My vimwiki,2,2,vimwiki
+/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,1,1,vimwiki
