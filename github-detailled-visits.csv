@@ -1,37 +1,29 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,cristianpb/analytics-google: Google analytics from cristianpb.github.io,6,5,analytics-google
-/cristianpb/analytics-google/tree/master/src,cristianpb/analytics-google: Google analytics from cristianpb.github.io,2,1,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,4,4,analytics-google
 /cristianpb/analytics-google/actions/runs/12508793276,Get data from GA · cristianpb/analytics-google@b3c7807 · GitHub,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/.eslintrc.cjs,analytics-google/.eslintrc.cjs at master · cristianpb/analytics-google · GitHub,1,1,analytics-google
-/cristianpb/analytics-google/blob/master/src/lib/tools/getData.js,analytics-google/src/lib/tools at master · cristianpb/analytics-google,1,1,analytics-google
-/cristianpb/analytics-google/blob/master/src/lib/tools/stores.js,analytics-google/src/lib/views at master · cristianpb/analytics-google,1,1,analytics-google
-/cristianpb/analytics-google/tree/master/src/lib,analytics-google/src at master · cristianpb/analytics-google,1,1,analytics-google
-/cristianpb/analytics-google/tree/master/src/lib/tools,analytics-google/src/lib at master · cristianpb/analytics-google,1,1,analytics-google
-/cristianpb/analytics-google/tree/master/src/lib/views,analytics-google/src/lib/tools/getData.js at master · cristianpb/analytics-go...,1,1,analytics-google
 /cristianpb/cristianpb.github.io/pull/24,Bump addressable from 2.7.0 to 2.8.0 by dependabot[bot] · Pull Request #24 · ...,1,1,cristianpb.github.io
-/cristianpb/dotfiles,cristianpb/dotfiles: My dotfiles,8,6,dotfiles
-/cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim/.vimrc at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,8,6,dotfiles
+/cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim at master · cristianpb/dotfiles · GitHub,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/i3/.config/i3/config,dotfiles/i3/.config/i3 at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/i3/.config/i3,dotfiles/i3/.config/i3 at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/vim,dotfiles/vim at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/hubot-ratp/issues,GitHub · Where software is built,1,1,hubot-ratp
-/cristianpb/muse,cristianpb/muse: Mopidy web client with Snapcast support,11,8,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,11,8,muse
 /cristianpb/muse/issues,GitHub · Where software is built,2,1,muse
 /cristianpb/muse/pull/52,Bump ws from 8.16.0 to 8.17.1 by dependabot[bot] · Pull Request #52 · cristia...,2,1,muse
 /cristianpb/muse/pulls,Pull requests · cristianpb/muse · GitHub,2,1,muse
-/cristianpb/muse/tree/master/mopidy_muse,muse/src/routes/playlists/+page.svelte at master · cristianpb/muse,2,1,muse
+/cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse,2,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/__init__.py,muse/mopidy_muse at master · cristianpb/muse,1,1,muse
 /cristianpb/muse/blob/master/src/routes/playlists/+page.svelte,muse/src/routes/playlists at master · cristianpb/muse,1,1,muse
 /cristianpb/muse/issues/17,Mopidy Server connection does not seem to work · Issue #17 · cristianpb/muse,1,1,muse
 /cristianpb/muse/issues/25,Support for older browsers (Mobile safari & chrome) · Issue #25 · cristianpb/...,1,1,muse
 /cristianpb/muse/issues/40,Dark mode · Issue #40 · cristianpb/muse,1,1,muse
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",1,1,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",2,2,object-detection
 /cristianpb/object-detection/commit/5055dc3e7218572346dc1b5d7521b8ed0ff77cc2,Use python 3.7 in heroku · cristianpb/object-detection@5055dc3 · GitHub,1,1,object-detection
 /cristianpb/object-detection/pulls,Pull requests · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/object-detection/tree/master/models/yolo,object-detection/models/yolo at master · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/priceminister/pull/1/commits,Bump nltk from 3.2.5 to 3.4.5 by dependabot[bot] · Pull Request #1 · cristian...,1,1,priceminister
-/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,telegraf-influxdb-grafana-docker/docker-compose-gpu.yml at master · cristianp...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,1,1,telegraf-influxdb-grafana-docker
-/cristianpb/vimwiki,GitHub - cristianpb/vimwiki: My vimwiki,1,1,vimwiki
 /cristianpb/vimwiki/actions/caches,Caches · cristianpb/vimwiki · GitHub,1,1,vimwiki
