@@ -9,7 +9,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/tree/master/i3/.config/i3,dotfiles/i3/.config/i3 at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/vim,dotfiles/vim at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/hubot-ratp/issues,GitHub · Where software is built,1,1,hubot-ratp
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,11,8,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,14,9,muse
 /cristianpb/muse/issues,GitHub · Where software is built,2,1,muse
 /cristianpb/muse/pull/52,Bump ws from 8.16.0 to 8.17.1 by dependabot[bot] · Pull Request #52 · cristia...,2,1,muse
 /cristianpb/muse/pulls,Pull requests · cristianpb/muse · GitHub,2,1,muse
@@ -19,7 +19,7 @@ path,title,count,uniques,repository
 /cristianpb/muse/issues/17,Mopidy Server connection does not seem to work · Issue #17 · cristianpb/muse,1,1,muse
 /cristianpb/muse/issues/25,Support for older browsers (Mobile safari & chrome) · Issue #25 · cristianpb/...,1,1,muse
 /cristianpb/muse/issues/40,Dark mode · Issue #40 · cristianpb/muse,1,1,muse
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",2,2,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",3,3,object-detection
 /cristianpb/object-detection/commit/5055dc3e7218572346dc1b5d7521b8ed0ff77cc2,Use python 3.7 in heroku · cristianpb/object-detection@5055dc3 · GitHub,1,1,object-detection
 /cristianpb/object-detection/pulls,Pull requests · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/object-detection/tree/master/models/yolo,object-detection/models/yolo at master · cristianpb/object-detection · GitHub,1,1,object-detection
