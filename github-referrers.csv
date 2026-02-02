@@ -1,4 +1,5 @@
 referrer,count,uniques,repository
+github.com,1,1,analytics-google
 DuckDuckGo,5,1,dotfiles
 Google,2,2,dotfiles
 dotfiles.github.io,1,1,dotfiles
@@ -9,4 +10,4 @@ github.com,2,2,object-detection
 Google,2,1,object-detection
 Google,1,1,object-detection-frontend
 cristianpb-github-io.cdn.ampproject.org,17,1,telegraf-influxdb-grafana-docker
-Google,2,2,telegraf-influxdb-grafana-docker
+Google,1,1,telegraf-influxdb-grafana-docker
