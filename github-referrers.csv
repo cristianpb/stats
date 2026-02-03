@@ -1,8 +1,7 @@
 referrer,count,uniques,repository
 github.com,1,1,analytics-google
 DuckDuckGo,5,1,dotfiles
-Google,2,2,dotfiles
-dotfiles.github.io,1,1,dotfiles
+Google,1,1,dotfiles
 mopidy.com,18,8,muse
 Google,1,1,muse
 github.com,1,1,muse
