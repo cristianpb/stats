@@ -1,17 +1,13 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,3,3,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,4,4,analytics-google
 /cristianpb/analytics-google/actions/runs/12508793276,Get data from GA · cristianpb/analytics-google@b3c7807 · GitHub,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/.eslintrc.cjs,analytics-google/.eslintrc.cjs at master · cristianpb/analytics-google · GitHub,1,1,analytics-google
 /cristianpb/analytics-google/commit/12c69f753e5f95f646284348e2db36bd6dc9d604,✨ Use sveltekit · cristianpb/analytics-google@12c69f7 · GitHub,1,1,analytics-google
-/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,3,3,dotfiles
-/cristianpb/dotfiles/blob/master/i3/.config/i3/config,dotfiles/i3/.config/i3 at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
-/cristianpb/dotfiles/blob/master/vim/.vimrc,dotfiles/vim at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
-/cristianpb/dotfiles/tree/master/i3/.config/i3,dotfiles/i3/.config/i3 at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
-/cristianpb/dotfiles/tree/master/vim,dotfiles/vim at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
+/cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,2,2,dotfiles
 /cristianpb/hubot-velib/actions,Actions · cristianpb/hubot-velib · GitHub,1,1,hubot-velib
 /cristianpb/hubot-velib/issues,GitHub · Where software is built,1,1,hubot-velib
 /cristianpb/hubot-velib/pulls,Pull requests · cristianpb/hubot-velib · GitHub,1,1,hubot-velib
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,19,15,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,18,14,muse
 /cristianpb/muse/tree/master/mopidy_muse,muse/mopidy_muse at master · cristianpb/muse,2,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/__init__.py,muse/mopidy_muse at master · cristianpb/muse,1,1,muse
 /cristianpb/muse/blob/master/src/routes/playlists/+page.svelte,muse/src/routes/playlists at master · cristianpb/muse,1,1,muse
@@ -19,10 +15,12 @@ path,title,count,uniques,repository
 /cristianpb/muse/tree/master/mopidy_muse/static,muse/mopidy_muse at master · cristianpb/muse,1,1,muse
 /cristianpb/muse/tree/master/src/routes/browse,muse/mopidy_muse/static at master · cristianpb/muse,1,1,muse
 /cristianpb/muse/tree/master/src/routes/playlists,muse/src/routes/browse at master · cristianpb/muse,1,1,muse
+/cristianpb/music-s3,GitHub - cristianpb/music-s3,1,1,music-s3
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",5,4,object-detection
 /cristianpb/object-detection/commit/5055dc3e7218572346dc1b5d7521b8ed0ff77cc2,Use python 3.7 in heroku · cristianpb/object-detection@5055dc3 · GitHub,1,1,object-detection
 /cristianpb/object-detection/tree/master/models/yolo,object-detection/models/yolo at master · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/object-detection-frontend,cristianpb/object-detection-frontend: Frontend Angular application for object...,1,1,object-detection-frontend
+/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",1,1,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",2,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/datasource.yaml,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,2,1,telegraf-influxdb-grafana-docker
