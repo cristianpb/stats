@@ -6,5 +6,6 @@ github.com,3,3,object-detection
 Google,2,1,object-detection
 Google,1,1,object-detection-frontend
 Google,1,1,rhasspy-handler
+github.com,1,1,SubMusic
 cristianpb-github-io.cdn.ampproject.org,17,1,telegraf-influxdb-grafana-docker
 Google,1,1,telegraf-influxdb-grafana-docker
