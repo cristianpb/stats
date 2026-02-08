@@ -1,5 +1,6 @@
 referrer,count,uniques,repository
 github.com,1,1,analytics-google
+dotfiles.github.io,2,2,dotfiles
 mopidy.com,11,8,muse
 Google,1,1,muse
 github.com,3,3,object-detection
