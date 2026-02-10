@@ -3,10 +3,10 @@ github.com,2,2,analytics-google
 dotfiles.github.io,2,2,dotfiles
 mopidy.com,11,8,muse
 Google,1,1,muse
+Google,4,2,object-detection
 github.com,3,3,object-detection
-Google,2,1,object-detection
-Google,1,1,object-detection-frontend
+Google,8,2,object-detection-frontend
 Google,1,1,rhasspy-handler
-github.com,1,1,SubMusic
+github.com,2,1,SubMusic
 cristianpb-github-io.cdn.ampproject.org,17,1,telegraf-influxdb-grafana-docker
 Google,1,1,telegraf-influxdb-grafana-docker

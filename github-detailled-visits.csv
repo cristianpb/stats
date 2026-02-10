@@ -1,28 +1,34 @@
 path,title,count,uniques,repository
 /cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,7,5,analytics-google
-/cristianpb/analytics-google/actions/runs/12508793276,Get data from GA · cristianpb/analytics-google@b3c7807 · GitHub,1,1,analytics-google
 /cristianpb/analytics-google/commit/12c69f753e5f95f646284348e2db36bd6dc9d604,✨ Use sveltekit · cristianpb/analytics-google@12c69f7 · GitHub,1,1,analytics-google
-/cristianpb/dotfiles,cristianpb/dotfiles: My dotfiles,5,5,dotfiles
+/cristianpb/dotfiles,cristianpb/dotfiles: My dotfiles,4,4,dotfiles
 /cristianpb/hubot-velib/actions,Actions · cristianpb/hubot-velib · GitHub,1,1,hubot-velib
 /cristianpb/hubot-velib/issues,GitHub · Where software is built,1,1,hubot-velib
 /cristianpb/hubot-velib/pulls,Pull requests · cristianpb/hubot-velib · GitHub,1,1,hubot-velib
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,18,13,muse
+/cristianpb/muse,cristianpb/muse: Mopidy web client with Snapcast support,17,12,muse
 /cristianpb/muse/releases,Releases · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/music-s3,GitHub - cristianpb/music-s3,1,1,music-s3
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",6,5,object-detection
-/cristianpb/object-detection/commit/5055dc3e7218572346dc1b5d7521b8ed0ff77cc2,Use python 3.7 in heroku · cristianpb/object-detection@5055dc3 · GitHub,1,1,object-detection
-/cristianpb/object-detection-frontend,cristianpb/object-detection-frontend: Frontend Angular application for object...,1,1,object-detection-frontend
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,1,1,object-detection
+/cristianpb/object-detection/tree/master,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",1,1,object-detection
+/cristianpb/object-detection-frontend,cristianpb/object-detection-frontend: Frontend Angular application for object...,2,2,object-detection-frontend
+/cristianpb/object-detection-frontend/blob/master/src/index.html,object-detection-frontend/src at master · cristianpb/object-detection-frontend,1,1,object-detection-frontend
+/cristianpb/object-detection-frontend/blob/master/src/styles.scss,object-detection-frontend/src/index.html at master · cristianpb/object-detect...,1,1,object-detection-frontend
+/cristianpb/object-detection-frontend/blob/master/src/test.ts,object-detection-frontend/src/styles.scss at master · cristianpb/object-detec...,1,1,object-detection-frontend
+/cristianpb/object-detection-frontend/blob/master/src/tsconfig.app.json,object-detection-frontend/src/test.ts at master · cristianpb/object-detection...,1,1,object-detection-frontend
+/cristianpb/object-detection-frontend/tree/master/.github,object-detection-frontend/src/tsconfig.app.json at master · cristianpb/object...,1,1,object-detection-frontend
+/cristianpb/object-detection-frontend/tree/master/src,object-detection-frontend/src at master · cristianpb/object-detection-frontend,1,1,object-detection-frontend
 /cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",1,1,rhasspy-handler
 /cristianpb/SubMusic/actions,Workflow runs · cristianpb/SubMusic,11,1,SubMusic
 /cristianpb/SubMusic,cristianpb/SubMusic: Sync music and podcasts to your Garmin watch from your o...,4,1,SubMusic
 /cristianpb/SubMusic/actions/runs/21730587316/job/62683914524,Add CI lint job · cristianpb/SubMusic@21d3615,2,1,SubMusic
 /cristianpb/SubMusic/actions/runs/21742508088,Add devices to ci matrix · cristianpb/SubMusic@efae317,2,1,SubMusic
 /cristianpb/SubMusic/actions/runs/21742508088/job/62720765186,Add devices to ci matrix · cristianpb/SubMusic@efae317,2,1,SubMusic
+/cristianpb/SubMusic/actions/runs/21743352322,Publish package to release · cristianpb/SubMusic@8ea2d0e,2,1,SubMusic
 /cristianpb/SubMusic/actions/runs/21730587316,Add CI lint job · cristianpb/SubMusic@21d3615,1,1,SubMusic
 /cristianpb/SubMusic/actions/runs/21730936383,Use github action to build app · cristianpb/SubMusic@3654cda,1,1,SubMusic
 /cristianpb/SubMusic/actions/runs/21730936383/job/62685082238,Use github action to build app · cristianpb/SubMusic@3654cda,1,1,SubMusic
 /cristianpb/SubMusic/actions/runs/21730986152,Use github action to build app · cristianpb/SubMusic@f95c093,1,1,SubMusic
-/cristianpb/SubMusic/actions/runs/21730986152/job/62685246235,Use github action to build app · cristianpb/SubMusic@f95c093,1,1,SubMusic
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",2,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/datasource.yaml,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,2,1,telegraf-influxdb-grafana-docker
@@ -33,4 +39,3 @@ path,title,count,uniques,repository
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/influxdb/influxdb.conf,telegraf-influxdb-grafana-docker/docker/influxdb at master · cristianpb/teleg...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/influxdb/types.db,telegraf-influxdb-grafana-docker/docker/influxdb at master · cristianpb/teleg...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf-gpu.conf,telegraf-influxdb-grafana-docker/docker/telegraf at master · cristianpb/teleg...,1,1,telegraf-influxdb-grafana-docker
-/cristianpb/vimwiki/actions/caches,Caches · cristianpb/vimwiki · GitHub,1,1,vimwiki
