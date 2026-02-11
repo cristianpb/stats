@@ -1,10 +1,10 @@
 referrer,count,uniques,repository
 github.com,2,2,analytics-google
 dotfiles.github.io,2,2,dotfiles
-mopidy.com,11,8,muse
+mopidy.com,10,7,muse
 Google,1,1,muse
 Google,4,2,object-detection
-github.com,3,3,object-detection
+github.com,2,2,object-detection
 Google,8,2,object-detection-frontend
 Google,1,1,rhasspy-handler
 github.com,2,1,SubMusic
