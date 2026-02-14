@@ -3,13 +3,14 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/commit/12c69f753e5f95f646284348e2db36bd6dc9d604,✨ Use sveltekit · cristianpb/analytics-google@12c69f7 · GitHub,1,1,analytics-google
 /cristianpb/dotfiles,cristianpb/dotfiles: My dotfiles,5,5,dotfiles
 /cristianpb/hubot-velib/actions,Actions · cristianpb/hubot-velib · GitHub,1,1,hubot-velib
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,9,8,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,8,7,muse
 /cristianpb/muse/releases,Releases · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/music-s3,GitHub - cristianpb/music-s3,1,1,music-s3
-/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",5,4,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",3,3,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,1,1,object-detection
+/cristianpb/object-detection/commit/2b96146fa4b0d72b0d0bea21df16dad2a376e5ed,🎨 Add platform deploy variable · cristianpb/object-detection@2b96146 · GitHub,1,1,object-detection
 /cristianpb/object-detection/tree/master,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",1,1,object-detection
-/cristianpb/object-detection-frontend,cristianpb/object-detection-frontend: Frontend Angular application for object...,2,2,object-detection-frontend
+/cristianpb/object-detection-frontend,cristianpb/object-detection-frontend: Frontend Angular application for object...,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/src/index.html,object-detection-frontend/src at master · cristianpb/object-detection-frontend,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/src/styles.scss,object-detection-frontend/src/index.html at master · cristianpb/object-detect...,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/src/test.ts,object-detection-frontend/src/styles.scss at master · cristianpb/object-detec...,1,1,object-detection-frontend
