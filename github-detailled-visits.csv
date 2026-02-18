@@ -1,11 +1,12 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,6,4,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,5,3,analytics-google
 /cristianpb/dotfiles,cristianpb/dotfiles: My dotfiles,5,5,dotfiles
+/cristianpb/dotfiles/issues,Issues · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/pulls,Pull requests · cristianpb/dotfiles · GitHub,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,7,4,muse
+/cristianpb/hubot-velib,GitHub - cristianpb/hubot-velib: A hubot script to search for velibs bikes in...,1,1,hubot-velib
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,8,5,muse
 /cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/issues,GitHub · Where software is built,1,1,muse
-/cristianpb/music-s3,GitHub - cristianpb/music-s3,1,1,music-s3
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",3,3,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,1,1,object-detection
 /cristianpb/object-detection/commit/2b96146fa4b0d72b0d0bea21df16dad2a376e5ed,🎨 Add platform deploy variable · cristianpb/object-detection@2b96146 · GitHub,1,1,object-detection
@@ -17,7 +18,6 @@ path,title,count,uniques,repository
 /cristianpb/object-detection-frontend/blob/master/src/tsconfig.app.json,object-detection-frontend/src/test.ts at master · cristianpb/object-detection...,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/.github,object-detection-frontend/src/tsconfig.app.json at master · cristianpb/object...,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/src,object-detection-frontend/src at master · cristianpb/object-detection-frontend,1,1,object-detection-frontend
-/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",1,1,rhasspy-handler
 /cristianpb/SubMusic/actions,Workflow runs · cristianpb/SubMusic,11,1,SubMusic
 /cristianpb/SubMusic,cristianpb/SubMusic: Sync music and podcasts to your Garmin watch from your o...,4,1,SubMusic
 /cristianpb/SubMusic/actions/runs/21730587316/job/62683914524,Add CI lint job · cristianpb/SubMusic@21d3615,2,1,SubMusic
