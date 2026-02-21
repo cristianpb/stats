@@ -1,31 +1,36 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,4,3,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,2,2,analytics-google
 /cristianpb/cristianpb/blob/main/README.md,cristianpb/README.md at main · cristianpb/cristianpb · GitHub,1,1,cristianpb
+/cristianpb/cristianpb.github.io/actions,Workflow runs · cristianpb/cristianpb.github.io,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/22198566135/job/64205195116,💄 Update navbar color · cristianpb/cristianpb.github.io@7ba4c46,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/22198644063,💄 Update navbar color · cristianpb/cristianpb.github.io@791fe77,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/22198644063/job/64205459834,💄 Update navbar color · cristianpb/cristianpb.github.io@791fe77,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/actions/runs/22198644063/job/64205584225,💄 Update navbar color · cristianpb/cristianpb.github.io@791fe77,1,1,cristianpb.github.io
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,5,5,dotfiles
 /cristianpb/dotfiles/issues,Issues · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/pulls,Pull requests · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/hubot-velib,GitHub - cristianpb/hubot-velib: A hubot script to search for velibs bikes in...,1,1,hubot-velib
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,8,5,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,6,4,muse
 /cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/issues,GitHub · Where software is built,1,1,muse
-/cristianpb/object-detection,GitHub - cristianpb/object-detection：Jetson Nano、树莓派和笔记本电脑上的对象检测,1,1,object-detection
+/cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",2,2,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,1,1,object-detection
 /cristianpb/object-detection/commit/2b96146fa4b0d72b0d0bea21df16dad2a376e5ed,🎨 Add platform deploy variable · cristianpb/object-detection@2b96146 · GitHub,1,1,object-detection
 /cristianpb/object-detection/tree/master,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",1,1,object-detection
-/cristianpb/object-detection-frontend,cristianpb/object-detection-frontend: Frontend Angular application for object...,1,1,object-detection-frontend
+/cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,2,2,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/src/index.html,object-detection-frontend/src at master · cristianpb/object-detection-frontend,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/src/styles.scss,object-detection-frontend/src/index.html at master · cristianpb/object-detect...,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/src/test.ts,object-detection-frontend/src/styles.scss at master · cristianpb/object-detec...,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/src/tsconfig.app.json,object-detection-frontend/src/test.ts at master · cristianpb/object-detection...,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/.github,object-detection-frontend/src/tsconfig.app.json at master · cristianpb/object...,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/tree/master/src,object-detection-frontend/src at master · cristianpb/object-detection-frontend,1,1,object-detection-frontend
-/cristianpb/SubMusic/actions,Workflow runs · cristianpb/SubMusic,11,1,SubMusic
+/cristianpb/SubMusic/actions,Workflow runs · cristianpb/SubMusic,9,1,SubMusic
 /cristianpb/SubMusic,cristianpb/SubMusic: Sync music and podcasts to your Garmin watch from your o...,4,1,SubMusic
-/cristianpb/SubMusic/actions/runs/21730587316/job/62683914524,Add CI lint job · cristianpb/SubMusic@21d3615,2,1,SubMusic
 /cristianpb/SubMusic/actions/runs/21742508088,Add devices to ci matrix · cristianpb/SubMusic@efae317,2,1,SubMusic
 /cristianpb/SubMusic/actions/runs/21742508088/job/62720765186,Add devices to ci matrix · cristianpb/SubMusic@efae317,2,1,SubMusic
 /cristianpb/SubMusic/actions/runs/21743352322,Publish package to release · cristianpb/SubMusic@8ea2d0e,2,1,SubMusic
-/cristianpb/SubMusic/actions/runs/21730587316,Add CI lint job · cristianpb/SubMusic@21d3615,1,1,SubMusic
-/cristianpb/SubMusic/actions/runs/21730936383,Use github action to build app · cristianpb/SubMusic@3654cda,1,1,SubMusic
-/cristianpb/SubMusic/actions/runs/21730936383/job/62685082238,Use github action to build app · cristianpb/SubMusic@3654cda,1,1,SubMusic
-/cristianpb/SubMusic/actions/runs/21730986152,Use github action to build app · cristianpb/SubMusic@f95c093,1,1,SubMusic
+/cristianpb/SubMusic/actions/runs/21742587463,Add devices to ci matrix · cristianpb/SubMusic@5b2136e,1,1,SubMusic
+/cristianpb/SubMusic/actions/runs/21742587463/job/62720997910,Add devices to ci matrix · cristianpb/SubMusic@5b2136e,1,1,SubMusic
+/cristianpb/SubMusic/actions/runs/21742753244,Add devices to ci matrix · cristianpb/SubMusic@9fa1ef5,1,1,SubMusic
+/cristianpb/SubMusic/actions/runs/21742753244/job/62721503696,Add devices to ci matrix · cristianpb/SubMusic@9fa1ef5,1,1,SubMusic
+/cristianpb/SubMusic/actions/runs/21742878440,Add devices to ci matrix · cristianpb/SubMusic@a937353,1,1,SubMusic
