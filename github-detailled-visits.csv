@@ -7,13 +7,14 @@ path,title,count,uniques,repository
 /cristianpb/cristianpb.github.io/actions/runs/22198644063,💄 Update navbar color · cristianpb/cristianpb.github.io@791fe77,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/22198644063/job/64205459834,💄 Update navbar color · cristianpb/cristianpb.github.io@791fe77,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/22198644063/job/64205584225,💄 Update navbar color · cristianpb/cristianpb.github.io@791fe77,1,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io/pulls,Pull requests · cristianpb/cristianpb.github.io · GitHub,1,1,cristianpb.github.io
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles,4,4,dotfiles
 /cristianpb/dotfiles/issues,Issues · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/milestones,Milestones · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/pulls,Pull requests · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/hubot-velib,GitHub - cristianpb/hubot-velib: A hubot script to search for velibs bikes in...,1,1,hubot-velib
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,12,7,muse
-/cristianpb/muse/issues,GitHub · Where software is built,2,2,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,16,9,muse
+/cristianpb/muse/issues,GitHub · Where software is built,3,2,muse
 /cristianpb/muse/blob/master/Dockerfile,muse/Dockerfile at master · cristianpb/muse · GitHub,1,1,muse
 /cristianpb/muse/releases,Releases · cristianpb/muse,1,1,muse
 /cristianpb/muse/releases/tag/v0.0.41,Release Release v0.0.41 · cristianpb/muse,1,1,muse
@@ -21,3 +22,13 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/commit/2b96146fa4b0d72b0d0bea21df16dad2a376e5ed,🎨 Add platform deploy variable · cristianpb/object-detection@2b96146 · GitHub,1,1,object-detection
 /cristianpb/object-detection/commit/6e413761ef059d2fd6eee1e31767e0c43f10b529,Add Aptfile for heroku deployement · cristianpb/object-detection@6e41376 · Gi...,1,1,object-detection
 /cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,1,1,object-detection-frontend
+/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana/datasource.yaml at master · c...,5,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/datasource.yaml,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,3,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,3,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/telegraf,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,3,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",2,2,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf.conf,telegraf-influxdb-grafana-docker/docker/telegraf at master · cristianpb/teleg...,2,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,telegraf-influxdb-grafana-docker/docker-compose-gpu.yml at master · cristianp...,1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/DashboardTelegraf.json,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/dashboard.yaml,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf-gpu.conf,telegraf-influxdb-grafana-docker/docker/telegraf at master · cristianpb/teleg...,1,1,telegraf-influxdb-grafana-docker
