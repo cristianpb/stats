@@ -1,4 +1,5 @@
 path,title,count,uniques,repository
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,1,1,analytics-google
 /cristianpb/cristianpb/activity,Activity · cristianpb/cristianpb · GitHub,1,1,cristianpb
 /cristianpb/cristianpb/blob/main/README.md,cristianpb/README.md at main · cristianpb/cristianpb · GitHub,1,1,cristianpb
 /cristianpb/cristianpb.github.io/pulls,Pull requests · cristianpb/cristianpb.github.io · GitHub,2,1,cristianpb.github.io
@@ -24,7 +25,7 @@ path,title,count,uniques,repository
 /cristianpb/muse/releases,Releases · cristianpb/muse,1,1,muse
 /cristianpb/muse/releases/tag/v0.0.41,Release Release v0.0.41 · cristianpb/muse,1,1,muse
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",3,3,object-detection
-/cristianpb/object-detection/commit/2b96146fa4b0d72b0d0bea21df16dad2a376e5ed,🎨 Add platform deploy variable · cristianpb/object-detection@2b96146 · GitHub,1,1,object-detection
+/cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,1,1,object-detection
 /cristianpb/object-detection/commit/6e413761ef059d2fd6eee1e31767e0c43f10b529,Add Aptfile for heroku deployement · cristianpb/object-detection@6e41376 · Gi...,1,1,object-detection
 /cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,1,1,object-detection-frontend
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana/datasource.yaml at master · c...,5,1,telegraf-influxdb-grafana-docker
