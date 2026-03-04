@@ -1,6 +1,5 @@
 referrer,count,uniques,repository
-Google,1,1,analytics-google
-github.com,1,1,dotfiles
+Google,2,2,analytics-google
 mopidy.com,13,5,muse
 github.com,1,1,muse
 search.nixos.org,1,1,muse
