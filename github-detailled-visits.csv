@@ -30,14 +30,14 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/commit/cee560f29425a61d6bc7e1307b78a75e824bf2f2,Add heroku rule in makefile · cristianpb/object-detection@cee560f · GitHub,1,1,object-detection
 /cristianpb/object-detection/pulls,Pull requests · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/object-detection-frontend,GitHub - cristianpb/object-detection-frontend: Frontend Angular application f...,1,1,object-detection-frontend
-/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",1,1,rhasspy-handler
+/cristianpb/rhasspy-handler/issues/4,"""node index.js"" breaks with 'Error: Cannot find module 'onoff'' · Issue #4 · ...",2,2,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/grafana,telegraf-influxdb-grafana-docker/docker/grafana/datasource.yaml at master · c...,5,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/datasource.yaml,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,3,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,3,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/telegraf,telegraf-influxdb-grafana-docker/docker at master · cristianpb/telegraf-influ...,3,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",2,2,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,telegraf-influxdb-grafana-docker/docker-compose-gpu.yml at master · cristianp...,2,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf.conf,telegraf-influxdb-grafana-docker/docker/telegraf at master · cristianpb/teleg...,2,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,telegraf-influxdb-grafana-docker/docker-compose-gpu.yml at master · cristianp...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/DashboardTelegraf.json,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/grafana/dashboard.yaml,telegraf-influxdb-grafana-docker/docker/grafana at master · cristianpb/telegr...,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf-gpu.conf,telegraf-influxdb-grafana-docker/docker/telegraf at master · cristianpb/teleg...,1,1,telegraf-influxdb-grafana-docker
