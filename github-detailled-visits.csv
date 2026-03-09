@@ -2,7 +2,7 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,3,3,analytics-google
 /cristianpb/cristianpb.github.io/pulls,Pull requests · cristianpb/cristianpb.github.io · GitHub,4,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/milestones,Milestones · cristianpb/cristianpb.github.io · GitHub,1,1,cristianpb.github.io
-/cristianpb/dotfiles,cristianpb/dotfiles: My dotfiles,8,4,dotfiles
+/cristianpb/dotfiles,cristianpb/dotfiles: My dotfiles,9,5,dotfiles
 /cristianpb/dotfiles/blob/master/polybar/.config/polybar/config.ini,dotfiles/polybar/.config/polybar at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/tree/master/polybar/.config/polybar,cristianpb/dotfiles: My dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/bash/.bashrc,dotfiles/bash at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
@@ -12,13 +12,10 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/polybar/.config/polybar/launch.sh,dotfiles/polybar/.config/polybar at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/top/.toprc,dotfiles/systemd/.config/systemd/user at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/fork,Fork cristianpb/dotfiles,1,1,dotfiles
-/cristianpb/muse,cristianpb/muse: Mopidy web client with Snapcast support,17,11,muse
-/cristianpb/muse/issues,GitHub · Where software is built,3,2,muse
-/cristianpb/muse/releases,Releases · cristianpb/muse,1,1,muse
-/cristianpb/muse/releases/tag/v0.0.41,Release Release v0.0.41 · cristianpb/muse,1,1,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,12,10,muse
+/cristianpb/muse/issues,GitHub · Where software is built,2,2,muse
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",4,4,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,1,1,object-detection
-/cristianpb/object-detection/commit/6e413761ef059d2fd6eee1e31767e0c43f10b529,Add Aptfile for heroku deployement · cristianpb/object-detection@6e41376 · Gi...,1,1,object-detection
 /cristianpb/object-detection/commit/8e5d7dafcf3f9d716da93109f06ef899ddc5e4bb,Update gitingore · cristianpb/object-detection@8e5d7da · GitHub,1,1,object-detection
 /cristianpb/object-detection/commit/cee560f29425a61d6bc7e1307b78a75e824bf2f2,Add heroku rule in makefile · cristianpb/object-detection@cee560f · GitHub,1,1,object-detection
 /cristianpb/object-detection/pulls,Pull requests · cristianpb/object-detection · GitHub,1,1,object-detection
