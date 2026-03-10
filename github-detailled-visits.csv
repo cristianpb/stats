@@ -1,8 +1,9 @@
 path,title,count,uniques,repository
 /cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,3,3,analytics-google
 /cristianpb/cristianpb.github.io/pulls,Pull requests · cristianpb/cristianpb.github.io · GitHub,4,1,cristianpb.github.io
+/cristianpb/cristianpb.github.io,GitHub - cristianpb/cristianpb.github.io: My website · GitHub,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/milestones,Milestones · cristianpb/cristianpb.github.io · GitHub,1,1,cristianpb.github.io
-/cristianpb/dotfiles,cristianpb/dotfiles: My dotfiles,9,5,dotfiles
+/cristianpb/dotfiles,cristianpb/dotfiles: My dotfiles,10,6,dotfiles
 /cristianpb/dotfiles/blob/master/polybar/.config/polybar/config.ini,dotfiles/polybar/.config/polybar at master · cristianpb/dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/tree/master/polybar/.config/polybar,cristianpb/dotfiles: My dotfiles,2,1,dotfiles
 /cristianpb/dotfiles/blob/master/bash/.bashrc,dotfiles/bash at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
@@ -12,7 +13,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/polybar/.config/polybar/launch.sh,dotfiles/polybar/.config/polybar at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/top/.toprc,dotfiles/systemd/.config/systemd/user at master · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/fork,Fork cristianpb/dotfiles,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,12,10,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support,11,9,muse
 /cristianpb/muse/issues,GitHub · Where software is built,2,2,muse
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",4,4,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,object-detection/backend/yolo_detection.py at master · cristianpb/object-dete...,1,1,object-detection
