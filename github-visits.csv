@@ -1,5 +1,4 @@
 date,repository,clones,views
-2026-03-10,alchemy-machine,0,0
 2026-03-11,alchemy-machine,1,0
 2026-03-12,alchemy-machine,0,0
 2026-03-13,alchemy-machine,0,0
@@ -13,7 +12,7 @@ date,repository,clones,views
 2026-03-21,alchemy-machine,0,0
 2026-03-22,alchemy-machine,0,0
 2026-03-23,alchemy-machine,0,0
-2026-03-10,analytics-google,4,0
+2026-03-24,alchemy-machine,0,0
 2026-03-11,analytics-google,5,0
 2026-03-12,analytics-google,6,2
 2026-03-13,analytics-google,6,1
@@ -27,7 +26,7 @@ date,repository,clones,views
 2026-03-21,analytics-google,6,2
 2026-03-22,analytics-google,6,1
 2026-03-23,analytics-google,3,4
-2026-03-10,aws-lambda-cv,0,0
+2026-03-24,analytics-google,5,1
 2026-03-11,aws-lambda-cv,0,0
 2026-03-12,aws-lambda-cv,0,0
 2026-03-13,aws-lambda-cv,0,0
@@ -41,7 +40,7 @@ date,repository,clones,views
 2026-03-21,aws-lambda-cv,0,0
 2026-03-22,aws-lambda-cv,0,0
 2026-03-23,aws-lambda-cv,0,0
-2026-03-10,cristianpb,0,0
+2026-03-24,aws-lambda-cv,0,0
 2026-03-11,cristianpb,0,0
 2026-03-12,cristianpb,0,0
 2026-03-13,cristianpb,0,0
@@ -55,7 +54,7 @@ date,repository,clones,views
 2026-03-21,cristianpb,0,0
 2026-03-22,cristianpb,0,0
 2026-03-23,cristianpb,1,0
-2026-03-10,cristianpb.github.io,0,0
+2026-03-24,cristianpb,0,0
 2026-03-11,cristianpb.github.io,0,0
 2026-03-12,cristianpb.github.io,1,0
 2026-03-13,cristianpb.github.io,0,0
@@ -69,7 +68,7 @@ date,repository,clones,views
 2026-03-21,cristianpb.github.io,1,0
 2026-03-22,cristianpb.github.io,0,0
 2026-03-23,cristianpb.github.io,0,0
-2026-03-10,dataiku-dss-docker,0,0
+2026-03-24,cristianpb.github.io,0,0
 2026-03-11,dataiku-dss-docker,1,0
 2026-03-12,dataiku-dss-docker,0,0
 2026-03-13,dataiku-dss-docker,0,0
@@ -83,7 +82,7 @@ date,repository,clones,views
 2026-03-21,dataiku-dss-docker,0,0
 2026-03-22,dataiku-dss-docker,0,0
 2026-03-23,dataiku-dss-docker,2,0
-2026-03-10,datalab.mi,0,0
+2026-03-24,dataiku-dss-docker,0,0
 2026-03-11,datalab.mi,0,0
 2026-03-12,datalab.mi,0,0
 2026-03-13,datalab.mi,0,0
@@ -97,7 +96,7 @@ date,repository,clones,views
 2026-03-21,datalab.mi,0,0
 2026-03-22,datalab.mi,0,0
 2026-03-23,datalab.mi,0,0
-2026-03-10,deces-backend,0,0
+2026-03-24,datalab.mi,0,0
 2026-03-11,deces-backend,0,0
 2026-03-12,deces-backend,0,0
 2026-03-13,deces-backend,0,0
@@ -111,7 +110,7 @@ date,repository,clones,views
 2026-03-21,deces-backend,0,0
 2026-03-22,deces-backend,108,0
 2026-03-23,deces-backend,0,0
-2026-03-10,deces-dataprep,0,0
+2026-03-24,deces-backend,0,0
 2026-03-11,deces-dataprep,0,0
 2026-03-12,deces-dataprep,0,0
 2026-03-13,deces-dataprep,0,0
@@ -125,7 +124,7 @@ date,repository,clones,views
 2026-03-21,deces-dataprep,0,0
 2026-03-22,deces-dataprep,0,0
 2026-03-23,deces-dataprep,2,0
-2026-03-10,deces-ui,0,0
+2026-03-24,deces-dataprep,0,0
 2026-03-11,deces-ui,1,0
 2026-03-12,deces-ui,0,0
 2026-03-13,deces-ui,0,0
@@ -139,7 +138,7 @@ date,repository,clones,views
 2026-03-21,deces-ui,0,0
 2026-03-22,deces-ui,1,0
 2026-03-23,deces-ui,0,0
-2026-03-10,dotfiles,1,0
+2026-03-24,deces-ui,0,0
 2026-03-11,dotfiles,0,1
 2026-03-12,dotfiles,2,2
 2026-03-13,dotfiles,0,0
@@ -153,7 +152,7 @@ date,repository,clones,views
 2026-03-21,dotfiles,0,0
 2026-03-22,dotfiles,0,0
 2026-03-23,dotfiles,0,0
-2026-03-10,enkontext,0,0
+2026-03-24,dotfiles,0,0
 2026-03-11,enkontext,0,0
 2026-03-12,enkontext,0,0
 2026-03-13,enkontext,1,0
@@ -167,7 +166,7 @@ date,repository,clones,views
 2026-03-21,enkontext,0,0
 2026-03-22,enkontext,0,0
 2026-03-23,enkontext,0,0
-2026-03-10,goaccess,0,0
+2026-03-24,enkontext,0,0
 2026-03-11,goaccess,1,0
 2026-03-12,goaccess,0,0
 2026-03-13,goaccess,0,0
@@ -181,7 +180,7 @@ date,repository,clones,views
 2026-03-21,goaccess,0,0
 2026-03-22,goaccess,0,0
 2026-03-23,goaccess,0,0
-2026-03-10,gswsr,0,0
+2026-03-24,goaccess,0,0
 2026-03-11,gswsr,0,0
 2026-03-12,gswsr,1,0
 2026-03-13,gswsr,0,0
@@ -195,7 +194,7 @@ date,repository,clones,views
 2026-03-21,gswsr,0,0
 2026-03-22,gswsr,0,0
 2026-03-23,gswsr,0,0
-2026-03-10,hubot-ratp,1,0
+2026-03-24,gswsr,0,0
 2026-03-11,hubot-ratp,0,0
 2026-03-12,hubot-ratp,0,0
 2026-03-13,hubot-ratp,0,0
@@ -209,7 +208,7 @@ date,repository,clones,views
 2026-03-21,hubot-ratp,0,0
 2026-03-22,hubot-ratp,0,0
 2026-03-23,hubot-ratp,0,0
-2026-03-10,hubot-velib,0,0
+2026-03-24,hubot-ratp,0,0
 2026-03-11,hubot-velib,0,0
 2026-03-12,hubot-velib,0,0
 2026-03-13,hubot-velib,0,0
@@ -223,7 +222,7 @@ date,repository,clones,views
 2026-03-21,hubot-velib,0,0
 2026-03-22,hubot-velib,0,0
 2026-03-23,hubot-velib,2,0
-2026-03-10,infolettre-lab-ia,0,0
+2026-03-24,hubot-velib,0,0
 2026-03-11,infolettre-lab-ia,0,0
 2026-03-12,infolettre-lab-ia,0,0
 2026-03-13,infolettre-lab-ia,0,0
@@ -237,21 +236,21 @@ date,repository,clones,views
 2026-03-21,infolettre-lab-ia,0,0
 2026-03-22,infolettre-lab-ia,0,0
 2026-03-23,infolettre-lab-ia,0,0
-2026-03-01,judilibre-stats,1,0
-2026-03-02,judilibre-stats,0,0
-2026-03-03,judilibre-stats,0,0
-2026-03-04,judilibre-stats,0,0
-2026-03-05,judilibre-stats,0,0
-2026-03-06,judilibre-stats,0,0
-2026-03-07,judilibre-stats,0,0
-2026-03-08,judilibre-stats,0,0
-2026-03-09,judilibre-stats,0,0
-2026-03-10,judilibre-stats,0,0
+2026-03-24,infolettre-lab-ia,0,0
 2026-03-11,judilibre-stats,0,0
 2026-03-12,judilibre-stats,0,0
 2026-03-13,judilibre-stats,0,0
 2026-03-14,judilibre-stats,0,0
-2026-03-10,mask-detection,0,0
+2026-03-15,judilibre-stats,0,0
+2026-03-16,judilibre-stats,0,0
+2026-03-17,judilibre-stats,0,0
+2026-03-18,judilibre-stats,0,0
+2026-03-19,judilibre-stats,0,0
+2026-03-20,judilibre-stats,0,0
+2026-03-21,judilibre-stats,0,0
+2026-03-22,judilibre-stats,0,0
+2026-03-23,judilibre-stats,0,0
+2026-03-24,judilibre-stats,1,0
 2026-03-11,mask-detection,0,0
 2026-03-12,mask-detection,0,0
 2026-03-13,mask-detection,0,0
@@ -265,7 +264,7 @@ date,repository,clones,views
 2026-03-21,mask-detection,0,0
 2026-03-22,mask-detection,0,0
 2026-03-23,mask-detection,0,0
-2026-03-10,matchid-backend,0,0
+2026-03-24,mask-detection,0,0
 2026-03-11,matchid-backend,1,0
 2026-03-12,matchid-backend,0,0
 2026-03-13,matchid-backend,0,0
@@ -279,6 +278,7 @@ date,repository,clones,views
 2026-03-21,matchid-backend,0,0
 2026-03-22,matchid-backend,1,0
 2026-03-23,matchid-backend,0,0
+2026-03-24,matchid-backend,0,0
 2026-03-09,mopidy.js,1,0
 2026-03-10,mopidy.js,0,0
 2026-03-11,mopidy.js,0,0
@@ -293,7 +293,6 @@ date,repository,clones,views
 2026-03-20,mopidy.js,0,0
 2026-03-21,mopidy.js,0,0
 2026-03-22,mopidy.js,0,0
-2026-03-10,muse,0,2
 2026-03-11,muse,1,1
 2026-03-12,muse,0,0
 2026-03-13,muse,1,0
@@ -307,7 +306,7 @@ date,repository,clones,views
 2026-03-21,muse,0,0
 2026-03-22,muse,0,0
 2026-03-23,muse,0,0
-2026-03-10,music-s3,0,0
+2026-03-24,muse,1,1
 2026-03-11,music-s3,0,0
 2026-03-12,music-s3,0,0
 2026-03-13,music-s3,0,0
@@ -321,6 +320,7 @@ date,repository,clones,views
 2026-03-21,music-s3,0,0
 2026-03-22,music-s3,0,0
 2026-03-23,music-s3,1,0
+2026-03-24,music-s3,0,0
 2026-03-09,mybottender,1,0
 2026-03-10,mybottender,0,0
 2026-03-11,mybottender,0,0
@@ -349,7 +349,6 @@ date,repository,clones,views
 2026-03-20,myhubot,0,0
 2026-03-21,myhubot,0,0
 2026-03-22,myhubot,0,0
-2026-03-10,nerf,0,0
 2026-03-11,nerf,0,0
 2026-03-12,nerf,0,0
 2026-03-13,nerf,0,0
@@ -363,7 +362,7 @@ date,repository,clones,views
 2026-03-21,nerf,0,0
 2026-03-22,nerf,0,0
 2026-03-23,nerf,0,0
-2026-03-10,newsapp,0,0
+2026-03-24,nerf,0,0
 2026-03-11,newsapp,0,0
 2026-03-12,newsapp,0,0
 2026-03-13,newsapp,0,0
@@ -377,6 +376,7 @@ date,repository,clones,views
 2026-03-21,newsapp,0,0
 2026-03-22,newsapp,1,0
 2026-03-23,newsapp,0,0
+2026-03-24,newsapp,1,0
 2026-03-10,ngTwitterApp,1,0
 2026-03-11,ngTwitterApp,0,0
 2026-03-12,ngTwitterApp,0,0
@@ -391,7 +391,6 @@ date,repository,clones,views
 2026-03-21,ngTwitterApp,0,0
 2026-03-22,ngTwitterApp,0,0
 2026-03-23,ngTwitterApp,0,0
-2026-03-10,object-detection,0,0
 2026-03-11,object-detection,2,0
 2026-03-12,object-detection,0,0
 2026-03-13,object-detection,0,0
@@ -405,7 +404,7 @@ date,repository,clones,views
 2026-03-21,object-detection,0,0
 2026-03-22,object-detection,0,0
 2026-03-23,object-detection,0,0
-2026-03-10,object-detection-frontend,0,0
+2026-03-24,object-detection,1,0
 2026-03-11,object-detection-frontend,0,0
 2026-03-12,object-detection-frontend,0,0
 2026-03-13,object-detection-frontend,0,0
@@ -419,6 +418,7 @@ date,repository,clones,views
 2026-03-21,object-detection-frontend,0,0
 2026-03-22,object-detection-frontend,0,0
 2026-03-23,object-detection-frontend,0,0
+2026-03-24,object-detection-frontend,0,0
 2026-03-09,piac-bot,1,0
 2026-03-10,piac-bot,0,0
 2026-03-11,piac-bot,0,0
@@ -433,7 +433,6 @@ date,repository,clones,views
 2026-03-20,piac-bot,0,0
 2026-03-21,piac-bot,0,0
 2026-03-22,piac-bot,0,0
-2026-03-10,playlists,1,0
 2026-03-11,playlists,5,0
 2026-03-12,playlists,0,0
 2026-03-13,playlists,0,0
@@ -447,7 +446,7 @@ date,repository,clones,views
 2026-03-21,playlists,0,0
 2026-03-22,playlists,0,0
 2026-03-23,playlists,1,0
-2026-03-10,PresentationTechnique,0,0
+2026-03-24,playlists,0,0
 2026-03-11,PresentationTechnique,0,0
 2026-03-12,PresentationTechnique,0,0
 2026-03-13,PresentationTechnique,0,0
@@ -461,7 +460,7 @@ date,repository,clones,views
 2026-03-21,PresentationTechnique,0,0
 2026-03-22,PresentationTechnique,0,0
 2026-03-23,PresentationTechnique,0,0
-2026-03-10,priceminister,0,0
+2026-03-24,PresentationTechnique,0,0
 2026-03-11,priceminister,0,0
 2026-03-12,priceminister,0,0
 2026-03-13,priceminister,0,0
@@ -475,7 +474,7 @@ date,repository,clones,views
 2026-03-21,priceminister,0,0
 2026-03-22,priceminister,0,0
 2026-03-23,priceminister,0,0
-2026-03-10,qrcode-reader,0,0
+2026-03-24,priceminister,0,0
 2026-03-11,qrcode-reader,0,0
 2026-03-12,qrcode-reader,0,0
 2026-03-13,qrcode-reader,0,0
@@ -489,7 +488,7 @@ date,repository,clones,views
 2026-03-21,qrcode-reader,0,0
 2026-03-22,qrcode-reader,0,0
 2026-03-23,qrcode-reader,0,0
-2026-03-10,recettes,0,0
+2026-03-24,qrcode-reader,0,0
 2026-03-11,recettes,0,0
 2026-03-12,recettes,0,0
 2026-03-13,recettes,0,0
@@ -503,7 +502,7 @@ date,repository,clones,views
 2026-03-21,recettes,0,0
 2026-03-22,recettes,1,0
 2026-03-23,recettes,0,0
-2026-03-10,rhasspy-handler,0,0
+2026-03-24,recettes,0,0
 2026-03-11,rhasspy-handler,0,0
 2026-03-12,rhasspy-handler,0,0
 2026-03-13,rhasspy-handler,0,0
@@ -517,7 +516,7 @@ date,repository,clones,views
 2026-03-21,rhasspy-handler,1,0
 2026-03-22,rhasspy-handler,0,0
 2026-03-23,rhasspy-handler,0,0
-2026-03-10,simple-streaming-gateway,0,0
+2026-03-24,rhasspy-handler,0,0
 2026-03-11,simple-streaming-gateway,1,0
 2026-03-12,simple-streaming-gateway,0,0
 2026-03-13,simple-streaming-gateway,0,0
@@ -531,7 +530,7 @@ date,repository,clones,views
 2026-03-21,simple-streaming-gateway,0,0
 2026-03-22,simple-streaming-gateway,2,0
 2026-03-23,simple-streaming-gateway,1,0
-2026-03-10,stats,10,0
+2026-03-24,simple-streaming-gateway,0,0
 2026-03-11,stats,10,0
 2026-03-12,stats,7,0
 2026-03-13,stats,10,0
@@ -545,7 +544,7 @@ date,repository,clones,views
 2026-03-21,stats,7,0
 2026-03-22,stats,5,0
 2026-03-23,stats,5,0
-2026-03-10,SubMusic,0,0
+2026-03-24,stats,10,0
 2026-03-11,SubMusic,0,0
 2026-03-12,SubMusic,0,0
 2026-03-13,SubMusic,0,0
@@ -559,7 +558,7 @@ date,repository,clones,views
 2026-03-21,SubMusic,0,0
 2026-03-22,SubMusic,0,0
 2026-03-23,SubMusic,0,0
-2026-03-10,telegraf-influxdb-grafana-docker,0,0
+2026-03-24,SubMusic,0,0
 2026-03-11,telegraf-influxdb-grafana-docker,0,0
 2026-03-12,telegraf-influxdb-grafana-docker,0,0
 2026-03-13,telegraf-influxdb-grafana-docker,0,1
@@ -573,7 +572,7 @@ date,repository,clones,views
 2026-03-21,telegraf-influxdb-grafana-docker,0,0
 2026-03-22,telegraf-influxdb-grafana-docker,0,1
 2026-03-23,telegraf-influxdb-grafana-docker,0,0
-2026-03-10,temp-sigfox,0,0
+2026-03-24,telegraf-influxdb-grafana-docker,0,0
 2026-03-11,temp-sigfox,2,0
 2026-03-12,temp-sigfox,0,0
 2026-03-13,temp-sigfox,0,0
@@ -587,7 +586,7 @@ date,repository,clones,views
 2026-03-21,temp-sigfox,0,0
 2026-03-22,temp-sigfox,0,0
 2026-03-23,temp-sigfox,1,0
-2026-03-10,tkasme,0,0
+2026-03-24,temp-sigfox,0,0
 2026-03-11,tkasme,0,0
 2026-03-12,tkasme,0,0
 2026-03-13,tkasme,0,0
@@ -601,7 +600,7 @@ date,repository,clones,views
 2026-03-21,tkasme,0,0
 2026-03-22,tkasme,0,0
 2026-03-23,tkasme,0,0
-2026-03-10,velo.club,0,0
+2026-03-24,tkasme,0,0
 2026-03-11,velo.club,0,0
 2026-03-12,velo.club,0,0
 2026-03-13,velo.club,0,0
@@ -615,7 +614,7 @@ date,repository,clones,views
 2026-03-21,velo.club,0,0
 2026-03-22,velo.club,0,0
 2026-03-23,velo.club,0,0
-2026-03-10,vimwiki,0,0
+2026-03-24,velo.club,0,0
 2026-03-11,vimwiki,0,0
 2026-03-12,vimwiki,0,0
 2026-03-13,vimwiki,0,0
@@ -629,3 +628,4 @@ date,repository,clones,views
 2026-03-21,vimwiki,0,0
 2026-03-22,vimwiki,0,0
 2026-03-23,vimwiki,0,0
+2026-03-24,vimwiki,0,0
