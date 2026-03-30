@@ -1,18 +1,16 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,11,4,analytics-google
+/cristianpb/analytics-google,GitHub - cristianpb/analytics-google: Google analytics from cristianpb.github...,10,4,analytics-google
 /api/proxy,analytics-google/country.csv at master · cristianpb/analytics-google · GitHub,2,2,analytics-google
 /cristianpb/analytics-google/commit/e4d12fdd9c7a5ae0b9f2632a5d7c5882437a10ef,🆙 Update data script for GA4 · cristianpb/analytics-google@e4d12fd · GitHub,2,1,analytics-google
 /cristianpb/analytics-google/activity,Activity · cristianpb/analytics-google · GitHub,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/.gitignore,analytics-google/.gitignore at master · cristianpb/analytics-google · GitHub,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/.prettierrc,analytics-google/.prettierrc at master · cristianpb/analytics-google · GitHub,1,1,analytics-google
-/cristianpb/datalab.mi,GitHub - cristianpb/datalab.mi · GitHub,1,1,datalab.mi
 /cristianpb/dotfiles,GitHub - cristianpb/dotfiles: My dotfiles · GitHub,4,3,dotfiles
 /cristianpb/dotfiles/actions,Actions · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/mutt/.muttrc,dotfiles/mutt/.muttrc at master · cristianpb/dotfiles,1,1,dotfiles
 /cristianpb/dotfiles/issues,Issues · cristianpb/dotfiles · GitHub,1,1,dotfiles
 /cristianpb/dotfiles/pulls,Pull requests · cristianpb/dotfiles · GitHub,1,1,dotfiles
-/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support · GitHub,5,5,muse
+/cristianpb/muse,GitHub - cristianpb/muse: Mopidy web client with Snapcast support · GitHub,6,6,muse
 /cristianpb/object-detection,"GitHub - cristianpb/object-detection: Object detection on Jetson Nano, Raspbe...",3,3,object-detection
-/cristianpb/object-detection/blob/master/setup.py,object-detection/setup.py at master · cristianpb/object-detection · GitHub,1,1,object-detection
 /cristianpb/telegraf-influxdb-grafana-docker,"GitHub - cristianpb/telegraf-influxdb-grafana-docker: telegraf, influxdb and ...",1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,telegraf-influxdb-grafana-docker/docker-compose.yml at master · cristianpb/te...,1,1,telegraf-influxdb-grafana-docker
