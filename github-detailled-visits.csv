@@ -7,8 +7,9 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/blob/master/.prettierrc,/blob/master/.prettierrc,1,1,analytics-google
 /cristianpb/analytics-google/pulls,/pulls,1,1,analytics-google
 /cristianpb/dotfiles,Overview,3,3,dotfiles
+/cristianpb/dotfiles/pulls,/pulls,2,2,dotfiles
 /cristianpb/dotfiles/issues,/issues,1,1,dotfiles
 /cristianpb/muse,Overview,7,7,muse
-/cristianpb/object-detection,Overview,4,4,object-detection
-/cristianpb/telegraf-influxdb-grafana-docker,Overview,1,1,telegraf-influxdb-grafana-docker
+/cristianpb/object-detection,Overview,3,3,object-detection
+/cristianpb/telegraf-influxdb-grafana-docker,Overview,2,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,/blob/master/docker-compose.yml,1,1,telegraf-influxdb-grafana-docker
