@@ -1,6 +1,7 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,Overview,8,3,analytics-google
+/cristianpb/analytics-google,Overview,8,4,analytics-google
 /cristianpb/analytics-google/commit/6e85722274e2a7ee83df3bb89abcb7fced1c5951,/commit/6e85722274e2a7ee83df3bb89abcb7fced1c5951,2,1,analytics-google
+/cristianpb/analytics-google/actions/runs/20198435663,/actions/runs/20198435663,1,1,analytics-google
 /cristianpb/analytics-google/pulls,/pulls,1,1,analytics-google
 /cristianpb/dotfiles,Overview,3,3,dotfiles
 /cristianpb/dotfiles/pulls,/pulls,2,2,dotfiles
