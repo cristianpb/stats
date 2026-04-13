@@ -7,7 +7,7 @@ path,title,count,uniques,repository
 /cristianpb/datalab.mi,Overview,1,1,datalab.mi
 /cristianpb/dotfiles,Overview,3,3,dotfiles
 /cristianpb/dotfiles/pulls,/pulls,2,2,dotfiles
-/cristianpb/muse,Overview,7,7,muse
+/cristianpb/muse,Overview,6,6,muse
 /cristianpb/object-detection,Overview,1,1,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,/blob/master/backend/yolo_detection.py,1,1,object-detection
 /cristianpb/telegraf-influxdb-grafana-docker,Overview,4,2,telegraf-influxdb-grafana-docker
