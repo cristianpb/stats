@@ -8,7 +8,7 @@ path,title,count,uniques,repository
 /cristianpb/cristianpb.github.io/blob/master/Gemfile,/blob/master/Gemfile,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/blob/master/Makefile,/blob/master/Makefile,1,1,cristianpb.github.io
 /cristianpb/datalab.mi,Overview,1,1,datalab.mi
-/cristianpb/dotfiles,Overview,3,3,dotfiles
+/cristianpb/dotfiles,Overview,4,4,dotfiles
 /cristianpb/dotfiles/pulls,/pulls,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/R/.Rprofile,/blob/master/R/.Rprofile,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/bash/.bash_profile,/blob/master/bash/.bash_profile,1,1,dotfiles
@@ -18,7 +18,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/issues,/issues,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/R,/tree/master/R,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/bash,/tree/master/bash,1,1,dotfiles
-/cristianpb/muse,Overview,9,6,muse
+/cristianpb/muse,Overview,10,7,muse
 /cristianpb/muse/blob/master/mopidy_muse/__init__.py,/blob/master/mopidy_muse/__init__.py,5,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/ext.conf,/blob/master/mopidy_muse/ext.conf,2,1,muse
 /cristianpb/muse/blob/master/pyproject.toml,/blob/master/pyproject.toml,2,1,muse
@@ -28,8 +28,10 @@ path,title,count,uniques,repository
 /cristianpb/muse/tree/master/src,/tree/master/src,2,1,muse
 /cristianpb/muse/blob/master/Dockerfile,/blob/master/Dockerfile,1,1,muse
 /cristianpb/muse/blob/master/Dockerfile-snapserver,/blob/master/Dockerfile-snapserver,1,1,muse
-/cristianpb/object-detection,Overview,2,2,object-detection
+/cristianpb/object-detection,Overview,3,3,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,/blob/master/backend/yolo_detection.py,1,1,object-detection
+/cristianpb/object-detection-frontend,Overview,1,1,object-detection-frontend
+/cristianpb/object-detection-frontend/blob/master/package.json,/blob/master/package.json,1,1,object-detection-frontend
 /cristianpb/telegraf-influxdb-grafana-docker,Overview,4,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/telegraf,/tree/master/docker/telegraf,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,/blob/master/docker-compose-gpu.yml,1,1,telegraf-influxdb-grafana-docker
@@ -37,8 +39,4 @@ path,title,count,uniques,repository
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker/telegraf/telegraf.conf,/blob/master/docker/telegraf/telegraf.conf,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker,/tree/master/docker,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master/docker/influxdb,/tree/master/docker/influxdb,1,1,telegraf-influxdb-grafana-docker
-/cristianpb/vimwiki,Overview,2,2,vimwiki
-/cristianpb/vimwiki/blob/master/content/arch_linux.md,/blob/master/content/arch_linux.md,1,1,vimwiki
-/cristianpb/vimwiki/blob/master/content/mpc.md,/blob/master/content/mpc.md,1,1,vimwiki
-/cristianpb/vimwiki/blob/master/content/samba.md,/blob/master/content/samba.md,1,1,vimwiki
-/cristianpb/vimwiki/tree/master/content,/tree/master/content,1,1,vimwiki
+/cristianpb/vimwiki,Overview,1,1,vimwiki
