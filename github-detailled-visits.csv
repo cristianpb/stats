@@ -1,7 +1,6 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,Overview,8,4,analytics-google
+/cristianpb/analytics-google,Overview,7,4,analytics-google
 /cristianpb/analytics-google/actions/runs/19199148747,/actions/runs/19199148747,1,1,analytics-google
-/cristianpb/analytics-google/actions/runs/20198435663,/actions/runs/20198435663,1,1,analytics-google
 /cristianpb/analytics-google/issues,/issues,1,1,analytics-google
 /cristianpb/analytics-google/pulls,/pulls,1,1,analytics-google
 /cristianpb/cristianpb/pulls,/pulls,1,1,cristianpb
@@ -10,7 +9,7 @@ path,title,count,uniques,repository
 /cristianpb/cristianpb.github.io/blob/master/Makefile,/blob/master/Makefile,1,1,cristianpb.github.io
 /cristianpb/datalab.mi,Overview,1,1,datalab.mi
 /cristianpb/dotfiles,Overview,5,5,dotfiles
-/cristianpb/dotfiles/pulls,/pulls,2,2,dotfiles
+/cristianpb/dotfiles/pulls,/pulls,3,3,dotfiles
 /cristianpb/dotfiles/blob/master/R/.Rprofile,/blob/master/R/.Rprofile,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/bash/.bash_profile,/blob/master/bash/.bash_profile,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/bash/.bashrc,/blob/master/bash/.bashrc,1,1,dotfiles
@@ -19,7 +18,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/issues,/issues,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/R,/tree/master/R,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/bash,/tree/master/bash,1,1,dotfiles
-/cristianpb/muse,Overview,10,7,muse
+/cristianpb/muse,Overview,9,6,muse
 /cristianpb/muse/blob/master/mopidy_muse/__init__.py,/blob/master/mopidy_muse/__init__.py,5,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/ext.conf,/blob/master/mopidy_muse/ext.conf,2,1,muse
 /cristianpb/muse/blob/master/pyproject.toml,/blob/master/pyproject.toml,2,1,muse
