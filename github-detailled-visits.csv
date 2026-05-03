@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,Overview,8,4,analytics-google
+/cristianpb/analytics-google,Overview,7,4,analytics-google
 /cristianpb/analytics-google/commit/12c69f753e5f95f646284348e2db36bd6dc9d604,/commit/12c69f753e5f95f646284348e2db36bd6dc9d604,2,1,analytics-google
 /cristianpb/analytics-google/commit/6e85722274e2a7ee83df3bb89abcb7fced1c5951,/commit/6e85722274e2a7ee83df3bb89abcb7fced1c5951,2,1,analytics-google
 /cristianpb/analytics-google/activity,/activity,1,1,analytics-google
@@ -11,10 +11,9 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/blob/master/tailwind.config.js,/blob/master/tailwind.config.js,1,1,analytics-google
 /cristianpb/cristianpb.github.io,Overview,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/22198566135/job/64205195116,/actions/runs/22198566135/job/64205195116,1,1,cristianpb.github.io
-/cristianpb/cristianpb.github.io/blob/master/Makefile,/blob/master/Makefile,1,1,cristianpb.github.io
-/cristianpb/dotfiles,Overview,4,4,dotfiles
+/cristianpb/dotfiles,Overview,5,5,dotfiles
+/cristianpb/dotfiles/pulls,/pulls,3,2,dotfiles
 /cristianpb/dotfiles/issues,/issues,2,2,dotfiles
-/cristianpb/dotfiles/pulls,/pulls,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/R/.Rprofile,/blob/master/R/.Rprofile,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/bash/.bash_profile,/blob/master/bash/.bash_profile,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/bash/.bashrc,/blob/master/bash/.bashrc,1,1,dotfiles
@@ -22,9 +21,10 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/checkmail.sh,/blob/master/checkmail.sh,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/R,/tree/master/R,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/bash,/tree/master/bash,1,1,dotfiles
-/cristianpb/muse,Overview,8,6,muse
+/cristianpb/muse,Overview,9,7,muse
 /cristianpb/muse/blob/master/docker-compose.yml,/blob/master/docker-compose.yml,2,1,muse
 /cristianpb/muse/tree/master,/tree/master,2,1,muse
+/cristianpb/muse/actions/runs/21200512891/job/60985076326,/actions/runs/21200512891/job/60985076326,1,1,muse
 /cristianpb/muse/blob/master/Dockerfile,/blob/master/Dockerfile,1,1,muse
 /cristianpb/muse/blob/master/Makefile,/blob/master/Makefile,1,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/mopidy.conf,/blob/master/mopidy_muse/mopidy.conf,1,1,muse
@@ -55,3 +55,4 @@ path,title,count,uniques,repository
 /cristianpb/rhasspy-handler/actions/runs/24912365420/job/72956745196,/actions/runs/24912365420/job/72956745196,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/actions/runs/24913093538,/actions/runs/24913093538,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/actions/runs/24913093538/job/72959099507,/actions/runs/24913093538/job/72959099507,1,1,rhasspy-handler
+/cristianpb/telegraf-influxdb-grafana-docker,Overview,1,1,telegraf-influxdb-grafana-docker
