@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,Overview,7,4,analytics-google
+/cristianpb/analytics-google,Overview,6,4,analytics-google
 /cristianpb/analytics-google/commit/12c69f753e5f95f646284348e2db36bd6dc9d604,/commit/12c69f753e5f95f646284348e2db36bd6dc9d604,2,1,analytics-google
 /cristianpb/analytics-google/commit/6e85722274e2a7ee83df3bb89abcb7fced1c5951,/commit/6e85722274e2a7ee83df3bb89abcb7fced1c5951,2,1,analytics-google
 /cristianpb/analytics-google/activity,/activity,1,1,analytics-google
@@ -11,17 +11,10 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/blob/master/tailwind.config.js,/blob/master/tailwind.config.js,1,1,analytics-google
 /cristianpb/cristianpb.github.io,Overview,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/22198566135/job/64205195116,/actions/runs/22198566135/job/64205195116,1,1,cristianpb.github.io
-/cristianpb/dotfiles,Overview,5,5,dotfiles
+/cristianpb/dotfiles,Overview,7,7,dotfiles
 /cristianpb/dotfiles/pulls,/pulls,3,2,dotfiles
 /cristianpb/dotfiles/issues,/issues,2,2,dotfiles
-/cristianpb/dotfiles/blob/master/R/.Rprofile,/blob/master/R/.Rprofile,1,1,dotfiles
-/cristianpb/dotfiles/blob/master/bash/.bash_profile,/blob/master/bash/.bash_profile,1,1,dotfiles
-/cristianpb/dotfiles/blob/master/bash/.bashrc,/blob/master/bash/.bashrc,1,1,dotfiles
-/cristianpb/dotfiles/blob/master/bash/.shell_prompt.sh,/blob/master/bash/.shell_prompt.sh,1,1,dotfiles
-/cristianpb/dotfiles/blob/master/checkmail.sh,/blob/master/checkmail.sh,1,1,dotfiles
-/cristianpb/dotfiles/tree/master/R,/tree/master/R,1,1,dotfiles
-/cristianpb/dotfiles/tree/master/bash,/tree/master/bash,1,1,dotfiles
-/cristianpb/muse,Overview,9,7,muse
+/cristianpb/muse,Overview,8,6,muse
 /cristianpb/muse/blob/master/docker-compose.yml,/blob/master/docker-compose.yml,2,1,muse
 /cristianpb/muse/tree/master,/tree/master,2,1,muse
 /cristianpb/muse/actions/runs/21200512891/job/60985076326,/actions/runs/21200512891/job/60985076326,1,1,muse
