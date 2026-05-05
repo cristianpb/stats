@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,Overview,6,4,analytics-google
+/cristianpb/analytics-google,Overview,8,5,analytics-google
 /cristianpb/analytics-google/commit/12c69f753e5f95f646284348e2db36bd6dc9d604,/commit/12c69f753e5f95f646284348e2db36bd6dc9d604,2,1,analytics-google
 /cristianpb/analytics-google/commit/6e85722274e2a7ee83df3bb89abcb7fced1c5951,/commit/6e85722274e2a7ee83df3bb89abcb7fced1c5951,2,1,analytics-google
 /cristianpb/analytics-google/activity,/activity,1,1,analytics-google
@@ -12,9 +12,9 @@ path,title,count,uniques,repository
 /cristianpb/cristianpb.github.io,Overview,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/22198566135/job/64205195116,/actions/runs/22198566135/job/64205195116,1,1,cristianpb.github.io
 /cristianpb/dotfiles,Overview,7,7,dotfiles
+/cristianpb/dotfiles/issues,/issues,3,3,dotfiles
 /cristianpb/dotfiles/pulls,/pulls,3,2,dotfiles
-/cristianpb/dotfiles/issues,/issues,2,2,dotfiles
-/cristianpb/muse,Overview,8,6,muse
+/cristianpb/muse,Overview,8,5,muse
 /cristianpb/muse/blob/master/docker-compose.yml,/blob/master/docker-compose.yml,2,1,muse
 /cristianpb/muse/tree/master,/tree/master,2,1,muse
 /cristianpb/muse/actions/runs/21200512891/job/60985076326,/actions/runs/21200512891/job/60985076326,1,1,muse
@@ -32,11 +32,9 @@ path,title,count,uniques,repository
 /cristianpb/newssummary/actions/runs/25041687484/job/73346263511,/actions/runs/25041687484/job/73346263511,1,1,newssummary
 /cristianpb/newssummary/actions/runs/25048779537,/actions/runs/25048779537,1,1,newssummary
 /cristianpb/newssummary/actions/runs/25059723860,/actions/runs/25059723860,1,1,newssummary
-/cristianpb/object-detection,Overview,1,1,object-detection
 /cristianpb/object-detection/blob/master/backend/motion.py,/blob/master/backend/motion.py,1,1,object-detection
 /cristianpb/object-detection/pulls,/pulls,1,1,object-detection
-/cristianpb/object-detection-frontend,Overview,2,2,object-detection-frontend
-/cristianpb/object-detection-frontend/blob/master/package.json,/blob/master/package.json,1,1,object-detection-frontend
+/cristianpb/object-detection-frontend,Overview,1,1,object-detection-frontend
 /cristianpb/PresentationTechnique/pulls,/pulls,2,2,PresentationTechnique
 /cristianpb/PresentationTechnique,Overview,1,1,PresentationTechnique
 /cristianpb/PresentationTechnique/issues,/issues,1,1,PresentationTechnique
