@@ -11,7 +11,7 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/blob/master/tailwind.config.js,/blob/master/tailwind.config.js,1,1,analytics-google
 /cristianpb/cristianpb.github.io,Overview,1,1,cristianpb.github.io
 /cristianpb/cristianpb.github.io/actions/runs/22198566135/job/64205195116,/actions/runs/22198566135/job/64205195116,1,1,cristianpb.github.io
-/cristianpb/dotfiles,Overview,7,7,dotfiles
+/cristianpb/dotfiles,Overview,6,6,dotfiles
 /cristianpb/dotfiles/issues,/issues,3,3,dotfiles
 /cristianpb/dotfiles/pulls,/pulls,3,2,dotfiles
 /cristianpb/muse,Overview,8,5,muse
@@ -37,7 +37,6 @@ path,title,count,uniques,repository
 /cristianpb/object-detection-frontend,Overview,1,1,object-detection-frontend
 /cristianpb/PresentationTechnique/pulls,/pulls,2,2,PresentationTechnique
 /cristianpb/PresentationTechnique,Overview,1,1,PresentationTechnique
-/cristianpb/PresentationTechnique/issues,/issues,1,1,PresentationTechnique
 /cristianpb/rhasspy-handler/actions,/actions,2,1,rhasspy-handler
 /cristianpb/rhasspy-handler/actions/runs/24912585712,/actions/runs/24912585712,2,1,rhasspy-handler
 /cristianpb/rhasspy-handler/actions/runs/24912585712/job/72957458616,/actions/runs/24912585712/job/72957458616,2,1,rhasspy-handler
