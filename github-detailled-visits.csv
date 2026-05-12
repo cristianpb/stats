@@ -1,9 +1,7 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,Overview,9,6,analytics-google
+/cristianpb/analytics-google,Overview,10,6,analytics-google
 /cristianpb/analytics-google/blob/master/.npmrc,/blob/master/.npmrc,2,1,analytics-google
-/cristianpb/analytics-google/commit/12c69f753e5f95f646284348e2db36bd6dc9d604,/commit/12c69f753e5f95f646284348e2db36bd6dc9d604,2,1,analytics-google
 /cristianpb/analytics-google/blob/master/.prettierrc,/blob/master/.prettierrc,1,1,analytics-google
-/cristianpb/analytics-google/blob/master/package.json,/blob/master/package.json,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/postcss.config.cjs,/blob/master/postcss.config.cjs,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/tailwind.config.js,/blob/master/tailwind.config.js,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/vite.config.js,/blob/master/vite.config.js,1,1,analytics-google
@@ -15,14 +13,8 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/pulls,/pulls,3,3,dotfiles
 /cristianpb/dotfiles/issues,/issues,1,1,dotfiles
 /cristianpb/hubot-velib/stargazers,/stargazers,1,1,hubot-velib
-/cristianpb/muse,Overview,9,7,muse
-/cristianpb/muse/blob/master/docker-compose.yml,/blob/master/docker-compose.yml,2,1,muse
-/cristianpb/muse/tree/master,/tree/master,2,1,muse
+/cristianpb/muse,Overview,7,5,muse
 /cristianpb/muse/actions/runs/21200512891/job/60985076326,/actions/runs/21200512891/job/60985076326,1,1,muse
-/cristianpb/muse/blob/master/Dockerfile,/blob/master/Dockerfile,1,1,muse
-/cristianpb/muse/blob/master/Makefile,/blob/master/Makefile,1,1,muse
-/cristianpb/muse/blob/master/mopidy_muse/mopidy.conf,/blob/master/mopidy_muse/mopidy.conf,1,1,muse
-/cristianpb/muse/blob/master/svelte.config.js,/blob/master/svelte.config.js,1,1,muse
 /cristianpb/newssummary,Overview,9,2,newssummary
 /cristianpb/newssummary/actions,/actions,9,1,newssummary
 /cristianpb/newssummary/blob/master/.github/workflows/daily_news.yml,/blob/master/.github/workflows/daily_news.yml,2,2,newssummary
