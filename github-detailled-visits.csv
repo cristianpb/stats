@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,Overview,9,6,analytics-google
+/cristianpb/analytics-google,Overview,8,5,analytics-google
 /cristianpb/analytics-google/blob/master/.npmrc,/blob/master/.npmrc,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/postcss.config.cjs,/blob/master/postcss.config.cjs,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/vite.config.js,/blob/master/vite.config.js,1,1,analytics-google
@@ -23,9 +23,7 @@ path,title,count,uniques,repository
 /cristianpb/newssummary/blob/master/main.py,/blob/master/main.py,1,1,newssummary
 /cristianpb/newssummary/tree/master/.github/workflows,/tree/master/.github/workflows,1,1,newssummary
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,/blob/master/backend/yolo_detection.py,2,1,object-detection
-/cristianpb/object-detection/pulls,/pulls,1,1,object-detection
-/cristianpb/PresentationTechnique/pulls,/pulls,2,2,PresentationTechnique
-/cristianpb/PresentationTechnique,Overview,1,1,PresentationTechnique
+/cristianpb/object-detection,Overview,1,1,object-detection
 /cristianpb/telegraf-influxdb-grafana-docker,Overview,2,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,/blob/master/docker-compose.yml,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master,/tree/master,1,1,telegraf-influxdb-grafana-docker
