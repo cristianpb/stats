@@ -1,11 +1,10 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,Overview,9,4,analytics-google
+/cristianpb/analytics-google,Overview,8,3,analytics-google
 /cristianpb/analytics-google/blob/master/.npmrc,/blob/master/.npmrc,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/postcss.config.cjs,/blob/master/postcss.config.cjs,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/vite.config.js,/blob/master/vite.config.js,1,1,analytics-google
 /cristianpb/analytics-google/commits,/commits,1,1,analytics-google
 /cristianpb/dotfiles/issues,/issues,2,2,dotfiles
-/cristianpb/dotfiles,Overview,1,1,dotfiles
 /cristianpb/dotfiles/pulls,/pulls,1,1,dotfiles
 /cristianpb/hubot-velib/stargazers,/stargazers,1,1,hubot-velib
 /cristianpb/muse,Overview,6,6,muse
