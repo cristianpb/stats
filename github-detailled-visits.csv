@@ -1,11 +1,10 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,Overview,8,3,analytics-google
+/cristianpb/analytics-google,Overview,9,4,analytics-google
 /cristianpb/analytics-google/blob/master/.npmrc,/blob/master/.npmrc,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/postcss.config.cjs,/blob/master/postcss.config.cjs,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/vite.config.js,/blob/master/vite.config.js,1,1,analytics-google
 /cristianpb/analytics-google/commits,/commits,1,1,analytics-google
 /cristianpb/dotfiles/issues,/issues,2,2,dotfiles
-/cristianpb/dotfiles/pulls,/pulls,1,1,dotfiles
 /cristianpb/hubot-velib/stargazers,/stargazers,1,1,hubot-velib
 /cristianpb/muse,Overview,6,6,muse
 /cristianpb/muse/tree/master/src,/tree/master/src,2,1,muse
@@ -17,7 +16,11 @@ path,title,count,uniques,repository
 /cristianpb/muse/tree/master/mopidy_muse/static,/tree/master/mopidy_muse/static,1,1,muse
 /cristianpb/muse/tree/master/src/lib,/tree/master/src/lib,1,1,muse
 /cristianpb/muse/tree/master/src/lib/components,/tree/master/src/lib/components,1,1,muse
-/cristianpb/newssummary,Overview,1,1,newssummary
+/cristianpb/newssummary,Overview,3,2,newssummary
+/cristianpb/newssummary/actions,/actions,1,1,newssummary
+/cristianpb/newssummary/actions/runs/26253475252/job/77270298087,/actions/runs/26253475252/job/77270298087,1,1,newssummary
+/cristianpb/newssummary/actions/runs/26253786252,/actions/runs/26253786252,1,1,newssummary
+/cristianpb/newssummary/actions/runs/26253786252/job/77271359443,/actions/runs/26253786252/job/77271359443,1,1,newssummary
 /cristianpb/newssummary/blob/master/.github/workflows/daily_news.yml,/blob/master/.github/workflows/daily_news.yml,1,1,newssummary
 /cristianpb/newssummary/blob/master/main.py,/blob/master/main.py,1,1,newssummary
 /cristianpb/newssummary/tree/master/.github/workflows,/tree/master/.github/workflows,1,1,newssummary
