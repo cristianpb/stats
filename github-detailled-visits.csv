@@ -1,11 +1,10 @@
 path,title,count,uniques,repository
 /cristianpb/analytics-google,Overview,8,3,analytics-google
+/cristianpb/analytics-google/blob/master/.eslintignore,/blob/master/.eslintignore,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/.gitignore,/blob/master/.gitignore,1,1,analytics-google
-/cristianpb/analytics-google/blob/master/.npmrc,/blob/master/.npmrc,1,1,analytics-google
-/cristianpb/analytics-google/blob/master/postcss.config.cjs,/blob/master/postcss.config.cjs,1,1,analytics-google
+/cristianpb/analytics-google/commits,/commits,1,1,analytics-google
 /cristianpb/dotfiles/issues,/issues,2,2,dotfiles
 /cristianpb/dotfiles/pulls,/pulls,1,1,dotfiles
-/cristianpb/hubot-velib/stargazers,/stargazers,1,1,hubot-velib
 /cristianpb/muse,Overview,5,5,muse
 /cristianpb/muse/tree/master/src,/tree/master/src,2,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/mopidy.conf,/blob/master/mopidy_muse/mopidy.conf,1,1,muse
