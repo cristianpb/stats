@@ -1,4 +1,5 @@
 referrer,count,uniques,repository
-mopidy.com,14,4,muse
+github.com,1,1,analytics-google
+mopidy.com,4,4,muse
 Google,4,2,object-detection
 Google,4,1,telegraf-influxdb-grafana-docker
