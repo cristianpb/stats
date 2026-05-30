@@ -3,12 +3,12 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/commits,/commits,3,3,analytics-google
 /cristianpb/analytics-google/commit/12c69f753e5f95f646284348e2db36bd6dc9d604,/commit/12c69f753e5f95f646284348e2db36bd6dc9d604,2,1,analytics-google
 /cristianpb/analytics-google/commit/6e85722274e2a7ee83df3bb89abcb7fced1c5951,/commit/6e85722274e2a7ee83df3bb89abcb7fced1c5951,2,1,analytics-google
+/cristianpb/analytics-google/commit/b3c78072ac7faecf7a18d2cbcb4df12d7d677447,/commit/b3c78072ac7faecf7a18d2cbcb4df12d7d677447,2,1,analytics-google
 /cristianpb/analytics-google/commit/c14a0e2c1a9fa4c08829c7b5c64fceef6491f66f,/commit/c14a0e2c1a9fa4c08829c7b5c64fceef6491f66f,2,1,analytics-google
 /cristianpb/analytics-google/commit/e4d12fdd9c7a5ae0b9f2632a5d7c5882437a10ef,/commit/e4d12fdd9c7a5ae0b9f2632a5d7c5882437a10ef,2,1,analytics-google
 /cristianpb/analytics-google/activity,/activity,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/.eslintignore,/blob/master/.eslintignore,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/.gitignore,/blob/master/.gitignore,1,1,analytics-google
-/cristianpb/analytics-google/blob/master/.prettierrc,/blob/master/.prettierrc,1,1,analytics-google
 /cristianpb/cristianpb,Overview,1,1,cristianpb
 /cristianpb/dotfiles,Overview,1,1,dotfiles
 /cristianpb/dotfiles/actions,/actions,1,1,dotfiles
@@ -21,7 +21,7 @@ path,title,count,uniques,repository
 /cristianpb/newssummary/actions/runs/26253475252/job/77270298087,/actions/runs/26253475252/job/77270298087,1,1,newssummary
 /cristianpb/newssummary/actions/runs/26253786252,/actions/runs/26253786252,1,1,newssummary
 /cristianpb/newssummary/actions/runs/26253786252/job/77271359443,/actions/runs/26253786252/job/77271359443,1,1,newssummary
-/cristianpb/object-detection,Overview,2,2,object-detection
+/cristianpb/object-detection,Overview,1,1,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,/blob/master/backend/yolo_detection.py,1,1,object-detection
 /cristianpb/object-detection/pulls,/pulls,1,1,object-detection
 /cristianpb/rhasspy-handler,Overview,1,1,rhasspy-handler
