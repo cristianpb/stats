@@ -17,7 +17,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/vim/.vimrc,/blob/master/vim/.vimrc,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/wiki2html.sh,/blob/master/wiki2html.sh,1,1,dotfiles
 /cristianpb/dotfiles/pulls,/pulls,1,1,dotfiles
-/cristianpb/muse,Overview,5,4,muse
+/cristianpb/muse,Overview,5,3,muse
 /cristianpb/muse/pulse,/pulse,1,1,muse
 /cristianpb/newssummary,Overview,2,1,newssummary
 /cristianpb/newssummary/actions,/actions,1,1,newssummary
@@ -27,6 +27,7 @@ path,title,count,uniques,repository
 /cristianpb/object-detection,Overview,1,1,object-detection
 /cristianpb/rhasspy-handler,Overview,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/activity,/activity,1,1,rhasspy-handler
+/cristianpb/SubMusic,Overview,1,1,SubMusic
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,/blob/master/docker-compose.yml,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker,Overview,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/tree/master,/tree/master,1,1,telegraf-influxdb-grafana-docker
