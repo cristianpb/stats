@@ -1,7 +1,6 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,Overview,6,4,analytics-google
+/cristianpb/analytics-google,Overview,5,3,analytics-google
 /cristianpb/analytics-google/commit/b3c78072ac7faecf7a18d2cbcb4df12d7d677447,/commit/b3c78072ac7faecf7a18d2cbcb4df12d7d677447,4,2,analytics-google
-/cristianpb/analytics-google/commits,/commits,2,2,analytics-google
 /cristianpb/analytics-google/commit/12c69f753e5f95f646284348e2db36bd6dc9d604,/commit/12c69f753e5f95f646284348e2db36bd6dc9d604,2,1,analytics-google
 /cristianpb/analytics-google/commit/c14a0e2c1a9fa4c08829c7b5c64fceef6491f66f,/commit/c14a0e2c1a9fa4c08829c7b5c64fceef6491f66f,2,1,analytics-google
 /cristianpb/analytics-google/actions,/actions,1,1,analytics-google
@@ -9,8 +8,8 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/blob/master/.npmrc,/blob/master/.npmrc,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/.prettierrc,/blob/master/.prettierrc,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/Makefile,/blob/master/Makefile,1,1,analytics-google
-/cristianpb/cristianpb,Overview,1,1,cristianpb
-/cristianpb/dotfiles,Overview,7,5,dotfiles
+/cristianpb/analytics-google/blob/master/analytics.py,/blob/master/analytics.py,1,1,analytics-google
+/cristianpb/dotfiles,Overview,6,4,dotfiles
 /cristianpb/dotfiles/actions,/actions,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/bash/.bashrc,/blob/master/bash/.bashrc,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/systemd/.config/systemd/user/background.service,/blob/master/systemd/.config/systemd/user/background.service,1,1,dotfiles
@@ -19,7 +18,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/wiki2html.sh,/blob/master/wiki2html.sh,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/vim,/tree/master/vim,1,1,dotfiles
 /cristianpb/logs-analysis,Overview,1,1,logs-analysis
-/cristianpb/muse,Overview,15,8,muse
+/cristianpb/muse,Overview,16,8,muse
 /cristianpb/muse/releases/tag/v0.0.41,/releases/tag/v0.0.41,3,2,muse
 /cristianpb/muse/releases,/releases,3,1,muse
 /cristianpb/muse/commit/195d5365ab8f17c607bd4a02af91d7f674a0d3e1,/commit/195d5365ab8f17c607bd4a02af91d7f674a0d3e1,1,1,muse
@@ -32,7 +31,6 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/commit/7308e207862f07d8438d9105fb92a80951b2789d,/commit/7308e207862f07d8438d9105fb92a80951b2789d,1,1,object-detection
 /cristianpb/object-detection/issues,/issues,1,1,object-detection
 /cristianpb/object-detection-frontend,Overview,2,2,object-detection-frontend
-/cristianpb/rhasspy-handler,Overview,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/activity,/activity,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/pulls,/pulls,1,1,rhasspy-handler
 /cristianpb/SubMusic,Overview,1,1,SubMusic
