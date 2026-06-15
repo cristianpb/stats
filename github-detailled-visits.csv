@@ -8,15 +8,14 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/blob/master/jsconfig.json,/blob/master/jsconfig.json,1,1,analytics-google
 /cristianpb/analytics-google/commit/6e85722274e2a7ee83df3bb89abcb7fced1c5951,/commit/6e85722274e2a7ee83df3bb89abcb7fced1c5951,1,1,analytics-google
 /cristianpb/analytics-google/commits,/commits,1,1,analytics-google
-/cristianpb/dotfiles,Overview,8,5,dotfiles
+/cristianpb/dotfiles,Overview,5,4,dotfiles
 /cristianpb/dotfiles/blob/master/bash/.bashrc,/blob/master/bash/.bashrc,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/systemd/.config/systemd/user/background.service,/blob/master/systemd/.config/systemd/user/background.service,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/top/.toprc,/blob/master/top/.toprc,1,1,dotfiles
-/cristianpb/dotfiles/blob/master/vim/.vimrc,/blob/master/vim/.vimrc,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/wiki2html.sh,/blob/master/wiki2html.sh,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/vim,/tree/master/vim,1,1,dotfiles
 /cristianpb/logs-analysis,Overview,1,1,logs-analysis
-/cristianpb/muse,Overview,19,10,muse
+/cristianpb/muse,Overview,18,10,muse
 /cristianpb/muse/releases/tag/v0.0.41,/releases/tag/v0.0.41,3,2,muse
 /cristianpb/muse/releases,/releases,3,1,muse
 /cristianpb/muse/blob/master/src/lib/components/CreatePlaylist.svelte,/blob/master/src/lib/components/CreatePlaylist.svelte,2,1,muse
@@ -34,5 +33,5 @@ path,title,count,uniques,repository
 /cristianpb/rhasspy-handler/pulls,/pulls,1,1,rhasspy-handler
 /cristianpb/SubMusic,Overview,1,1,SubMusic
 /cristianpb/telegraf-influxdb-grafana-docker,Overview,1,1,telegraf-influxdb-grafana-docker
-/cristianpb/vimwiki,Overview,2,2,vimwiki
+/cristianpb/vimwiki,Overview,1,1,vimwiki
 /cristianpb/vimwiki/blob/master/.gitignore,/blob/master/.gitignore,1,1,vimwiki
