@@ -4,14 +4,11 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/blob/master/.npmrc,/blob/master/.npmrc,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/Makefile,/blob/master/Makefile,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/analytics.py,/blob/master/analytics.py,1,1,analytics-google
-/cristianpb/analytics-google/blob/master/jsconfig.json,/blob/master/jsconfig.json,1,1,analytics-google
-/cristianpb/analytics-google/commit/6e85722274e2a7ee83df3bb89abcb7fced1c5951,/commit/6e85722274e2a7ee83df3bb89abcb7fced1c5951,1,1,analytics-google
 /cristianpb/analytics-google/commits,/commits,1,1,analytics-google
-/cristianpb/dotfiles,Overview,4,4,dotfiles
-/cristianpb/dotfiles/blob/master/bash/.bashrc,/blob/master/bash/.bashrc,1,1,dotfiles
-/cristianpb/dotfiles/blob/master/systemd/.config/systemd/user/background.service,/blob/master/systemd/.config/systemd/user/background.service,1,1,dotfiles
+/cristianpb/cristianpb.github.io,Overview,1,1,cristianpb.github.io
+/cristianpb/dotfiles,Overview,5,5,dotfiles
 /cristianpb/dotfiles/blob/master/top/.toprc,/blob/master/top/.toprc,1,1,dotfiles
-/cristianpb/dotfiles/blob/master/wiki2html.sh,/blob/master/wiki2html.sh,1,1,dotfiles
+/cristianpb/dotfiles/blob/master/vim/.vimrc,/blob/master/vim/.vimrc,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/vim,/tree/master/vim,1,1,dotfiles
 /cristianpb/logs-analysis,Overview,1,1,logs-analysis
 /cristianpb/muse,Overview,19,12,muse
