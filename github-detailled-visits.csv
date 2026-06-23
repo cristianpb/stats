@@ -1,12 +1,10 @@
 path,title,count,uniques,repository
 /cristianpb/analytics-google,Overview,8,4,analytics-google
-/cristianpb/analytics-google/commits,/commits,1,1,analytics-google
 /cristianpb/cristianpb.github.io,Overview,1,1,cristianpb.github.io
-/cristianpb/dotfiles,Overview,6,6,dotfiles
+/cristianpb/dotfiles,Overview,7,7,dotfiles
 /cristianpb/dotfiles/blob/master/vim/.vimrc,/blob/master/vim/.vimrc,1,1,dotfiles
 /cristianpb/dotfiles/milestones,/milestones,1,1,dotfiles
 /cristianpb/dotfiles/pulls,/pulls,1,1,dotfiles
-/cristianpb/logs-analysis,Overview,1,1,logs-analysis
 /cristianpb/muse,Overview,10,7,muse
 /cristianpb/muse/tree/master/cypress,/tree/master/cypress,5,1,muse
 /cristianpb/muse/tree/master/src,/tree/master/src,5,1,muse
@@ -17,6 +15,7 @@ path,title,count,uniques,repository
 /cristianpb/muse/tree/master/src/lib/tools,/tree/master/src/lib/tools,2,1,muse
 /cristianpb/muse/blob/master/src/lib/components/AddToPlaylist.svelte,/blob/master/src/lib/components/AddToPlaylist.svelte,1,1,muse
 /cristianpb/muse/blob/master/src/lib/tools/mopidyTools.js,/blob/master/src/lib/tools/mopidyTools.js,1,1,muse
+/cristianpb/object-detection,Overview,1,1,object-detection
 /cristianpb/object-detection/issues,/issues,1,1,object-detection
 /cristianpb/object-detection/pulls,/pulls,1,1,object-detection
 /cristianpb/playlists/actions/runs/27646383155/job/81759193154,/actions/runs/27646383155/job/81759193154,5,1,playlists
@@ -27,6 +26,7 @@ path,title,count,uniques,repository
 /cristianpb/playlists/actions/workflows/data.yml,/actions/workflows/data.yml,2,1,playlists
 /cristianpb/playlists/actions/runs/27713404700,/actions/runs/27713404700,1,1,playlists
 /cristianpb/rhasspy-handler/issues,/issues,1,1,rhasspy-handler
+/cristianpb/rhasspy-handler/labels,/labels,1,1,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,/blob/master/docker-compose-gpu.yml,1,1,telegraf-influxdb-grafana-docker
-/cristianpb/vimwiki,Overview,1,1,vimwiki
+/cristianpb/vimwiki,Overview,2,2,vimwiki
 /cristianpb/vimwiki/blob/master/.gitignore,/blob/master/.gitignore,1,1,vimwiki
