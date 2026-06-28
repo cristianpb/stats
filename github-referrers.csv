@@ -1,7 +1,9 @@
 referrer,count,uniques,repository
 github.com,1,1,cristianpb.github.io
 github.com,3,3,dotfiles
-Google,1,1,dotfiles
-mopidy.com,31,4,muse
+Google,2,2,dotfiles
+mopidy.com,32,5,muse
+pypi.org,5,1,muse
+Bing,2,1,muse
 github.com,1,1,muse
 search.brave.com,1,1,telegraf-influxdb-grafana-docker
