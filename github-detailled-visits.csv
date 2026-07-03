@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,Overview,8,3,analytics-google
+/cristianpb/analytics-google,Overview,8,4,analytics-google
 /cristianpb/analytics-google/blob/master/package.json,/blob/master/package.json,1,1,analytics-google
 /cristianpb/dotfiles,Overview,6,6,dotfiles
 /cristianpb/dotfiles/forks,/forks,2,2,dotfiles
@@ -10,7 +10,6 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/commits,/commits,1,1,dotfiles
 /cristianpb/dotfiles/commits/master/waybar/.config/waybar,/commits/master/waybar/.config/waybar,1,1,dotfiles
 /cristianpb/dotfiles/milestones,/milestones,1,1,dotfiles
-/cristianpb/dotfiles/pulls,/pulls,1,1,dotfiles
 /cristianpb/hubot-ratp/issues,/issues,1,1,hubot-ratp
 /cristianpb/muse,Overview,11,6,muse
 /cristianpb/muse/issues,/issues,3,3,muse
@@ -24,13 +23,6 @@ path,title,count,uniques,repository
 /cristianpb/object-detection,Overview,3,2,object-detection
 /cristianpb/object-detection/issues,/issues,1,1,object-detection
 /cristianpb/object-detection/pulls,/pulls,1,1,object-detection
-/cristianpb/playlists/actions/runs/27713404700/job/81980019208,/actions/runs/27713404700/job/81980019208,3,1,playlists
-/cristianpb/playlists/actions,/actions,2,1,playlists
-/cristianpb/playlists/actions/runs/27646383155/job/81759193154,/actions/runs/27646383155/job/81759193154,2,1,playlists
-/cristianpb/playlists,Overview,1,1,playlists
-/cristianpb/playlists/actions/runs/27646383155,/actions/runs/27646383155,1,1,playlists
-/cristianpb/playlists/actions/runs/27713404700,/actions/runs/27713404700,1,1,playlists
-/cristianpb/playlists/actions/workflows/data.yml,/actions/workflows/data.yml,1,1,playlists
 /cristianpb/priceminister,Overview,1,1,priceminister
 /cristianpb/priceminister/blob/master/docs/index.rst,/blob/master/docs/index.rst,1,1,priceminister
 /cristianpb/rhasspy-handler/issues,/issues,1,1,rhasspy-handler
