@@ -1,7 +1,7 @@
 path,title,count,uniques,repository
 /cristianpb/analytics-google,Overview,7,3,analytics-google
 /cristianpb/analytics-google/blob/master/package.json,/blob/master/package.json,1,1,analytics-google
-/cristianpb/dotfiles,Overview,6,6,dotfiles
+/cristianpb/dotfiles,Overview,5,5,dotfiles
 /cristianpb/dotfiles/forks,/forks,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/tmux/.tmux.theme,/blob/master/tmux/.tmux.theme,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/wiki2html.sh,/blob/master/wiki2html.sh,1,1,dotfiles
@@ -18,11 +18,9 @@ path,title,count,uniques,repository
 /cristianpb/muse/releases,/releases,1,1,muse
 /cristianpb/muse/tree/master/.github/workflows,/tree/master/.github/workflows,1,1,muse
 /cristianpb/muse/tree/master/src,/tree/master/src,1,1,muse
-/cristianpb/object-detection,Overview,4,3,object-detection
+/cristianpb/object-detection,Overview,3,2,object-detection
 /cristianpb/object-detection/issues,/issues,1,1,object-detection
 /cristianpb/priceminister,Overview,1,1,priceminister
 /cristianpb/priceminister/blob/master/docs/index.rst,/blob/master/docs/index.rst,1,1,priceminister
-/cristianpb/rhasspy-handler/labels,/labels,1,1,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker,Overview,2,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,/blob/master/docker-compose.yml,1,1,telegraf-influxdb-grafana-docker
-/cristianpb/vimwiki,Overview,1,1,vimwiki
