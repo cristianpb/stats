@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,Overview,7,3,analytics-google
+/cristianpb/analytics-google,Overview,10,4,analytics-google
 /cristianpb/analytics-google/blob/master/package.json,/blob/master/package.json,1,1,analytics-google
 /cristianpb/dotfiles,Overview,5,5,dotfiles
 /cristianpb/dotfiles/forks,/forks,2,2,dotfiles
@@ -10,7 +10,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/commits,/commits,1,1,dotfiles
 /cristianpb/dotfiles/commits/master/waybar/.config/waybar,/commits/master/waybar/.config/waybar,1,1,dotfiles
 /cristianpb/hubot-ratp/issues,/issues,1,1,hubot-ratp
-/cristianpb/muse,Overview,11,6,muse
+/cristianpb/muse,Overview,12,6,muse
 /cristianpb/muse/issues,/issues,3,3,muse
 /cristianpb/muse/tree/master/mopidy_muse,/tree/master/mopidy_muse,3,1,muse
 /cristianpb/muse/blob/master/mopidy_muse/mopidy.conf,/blob/master/mopidy_muse/mopidy.conf,1,1,muse
@@ -22,5 +22,6 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/issues,/issues,1,1,object-detection
 /cristianpb/priceminister,Overview,1,1,priceminister
 /cristianpb/priceminister/blob/master/docs/index.rst,/blob/master/docs/index.rst,1,1,priceminister
+/cristianpb/priceminister/blob/master/notebooks/02-Train.ipynb,/blob/master/notebooks/02-Train.ipynb,1,1,priceminister
 /cristianpb/telegraf-influxdb-grafana-docker,Overview,2,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,/blob/master/docker-compose.yml,1,1,telegraf-influxdb-grafana-docker
