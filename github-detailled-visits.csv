@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,Overview,9,4,analytics-google
+/cristianpb/analytics-google,Overview,10,5,analytics-google
 /cristianpb/analytics-google/blob/master/country.csv,/blob/master/country.csv,2,1,analytics-google
 /cristianpb/analytics-google/blob/master/package.json,/blob/master/package.json,1,1,analytics-google
 /cristianpb/dotfiles,Overview,4,4,dotfiles
@@ -9,7 +9,6 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/commit/e01104f120e2f587064c771c5aa243bd254ab05a,/commit/e01104f120e2f587064c771c5aa243bd254ab05a,1,1,dotfiles
 /cristianpb/dotfiles/commits,/commits,1,1,dotfiles
 /cristianpb/dotfiles/commits/master/waybar/.config/waybar,/commits/master/waybar/.config/waybar,1,1,dotfiles
-/cristianpb/dotfiles/forks,/forks,1,1,dotfiles
 /cristianpb/hubot-ratp/issues,/issues,1,1,hubot-ratp
 /cristianpb/muse,Overview,13,7,muse
 /cristianpb/muse/tree/master/mopidy_muse,/tree/master/mopidy_muse,3,1,muse
@@ -24,7 +23,6 @@ path,title,count,uniques,repository
 /cristianpb/object-detection,Overview,1,1,object-detection
 /cristianpb/object-detection/issues,/issues,1,1,object-detection
 /cristianpb/object-detection-frontend/blob/master/.github/workflows/nodejs.yml,/blob/master/.github/workflows/nodejs.yml,1,1,object-detection-frontend
-/cristianpb/priceminister,Overview,1,1,priceminister
 /cristianpb/priceminister/blob/master/docs/index.rst,/blob/master/docs/index.rst,1,1,priceminister
 /cristianpb/priceminister/blob/master/notebooks/02-Train.ipynb,/blob/master/notebooks/02-Train.ipynb,1,1,priceminister
 /cristianpb/telegraf-influxdb-grafana-docker,Overview,2,2,telegraf-influxdb-grafana-docker
