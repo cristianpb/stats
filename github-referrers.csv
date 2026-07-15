@@ -1,9 +1,7 @@
 referrer,count,uniques,repository
 Google,2,1,analytics-google
-discourse.gohugo.io,1,1,dotfiles
-dotfiles.github.io,1,1,dotfiles
-mopidy.com,4,3,muse
+mopidy.com,3,2,muse
 github.com,2,2,muse
 pypi.org,1,1,muse
 github.com,1,1,object-detection
-Google,16,1,telegraf-influxdb-grafana-docker
+Google,17,2,telegraf-influxdb-grafana-docker
