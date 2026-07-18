@@ -15,6 +15,7 @@ path,title,count,uniques,repository
 /cristianpb/muse/blob/master/Dockerfile,/blob/master/Dockerfile,1,1,muse
 /cristianpb/muse/blob/master/docker-compose.yml,/blob/master/docker-compose.yml,1,1,muse
 /cristianpb/object-detection,Overview,3,3,object-detection
+/cristianpb/object-detection/blob/master/README.md,/blob/master/README.md,3,1,object-detection
 /cristianpb/object-detection/blob/master/LICENSE,/blob/master/LICENSE,1,1,object-detection
 /cristianpb/object-detection-frontend/blob/master/.github/workflows/nodejs.yml,/blob/master/.github/workflows/nodejs.yml,1,1,object-detection-frontend
 /cristianpb/priceminister/blob/master/notebooks/02-Train.ipynb,/blob/master/notebooks/02-Train.ipynb,1,1,priceminister
