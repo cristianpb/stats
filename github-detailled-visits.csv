@@ -4,7 +4,8 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/blob/master/postcss.config.cjs,/blob/master/postcss.config.cjs,1,1,analytics-google
 /cristianpb/aws-lambda-cv,Overview,1,1,aws-lambda-cv
 /cristianpb/dotfiles,Overview,1,1,dotfiles
-/cristianpb/muse,Overview,11,10,muse
+/cristianpb/dotfiles/branches,/branches,1,1,dotfiles
+/cristianpb/muse,Overview,12,11,muse
 /cristianpb/muse/issues,/issues,2,2,muse
 /cristianpb/muse/releases/tag/v0.0.41,/releases/tag/v0.0.41,2,2,muse
 /cristianpb/muse/commit/195d5365ab8f17c607bd4a02af91d7f674a0d3e1,/commit/195d5365ab8f17c607bd4a02af91d7f674a0d3e1,2,1,muse
@@ -19,6 +20,16 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/blob/master/LICENSE,/blob/master/LICENSE,1,1,object-detection
 /cristianpb/object-detection/blob/master/backend/yolo_detection.py,/blob/master/backend/yolo_detection.py,1,1,object-detection
 /cristianpb/object-detection-frontend/blob/master/.github/workflows/nodejs.yml,/blob/master/.github/workflows/nodejs.yml,1,1,object-detection-frontend
+/cristianpb/playlists/actions,/actions,5,1,playlists
+/cristianpb/playlists/actions/workflows/data.yml,/actions/workflows/data.yml,5,1,playlists
+/cristianpb/playlists/actions/runs/29700971983,/actions/runs/29700971983,3,1,playlists
+/cristianpb/playlists/actions/runs/29701568382/job/88231369618,/actions/runs/29701568382/job/88231369618,3,1,playlists
+/cristianpb/playlists,Overview,2,2,playlists
+/cristianpb/playlists/actions/runs/29700349945,/actions/runs/29700349945,2,1,playlists
+/cristianpb/playlists/actions/runs/29700971983/job/88229853229,/actions/runs/29700971983/job/88229853229,2,1,playlists
+/cristianpb/playlists/actions/runs/29700229299/job/88227949616,/actions/runs/29700229299/job/88227949616,1,1,playlists
+/cristianpb/playlists/actions/runs/29700229306,/actions/runs/29700229306,1,1,playlists
+/cristianpb/playlists/actions/runs/29700229306/job/88227949641,/actions/runs/29700229306/job/88227949641,1,1,playlists
 /cristianpb/priceminister/blob/master/notebooks/02-Train.ipynb,/blob/master/notebooks/02-Train.ipynb,1,1,priceminister
 /cristianpb/rhasspy-handler,Overview,1,1,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,/blob/master/docker-compose.yml,7,2,telegraf-influxdb-grafana-docker

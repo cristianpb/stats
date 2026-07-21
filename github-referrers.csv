@@ -1,8 +1,9 @@
 referrer,count,uniques,repository
 Google,2,1,analytics-google
+mopidy.com,3,2,muse
 github.com,2,2,muse
 cristianpb.github.io,2,1,muse
-mopidy.com,2,1,muse
 github.com,5,2,object-detection
 cristianpb.github.io,1,1,object-detection
+github.com,2,1,playlists
 Google,17,2,telegraf-influxdb-grafana-docker
