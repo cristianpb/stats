@@ -5,6 +5,7 @@ path,title,count,uniques,repository
 /cristianpb/matchid-backend/blob/dev/docker-compose-dev.yml,/blob/dev/docker-compose-dev.yml,1,1,matchid-backend
 /cristianpb/muse,Overview,7,7,muse
 /cristianpb/muse/tags,/tags,2,1,muse
+/cristianpb/muse/blob/master/Makefile,/blob/master/Makefile,1,1,muse
 /cristianpb/muse/issues,/issues,1,1,muse
 /cristianpb/muse/issues/19,/issues/19,1,1,muse
 /cristianpb/muse/releases/tag/v0.0.40,/releases/tag/v0.0.40,1,1,muse
@@ -25,4 +26,3 @@ path,title,count,uniques,repository
 /cristianpb/playlists/actions/runs/29700229306,/actions/runs/29700229306,1,1,playlists
 /cristianpb/playlists/actions/runs/29700229306/job/88227949641,/actions/runs/29700229306/job/88227949641,1,1,playlists
 /cristianpb/rhasspy-handler,Overview,2,2,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,/blob/master/docker-compose.yml,1,1,telegraf-influxdb-grafana-docker
