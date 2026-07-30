@@ -1,9 +1,9 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,Overview,2,2,analytics-google
+/cristianpb/analytics-google,Overview,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/package-lock.json,/blob/master/package-lock.json,1,1,analytics-google
 /cristianpb/dotfiles/branches,/branches,1,1,dotfiles
 /cristianpb/matchid-backend/blob/dev/docker-compose-dev.yml,/blob/dev/docker-compose-dev.yml,1,1,matchid-backend
-/cristianpb/muse,Overview,7,7,muse
+/cristianpb/muse,Overview,6,6,muse
 /cristianpb/muse/tags,/tags,2,1,muse
 /cristianpb/muse/blob/master/Makefile,/blob/master/Makefile,1,1,muse
 /cristianpb/muse/issues,/issues,1,1,muse
