@@ -475,7 +475,6 @@ date,repository,clones,views
 2026-07-29,playlists,0,0
 2026-07-30,playlists,0,0
 2026-07-31,playlists,3,0
-2026-07-18,PresentationTechnique,0,0
 2026-07-19,PresentationTechnique,0,0
 2026-07-20,PresentationTechnique,0,0
 2026-07-21,PresentationTechnique,0,0
@@ -489,6 +488,7 @@ date,repository,clones,views
 2026-07-29,PresentationTechnique,0,0
 2026-07-30,PresentationTechnique,0,0
 2026-07-31,PresentationTechnique,0,0
+2026-08-01,PresentationTechnique,0,0
 2026-07-18,priceminister,0,0
 2026-07-19,priceminister,0,0
 2026-07-20,priceminister,0,0
@@ -503,7 +503,6 @@ date,repository,clones,views
 2026-07-29,priceminister,0,0
 2026-07-30,priceminister,0,0
 2026-07-31,priceminister,0,0
-2026-07-18,qrcode-reader,0,0
 2026-07-19,qrcode-reader,0,0
 2026-07-20,qrcode-reader,0,0
 2026-07-21,qrcode-reader,0,0
@@ -517,6 +516,7 @@ date,repository,clones,views
 2026-07-29,qrcode-reader,0,0
 2026-07-30,qrcode-reader,0,0
 2026-07-31,qrcode-reader,0,0
+2026-08-01,qrcode-reader,0,0
 2026-07-18,recettes,0,0
 2026-07-19,recettes,0,0
 2026-07-20,recettes,0,0
@@ -587,7 +587,6 @@ date,repository,clones,views
 2026-07-29,SubMusic,0,0
 2026-07-30,SubMusic,0,0
 2026-07-31,SubMusic,0,0
-2026-07-18,telegraf-influxdb-grafana-docker,1,0
 2026-07-19,telegraf-influxdb-grafana-docker,0,0
 2026-07-20,telegraf-influxdb-grafana-docker,1,0
 2026-07-21,telegraf-influxdb-grafana-docker,0,0
@@ -601,7 +600,7 @@ date,repository,clones,views
 2026-07-29,telegraf-influxdb-grafana-docker,0,0
 2026-07-30,telegraf-influxdb-grafana-docker,1,0
 2026-07-31,telegraf-influxdb-grafana-docker,0,0
-2026-07-18,temp-sigfox,1,0
+2026-08-01,telegraf-influxdb-grafana-docker,0,1
 2026-07-19,temp-sigfox,1,0
 2026-07-20,temp-sigfox,0,0
 2026-07-21,temp-sigfox,0,0
@@ -615,6 +614,7 @@ date,repository,clones,views
 2026-07-29,temp-sigfox,1,0
 2026-07-30,temp-sigfox,0,0
 2026-07-31,temp-sigfox,0,1
+2026-08-01,temp-sigfox,0,0
 2026-07-18,tkasme,1,0
 2026-07-19,tkasme,0,0
 2026-07-20,tkasme,0,0

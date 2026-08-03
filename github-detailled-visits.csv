@@ -23,4 +23,5 @@ path,title,count,uniques,repository
 /cristianpb/playlists/actions/runs/29700229306,/actions/runs/29700229306,1,1,playlists
 /cristianpb/playlists/actions/runs/29700229306/job/88227949641,/actions/runs/29700229306/job/88227949641,1,1,playlists
 /cristianpb/rhasspy-handler,Overview,2,2,rhasspy-handler
+/cristianpb/telegraf-influxdb-grafana-docker,Overview,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/temp-sigfox,Overview,1,1,temp-sigfox
