@@ -14,6 +14,8 @@ path,title,count,uniques,repository
 /cristianpb/muse/tree/master/src,/tree/master/src,1,1,muse
 /cristianpb/object-detection,Overview,1,1,object-detection
 /cristianpb/object-detection/actions,/actions,1,1,object-detection
-/cristianpb/rhasspy-handler,Overview,1,1,rhasspy-handler
+/cristianpb/rhasspy-handler,Overview,2,2,rhasspy-handler
+/cristianpb/rhasspy-handler/activity,/activity,1,1,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker,Overview,1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,/blob/master/docker-compose-gpu.yml,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/temp-sigfox,Overview,1,1,temp-sigfox
