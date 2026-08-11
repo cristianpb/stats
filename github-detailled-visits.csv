@@ -12,8 +12,10 @@ path,title,count,uniques,repository
 /cristianpb/newsapp,Overview,1,1,newsapp
 /cristianpb/object-detection,Overview,2,2,object-detection
 /cristianpb/object-detection/actions,/actions,1,1,object-detection
+/cristianpb/priceminister/pulls,/pulls,1,1,priceminister
 /cristianpb/rhasspy-handler,Overview,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/activity,/activity,1,1,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker,Overview,1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/LICENSE,/blob/master/LICENSE,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,/blob/master/docker-compose-gpu.yml,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/temp-sigfox,Overview,1,1,temp-sigfox
