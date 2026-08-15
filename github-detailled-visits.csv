@@ -1,5 +1,6 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google/blob/master/Makefile,/blob/master/Makefile,4,4,analytics-google
+/cristianpb/analytics-google/blob/master/Makefile,/blob/master/Makefile,3,3,analytics-google
+/cristianpb/analytics-google/issues,/issues,1,1,analytics-google
 /cristianpb/dotfiles/tree/master,/tree/master,8,1,dotfiles
 /cristianpb/dotfiles,Overview,5,5,dotfiles
 /cristianpb/dotfiles/tree/master/xorg,/tree/master/xorg,5,1,dotfiles
@@ -11,8 +12,8 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/tree/master/tmux,/tree/master/tmux,2,1,dotfiles
 /cristianpb/dotfiles/tree/master/vim,/tree/master/vim,2,1,dotfiles
 /cristianpb/muse,Overview,7,7,muse
+/cristianpb/muse/blob/master/pyproject.toml,/blob/master/pyproject.toml,2,2,muse
 /cristianpb/muse/blob/master/LICENSE,/blob/master/LICENSE,1,1,muse
-/cristianpb/muse/blob/master/pyproject.toml,/blob/master/pyproject.toml,1,1,muse
 /cristianpb/muse/releases,/releases,1,1,muse
 /cristianpb/muse/releases/tag/v0.0.41,/releases/tag/v0.0.41,1,1,muse
 /cristianpb/muse/tree/master,/tree/master,1,1,muse
