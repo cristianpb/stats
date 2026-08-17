@@ -2,8 +2,8 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/blob/master/Makefile,/blob/master/Makefile,4,4,analytics-google
 /cristianpb/analytics-google/issues,/issues,1,1,analytics-google
 /cristianpb/dotfiles/tree/master,/tree/master,8,1,dotfiles
-/cristianpb/dotfiles,Overview,5,5,dotfiles
 /cristianpb/dotfiles/tree/master/xorg,/tree/master/xorg,5,1,dotfiles
+/cristianpb/dotfiles,Overview,4,4,dotfiles
 /cristianpb/dotfiles/tree/master/ranger/.config/ranger,/tree/master/ranger/.config/ranger,4,1,dotfiles
 /cristianpb/dotfiles/tree/master/i3/.config/i3,/tree/master/i3/.config/i3,3,1,dotfiles
 /cristianpb/dotfiles/tree/master/polybar/.config/polybar,/tree/master/polybar/.config/polybar,3,1,dotfiles
@@ -13,7 +13,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/tree/master/vim,/tree/master/vim,2,1,dotfiles
 /cristianpb/hubot-ratp,Overview,1,1,hubot-ratp
 /cristianpb/hubot-ratp/blob/master/src/ratp.coffee,/blob/master/src/ratp.coffee,1,1,hubot-ratp
-/cristianpb/muse,Overview,8,8,muse
+/cristianpb/muse,Overview,9,9,muse
 /cristianpb/muse/blob/master/LICENSE,/blob/master/LICENSE,1,1,muse
 /cristianpb/muse/blob/master/pyproject.toml,/blob/master/pyproject.toml,1,1,muse
 /cristianpb/muse/releases,/releases,1,1,muse
@@ -29,6 +29,5 @@ path,title,count,uniques,repository
 /pollen-robotics/reachy_mini_homeassistant/compare/main...cristianpb:reachy_mini_homeassistant:main,stant/compare/main...cristianpb:reachy_mini_homeassistant:main,1,1,reachy_mini_homeassistant
 /cristianpb/rhasspy-handler,Overview,1,1,rhasspy-handler
 /cristianpb/rhasspy-handler/activity,/activity,1,1,rhasspy-handler
-/cristianpb/telegraf-influxdb-grafana-docker,Overview,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/LICENSE,/blob/master/LICENSE,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,/blob/master/docker-compose-gpu.yml,1,1,telegraf-influxdb-grafana-docker
