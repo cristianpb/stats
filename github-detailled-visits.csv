@@ -1,5 +1,6 @@
 path,title,count,uniques,repository
 /cristianpb/analytics-google/blob/master/Makefile,/blob/master/Makefile,4,4,analytics-google
+/cristianpb/analytics-google,Overview,1,1,analytics-google
 /cristianpb/analytics-google/issues,/issues,1,1,analytics-google
 /cristianpb/dotfiles/tree/master,/tree/master,8,1,dotfiles
 /cristianpb/dotfiles/tree/master/xorg,/tree/master/xorg,5,1,dotfiles
@@ -13,6 +14,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/git/.gitconfig,/blob/master/git/.gitconfig,1,1,dotfiles
 /cristianpb/hubot-ratp,Overview,1,1,hubot-ratp
 /cristianpb/hubot-ratp/blob/master/src/ratp.coffee,/blob/master/src/ratp.coffee,1,1,hubot-ratp
+/cristianpb/hubot-ratp/releases,/releases,1,1,hubot-ratp
 /cristianpb/muse,Overview,8,8,muse
 /cristianpb/muse/blob/master/LICENSE,/blob/master/LICENSE,1,1,muse
 /cristianpb/muse/blob/master/pyproject.toml,/blob/master/pyproject.toml,1,1,muse
@@ -20,13 +22,9 @@ path,title,count,uniques,repository
 /cristianpb/myhubot,Overview,1,1,myhubot
 /cristianpb/newsapp,Overview,1,1,newsapp
 /cristianpb/object-detection,Overview,1,1,object-detection
-/cristianpb/object-detection/actions,/actions,1,1,object-detection
 /cristianpb/playlists,Overview,1,1,playlists
 /cristianpb/playlists/actions/runs/31416039610/job/93545174076,/actions/runs/31416039610/job/93545174076,1,1,playlists
 /cristianpb/priceminister/pulls,/pulls,1,1,priceminister
 /cristianpb/reachy_mini_homeassistant,Overview,3,1,reachy_mini_homeassistant
 /pollen-robotics/reachy_mini_homeassistant/compare/main...cristianpb:reachy_mini_homeassistant:main,stant/compare/main...cristianpb:reachy_mini_homeassistant:main,1,1,reachy_mini_homeassistant
-/cristianpb/rhasspy-handler,Overview,1,1,rhasspy-handler
-/cristianpb/rhasspy-handler/activity,/activity,1,1,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/LICENSE,/blob/master/LICENSE,1,1,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose-gpu.yml,/blob/master/docker-compose-gpu.yml,1,1,telegraf-influxdb-grafana-docker
