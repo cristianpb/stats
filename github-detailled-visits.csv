@@ -1,6 +1,6 @@
 path,title,count,uniques,repository
 /cristianpb/analytics-google/blob/master/Makefile,/blob/master/Makefile,5,5,analytics-google
-/cristianpb/analytics-google,Overview,4,3,analytics-google
+/cristianpb/analytics-google,Overview,5,3,analytics-google
 /cristianpb/analytics-google/issues,/issues,1,1,analytics-google
 /cristianpb/dotfiles/tree/master,/tree/master,8,1,dotfiles
 /cristianpb/dotfiles/tree/master/xorg,/tree/master/xorg,5,1,dotfiles
@@ -15,7 +15,7 @@ path,title,count,uniques,repository
 /cristianpb/hubot-ratp,Overview,1,1,hubot-ratp
 /cristianpb/hubot-ratp/blob/master/src/ratp.coffee,/blob/master/src/ratp.coffee,1,1,hubot-ratp
 /cristianpb/hubot-ratp/releases,/releases,1,1,hubot-ratp
-/cristianpb/muse,Overview,9,8,muse
+/cristianpb/muse,Overview,10,9,muse
 /cristianpb/muse/blob/master/Dockerfile,/blob/master/Dockerfile,1,1,muse
 /cristianpb/muse/blob/master/LICENSE,/blob/master/LICENSE,1,1,muse
 /cristianpb/muse/blob/master/docker-compose.yml,/blob/master/docker-compose.yml,1,1,muse
@@ -26,7 +26,6 @@ path,title,count,uniques,repository
 /cristianpb/muse/tree/master,/tree/master,1,1,muse
 /cristianpb/muse/tree/master/mopidy_muse,/tree/master/mopidy_muse,1,1,muse
 /cristianpb/myhubot,Overview,1,1,myhubot
-/cristianpb/newsapp,Overview,1,1,newsapp
 /cristianpb/object-detection,Overview,1,1,object-detection
 /cristianpb/object-detection-frontend/blob/master/package.json,/blob/master/package.json,1,1,object-detection-frontend
 /cristianpb/playlists,Overview,1,1,playlists
