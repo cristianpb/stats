@@ -5,7 +5,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles,Overview,3,2,dotfiles
 /cristianpb/dotfiles/blob/master/tmux/.tmux.theme,/blob/master/tmux/.tmux.theme,1,1,dotfiles
 /cristianpb/logs-analysis,Overview,1,1,logs-analysis
-/cristianpb/muse,Overview,6,5,muse
+/cristianpb/muse,Overview,5,4,muse
 /cristianpb/muse/blob/master/mopidy_muse/__init__.py,/blob/master/mopidy_muse/__init__.py,1,1,muse
 /cristianpb/muse/issues/15,/issues/15,1,1,muse
 /cristianpb/muse/tree/master,/tree/master,1,1,muse
