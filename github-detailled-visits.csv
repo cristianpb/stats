@@ -33,9 +33,6 @@ path,title,count,uniques,repository
 /cristianpb/playlists/actions,/actions,1,1,playlists
 /cristianpb/playlists/actions/runs/32447968561,/actions/runs/32447968561,1,1,playlists
 /cristianpb/playlists/actions/runs/32447968561/job/96673497682,/actions/runs/32447968561/job/96673497682,1,1,playlists
-/cristianpb/reachy_mini_homeassistant,Overview,2,2,reachy_mini_homeassistant
-/cristianpb/reachy_mini_homeassistant/commit/13e8deb0eaa62e3da81dc78cca26a0ec6bbf6eba,/commit/13e8deb0eaa62e3da81dc78cca26a0ec6bbf6eba,1,1,reachy_mini_homeassistant
-/pollen-robotics/reachy_mini_homeassistant/compare/main...cristianpb:reachy_mini_homeassistant:main,stant/compare/main...cristianpb:reachy_mini_homeassistant:main,1,1,reachy_mini_homeassistant
+/cristianpb/reachy_mini_homeassistant,Overview,1,1,reachy_mini_homeassistant
 /cristianpb/rhasspy-handler,Overview,1,1,rhasspy-handler
 /cristianpb/stats,Overview,1,1,stats
-/cristianpb/tkasme,Overview,1,1,tkasme
