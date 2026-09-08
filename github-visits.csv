@@ -167,7 +167,6 @@ date,repository,clones,views
 2026-09-03,enkontext,0,0
 2026-09-04,enkontext,0,0
 2026-09-05,enkontext,0,0
-2026-08-25,goaccess,0,0
 2026-08-26,goaccess,0,0
 2026-08-27,goaccess,0,0
 2026-08-28,goaccess,0,0
@@ -181,6 +180,7 @@ date,repository,clones,views
 2026-09-05,goaccess,0,0
 2026-09-06,goaccess,0,0
 2026-09-07,goaccess,0,0
+2026-09-08,goaccess,0,0
 2026-08-23,gswsr,2,0
 2026-08-24,gswsr,0,0
 2026-08-25,gswsr,1,0
@@ -223,7 +223,6 @@ date,repository,clones,views
 2026-09-03,hubot-velib,0,0
 2026-09-04,hubot-velib,0,0
 2026-09-05,hubot-velib,0,0
-2026-08-25,infolettre-lab-ia,0,0
 2026-08-26,infolettre-lab-ia,0,0
 2026-08-27,infolettre-lab-ia,0,0
 2026-08-28,infolettre-lab-ia,0,0
@@ -237,7 +236,7 @@ date,repository,clones,views
 2026-09-05,infolettre-lab-ia,0,0
 2026-09-06,infolettre-lab-ia,0,0
 2026-09-07,infolettre-lab-ia,0,0
-2026-08-25,judilibre-stats,0,0
+2026-09-08,infolettre-lab-ia,0,0
 2026-08-26,judilibre-stats,0,0
 2026-08-27,judilibre-stats,0,0
 2026-08-28,judilibre-stats,0,0
@@ -251,6 +250,7 @@ date,repository,clones,views
 2026-09-05,judilibre-stats,0,0
 2026-09-06,judilibre-stats,0,0
 2026-09-07,judilibre-stats,0,0
+2026-09-08,judilibre-stats,0,0
 2026-08-23,logs-analysis,0,0
 2026-08-24,logs-analysis,1,0
 2026-08-25,logs-analysis,2,0
@@ -559,7 +559,6 @@ date,repository,clones,views
 2026-09-03,rhasspy-handler,0,0
 2026-09-04,rhasspy-handler,1,0
 2026-09-05,rhasspy-handler,0,0
-2026-08-25,simple-streaming-gateway,0,0
 2026-08-26,simple-streaming-gateway,0,0
 2026-08-27,simple-streaming-gateway,0,0
 2026-08-28,simple-streaming-gateway,0,0
@@ -573,6 +572,7 @@ date,repository,clones,views
 2026-09-05,simple-streaming-gateway,0,0
 2026-09-06,simple-streaming-gateway,0,0
 2026-09-07,simple-streaming-gateway,0,0
+2026-09-08,simple-streaming-gateway,0,0
 2026-08-23,stats,10,0
 2026-08-24,stats,3,0
 2026-08-25,stats,4,0
