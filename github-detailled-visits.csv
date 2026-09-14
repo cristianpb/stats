@@ -14,6 +14,7 @@ path,title,count,uniques,repository
 /cristianpb/muse,Overview,2,2,muse
 /cristianpb/muse/blob/master/README.md,/blob/master/README.md,1,1,muse
 /cristianpb/nerf,Overview,1,1,nerf
+/cristianpb/newssummary/actions/workflows/daily_news.yml,/actions/workflows/daily_news.yml,1,1,newssummary
 /cristianpb/object-detection/blob/master/README.md,/blob/master/README.md,5,1,object-detection
 /cristianpb/object-detection,Overview,4,4,object-detection
 /cristianpb/object-detection/blob/master/config.yml.sample,/blob/master/config.yml.sample,4,1,object-detection
