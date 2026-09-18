@@ -15,8 +15,5 @@ path,title,count,uniques,repository
 /cristianpb/muse,Overview,2,2,muse
 /cristianpb/muse/blob/master/README.md,/blob/master/README.md,1,1,muse
 /cristianpb/newssummary/actions/workflows/daily_news.yml,/actions/workflows/daily_news.yml,1,1,newssummary
-/cristianpb/object-detection,Overview,2,2,object-detection
-/cristianpb/object-detection/tree/master/models,/tree/master/models,2,1,object-detection
+/cristianpb/object-detection,Overview,1,1,object-detection
 /cristianpb/object-detection/issues,/issues,1,1,object-detection
-/cristianpb/object-detection/tree/master,/tree/master,1,1,object-detection
-/cristianpb/object-detection/tree/master/models/ssd_mobilenet,/tree/master/models/ssd_mobilenet,1,1,object-detection
