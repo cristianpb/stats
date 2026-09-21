@@ -2,7 +2,7 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google,Overview,16,4,analytics-google
 /cristianpb/analytics-google/network/members,/network/members,1,1,analytics-google
 /cristianpb/aws-lambda-cv,Overview,1,1,aws-lambda-cv
-/cristianpb/dotfiles,Overview,3,3,dotfiles
+/cristianpb/dotfiles,Overview,5,5,dotfiles
 /cristianpb/dotfiles/blob/master/mutt/.mutt/mailcap,/blob/master/mutt/.mutt/mailcap,3,1,dotfiles
 /cristianpb/dotfiles/blob/master/R/.Rprofile,/blob/master/R/.Rprofile,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/README.md,/blob/master/README.md,1,1,dotfiles
@@ -16,5 +16,5 @@ path,title,count,uniques,repository
 /cristianpb/muse,Overview,3,3,muse
 /cristianpb/muse/blob/master/README.md,/blob/master/README.md,1,1,muse
 /cristianpb/newssummary/actions/workflows/daily_news.yml,/actions/workflows/daily_news.yml,1,1,newssummary
-/cristianpb/object-detection,Overview,3,3,object-detection
+/cristianpb/object-detection,Overview,4,4,object-detection
 /cristianpb/object-detection/issues,/issues,1,1,object-detection
