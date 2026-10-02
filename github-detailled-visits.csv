@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,Overview,17,4,analytics-google
+/cristianpb/analytics-google,Overview,15,4,analytics-google
 /cristianpb/cristianpb/blob/main/README.md,/blob/main/README.md,1,1,cristianpb
 /cristianpb/dotfiles,Overview,5,5,dotfiles
 /cristianpb/dotfiles/issues,/issues,2,2,dotfiles
@@ -17,5 +17,6 @@ path,title,count,uniques,repository
 /cristianpb/playlists/commit/95055b576ba226d0483229d4b4aae5689a937fee,/commit/95055b576ba226d0483229d4b4aae5689a937fee,1,1,playlists
 /cristianpb/SubMusic,Overview,1,1,SubMusic
 /memen45/SubMusic/compare/master...cristianpb:SubMusic:master,mpare/master...cristianpb:SubMusic:master,1,1,SubMusic
-/cristianpb/vimwiki,Overview,1,1,vimwiki
+/cristianpb/telegraf-influxdb-grafana-docker,Overview,1,1,telegraf-influxdb-grafana-docker
+/cristianpb/vimwiki,Overview,2,2,vimwiki
 /cristianpb/vimwiki/blob/master/README.md,/blob/master/README.md,1,1,vimwiki
