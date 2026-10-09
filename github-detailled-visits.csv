@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,Overview,22,3,analytics-google
+/cristianpb/analytics-google,Overview,23,3,analytics-google
 /cristianpb/cristianpb/blob/main/README.md,/blob/main/README.md,1,1,cristianpb
 /cristianpb/dotfiles,Overview,9,7,dotfiles
 /cristianpb/dotfiles/issues,/issues,2,2,dotfiles
@@ -8,7 +8,7 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/tree/master/dunst/.config/dunst,/tree/master/dunst/.config/dunst,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/i3/.config/i3,/tree/master/i3/.config/i3,1,1,dotfiles
 /cristianpb/hubot-ratp,Overview,1,1,hubot-ratp
-/cristianpb/muse,Overview,11,6,muse
+/cristianpb/muse,Overview,7,4,muse
 /cristianpb/muse/commit/c771b553c5d03e835b4289daf137680dabaef10c,/commit/c771b553c5d03e835b4289daf137680dabaef10c,2,1,muse
 /cristianpb/muse/commits/master,/commits/master,2,1,muse
 /cristianpb/muse/releases/tag/v0.0.41,/releases/tag/v0.0.41,2,1,muse
@@ -29,3 +29,4 @@ path,title,count,uniques,repository
 /memen45/SubMusic/compare/master...cristianpb:SubMusic:master,mpare/master...cristianpb:SubMusic:master,1,1,SubMusic
 /cristianpb/telegraf-influxdb-grafana-docker,Overview,2,2,telegraf-influxdb-grafana-docker
 /cristianpb/vimwiki,Overview,1,1,vimwiki
+/cristianpb/vimwiki/blob/master/README.md,/blob/master/README.md,1,1,vimwiki
