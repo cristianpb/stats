@@ -1,8 +1,8 @@
 referrer,count,uniques,repository
-dotfiles.github.io,2,2,dotfiles
+dotfiles.github.io,1,1,dotfiles
 github.com,1,1,hubot-ratp
 mopidy.com,3,2,muse
 github.com,1,1,playlists
-github.com,2,1,SubMusic
 DuckDuckGo,1,1,telegraf-influxdb-grafana-docker
+Google,1,1,telegraf-influxdb-grafana-docker
 aocr.org,1,1,telegraf-influxdb-grafana-docker

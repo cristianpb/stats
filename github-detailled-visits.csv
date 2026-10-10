@@ -1,12 +1,9 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,Overview,23,3,analytics-google
+/cristianpb/analytics-google,Overview,24,3,analytics-google
 /cristianpb/cristianpb/blob/main/README.md,/blob/main/README.md,1,1,cristianpb
-/cristianpb/dotfiles,Overview,9,7,dotfiles
+/cristianpb/dotfiles,Overview,8,6,dotfiles
 /cristianpb/dotfiles/issues,/issues,2,2,dotfiles
-/cristianpb/dotfiles/tree/master/R,/tree/master/R,1,1,dotfiles
-/cristianpb/dotfiles/tree/master/bash,/tree/master/bash,1,1,dotfiles
-/cristianpb/dotfiles/tree/master/dunst/.config/dunst,/tree/master/dunst/.config/dunst,1,1,dotfiles
-/cristianpb/dotfiles/tree/master/i3/.config/i3,/tree/master/i3/.config/i3,1,1,dotfiles
+/cristianpb/gswsr/blob/master/README.md,/blob/master/README.md,1,1,gswsr
 /cristianpb/hubot-ratp,Overview,1,1,hubot-ratp
 /cristianpb/muse,Overview,7,4,muse
 /cristianpb/muse/commit/c771b553c5d03e835b4289daf137680dabaef10c,/commit/c771b553c5d03e835b4289daf137680dabaef10c,2,1,muse
@@ -25,8 +22,6 @@ path,title,count,uniques,repository
 /cristianpb/playlists/actions/runs/36995222729,/actions/runs/36995222729,1,1,playlists
 /cristianpb/playlists/commit/95055b576ba226d0483229d4b4aae5689a937fee,/commit/95055b576ba226d0483229d4b4aae5689a937fee,1,1,playlists
 /cristianpb/rhasspy-handler,Overview,1,1,rhasspy-handler
-/cristianpb/SubMusic,Overview,1,1,SubMusic
-/memen45/SubMusic/compare/master...cristianpb:SubMusic:master,mpare/master...cristianpb:SubMusic:master,1,1,SubMusic
-/cristianpb/telegraf-influxdb-grafana-docker,Overview,2,2,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,Overview,4,3,telegraf-influxdb-grafana-docker
 /cristianpb/vimwiki,Overview,1,1,vimwiki
 /cristianpb/vimwiki/blob/master/README.md,/blob/master/README.md,1,1,vimwiki
