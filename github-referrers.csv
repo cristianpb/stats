@@ -1,6 +1,5 @@
 referrer,count,uniques,repository
 dotfiles.github.io,1,1,dotfiles
-github.com,1,1,hubot-ratp
 mopidy.com,3,2,muse
 github.com,1,1,playlists
 DuckDuckGo,1,1,telegraf-influxdb-grafana-docker
