@@ -1,8 +1,6 @@
 path,title,count,uniques,repository
 /cristianpb/analytics-google,Overview,25,3,analytics-google
-/cristianpb/cristianpb/blob/main/README.md,/blob/main/README.md,1,1,cristianpb
 /cristianpb/dotfiles,Overview,7,5,dotfiles
-/cristianpb/dotfiles/issues,/issues,1,1,dotfiles
 /cristianpb/gswsr/blob/master/README.md,/blob/master/README.md,1,1,gswsr
 /cristianpb/muse,Overview,8,5,muse
 /cristianpb/muse/commit/c771b553c5d03e835b4289daf137680dabaef10c,/commit/c771b553c5d03e835b4289daf137680dabaef10c,2,1,muse
@@ -12,8 +10,8 @@ path,title,count,uniques,repository
 /cristianpb/muse/issues,/issues,1,1,muse
 /cristianpb/muse/issues/51,/issues/51,1,1,muse
 /cristianpb/muse/issues/7,/issues/7,1,1,muse
-/cristianpb/object-detection,Overview,2,2,object-detection
-/cristianpb/object-detection/blob/master/requirements.txt,/blob/master/requirements.txt,2,2,object-detection
+/cristianpb/object-detection/blob/master/requirements.txt,/blob/master/requirements.txt,3,3,object-detection
+/cristianpb/object-detection,Overview,1,1,object-detection
 /cristianpb/object-detection/blob/master/README.md,/blob/master/README.md,1,1,object-detection
 /cristianpb/object-detection/blob/master/runtime.txt,/blob/master/runtime.txt,1,1,object-detection
 /cristianpb/object-detection/pulls,/pulls,1,1,object-detection
@@ -22,6 +20,8 @@ path,title,count,uniques,repository
 /cristianpb/playlists/actions,/actions,1,1,playlists
 /cristianpb/playlists/actions/runs/36995222729,/actions/runs/36995222729,1,1,playlists
 /cristianpb/rhasspy-handler,Overview,1,1,rhasspy-handler
+/cristianpb/rhasspy-handler/blob/master/README.md,/blob/master/README.md,1,1,rhasspy-handler
 /cristianpb/telegraf-influxdb-grafana-docker,Overview,4,3,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/README.md,/blob/master/README.md,2,2,telegraf-influxdb-grafana-docker
 /cristianpb/vimwiki,Overview,1,1,vimwiki
 /cristianpb/vimwiki/blob/master/README.md,/blob/master/README.md,1,1,vimwiki
