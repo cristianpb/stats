@@ -1,13 +1,15 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,Overview,21,3,analytics-google
-/cristianpb/dotfiles,Overview,3,3,dotfiles
+/cristianpb/analytics-google,Overview,20,3,analytics-google
+/cristianpb/dotfiles,Overview,2,2,dotfiles
+/cristianpb/dotfiles/labels/enhancement,/labels/enhancement,1,1,dotfiles
 /cristianpb/gswsr/blob/master/README.md,/blob/master/README.md,1,1,gswsr
-/cristianpb/muse,Overview,7,4,muse
+/cristianpb/muse,Overview,6,3,muse
 /cristianpb/muse/commit/c771b553c5d03e835b4289daf137680dabaef10c,/commit/c771b553c5d03e835b4289daf137680dabaef10c,2,1,muse
 /cristianpb/muse/commits/master,/commits/master,2,1,muse
 /cristianpb/muse/releases/tag/v0.0.41,/releases/tag/v0.0.41,2,1,muse
 /cristianpb/muse/blob/master/docker-compose.yml,/blob/master/docker-compose.yml,1,1,muse
 /cristianpb/muse/issues,/issues,1,1,muse
+/cristianpb/muse/issues/16,/issues/16,1,1,muse
 /cristianpb/muse/issues/51,/issues/51,1,1,muse
 /cristianpb/muse/issues/7,/issues/7,1,1,muse
 /cristianpb/object-detection,Overview,2,2,object-detection
@@ -15,6 +17,7 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/blob/master/requirements.txt,/blob/master/requirements.txt,2,2,object-detection
 /cristianpb/object-detection/blob/master/runtime.txt,/blob/master/runtime.txt,1,1,object-detection
 /cristianpb/object-detection/pulls,/pulls,1,1,object-detection
+/cristianpb/object-detection-frontend/actions,/actions,1,1,object-detection-frontend
 /cristianpb/playlists/actions/runs/36995222729/job/110804039521,/actions/runs/36995222729/job/110804039521,2,2,playlists
 /cristianpb/playlists,Overview,1,1,playlists
 /cristianpb/playlists/actions,/actions,1,1,playlists
