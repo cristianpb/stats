@@ -1,5 +1,5 @@
 path,title,count,uniques,repository
-/cristianpb/analytics-google,Overview,15,4,analytics-google
+/cristianpb/analytics-google,Overview,13,4,analytics-google
 /cristianpb/dotfiles/issues,/issues,1,1,dotfiles
 /cristianpb/dotfiles/labels/enhancement,/labels/enhancement,1,1,dotfiles
 /cristianpb/dotfiles/pulls,/pulls,1,1,dotfiles
@@ -20,4 +20,4 @@ path,title,count,uniques,repository
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/README.md,/blob/master/README.md,2,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker,Overview,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/temp-sigfox,Overview,1,1,temp-sigfox
-/cristianpb/vimwiki/blob/master/README.md,/blob/master/README.md,1,1,vimwiki
+/cristianpb/temp-sigfox/tree/master/mkr-fox-1200,/tree/master/mkr-fox-1200,1,1,temp-sigfox
