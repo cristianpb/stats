@@ -1,4 +1,6 @@
 referrer,count,uniques,repository
-aocr.org,1,1,aws-lambda-cv
-mopidy.com,3,3,muse
+aocr.org,2,2,aws-lambda-cv
+mopidy.com,4,4,muse
+aocr.org,2,2,muse
+aocr.org,2,2,telegraf-influxdb-grafana-docker
 Google,1,1,telegraf-influxdb-grafana-docker
