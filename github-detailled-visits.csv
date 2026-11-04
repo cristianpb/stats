@@ -1,6 +1,6 @@
 path,title,count,uniques,repository
 /cristianpb/alchemy-machine,Overview,1,1,alchemy-machine
-/cristianpb/analytics-google,Overview,11,5,analytics-google
+/cristianpb/analytics-google,Overview,13,5,analytics-google
 /cristianpb/analytics-google/blob/master/.eslintrc.cjs,/blob/master/.eslintrc.cjs,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/postcss.config.cjs,/blob/master/postcss.config.cjs,1,1,analytics-google
 /cristianpb/aws-lambda-cv,Overview,2,2,aws-lambda-cv
@@ -19,9 +19,9 @@ path,title,count,uniques,repository
 /cristianpb/muse/issues/40,/issues/40,1,1,muse
 /cristianpb/muse/pulls,/pulls,1,1,muse
 /cristianpb/ngTwitterApp,Overview,1,1,ngTwitterApp
+/cristianpb/object-detection,Overview,2,2,object-detection
 /cristianpb/object-detection/blob/master/README.md,/blob/master/README.md,2,2,object-detection
 /cristianpb/object-detection/blob/master/runtime.txt,/blob/master/runtime.txt,2,2,object-detection
-/cristianpb/object-detection,Overview,1,1,object-detection
 /cristianpb/object-detection/blob/master/.gitignore,/blob/master/.gitignore,1,1,object-detection
 /cristianpb/object-detection/blob/master/config.yml.sample,/blob/master/config.yml.sample,1,1,object-detection
 /cristianpb/object-detection/blob/master/docker-compose.yml,/blob/master/docker-compose.yml,1,1,object-detection
