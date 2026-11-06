@@ -4,5 +4,5 @@ mopidy.com,3,3,muse
 aocr.org,2,2,muse
 DuckDuckGo,1,1,muse
 tokata.daemon.srv,1,1,muse
-aocr.org,3,3,telegraf-influxdb-grafana-docker
+aocr.org,8,8,telegraf-influxdb-grafana-docker
 Google,1,1,telegraf-influxdb-grafana-docker

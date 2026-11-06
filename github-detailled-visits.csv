@@ -1,7 +1,8 @@
 path,title,count,uniques,repository
 /cristianpb/alchemy-machine,Overview,1,1,alchemy-machine
-/cristianpb/analytics-google,Overview,12,4,analytics-google
+/cristianpb/analytics-google,Overview,14,4,analytics-google
 /cristianpb/analytics-google/blob/master/.eslintrc.cjs,/blob/master/.eslintrc.cjs,1,1,analytics-google
+/cristianpb/analytics-google/blob/master/README.md,/blob/master/README.md,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/postcss.config.cjs,/blob/master/postcss.config.cjs,1,1,analytics-google
 /cristianpb/aws-lambda-cv,Overview,2,2,aws-lambda-cv
 /cristianpb/dotfiles,Overview,1,1,dotfiles
@@ -36,6 +37,9 @@ path,title,count,uniques,repository
 /cristianpb/rhasspy-handler/issues/4,/issues/4,1,1,rhasspy-handler
 /cristianpb/SubMusic/blob/master/README.md,/blob/master/README.md,1,1,SubMusic
 /cristianpb/SubMusic/blob/master/changelog.md,/blob/master/changelog.md,1,1,SubMusic
-/cristianpb/telegraf-influxdb-grafana-docker,Overview,4,4,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker,Overview,5,5,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/activity,/activity,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,/blob/master/docker-compose.yml,1,1,telegraf-influxdb-grafana-docker
-/cristianpb/temp-sigfox/tree/master/mkr-fox-1200,/tree/master/mkr-fox-1200,1,1,temp-sigfox
+/cristianpb/telegraf-influxdb-grafana-docker/commit/0b7eb2c1e8cc8d5895cb1259bebcf130db393f29,/commit/0b7eb2c1e8cc8d5895cb1259bebcf130db393f29,1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/commit/70bcb8568b51d8b7e894fb29a83aa447cba75f4d,/commit/70bcb8568b51d8b7e894fb29a83aa447cba75f4d,1,1,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/commit/fedcc03046639d2a48e8cdec2d73389897f82a90,/commit/fedcc03046639d2a48e8cdec2d73389897f82a90,1,1,telegraf-influxdb-grafana-docker
