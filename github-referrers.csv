@@ -1,8 +1,9 @@
 referrer,count,uniques,repository
 aocr.org,2,2,aws-lambda-cv
-mopidy.com,3,3,muse
 aocr.org,2,2,muse
+mopidy.com,2,2,muse
 DuckDuckGo,1,1,muse
 tokata.daemon.srv,1,1,muse
 aocr.org,8,8,telegraf-influxdb-grafana-docker
 Google,1,1,telegraf-influxdb-grafana-docker
+aocr.org,1,1,temp-sigfox
