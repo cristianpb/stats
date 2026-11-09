@@ -1,6 +1,6 @@
 path,title,count,uniques,repository
 /cristianpb/alchemy-machine,Overview,1,1,alchemy-machine
-/cristianpb/analytics-google,Overview,15,4,analytics-google
+/cristianpb/analytics-google,Overview,14,3,analytics-google
 /cristianpb/analytics-google/blob/master/.eslintrc.cjs,/blob/master/.eslintrc.cjs,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/README.md,/blob/master/README.md,1,1,analytics-google
 /cristianpb/aws-lambda-cv,Overview,2,2,aws-lambda-cv
@@ -11,7 +11,6 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/tree/master/compton,/tree/master/compton,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/cower/.config/cower,/tree/master/cower/.config/cower,1,1,dotfiles
 /cristianpb/dotfiles/tree/master/termite/.config/termite,/tree/master/termite/.config/termite,1,1,dotfiles
-/cristianpb/hubot-ratp,Overview,1,1,hubot-ratp
 /cristianpb/infolettre-lab-ia/blob/gh-pages/en/sitemap.xml,/blob/gh-pages/en/sitemap.xml,1,1,infolettre-lab-ia
 /cristianpb/infolettre-lab-ia/blob/master/docs/sitemap.xml,/blob/master/docs/sitemap.xml,1,1,infolettre-lab-ia
 /cristianpb/matchid-backend/blob/dev/README.md,/blob/dev/README.md,1,1,matchid-backend
@@ -20,17 +19,15 @@ path,title,count,uniques,repository
 /cristianpb/muse/issues/15,/issues/15,3,3,muse
 /cristianpb/muse/issues,/issues,2,2,muse
 /cristianpb/muse/issues/40,/issues/40,1,1,muse
-/cristianpb/muse/pulls,/pulls,1,1,muse
 /cristianpb/ngTwitterApp,Overview,1,1,ngTwitterApp
-/cristianpb/object-detection/blob/master/README.md,/blob/master/README.md,3,3,object-detection
 /cristianpb/object-detection,Overview,2,2,object-detection
 /cristianpb/object-detection/blob/master/runtime.txt,/blob/master/runtime.txt,2,2,object-detection
 /cristianpb/object-detection/blob/master/.gitignore,/blob/master/.gitignore,1,1,object-detection
 /cristianpb/object-detection/blob/master/Procfile,/blob/master/Procfile,1,1,object-detection
+/cristianpb/object-detection/blob/master/README.md,/blob/master/README.md,1,1,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,/blob/master/backend/ssd_detection.py,1,1,object-detection
 /cristianpb/object-detection/blob/master/config.yml.sample,/blob/master/config.yml.sample,1,1,object-detection
 /cristianpb/object-detection/blob/master/docker-compose.yml,/blob/master/docker-compose.yml,1,1,object-detection
-/cristianpb/object-detection/blob/master/requirements.txt,/blob/master/requirements.txt,1,1,object-detection
 /cristianpb/object-detection/pulls,/pulls,1,1,object-detection
 /cristianpb/object-detection-frontend/activity,/activity,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/blob/master/.gitignore,/blob/master/.gitignore,1,1,object-detection-frontend
