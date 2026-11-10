@@ -6,5 +6,5 @@ DuckDuckGo,1,1,muse
 tokata.daemon.srv,1,1,muse
 cristianpb.github.io,1,1,object-detection
 aocr.org,8,8,telegraf-influxdb-grafana-docker
-Google,1,1,telegraf-influxdb-grafana-docker
+Google,3,2,telegraf-influxdb-grafana-docker
 aocr.org,1,1,temp-sigfox
