@@ -10,7 +10,6 @@ path,title,count,uniques,repository
 /cristianpb/dotfiles/blob/master/README.md,/blob/master/README.md,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/tmux/.tmux.theme,/blob/master/tmux/.tmux.theme,1,1,dotfiles
 /cristianpb/infolettre-lab-ia/blob/gh-pages/en/sitemap.xml,/blob/gh-pages/en/sitemap.xml,1,1,infolettre-lab-ia
-/cristianpb/infolettre-lab-ia/blob/master/docs/sitemap.xml,/blob/master/docs/sitemap.xml,1,1,infolettre-lab-ia
 /cristianpb/matchid-backend/blob/dev/README.md,/blob/dev/README.md,1,1,matchid-backend
 /cristianpb/muse,Overview,5,5,muse
 /cristianpb/muse/blob/master/README.md,/blob/master/README.md,4,4,muse
@@ -30,8 +29,8 @@ path,title,count,uniques,repository
 /cristianpb/object-detection-frontend/blob/master/.gitignore,/blob/master/.gitignore,1,1,object-detection-frontend
 /cristianpb/SubMusic/blob/master/README.md,/blob/master/README.md,1,1,SubMusic
 /cristianpb/telegraf-influxdb-grafana-docker,Overview,5,5,telegraf-influxdb-grafana-docker
-/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,/blob/master/docker-compose.yml,3,2,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/blob/master/README.md,/blob/master/README.md,2,2,telegraf-influxdb-grafana-docker
+/cristianpb/telegraf-influxdb-grafana-docker/blob/master/docker-compose.yml,/blob/master/docker-compose.yml,2,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/activity,/activity,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/commit/0b7eb2c1e8cc8d5895cb1259bebcf130db393f29,/commit/0b7eb2c1e8cc8d5895cb1259bebcf130db393f29,1,1,telegraf-influxdb-grafana-docker
 /cristianpb/telegraf-influxdb-grafana-docker/commit/70bcb8568b51d8b7e894fb29a83aa447cba75f4d,/commit/70bcb8568b51d8b7e894fb29a83aa447cba75f4d,1,1,telegraf-influxdb-grafana-docker
