@@ -1,13 +1,10 @@
 referrer,count,uniques,repository
-aocr.org,1,1,aws-lambda-cv
 discourse.gohugo.io,1,1,dotfiles
-aocr.org,2,2,muse
 DuckDuckGo,1,1,muse
 Google,1,1,muse
-mopidy.com,1,1,muse
 tokata.daemon.srv,1,1,muse
 cristianpb.github.io,2,2,object-detection
 github.com,1,1,object-detection
-aocr.org,8,8,telegraf-influxdb-grafana-docker
+aocr.org,6,6,telegraf-influxdb-grafana-docker
 Google,2,1,telegraf-influxdb-grafana-docker
 aocr.org,1,1,temp-sigfox
