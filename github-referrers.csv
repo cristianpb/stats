@@ -1,9 +1,10 @@
 referrer,count,uniques,repository
 discourse.gohugo.io,1,1,dotfiles
-DuckDuckGo,1,1,muse
 Google,1,1,muse
+mopidy.com,1,1,muse
 cristianpb.github.io,3,2,object-detection
 github.com,1,1,object-detection
+github.com,5,2,reachy_mini_homeassistant
 aocr.org,5,5,telegraf-influxdb-grafana-docker
 Google,2,1,telegraf-influxdb-grafana-docker
 aocr.org,1,1,temp-sigfox
