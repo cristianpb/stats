@@ -1,6 +1,6 @@
 path,title,count,uniques,repository
 /cristianpb/alchemy-machine,Overview,1,1,alchemy-machine
-/cristianpb/analytics-google,Overview,38,6,analytics-google
+/cristianpb/analytics-google,Overview,38,7,analytics-google
 /cristianpb/analytics-google/commit/e4d12fdd9c7a5ae0b9f2632a5d7c5882437a10ef,/commit/e4d12fdd9c7a5ae0b9f2632a5d7c5882437a10ef,2,1,analytics-google
 /cristianpb/analytics-google/blob/master/.npmrc,/blob/master/.npmrc,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/Makefile,/blob/master/Makefile,1,1,analytics-google
@@ -8,11 +8,13 @@ path,title,count,uniques,repository
 /cristianpb/analytics-google/commit/c14a0e2c1a9fa4c08829c7b5c64fceef6491f66f,/commit/c14a0e2c1a9fa4c08829c7b5c64fceef6491f66f,1,1,analytics-google
 /cristianpb/aws-lambda-cv,Overview,4,4,aws-lambda-cv
 /cristianpb/cristianpb/blob/main/README.md,/blob/main/README.md,1,1,cristianpb
+/cristianpb/cristianpb.github.io,Overview,1,1,cristianpb.github.io
 /cristianpb/dotfiles,Overview,2,2,dotfiles
 /cristianpb/dotfiles/blob/master/README.md,/blob/master/README.md,1,1,dotfiles
 /cristianpb/dotfiles/blob/master/tmux/.tmux.theme,/blob/master/tmux/.tmux.theme,1,1,dotfiles
 /cristianpb/dotfiles/releases,/releases,1,1,dotfiles
-/cristianpb/infolettre-lab-ia/blob/gh-pages/sitemap.xml,/blob/gh-pages/sitemap.xml,1,1,infolettre-lab-ia
+/cristianpb/infolettre-lab-ia/blob/gh-pages/sitemap.xml,/blob/gh-pages/sitemap.xml,2,2,infolettre-lab-ia
+/cristianpb/infolettre-lab-ia/blob/gh-pages/en/sitemap.xml,/blob/gh-pages/en/sitemap.xml,1,1,infolettre-lab-ia
 /cristianpb/logs-analysis,Overview,1,1,logs-analysis
 /cristianpb/matchid-backend/blob/dev/README.md,/blob/dev/README.md,1,1,matchid-backend
 /cristianpb/muse,Overview,4,4,muse
@@ -25,7 +27,6 @@ path,title,count,uniques,repository
 /cristianpb/muse/pulls,/pulls,1,1,muse
 /cristianpb/object-detection,Overview,4,4,object-detection
 /cristianpb/object-detection/tree/master/imgs,/tree/master/imgs,3,1,object-detection
-/cristianpb/object-detection/blob/master/backend/ssd_detection.py,/blob/master/backend/ssd_detection.py,2,2,object-detection
 /cristianpb/object-detection/blob/master/runtime.txt,/blob/master/runtime.txt,2,2,object-detection
 /cristianpb/object-detection/commits/master/runtime.txt,/commits/master/runtime.txt,2,2,object-detection
 /cristianpb/object-detection/blob/master/backend/cascade.py,/blob/master/backend/cascade.py,2,1,object-detection
@@ -33,7 +34,9 @@ path,title,count,uniques,repository
 /cristianpb/object-detection/tree/master/backend,/tree/master/backend,2,1,object-detection
 /cristianpb/object-detection/blob/master/README.md,/blob/master/README.md,1,1,object-detection
 /cristianpb/object-detection/blob/master/backend/base_camera.py,/blob/master/backend/base_camera.py,1,1,object-detection
+/cristianpb/object-detection/blob/master/backend/camera.py,/blob/master/backend/camera.py,1,1,object-detection
 /cristianpb/object-detection-frontend/actions,/actions,1,1,object-detection-frontend
+/cristianpb/priceminister/blob/master/notebooks/02-Train.ipynb,/blob/master/notebooks/02-Train.ipynb,1,1,priceminister
 /cristianpb/reachy_mini_homeassistant,Overview,2,1,reachy_mini_homeassistant
 /cristianpb/reachy_mini_homeassistant/branches,/branches,2,1,reachy_mini_homeassistant
 /cristianpb/reachy_mini_homeassistant/pulls,/pulls,1,1,reachy_mini_homeassistant
