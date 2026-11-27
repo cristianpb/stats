@@ -1,5 +1,4 @@
 path,title,count,uniques,repository
-/cristianpb/alchemy-machine,Overview,1,1,alchemy-machine
 /cristianpb/analytics-google,Overview,32,7,analytics-google
 /cristianpb/analytics-google/blob/master/.npmrc,/blob/master/.npmrc,1,1,analytics-google
 /cristianpb/analytics-google/blob/master/Makefile,/blob/master/Makefile,1,1,analytics-google
@@ -34,14 +33,15 @@ path,title,count,uniques,repository
 /cristianpb/muse/commits/master/README.md,/commits/master/README.md,1,1,muse
 /cristianpb/muse/community,/community,1,1,muse
 /cristianpb/muse/issues/16,/issues/16,1,1,muse
+/cristianpb/object-detection,Overview,2,2,object-detection
 /cristianpb/object-detection/blob/master/runtime.txt,/blob/master/runtime.txt,2,2,object-detection
 /cristianpb/object-detection/commits/master/runtime.txt,/commits/master/runtime.txt,2,2,object-detection
 /cristianpb/object-detection/pulls,/pulls,2,2,object-detection
-/cristianpb/object-detection,Overview,1,1,object-detection
 /cristianpb/object-detection/blob/master/backend/cascade.py,/blob/master/backend/cascade.py,1,1,object-detection
 /cristianpb/object-detection/blob/master/backend/ssd_detection.py,/blob/master/backend/ssd_detection.py,1,1,object-detection
 /cristianpb/object-detection/blob/master/docker-compose-dev.yml,/blob/master/docker-compose-dev.yml,1,1,object-detection
 /cristianpb/object-detection/blob/master/requirements.txt,/blob/master/requirements.txt,1,1,object-detection
+/cristianpb/object-detection/issues,/issues,1,1,object-detection
 /cristianpb/object-detection-frontend,Overview,1,1,object-detection-frontend
 /cristianpb/object-detection-frontend/actions,/actions,1,1,object-detection-frontend
 /cristianpb/playlists,Overview,2,2,playlists
